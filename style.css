@@ -118,6 +118,17 @@ body {
   color: var(--blue);
   font-weight: 600;
 }
+.ai-tag {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  background: #10b981;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  vertical-align: 1px;
+}
 .news-summary {
   margin: 6px 0 0;
   font-size: 13px;

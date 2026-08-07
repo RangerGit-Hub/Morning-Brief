@@ -1,75 +1,128 @@
 {
   "date": "2026-08-07",
-  "updated_at": "2026-08-07 09:35",
+  "updated_at": "2026-08-07 13:55",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！每个清晨都是新的机会，愿你把握今天，不负自己。",
-    "language": "中文",
-    "words": 26
+    "text": "Good morning! May your day be as bright and full of promise as the sunrise. Have a wonderful day!",
+    "language": "English",
+    "words": 19
   },
-  "news": [
-    {
-      "rank": 1,
-      "title": "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/7/brazil-formally-accuses-16-people-over-2024-voepass-deadly-plane-crash?traffic_source=rss",
-      "published": "2026-08-07 09:17",
-      "summary": "Official says plane was irregularly cleared for departure before crash that killed 62 people outside Sao Paulo."
-    },
-    {
-      "rank": 2,
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-07 09:03",
-      "summary": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production."
-    },
-    {
-      "rank": 3,
-      "title": "Police in Argentina use tear gas to stop protesters",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/police-in-argentina-use-tear-gas-to-stop-protesters?traffic_source=rss",
-      "published": "2026-08-07 09:02",
-      "summary": "Al Jazeera’s Teresa Bo reports from Buenos Aires, where police fired tear gas as thousands protested."
-    },
-    {
-      "rank": 4,
-      "title": "Capybaras Were the Newest Lobbyists in This Brazilian Legislature",
-      "source": "NYT",
-      "link": "https://www.nytimes.com/2026/08/06/world/americas/capybara-brazil-legislature.html",
-      "published": "2026-08-07 08:54",
-      "summary": "In Mato Grosso, Brazil, capybaras wandered into the building, but they were polite during the incursion."
-    },
-    {
-      "rank": 5,
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-07 08:54",
-      "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has h"
-    }
-  ],
-  "news_relaxed": false,
+  "news": {
+    "domestic": [
+      {
+        "rank": 1,
+        "title": "“十五五”开局之年传统产业转型焕新一线观察",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/07/ARTIjmMx8l2wF9ASyuDHoUY9260807.shtml",
+        "published": "2026-08-07 10:46",
+        "summary": "我国传统产业在制造业中占比超过80%，是现代化产业体系的基底。 习近平总书记高度重视传统产业高质量发展，强调“实体经济不能丢，实体经济里边的传统产业不能丢，要通过科技创新实现转型升级”“通过传统产业改造升级，也能发展新质生产力”。 “十五五",
+        "ai": false
+      },
+      {
+        "rank": 2,
+        "title": "中印边境事务磋商和协调工作机制第36次会议举行",
+        "source": "环球网-国际",
+        "link": "https://world.huanqiu.com/article/4ShGERSG6v2",
+        "published": "2026-08-07 13:23",
+        "summary": "2026年8月6日，外交部边界与海洋事务司司长侯艳琪同印度外交部东亚司联秘高士在印度新德里共同主持中印边境事务磋商和协调工作机制第36次会议，两国外交、国防、内政、移民等部门代表参加。 双方本着坦诚、友好态度开展建设性对话，就进一步落实中印",
+        "ai": false
+      },
+      {
+        "rank": 3,
+        "title": "科技创新成果走出实验室扎根民生场景 “数字哨兵”守护保障城市安全治理",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/07/ARTIuN94zNvAniMCppB4T4Ex260807.shtml",
+        "published": "2026-08-07 11:33",
+        "summary": "[!--begin:htmlVideoCode--]41919723074c41229c1c6e46d0fef8b3,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 在安徽，科技创新成果走",
+        "ai": false
+      },
+      {
+        "rank": 4,
+        "title": "财政金融“组合拳”协同激发民间投资活力 实现“1+1＞2”政策效果",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/07/ARTIkZqeuwbomu2UIQftpQyj260807.shtml",
+        "published": "2026-08-07 11:33",
+        "summary": "[!--begin:htmlVideoCode--]c990af0d58414f83ba8bfe9f1445e9a2,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 2026年中央财政安排",
+        "ai": false
+      },
+      {
+        "rank": 5,
+        "title": "AI“全能助手”为华强北创客打开便利之门 “一米柜台”从交易空间升级为创新体验空间",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/07/ARTIwXLmarc3JUfxO1bXKP9g260807.shtml",
+        "published": "2026-08-07 11:32",
+        "summary": "[!--begin:htmlVideoCode--]6545d0a86d62495a97a531f7a61b110b,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 在AI产业的带动下，不",
+        "ai": false
+      }
+    ],
+    "international": [
+      {
+        "rank": 1,
+        "title": "One of science fiction’s greatest writers warned us about a AI. Does he also hold the remedy? | Alan Finkel",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/technology/commentisfree/2026/aug/07/science-fiction-warned-us-about-an-ai-powered-dystopian-future-does-it-also-hold-the-remedy",
+        "published": "2026-08-07 12:00",
+        "summary": "What might a modern day equivalent of Isaac Asimov’s laws of robotics look like? Guided by the author, I propose the thr",
+        "ai": true
+      },
+      {
+        "rank": 2,
+        "title": "Can the government really get ahead of the curve on AI? - podcast",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/australia-news/audio/2026/aug/07/can-the-government-really-get-ahead-of-the-curve-on-ai-australian-politics-podcast",
+        "published": "2026-08-07 11:12",
+        "summary": "On Wednesday, the Labor government announced environmental and energy safeguards on new datacentres in Australia. Our po",
+        "ai": true
+      },
+      {
+        "rank": 3,
+        "title": "Why was Taiwan’s president evacuated in the middle of the night?",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-07 12:52",
+        "summary": "President William Lai took part in an emergency evacuation drill as part of Taiwan military exercises preparing for a po",
+        "ai": false
+      },
+      {
+        "rank": 4,
+        "title": "Trump imposes 15% tariff on key chip material to counter China",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-07 09:03",
+        "summary": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
+        "ai": false
+      },
+      {
+        "rank": 5,
+        "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-07 06:41",
+        "summary": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Ha",
+        "ai": false
+      }
+    ]
+  },
   "weather": [
     {
       "city": "南京",
-      "current": 32,
+      "current": 34,
       "min": 28,
       "max": 34,
-      "condition": "雷阵雨",
-      "icon": "⛈️"
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "武汉",
-      "current": 31,
+      "current": 36,
       "min": 28,
       "max": 36,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "南宁",
-      "current": 29,
+      "current": 33,
       "min": 25,
       "max": 34,
       "condition": "毛毛雨",

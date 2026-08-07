@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-07",
+  "updated_at": "2026-08-07 09:35",
+  "timezone": "Asia/Shanghai（北京时间）",
+  "greeting": {
+    "text": "早安！每个清晨都是新的机会，愿你把握今天，不负自己。",
+    "language": "中文",
+    "words": 26
+  },
+  "news": [
+    {
+      "rank": 1,
+      "title": "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/7/brazil-formally-accuses-16-people-over-2024-voepass-deadly-plane-crash?traffic_source=rss",
+      "published": "2026-08-07 09:17",
+      "summary": "Official says plane was irregularly cleared for departure before crash that killed 62 people outside Sao Paulo."
+    },
+    {
+      "rank": 2,
+      "title": "Trump imposes 15% tariff on key chip material to counter China",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-07 09:03",
+      "summary": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production."
+    },
+    {
+      "rank": 3,
+      "title": "Police in Argentina use tear gas to stop protesters",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/police-in-argentina-use-tear-gas-to-stop-protesters?traffic_source=rss",
+      "published": "2026-08-07 09:02",
+      "summary": "Al Jazeera’s Teresa Bo reports from Buenos Aires, where police fired tear gas as thousands protested."
+    },
+    {
+      "rank": 4,
+      "title": "Capybaras Were the Newest Lobbyists in This Brazilian Legislature",
+      "source": "NYT",
+      "link": "https://www.nytimes.com/2026/08/06/world/americas/capybara-brazil-legislature.html",
+      "published": "2026-08-07 08:54",
+      "summary": "In Mato Grosso, Brazil, capybaras wandered into the building, but they were polite during the incursion."
+    },
+    {
+      "rank": 5,
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-07 08:54",
+      "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has h"
+    }
+  ],
+  "news_relaxed": false,
+  "weather": [
+    {
+      "city": "南京",
+      "current": 32,
+      "min": 28,
+      "max": 34,
+      "condition": "雷阵雨",
+      "icon": "⛈️"
+    },
+    {
+      "city": "武汉",
+      "current": 31,
+      "min": 28,
+      "max": 36,
+      "condition": "阴",
+      "icon": "☁️"
+    },
+    {
+      "city": "南宁",
+      "current": 29,
+      "min": 25,
+      "max": 34,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
+    }
+  ]
+}

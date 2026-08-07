@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>每日晨报</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☀️</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <p class="hero-badge">☀️ 每日晨报</p>
+      <h1>早上好，新的一天</h1>
+      <p class="hero-meta" id="meta">正在加载…</p>
+    </header>
+
+    <section class="card">
+      <div class="card-head">
+        <h2>早安问候</h2>
+        <span class="pill" id="greet-lang"></span>
+      </div>
+      <p class="greet-text" id="greet-text"></p>
+    </section>
+
+    <section class="card">
+      <div class="card-head">
+        <h2>全球要闻 · 过去 24 小时</h2>
+        <span class="pill pill-blue">TOP 5</span>
+      </div>
+      <ol class="news-list" id="news-list"></ol>
+    </section>
+
+    <section class="card">
+      <div class="card-head">
+        <h2>今日天气</h2>
+        <span class="pill pill-blue">南京 · 武汉 · 南宁</span>
+      </div>
+      <div class="weather-grid" id="weather-grid"></div>
+    </section>
+
+    <footer class="foot">
+      <p>新闻来源：BBC News · The Guardian · Al Jazeera · NPR · France 24 · NYT</p>
+      <p>天气数据：Open-Meteo ｜ 每天 08:00（北京时间）自动更新，也可访问 <code>/refresh</code> 手动刷新</p>
+    </footer>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

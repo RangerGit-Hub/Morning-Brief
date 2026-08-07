@@ -1,0 +1,165 @@
+:root {
+  --bg1: #fdf6ec;
+  --bg2: #eaf1fb;
+  --ink: #24334a;
+  --muted: #6b7a93;
+  --accent: #f2a33c;
+  --blue: #3b82f6;
+  --card: rgba(255, 255, 255, 0.88);
+  --line: #e8e3d9;
+  --shadow: 0 10px 30px rgba(60, 70, 100, 0.10);
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+
+body {
+  font-family: "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC",
+    system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: var(--ink);
+  background: linear-gradient(160deg, var(--bg1), var(--bg2)) fixed;
+  min-height: 100vh;
+}
+
+.page {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 44px 20px 56px;
+}
+
+.hero { text-align: center; margin-bottom: 28px; }
+.hero-badge {
+  display: inline-block;
+  margin: 0 0 12px;
+  padding: 5px 16px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.75);
+  color: var(--blue);
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+.hero h1 { font-size: 34px; margin: 0 0 8px; }
+.hero-meta { margin: 0; color: var(--muted); font-size: 14px; }
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 22px 24px;
+  margin-bottom: 18px;
+  box-shadow: var(--shadow);
+}
+
+.card-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+.card-head h2 { font-size: 17px; margin: 0; }
+.pill {
+  font-size: 12px;
+  color: #fff;
+  background: var(--accent);
+  padding: 3px 11px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.pill-blue { background: var(--blue); }
+
+.greet-text {
+  font-size: 21px;
+  line-height: 1.7;
+  margin: 6px 0 0;
+}
+
+.news-list { list-style: none; margin: 0; padding: 0; }
+.news-item {
+  display: flex;
+  gap: 14px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+.news-item:last-child { border-bottom: none; }
+.news-item .rank {
+  flex: 0 0 auto;
+  width: 26px;
+  height: 26px;
+  margin-top: 2px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.news-body { min-width: 0; }
+.news-title {
+  color: var(--ink);
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  line-height: 1.55;
+}
+.news-title:hover { color: var(--blue); text-decoration: underline; }
+.news-meta {
+  margin: 4px 0 0;
+  font-size: 12px;
+  color: var(--muted);
+}
+.news-meta .src {
+  display: inline-block;
+  padding: 1px 8px;
+  border-radius: 999px;
+  background: rgba(59, 130, 246, 0.12);
+  color: var(--blue);
+  font-weight: 600;
+}
+.news-summary {
+  margin: 6px 0 0;
+  font-size: 13px;
+  color: var(--muted);
+  line-height: 1.6;
+}
+.empty { color: var(--muted); font-size: 14px; padding: 8px 0; }
+
+.weather-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 14px;
+}
+.weather-card {
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 16px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.65);
+}
+.weather-card h3 { margin: 0 0 6px; font-size: 16px; }
+.weather-card .w-icon { font-size: 34px; margin: 2px 0; }
+.weather-card .w-now { font-size: 28px; font-weight: 700; margin: 0; }
+.weather-card .w-cond { margin: 4px 0 0; font-size: 14px; color: var(--muted); }
+.weather-card .w-range { margin: 4px 0 0; font-size: 13px; color: var(--muted); }
+
+.foot {
+  text-align: center;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.8;
+  margin-top: 22px;
+}
+.foot code {
+  background: rgba(255, 255, 255, 0.7);
+  padding: 1px 6px;
+  border-radius: 6px;
+}
+
+@media (max-width: 560px) {
+  .page { padding-top: 28px; }
+  .hero h1 { font-size: 26px; }
+  .greet-text { font-size: 18px; }
+  .card { padding: 18px 16px; }
+}

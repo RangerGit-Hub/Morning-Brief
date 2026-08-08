@@ -35,7 +35,9 @@ except Exception:
     TZ = timezone(timedelta(hours=8))
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_PATH = os.path.join(BASE_DIR, "site", "data.json")
+# 本地运行时网页文件在 site/ 里；GitHub 部署时仓库根目录直接放网页文件，则写到根目录
+SITE_DIR = os.path.join(BASE_DIR, "site") if os.path.isdir(os.path.join(BASE_DIR, "site")) else BASE_DIR
+DATA_PATH = os.path.join(SITE_DIR, "data.json")
 HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; MorningBrief/1.0)"}
 
 # ---------------- 早安问候语池（中文/英文/法语，均不超过 30 词） ----------------

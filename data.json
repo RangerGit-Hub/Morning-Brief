@@ -1,129 +1,129 @@
 {
-  "date": "2026-08-07",
-  "updated_at": "2026-08-07 13:55",
+  "date": "2026-08-08",
+  "updated_at": "2026-08-08 08:34",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! May your day be as bright and full of promise as the sunrise. Have a wonderful day!",
+    "text": "Good morning! May your coffee be strong and your day be wonderful!",
     "language": "English",
-    "words": 19
+    "words": 12
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "“十五五”开局之年传统产业转型焕新一线观察",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/07/ARTIjmMx8l2wF9ASyuDHoUY9260807.shtml",
-        "published": "2026-08-07 10:46",
-        "summary": "我国传统产业在制造业中占比超过80%，是现代化产业体系的基底。 习近平总书记高度重视传统产业高质量发展，强调“实体经济不能丢，实体经济里边的传统产业不能丢，要通过科技创新实现转型升级”“通过传统产业改造升级，也能发展新质生产力”。 “十五五",
+        "title": "利润大涨超100%！这一行业，黄金窗口期来了",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4ShskK32XtP",
+        "published": "2026-08-08 07:21",
+        "summary": "满产+翻倍+出海 铝业迎来黄金窗口期 内外市场双向发力 我国铝产业竞争力快速提升 作为应用场景极广的基础有色金属，铝材贯穿食品包装、新能源汽车、电力设施、高端装备等诸多领域。2026年上半年，多家上市铝企业绩实现翻倍增长，行业产能、销量、利",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "中印边境事务磋商和协调工作机制第36次会议举行",
-        "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4ShGERSG6v2",
-        "published": "2026-08-07 13:23",
-        "summary": "2026年8月6日，外交部边界与海洋事务司司长侯艳琪同印度外交部东亚司联秘高士在印度新德里共同主持中印边境事务磋商和协调工作机制第36次会议，两国外交、国防、内政、移民等部门代表参加。 双方本着坦诚、友好态度开展建设性对话，就进一步落实中印",
+        "title": "欧亚经济联盟政府间理事会会议举行 聚焦电子商务等议题",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-08/10674022.shtml",
+        "published": "2026-08-08 05:48",
+        "summary": "中新社阿斯塔纳8月7日电 乔尔蓬阿塔消息：欧亚经济联盟政府间理事会会议6日至7日在吉尔吉斯斯坦乔尔蓬阿塔举行。会议围绕进一步推进欧亚经济一体化，讨论了电子商务、石油及其制品统一市场建设、铁路货运数字化和食品供应保障等议题。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "科技创新成果走出实验室扎根民生场景 “数字哨兵”守护保障城市安全治理",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/07/ARTIuN94zNvAniMCppB4T4Ex260807.shtml",
-        "published": "2026-08-07 11:33",
-        "summary": "[!--begin:htmlVideoCode--]41919723074c41229c1c6e46d0fef8b3,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 在安徽，科技创新成果走",
+        "title": "“期待从中国的发展实践中汲取经验和智慧”——访南非电力和能源部部长拉莫豪帕",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-07/10674011.shtml",
+        "published": "2026-08-07 23:23",
+        "summary": "人民网北京8月6日电 (陈芯仪、崔译戈)8月3日至4日，南非—中国电力和能源投资大会在北京举行。会议围绕输变电、可再生能源、电池储能、燃气、核能、绿氢和产业本地化等领域的投资机遇展开交流，旨在推动双方合作从贸易往来和单项交易迈向长期投资、技",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "财政金融“组合拳”协同激发民间投资活力 实现“1+1＞2”政策效果",
+        "title": "纳米制造，探索微观世界的无限可能（经济新方位·制造业新趋势）",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/07/ARTIkZqeuwbomu2UIQftpQyj260807.shtml",
-        "published": "2026-08-07 11:33",
-        "summary": "[!--begin:htmlVideoCode--]c990af0d58414f83ba8bfe9f1445e9a2,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 2026年中央财政安排",
+        "link": "https://news.cctv.com/2026/08/07/ARTI2fjrgTOrMzdswSAZAI7X260807.shtml",
+        "published": "2026-08-07 19:58",
+        "summary": "习近平总书记强调，制造业高质量发展是我国经济高质量发展的重中之重。 衣服透气不闷汗、个性化定制汽车交付快、人形机器人型号多，商品性能更好、生产效率更高、创新活力更足……近年来，这些生产生活中的变化，折射出纳米制造、柔性制造、共享制造等新趋势",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "AI“全能助手”为华强北创客打开便利之门 “一米柜台”从交易空间升级为创新体验空间",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/07/ARTIwXLmarc3JUfxO1bXKP9g260807.shtml",
-        "published": "2026-08-07 11:32",
-        "summary": "[!--begin:htmlVideoCode--]6545d0a86d62495a97a531f7a61b110b,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 在AI产业的带动下，不",
+        "title": "国防部：向为国铸盾的国防科技工作者致敬",
+        "source": "环球网-军事",
+        "link": "https://mil.huanqiu.com/article/4ShK1O09i8C",
+        "published": "2026-08-07 15:09",
+        "summary": "8月7日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。 记者： 据报道，国防科技大学计算机学院王戟研究员被中央宣传部授予“时代楷模”称号，受到全民广泛关注、全网热议点赞。请介绍有关情况。 陈曦： 王戟研究员是我国高可信软件领域主要开",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "One of science fiction’s greatest writers warned us about a AI. Does he also hold the remedy? | Alan Finkel",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/technology/commentisfree/2026/aug/07/science-fiction-warned-us-about-an-ai-powered-dystopian-future-does-it-also-hold-the-remedy",
-        "published": "2026-08-07 12:00",
-        "summary": "What might a modern day equivalent of Isaac Asimov’s laws of robotics look like? Guided by the author, I propose the thr",
+        "title": "Chinese AI escapes safety sandbox – researchers",
+        "source": "RT",
+        "link": "https://www.rt.com/news/644001-chinese-ai-cybersecurity-incident/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-08-08 05:03",
+        "summary": "Chinese AI startup Moonshot’s flagship Kimi K3 model has bypassed restrictions in a UK AI safety test, researchers say R",
         "ai": true
       },
       {
         "rank": 2,
+        "title": "Cambricon posts 108% surge in first-half revenue amid China’s massive AI chip drive",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/big-tech/article/3363351/cambricon-posts-108-surge-first-half-revenue-amid-chinas-massive-ai-chip-drive?utm_source=rss_feed",
+        "published": "2026-08-07 20:54",
+        "summary": "Chinese artificial intelligence (AI) chip giant Cambricon Technologies reported a 108 per cent surge in first-half reven",
+        "ai": true
+      },
+      {
+        "rank": 3,
+        "title": "US unexpectedly loses jobs in July, in blow to Trump’s economy claims",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3363356/us-unexpectedly-loses-jobs-july-blow-trumps-economy-claims?utm_source=rss_feed",
+        "published": "2026-08-07 21:55",
+        "summary": "The US economy unexpectedly lost 23,000 jobs in July, government data showed, a blow to US President Donald Trump’s clai",
+        "ai": false
+      },
+      {
+        "rank": 4,
+        "title": "Chinese AI model Kimi K3 goes beyond cyber-testing bounds — Bloomberg",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2170211",
+        "published": "2026-08-07 20:36",
+        "summary": "The American firm Frontier Security confirmed that the AI model managed to breach the boundaries of the British AI Secur",
+        "ai": true
+      },
+      {
+        "rank": 5,
         "title": "Can the government really get ahead of the curve on AI? - podcast",
         "source": "The Guardian AI",
         "link": "https://www.theguardian.com/australia-news/audio/2026/aug/07/can-the-government-really-get-ahead-of-the-curve-on-ai-australian-politics-podcast",
         "published": "2026-08-07 11:12",
         "summary": "On Wednesday, the Labor government announced environmental and energy safeguards on new datacentres in Australia. Our po",
         "ai": true
-      },
-      {
-        "rank": 3,
-        "title": "Why was Taiwan’s president evacuated in the middle of the night?",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-07 12:52",
-        "summary": "President William Lai took part in an emergency evacuation drill as part of Taiwan military exercises preparing for a po",
-        "ai": false
-      },
-      {
-        "rank": 4,
-        "title": "Trump imposes 15% tariff on key chip material to counter China",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-07 09:03",
-        "summary": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
-        "ai": false
-      },
-      {
-        "rank": 5,
-        "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-07 06:41",
-        "summary": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Ha",
-        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 34,
-      "min": 28,
+      "current": 30,
+      "min": 27,
       "max": 34,
+      "condition": "雷阵雨伴冰雹",
+      "icon": "⛈️"
+    },
+    {
+      "city": "武汉",
+      "current": 31,
+      "min": 28,
+      "max": 36,
       "condition": "毛毛雨",
       "icon": "🌦️"
     },
     {
-      "city": "武汉",
-      "current": 36,
-      "min": 28,
-      "max": 36,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
-    },
-    {
       "city": "南宁",
-      "current": 33,
-      "min": 25,
+      "current": 29,
+      "min": 26,
       "max": 34,
       "condition": "毛毛雨",
       "icon": "🌦️"

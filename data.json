@@ -1,11 +1,11 @@
 {
   "date": "2026-08-09",
-  "updated_at": "2026-08-09 10:58",
+  "updated_at": "2026-08-09 12:43",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！生活明朗，万物可爱，愿你今天也被温柔以待。",
-    "language": "中文",
-    "words": 24
+    "text": "Bonjour ! Que cette journée commence bien et finisse encore mieux. Profitez-en !",
+    "language": "Français",
+    "words": 13
   },
   "news": {
     "domestic": [
@@ -20,38 +20,38 @@
       },
       {
         "rank": 2,
-        "title": "乌外交部：乌无意向保加利亚方向发射任何装备",
-        "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4SigkMwIEdQ",
-        "published": "2026-08-09 06:40",
-        "summary": "乌克兰外交部发言人季希8日表示，乌克兰方面正与保加利亚保持密切联系，以查明当天一架无人机在保加利亚坠落的具体情况。他强调， 乌军没有蓄意向保加利亚方向发射任何装备 。季希说，乌方正在核实事件的全部情况和相关技术事实，并愿与保加利亚方面开展合",
+        "title": "北京海淀发布“智谷中试港”规划 将建设AI全栈式中试平台集群",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-09/10674560.shtml",
+        "published": "2026-08-09 12:35",
+        "summary": "中新网北京8月9日电 (记者 陈杭)数智融合·链式跃迁——海淀区生产性服务业发展工作会8日在北京举办。会上发布海淀“智谷中试港”规划。“智谷中试港”选址于海淀“腰部”地带的西三旗，计划用3至5年，聚焦“人工智能+”赛道，持续提升中试空间品质",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "闪评 | “再军事化”的日本正走向和平的对立面",
-        "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4SipHTLzH2V",
-        "published": "2026-08-09 10:39",
-        "summary": "据日本共同社报道，2027财年， 日本防卫省拟向财务省申请约8.9万亿日元（约合3827亿元人民币‌）的防卫预算，再创历史新高。 由于其中包含大量未明确具体金额的申请项目，预计日本2027财年防卫预算的最终规模 或将达到10万亿日元（约合4",
+        "title": "浙江跨境电商迎“智”变 AI成全链条搭档",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-09/10674515.shtml",
+        "published": "2026-08-09 12:21",
+        "summary": "中新网杭州8月9日电(蓝伊旎)人工智能浪潮下，跨境电商迎来新一轮产业升级。在浙江，AI技术锻造出产品竞争新优势，也化身车间“调度管家”、海外营销“多面手”，成为企业出海新引擎。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "美媒爆“美副防长致信国防业界领袖，勒令其21天内提交增产计划”，五角大楼回应",
-        "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4Sip9pBF1II",
-        "published": "2026-08-09 10:36",
-        "summary": "【环球网报道 记者 闫珮云】据美国《华盛顿邮报》当地时间8日援引其获得的一份美国防部备忘录报道，在美国面临严重弹药短缺问题之际，五角大楼正要求美国国防企业迅速提高武器生产和交付能力，包括因与伊朗战事而极度短缺的弹药。 报道称，美国防部副部长",
+        "title": "中日华商对话海口：“在自贸港携手共拓跨境商机”",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/hr/2026/08-09/10674507.shtml",
+        "published": "2026-08-09 12:20",
+        "summary": "中新网海口8月9日电 (记者 王子谦)“海南自贸港封关运作后红利释放，同时清洁能源岛建设，也与我们从事的再生资源领域高度契合。”龙一商事株式会社代表取缔役尹晓峰8日告诉中新网记者，初次来到海南，他认为这里有良好的政策和产业基础。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "多个算力节点迎来新一轮扩容 全国算力“一盘棋”“一张网”正不断成型",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/09/ARTIuYg9GmXKUsD9qIX0lqir260809.shtml",
-        "published": "2026-08-09 09:17",
-        "summary": "[!--begin:htmlVideoCode--]da4b7ee575d04512a819faebd21eefcb,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者从国家发展改革委了",
+        "title": "中国人民大学：标识性概念三农学（Sannongology）首次在海外发布",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/33747913",
+        "published": "2026-08-09 12:03",
+        "summary": "据中国人民大学农业与农村发展学院官网消息，当地时间8月3日上午，中国人民大学党委常委、常务副校长朱信凯教授在爱尔兰都柏林大学参加第18届全欧中国经济学会暨第 37届全英中国经济学会年会，并做主旨报告“Sannongology: A Fram",
         "ai": false
       }
     ],
@@ -106,15 +106,15 @@
   "weather": [
     {
       "city": "南京",
-      "current": 29,
+      "current": 28,
       "min": 27,
       "max": 29,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "武汉",
-      "current": 32,
+      "current": 33,
       "min": 27,
       "max": 34,
       "condition": "晴",
@@ -122,7 +122,7 @@
     },
     {
       "city": "南宁",
-      "current": 32,
+      "current": 34,
       "min": 27,
       "max": 35,
       "condition": "毛毛雨",

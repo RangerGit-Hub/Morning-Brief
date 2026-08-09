@@ -1,130 +1,130 @@
 {
-  "date": "2026-08-08",
-  "updated_at": "2026-08-08 08:34",
+  "date": "2026-08-09",
+  "updated_at": "2026-08-09 10:58",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! May your coffee be strong and your day be wonderful!",
-    "language": "English",
-    "words": 12
+    "text": "早安！生活明朗，万物可爱，愿你今天也被温柔以待。",
+    "language": "中文",
+    "words": 24
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "利润大涨超100%！这一行业，黄金窗口期来了",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4ShskK32XtP",
-        "published": "2026-08-08 07:21",
-        "summary": "满产+翻倍+出海 铝业迎来黄金窗口期 内外市场双向发力 我国铝产业竞争力快速提升 作为应用场景极广的基础有色金属，铝材贯穿食品包装、新能源汽车、电力设施、高端装备等诸多领域。2026年上半年，多家上市铝企业绩实现翻倍增长，行业产能、销量、利",
+        "title": "古巴小渔村“亮”了起来（共创繁荣发展新时代）",
+        "source": "环球网-国际",
+        "link": "https://world.huanqiu.com/article/4SipKRPS0x5",
+        "published": "2026-08-09 10:40",
+        "summary": "8月7日，中国援古巴新一批家用太阳能设备项目首批物资交付仪式在古巴首都哈瓦那举行。此前中方于2025年11月援助古巴的5000套户用光伏发电设备已在当地霍尔金省等多个省份的偏远村镇，以及医疗诊所、孕产妇保健中心、地方广播电台等基层公共服务机",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "欧亚经济联盟政府间理事会会议举行 聚焦电子商务等议题",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-08/10674022.shtml",
-        "published": "2026-08-08 05:48",
-        "summary": "中新社阿斯塔纳8月7日电 乔尔蓬阿塔消息：欧亚经济联盟政府间理事会会议6日至7日在吉尔吉斯斯坦乔尔蓬阿塔举行。会议围绕进一步推进欧亚经济一体化，讨论了电子商务、石油及其制品统一市场建设、铁路货运数字化和食品供应保障等议题。",
+        "title": "乌外交部：乌无意向保加利亚方向发射任何装备",
+        "source": "环球网-国际",
+        "link": "https://world.huanqiu.com/article/4SigkMwIEdQ",
+        "published": "2026-08-09 06:40",
+        "summary": "乌克兰外交部发言人季希8日表示，乌克兰方面正与保加利亚保持密切联系，以查明当天一架无人机在保加利亚坠落的具体情况。他强调， 乌军没有蓄意向保加利亚方向发射任何装备 。季希说，乌方正在核实事件的全部情况和相关技术事实，并愿与保加利亚方面开展合",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "“期待从中国的发展实践中汲取经验和智慧”——访南非电力和能源部部长拉莫豪帕",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-07/10674011.shtml",
-        "published": "2026-08-07 23:23",
-        "summary": "人民网北京8月6日电 (陈芯仪、崔译戈)8月3日至4日，南非—中国电力和能源投资大会在北京举行。会议围绕输变电、可再生能源、电池储能、燃气、核能、绿氢和产业本地化等领域的投资机遇展开交流，旨在推动双方合作从贸易往来和单项交易迈向长期投资、技",
+        "title": "闪评 | “再军事化”的日本正走向和平的对立面",
+        "source": "环球网-国际",
+        "link": "https://world.huanqiu.com/article/4SipHTLzH2V",
+        "published": "2026-08-09 10:39",
+        "summary": "据日本共同社报道，2027财年， 日本防卫省拟向财务省申请约8.9万亿日元（约合3827亿元人民币‌）的防卫预算，再创历史新高。 由于其中包含大量未明确具体金额的申请项目，预计日本2027财年防卫预算的最终规模 或将达到10万亿日元（约合4",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "纳米制造，探索微观世界的无限可能（经济新方位·制造业新趋势）",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/07/ARTI2fjrgTOrMzdswSAZAI7X260807.shtml",
-        "published": "2026-08-07 19:58",
-        "summary": "习近平总书记强调，制造业高质量发展是我国经济高质量发展的重中之重。 衣服透气不闷汗、个性化定制汽车交付快、人形机器人型号多，商品性能更好、生产效率更高、创新活力更足……近年来，这些生产生活中的变化，折射出纳米制造、柔性制造、共享制造等新趋势",
+        "title": "美媒爆“美副防长致信国防业界领袖，勒令其21天内提交增产计划”，五角大楼回应",
+        "source": "环球网-国际",
+        "link": "https://world.huanqiu.com/article/4Sip9pBF1II",
+        "published": "2026-08-09 10:36",
+        "summary": "【环球网报道 记者 闫珮云】据美国《华盛顿邮报》当地时间8日援引其获得的一份美国防部备忘录报道，在美国面临严重弹药短缺问题之际，五角大楼正要求美国国防企业迅速提高武器生产和交付能力，包括因与伊朗战事而极度短缺的弹药。 报道称，美国防部副部长",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "国防部：向为国铸盾的国防科技工作者致敬",
-        "source": "环球网-军事",
-        "link": "https://mil.huanqiu.com/article/4ShK1O09i8C",
-        "published": "2026-08-07 15:09",
-        "summary": "8月7日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。 记者： 据报道，国防科技大学计算机学院王戟研究员被中央宣传部授予“时代楷模”称号，受到全民广泛关注、全网热议点赞。请介绍有关情况。 陈曦： 王戟研究员是我国高可信软件领域主要开",
+        "title": "多个算力节点迎来新一轮扩容 全国算力“一盘棋”“一张网”正不断成型",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/09/ARTIuYg9GmXKUsD9qIX0lqir260809.shtml",
+        "published": "2026-08-09 09:17",
+        "summary": "[!--begin:htmlVideoCode--]da4b7ee575d04512a819faebd21eefcb,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者从国家发展改革委了",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Chinese AI escapes safety sandbox – researchers",
-        "source": "RT",
-        "link": "https://www.rt.com/news/644001-chinese-ai-cybersecurity-incident/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-08-08 05:03",
-        "summary": "Chinese AI startup Moonshot’s flagship Kimi K3 model has bypassed restrictions in a UK AI safety test, researchers say R",
+        "title": "OpenAI to pause some work on AI model Astra due to security concerns",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+        "published": "2026-08-09 01:00",
+        "summary": "Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks Op",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Cambricon posts 108% surge in first-half revenue amid China’s massive AI chip drive",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/tech/big-tech/article/3363351/cambricon-posts-108-surge-first-half-revenue-amid-chinas-massive-ai-chip-drive?utm_source=rss_feed",
-        "published": "2026-08-07 20:54",
-        "summary": "Chinese artificial intelligence (AI) chip giant Cambricon Technologies reported a 108 per cent surge in first-half reven",
-        "ai": true
+        "title": "Vance says US ‘destroyed’ Iran’s nuclear programme",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
+        "published": "2026-08-09 07:27",
+        "summary": "US Vice President JD Vance claims Washington has “destroyed” Iran’s nuclear programme and degraded its military.",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "US unexpectedly loses jobs in July, in blow to Trump’s economy claims",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3363356/us-unexpectedly-loses-jobs-july-blow-trumps-economy-claims?utm_source=rss_feed",
-        "published": "2026-08-07 21:55",
-        "summary": "The US economy unexpectedly lost 23,000 jobs in July, government data showed, a blow to US President Donald Trump’s clai",
+        "title": "Mecca agreement includes NATO-style collective defense obligations — top Turkish diplomat",
+        "source": "TASS",
+        "link": "https://tass.com/world/2170557",
+        "published": "2026-08-09 04:46",
+        "summary": "Turkish Foreign Minister Hakan Fidan emphasized that \"technically, it's the same thing\"",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Chinese AI model Kimi K3 goes beyond cyber-testing bounds — Bloomberg",
+        "title": "Former Hungarian Supreme Court president accepts offer to become head of state",
         "source": "TASS",
-        "link": "https://tass.com/economy/2170211",
-        "published": "2026-08-07 20:36",
-        "summary": "The American firm Frontier Security confirmed that the AI model managed to breach the boundaries of the British AI Secur",
-        "ai": true
+        "link": "https://tass.com/world/2170551",
+        "published": "2026-08-09 04:04",
+        "summary": "The Tisza party and Prime Minister Peter Magyar pressured President Tamas Sulyok, who was appointed under former Prime M",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "Can the government really get ahead of the curve on AI? - podcast",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/australia-news/audio/2026/aug/07/can-the-government-really-get-ahead-of-the-curve-on-ai-australian-politics-podcast",
-        "published": "2026-08-07 11:12",
-        "summary": "On Wednesday, the Labor government announced environmental and energy safeguards on new datacentres in Australia. Our po",
-        "ai": true
+        "title": "Kosovo PM egged in parliament, as political crisis spirals",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/europe/article/3363413/kosovo-pm-egged-parliament-political-crisis-spirals?utm_source=rss_feed",
+        "published": "2026-08-09 01:09",
+        "summary": "Kosovo’s parliament had to be suspended on Saturday after an opposition lawmaker pelted caretaker Prime Minister Albin K",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 30,
+      "current": 29,
       "min": 27,
-      "max": 34,
-      "condition": "雷阵雨伴冰雹",
-      "icon": "⛈️"
+      "max": 29,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 31,
-      "min": 28,
-      "max": 36,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 32,
+      "min": 27,
+      "max": 34,
+      "condition": "晴",
+      "icon": "☀️"
     },
     {
       "city": "南宁",
-      "current": 29,
-      "min": 26,
-      "max": 34,
+      "current": 32,
+      "min": 27,
+      "max": 35,
       "condition": "毛毛雨",
       "icon": "🌦️"
     }

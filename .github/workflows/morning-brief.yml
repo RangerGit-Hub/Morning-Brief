@@ -4,10 +4,12 @@ on:
   push:
     branches: [main]
   schedule:
-    # 北京时间 07:30 / 08:00 / 08:30 三次尝试（GitHub 定时可能延迟，多时段保底）
+    # 北京时间 07:00~09:00 五个时段尝试（GitHub 定时可能延迟，多时段保底，当天只更新一次）
+    - cron: "0 23 * * *"
     - cron: "30 23 * * *"
     - cron: "0 0 * * *"
     - cron: "30 0 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 permissions:

@@ -1,104 +1,104 @@
 {
-  "date": "2026-08-09",
-  "updated_at": "2026-08-09 10:58",
+  "date": "2026-08-10",
+  "updated_at": "2026-08-10 08:53",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！生活明朗，万物可爱，愿你今天也被温柔以待。",
+    "text": "早安！新的一天，新的开始，愿你元气满满，笑容常在。",
     "language": "中文",
-    "words": 24
+    "words": 25
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "古巴小渔村“亮”了起来（共创繁荣发展新时代）",
-        "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4SipKRPS0x5",
-        "published": "2026-08-09 10:40",
-        "summary": "8月7日，中国援古巴新一批家用太阳能设备项目首批物资交付仪式在古巴首都哈瓦那举行。此前中方于2025年11月援助古巴的5000套户用光伏发电设备已在当地霍尔金省等多个省份的偏远村镇，以及医疗诊所、孕产妇保健中心、地方广播电台等基层公共服务机",
+        "title": "国产智能装备矩阵护航海洋产业发展",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/10/ARTIuP3Zlm8lFYebcKHmr1HC260810.shtml",
+        "published": "2026-08-10 06:55",
+        "summary": "“您已进入海上石油作业禁区，请立即驶离！”海面上，一架银白色无人机盘旋在拖网渔船上空，高分贝喊话声响彻海天。这一幕，已成为南海东部油田海上巡检的常态。 自然资源部海洋战略规划与经济司相关负责人表示，近年来，我国加快布局空、海、潜一体化智能装",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "乌外交部：乌无意向保加利亚方向发射任何装备",
-        "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4SigkMwIEdQ",
-        "published": "2026-08-09 06:40",
-        "summary": "乌克兰外交部发言人季希8日表示，乌克兰方面正与保加利亚保持密切联系，以查明当天一架无人机在保加利亚坠落的具体情况。他强调， 乌军没有蓄意向保加利亚方向发射任何装备 。季希说，乌方正在核实事件的全部情况和相关技术事实，并愿与保加利亚方面开展合",
+        "title": "国安普法：为赚流量闯禁区 黑飞偷拍切莫为",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/10/ARTIzJfyrZgnRNWja7gTjrGE260810.shtml",
+        "published": "2026-08-10 07:15",
+        "summary": "为博取眼球、赚取流量，个别博主违规操控无人机闯入军事管控区域，拍摄并留存军机训练等涉密军事活动画面，甚至预谋将敏感素材上传至境外平台，妄图凭借“独家稀缺资源”涨粉变现，对其中潜藏的国家安全风险置若罔闻。 《中华人民共和国军事设施保护法》规定",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "闪评 | “再军事化”的日本正走向和平的对立面",
-        "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4SipHTLzH2V",
-        "published": "2026-08-09 10:39",
-        "summary": "据日本共同社报道，2027财年， 日本防卫省拟向财务省申请约8.9万亿日元（约合3827亿元人民币‌）的防卫预算，再创历史新高。 由于其中包含大量未明确具体金额的申请项目，预计日本2027财年防卫预算的最终规模 或将达到10万亿日元（约合4",
+        "title": "特朗普称正在“低调处理”伊朗问题",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/10/ARTIRhKcXLuMmTL5a85niTTy260810.shtml",
+        "published": "2026-08-10 04:35",
+        "summary": "△美国总统特朗普（资料图） 据美国方面9日消息，美国总统特朗普表示，目前正在“低调处理”伊朗问题，并暗示相比于重新发动大规模军事行动，他更倾向于加大经济施压。 据悉，特朗普在接受采访时称，“我们只是在和他们进行‘半谈判’。我们只是在观望伊朗",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "美媒爆“美副防长致信国防业界领袖，勒令其21天内提交增产计划”，五角大楼回应",
-        "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4Sip9pBF1II",
-        "published": "2026-08-09 10:36",
-        "summary": "【环球网报道 记者 闫珮云】据美国《华盛顿邮报》当地时间8日援引其获得的一份美国防部备忘录报道，在美国面临严重弹药短缺问题之际，五角大楼正要求美国国防企业迅速提高武器生产和交付能力，包括因与伊朗战事而极度短缺的弹药。 报道称，美国防部副部长",
+        "title": "伊朗最高领袖与总统举行会谈 讨论经济和军事等问题",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/09/ARTIIX3dRDta0QiUPXg8uILW260809.shtml",
+        "published": "2026-08-09 19:53",
+        "summary": "当地时间9日，据伊朗方面消息，伊朗最高领袖穆杰塔巴·哈梅内伊与伊朗总统佩泽希齐扬举行会谈。 双方就伊朗当前经济和军事等问题交换意见，重点讨论保障民众基本生活需求、当前冲突局势及未来形势、军事领域最新进展，以及本币、外汇和能源资源的筹措与使用",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "多个算力节点迎来新一轮扩容 全国算力“一盘棋”“一张网”正不断成型",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/09/ARTIuYg9GmXKUsD9qIX0lqir260809.shtml",
-        "published": "2026-08-09 09:17",
-        "summary": "[!--begin:htmlVideoCode--]da4b7ee575d04512a819faebd21eefcb,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 记者从国家发展改革委了",
+        "title": "开放共赢是人工智能发展的必由之路（和音）",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/ll/2026/08-10/10674904.shtml",
+        "published": "2026-08-10 08:39",
+        "summary": "《人民日报》(2026年08月10日 第 03 版)",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "OpenAI to pause some work on AI model Astra due to security concerns",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-        "published": "2026-08-09 01:00",
-        "summary": "Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks Op",
+        "title": "‘AI will know everything about everybody’ – Kim Dotcom",
+        "source": "RT",
+        "link": "https://www.rt.com/news/644033-kim-dotcom-ai-us-surveillance/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-08-09 22:19",
+        "summary": "Kim Dotcom warned that AI could supercharge surveillance and give Washington access to vast databases of personal data R",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Vance says US ‘destroyed’ Iran’s nuclear programme",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
-        "published": "2026-08-09 07:27",
-        "summary": "US Vice President JD Vance claims Washington has “destroyed” Iran’s nuclear programme and degraded its military.",
-        "ai": false
+        "title": "Moore Threads plans Hong Kong listing after posting 147% jump in first-half revenue",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/tech-trends/article/3363448/moore-threads-plans-hong-kong-listing-after-posting-147-jump-first-half-revenue?utm_source=rss_feed",
+        "published": "2026-08-09 19:20",
+        "summary": "Chinese artificial intelligence (AI) chip developer Moore Threads plans to seek a listing in Hong Kong after reporting a",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Mecca agreement includes NATO-style collective defense obligations — top Turkish diplomat",
+        "title": "Moscow rejects option of 'freezing' Ukraine conflict, Russian deputy foreign minister says",
         "source": "TASS",
-        "link": "https://tass.com/world/2170557",
-        "published": "2026-08-09 04:46",
-        "summary": "Turkish Foreign Minister Hakan Fidan emphasized that \"technically, it's the same thing\"",
+        "link": "https://tass.com/politics/2170749",
+        "published": "2026-08-10 06:00",
+        "summary": "\"Russian President Vladimir Putin has repeatedly stated that no 'freeze' is possible without eliminating the root causes",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Former Hungarian Supreme Court president accepts offer to become head of state",
-        "source": "TASS",
-        "link": "https://tass.com/world/2170551",
-        "published": "2026-08-09 04:04",
-        "summary": "The Tisza party and Prime Minister Peter Magyar pressured President Tamas Sulyok, who was appointed under former Prime M",
+        "title": "Netanyahu nixes Trump’s Gaza peace plan (VIDEO)",
+        "source": "RT",
+        "link": "https://www.rt.com/news/644045-netanyahu-nixes-trumps-gaza-plan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-08-10 05:38",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu has rejected US President Donald Trump’s Gaza peace plan and demanded that Ham",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Kosovo PM egged in parliament, as political crisis spirals",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/europe/article/3363413/kosovo-pm-egged-parliament-political-crisis-spirals?utm_source=rss_feed",
-        "published": "2026-08-09 01:09",
-        "summary": "Kosovo’s parliament had to be suspended on Saturday after an opposition lawmaker pelted caretaker Prime Minister Albin K",
+        "title": "Vucic describes Europe’s actions against Russia as 'hybrid war'",
+        "source": "TASS",
+        "link": "https://tass.com/world/2170743",
+        "published": "2026-08-10 04:11",
+        "summary": "Serbian President Aleksandar Vucic also noted that \"Russia is a nuclear power and no one can just attack it\"",
         "ai": false
       }
     ]
@@ -106,27 +106,27 @@
   "weather": [
     {
       "city": "南京",
-      "current": 29,
-      "min": 27,
+      "current": 26,
+      "min": 25,
+      "max": 26,
+      "condition": "强阵雨",
+      "icon": "🌦️"
+    },
+    {
+      "city": "武汉",
+      "current": 27,
+      "min": 26,
       "max": 29,
       "condition": "阴",
       "icon": "☁️"
     },
     {
-      "city": "武汉",
-      "current": 32,
+      "city": "南宁",
+      "current": 29,
       "min": 27,
       "max": 34,
-      "condition": "晴",
-      "icon": "☀️"
-    },
-    {
-      "city": "南宁",
-      "current": 32,
-      "min": 27,
-      "max": 35,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     }
   ]
 }

@@ -1,130 +1,130 @@
 {
-  "date": "2026-08-10",
-  "updated_at": "2026-08-10 08:53",
+  "date": "2026-08-11",
+  "updated_at": "2026-08-11 12:06",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！新的一天，新的开始，愿你元气满满，笑容常在。",
-    "language": "中文",
-    "words": 25
+    "text": "Good morning! Every sunrise brings a new chance. Make today count!",
+    "language": "English",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "国产智能装备矩阵护航海洋产业发展",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/10/ARTIuP3Zlm8lFYebcKHmr1HC260810.shtml",
-        "published": "2026-08-10 06:55",
-        "summary": "“您已进入海上石油作业禁区，请立即驶离！”海面上，一架银白色无人机盘旋在拖网渔船上空，高分贝喊话声响彻海天。这一幕，已成为南海东部油田海上巡检的常态。 自然资源部海洋战略规划与经济司相关负责人表示，近年来，我国加快布局空、海、潜一体化智能装",
+        "title": "划定经营边界、多部门联动共治 精品夜市激活消费新活力",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-11/10675670.shtml",
+        "published": "2026-08-11 11:52",
+        "summary": "城市夜间消费持续火热，流动摊点丰富了市民夜间生活、提振了市井烟火气，但也产生了占道通行、油烟扰民、噪声扰民、环境脏乱等一系列城市治理难题。如何兼顾民生需求与城市管理秩序？上个月，江苏南京出台了《关于进一步规范商业外摆和临时摊点管理的指导意见",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "国安普法：为赚流量闯禁区 黑飞偷拍切莫为",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/10/ARTIzJfyrZgnRNWja7gTjrGE260810.shtml",
-        "published": "2026-08-10 07:15",
-        "summary": "为博取眼球、赚取流量，个别博主违规操控无人机闯入军事管控区域，拍摄并留存军机训练等涉密军事活动画面，甚至预谋将敏感素材上传至境外平台，妄图凭借“独家稀缺资源”涨粉变现，对其中潜藏的国家安全风险置若罔闻。 《中华人民共和国军事设施保护法》规定",
+        "title": "A股午评：超3100只个股飘绿，沪指收跌，深指、创业板指收涨",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-11/10675668.shtml",
+        "published": "2026-08-11 11:42",
+        "summary": "A股午评：超3100只个股飘绿，沪指收跌，深指、创业板指收涨；创新药概念走高，油气、电脑硬件板块上涨，贵金属高开低走，航天军工下跌",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "特朗普称正在“低调处理”伊朗问题",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/10/ARTIRhKcXLuMmTL5a85niTTy260810.shtml",
-        "published": "2026-08-10 04:35",
-        "summary": "△美国总统特朗普（资料图） 据美国方面9日消息，美国总统特朗普表示，目前正在“低调处理”伊朗问题，并暗示相比于重新发动大规模军事行动，他更倾向于加大经济施压。 据悉，特朗普在接受采访时称，“我们只是在和他们进行‘半谈判’。我们只是在观望伊朗",
+        "title": "国家防总、应急管理部针对北京、天津启动防汛四级应急响应",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-11/10675671.shtml",
+        "published": "2026-08-11 11:59",
+        "summary": "中新网8月11日电 据应急管理部官方微博消息，据气象部门预报，未来三天，受台风“白海豚”和冷空气共同影响，北京中南部、天津等地有暴雨或大暴雨。中央气象台8月11日6时继续发布暴雨橙色预警。根据《国家防汛抗旱应急预案》及有关规定，国家防总、应",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "伊朗最高领袖与总统举行会谈 讨论经济和军事等问题",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/09/ARTIIX3dRDta0QiUPXg8uILW260809.shtml",
-        "published": "2026-08-09 19:53",
-        "summary": "当地时间9日，据伊朗方面消息，伊朗最高领袖穆杰塔巴·哈梅内伊与伊朗总统佩泽希齐扬举行会谈。 双方就伊朗当前经济和军事等问题交换意见，重点讨论保障民众基本生活需求、当前冲突局势及未来形势、军事领域最新进展，以及本币、外汇和能源资源的筹措与使用",
+        "title": "纽约市长力挺配送用工法案 要求亚马逊直接聘用配送人员",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-11/10675546.shtml",
+        "published": "2026-08-11 11:49",
+        "summary": "中新网8月11日电 据美媒报道，当地时间10日，美国纽约市市长佐兰·马姆达尼表示，他支持一项名为《配送保护法案》的提案，旨在改革快递末端配送用工模式。亚马逊等配送量巨大的公司，普遍依靠外包服务商雇佣人员完成包裹的最后配送，而非直接聘用正式员",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "开放共赢是人工智能发展的必由之路（和音）",
+        "title": "黄河水利委员会全力以赴做好台风“白海豚”暴雨洪水防御工作",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/ll/2026/08-10/10674904.shtml",
-        "published": "2026-08-10 08:39",
-        "summary": "《人民日报》(2026年08月10日 第 03 版)",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-11/10675652.shtml",
+        "published": "2026-08-11 11:36",
+        "summary": "中新网8月11日电 据水利部网站消息，8月10日，黄河水利委员会召开防汛专题会商会，分析研判第13号台风“白海豚”发展态势，针对性部署暴雨洪水防御工作。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "‘AI will know everything about everybody’ – Kim Dotcom",
-        "source": "RT",
-        "link": "https://www.rt.com/news/644033-kim-dotcom-ai-us-surveillance/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-08-09 22:19",
-        "summary": "Kim Dotcom warned that AI could supercharge surveillance and give Washington access to vast databases of personal data R",
+        "title": "Zuckerberg envisions 'superintelligence' for everyone in AI manifesto",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/technology/20260811-zuckerberg-envisions-superintelligence-for-everyone-in-ai-manifesto",
+        "published": "2026-08-11 09:42",
+        "summary": "Meta CEO Mark Zuckerberg on Monday laid out his vision for a future where everyone has a powerful personal AI agent, arg",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Moore Threads plans Hong Kong listing after posting 147% jump in first-half revenue",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/tech/tech-trends/article/3363448/moore-threads-plans-hong-kong-listing-after-posting-147-jump-first-half-revenue?utm_source=rss_feed",
-        "published": "2026-08-09 19:20",
-        "summary": "Chinese artificial intelligence (AI) chip developer Moore Threads plans to seek a listing in Hong Kong after reporting a",
+        "title": "Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta",
+        "published": "2026-08-11 06:57",
+        "summary": "Meta CEO presents utopian vision of AI in 6,000-word essay amid Silicon Valley debate over government regulation Mark Zu",
         "ai": true
       },
       {
         "rank": 3,
-        "title": "Moscow rejects option of 'freezing' Ukraine conflict, Russian deputy foreign minister says",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2170749",
-        "published": "2026-08-10 06:00",
-        "summary": "\"Russian President Vladimir Putin has repeatedly stated that no 'freeze' is possible without eliminating the root causes",
+        "title": "Wave of US tariff refunds flows back to Chinese firms, buoying profits by millions",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/economy/global-economy/article/3363528/wave-us-tariff-refunds-flows-back-chinese-firms-buoying-profits-millions?utm_source=rss_feed",
+        "published": "2026-08-10 23:00",
+        "summary": "The wave of US tariff refunds is reaching Chinese companies. More than US$38 million in tariff rebates, plus accrued int",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Netanyahu nixes Trump’s Gaza peace plan (VIDEO)",
-        "source": "RT",
-        "link": "https://www.rt.com/news/644045-netanyahu-nixes-trumps-gaza-plan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-08-10 05:38",
-        "summary": "Israeli Prime Minister Benjamin Netanyahu has rejected US President Donald Trump’s Gaza peace plan and demanded that Ham",
-        "ai": false
+        "title": "Enterprise AI costs hit 2026 low driven by price wars, Chinese open-source models: research",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/tech-trends/article/3363549/enterprise-ai-costs-hit-2026-low-driven-price-wars-chinese-open-source-models-research?utm_source=rss_feed",
+        "published": "2026-08-10 21:30",
+        "summary": "The cost for businesses to run AI models has fallen to a yearly low, according to research by investment bank Jefferies,",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Vucic describes Europe’s actions against Russia as 'hybrid war'",
+        "title": "AI access to data on nuclear weapons could turn against humanity — lawmaker",
         "source": "TASS",
-        "link": "https://tass.com/world/2170743",
-        "published": "2026-08-10 04:11",
-        "summary": "Serbian President Aleksandar Vucic also noted that \"Russia is a nuclear power and no one can just attack it\"",
-        "ai": false
+        "link": "https://tass.com/society/2170965",
+        "published": "2026-08-10 21:02",
+        "summary": "Andrey Svintsov recalled that AI agents have repeatedly escaped human control. In particular, companies Anthropic and Op",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 26,
+      "current": 27,
       "min": 25,
-      "max": 26,
-      "condition": "强阵雨",
+      "max": 27,
+      "condition": "毛毛雨",
       "icon": "🌦️"
     },
     {
       "city": "武汉",
-      "current": 27,
-      "min": 26,
-      "max": 29,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 30,
+      "min": 25,
+      "max": 32,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "南宁",
-      "current": 29,
-      "min": 27,
-      "max": 34,
+      "current": 34,
+      "min": 26,
+      "max": 35,
       "condition": "大部晴朗",
       "icon": "🌤️"
     }

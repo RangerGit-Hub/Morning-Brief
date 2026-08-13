@@ -1,132 +1,132 @@
 {
-  "date": "2026-08-12",
-  "updated_at": "2026-08-12 13:17",
+  "date": "2026-08-13",
+  "updated_at": "2026-08-13 13:21",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! Here's to a fresh start and a day full of possibilities. Enjoy it!",
-    "language": "English",
-    "words": 15
+    "text": "早安！愿今天的心情像清晨的阳光一样明亮，祝你一切顺利。",
+    "language": "中文",
+    "words": 27
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "A股午评：近3700只个股飘红，三大指数集体冲高收涨",
+        "title": "企业如何智能化转型？“5A框架”发布",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-12/10676264.shtml",
-        "published": "2026-08-12 11:37",
-        "summary": "A股午评：近3700只个股飘红，三大指数集体冲高收涨；半导体芯片、光通信、光模块概念爆发，贵金属、房地产上涨；油气、煤炭、银行下跌",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-13/10676873.shtml",
+        "published": "2026-08-13 11:30",
+        "summary": "人民网廊坊8月12日电 (记者李君强、张腾扬)2026数智经济论坛8月12日在河北廊坊市举行。论坛上，主办方人民日报文化科技有限公司发布了企业智能化转型“5A框架”，助力企业在人工智能时代业务模式、组织形态和服务体系的全面创新。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "军事专家：湖北舰完成“毕业大考”已具备综合作战能力",
+        "title": "（投资中国）DHL高管：中国市场的重要性正发生结构性升级",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-12/10676286.shtml",
-        "published": "2026-08-12 12:52",
-        "summary": "中新社北京8月12日电 (记者 李纯)解放军南部战区海军近日组织两栖攻击舰湖北舰在南海某海域开展全训考核。军事专家张军社接受中新社记者采访时表示，湖北舰顺利完成全训考核这一“毕业大考”，表明该舰已具备综合作战能力。",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-13/10676864.shtml",
+        "published": "2026-08-13 11:25",
+        "summary": "中新社上海8月13日电 (高志苗)DHL全球货运大中华区首席执行官艾若馨(Aditi Rasquinha)近日线上接受中新社采访时表示，中国市场在DHL全球布局中的重要性正发生结构性升级。“中国是全球供应链的关键环节，并持续向新能源、高端制",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "深学笃行习近平外交思想 奋力开创中国特色大国外交新局面",
+        "title": "伊拉克总理重申9月30日是国际联盟撤军最后期限",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-12/10676284.shtml",
-        "published": "2026-08-12 12:44",
-        "summary": "深学笃行习近平外交思想 奋力开创中国特色大国外交新局面(深入学习贯彻习近平新时代中国特色社会主义思想)",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-13/10676893.shtml",
+        "published": "2026-08-13 13:02",
+        "summary": "中新社北京8月13日电 综合消息：伊拉克总理新闻办公室当地时间12日发表声明说，伊总理扎伊迪当天重申，今年9月30日是美国主导的打击“伊斯兰国”国际联盟部队结束在伊军事任务并完成撤军的最终期限。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "广东连续两月进出口规模破万亿元",
+        "title": "“十五五”首条千万吨级原油管道投产",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-12/10676270.shtml",
-        "published": "2026-08-12 12:02",
-        "summary": "中新社广州8月12日电 (许青青 陈琳)今年以来广东各月进出口规模均保持两位数增长。继6月广东进出口规模历史首次突破万亿元(人民币，下同)后，7月广东进出口再次达到1.01万亿元，同比增长19%。其中，出口5824.8亿元，增长7%；进口4",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-13/10676910.shtml",
+        "published": "2026-08-13 13:00",
+        "summary": "新华社北京8月13日电(记者王悦阳)国家管网集团8月13日宣布，国家石油天然气基础设施重点项目——连云港至仪征原油管道工程连云港至淮安段投产一次成功。这是我国“十五五”开局投产的首条千万吨级原油管道，对优化我国中东部地区供能结构、完善油气“",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "我国主导的生命科学领域国际学术期刊《Vita》纸质刊首期发布",
+        "title": "“两弹一星功勋奖章”获得者王希季逝世 享年105岁",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-12/10676262.shtml",
-        "published": "2026-08-12 11:50",
-        "summary": "今天，我国主导的生命科学领域《Vita》系列期刊纸质刊首期发布。",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-13/10676902.shtml",
+        "published": "2026-08-13 12:44",
+        "summary": "沉痛悼念王希季院士｜牧星耕宇一生报国，丹心昭昭永耀星河",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Facebook parent Meta to unwind US$2 billion Manus AI deal after Beijing block",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/us/article/3363704/facebook-parent-meta-unwind-us2-billion-manus-ai-deal-after-beijing-block?utm_source=rss_feed",
-        "published": "2026-08-12 03:13",
-        "summary": "Facebook owner Meta Platforms is set to fully unwind its acquisition of Chinese-founded artificial intelligence platform",
+        "title": "Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas",
+        "published": "2026-08-13 13:02",
+        "summary": "Taiwan’s statement comes a day after reports that suspected China-linked hackers had carried out a first-of-a-kind breac",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Two suspected Russian drones found floating in Black Sea — Romanian defense minister",
-        "source": "TASS",
-        "link": "https://tass.com/world/2171573",
-        "published": "2026-08-12 03:11",
-        "summary": "According to Romania’s acting Defense Minister Radu Miruta, the drones were spotted by a ship working in this area which",
+        "title": "Zambia heads to polls with President Hichilema expected to win second term",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/africa/20260813-zambia-heads-to-polls-with-president-hichilema-expected-to-win-second-term",
+        "published": "2026-08-13 08:33",
+        "summary": "Zambians vote Thursday in a general election widely expected to give President Hakainde Hichilema a second term, as his ",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "New Hong Kong trade office in Malaysia a bridge to Greater Bay Area: minister",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363678/opening-hong-kong-trade-office-malaysia-creates-bridge-greater-bay-area?utm_source=rss_feed",
-        "published": "2026-08-11 19:20",
-        "summary": "Hong Kong has opened a new trade office in Malaysia, with a minister saying the move is part of a strategic push to deep",
+        "title": "Libyan parliament speaker, top Turkish diplomat discuss ways of settling Libyan crisis",
+        "source": "TASS",
+        "link": "https://tass.com/world/2172129",
+        "published": "2026-08-13 05:32",
+        "summary": "The talks between Aguila Saleh and Hakan Fidan were held in Benghazi after the top Turkish diplomat’s meeting with Libya",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
+        "title": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
         "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss",
-        "published": "2026-08-12 04:35",
-        "summary": "Pakistan’s interior minister Mohsin Naqvi has held talks with Iranian Foreign Minister Abbas Araghchi in Tehran.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss",
+        "published": "2026-08-13 04:59",
+        "summary": "Repeated drone strikes on oil and power infrastructure are deepening Libya's energy crisis.",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "The Guardian view on AI money in US politics: not the way to hold an urgent democratic debate | Editorial",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/commentisfree/2026/aug/11/the-guardian-view-on-ai-money-in-us-politics-not-the-way-to-hold-an-urgent-democratic-debate",
-        "published": "2026-08-12 02:04",
-        "summary": "Amid public concern over the impact of new technology, Silicon Valley’s use of its wealth to influence specific election",
-        "ai": true
+        "title": "Israeli troops fail to remove settlers besieging Palestinian homes in West Bank village",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/middle-east/20260812-israeli-settlers-keep-up-siege-of-palestinian-homes-despite-rare-military-intervention",
+        "published": "2026-08-12 22:39",
+        "summary": "The Israeli military on Wednesday failed to remove settlers from blockaded Palestinian homes in the occupied West Bank. ",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 30,
-      "min": 25,
-      "max": 30,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 26,
+      "min": 23,
+      "max": 26,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 30,
+      "current": 28,
       "min": 25,
-      "max": 32,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "max": 29,
+      "condition": "雷阵雨",
+      "icon": "⛈️"
     },
     {
       "city": "南宁",
-      "current": 35,
-      "min": 28,
-      "max": 36,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 33,
+      "min": 25,
+      "max": 33,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     }
   ]
 }

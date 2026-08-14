@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-14",
-  "updated_at": "2026-08-14 13:18",
+  "date": "2026-08-15",
+  "updated_at": "2026-08-15 07:52",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
     "text": "Bonjour ! Douceur, bonne humeur et réussite au programme de cette belle journée.",
@@ -11,94 +11,94 @@
     "domestic": [
       {
         "rank": 1,
-        "title": "特朗普要五角大楼重振美国舰船工业",
+        "title": "美媒：美对古战略侧重经济制裁而非军事选项",
         "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4Sn3W0RvV6U",
-        "published": "2026-08-14 12:58",
-        "summary": "新华社北京8月14日电（记者郭倩）美国白宫网站13日发布消息说，总统特朗普当天签署一份国家安全总统备忘录，指示国防部重振舰船工业，解决舰船制造和维护方面的长期问题，并恢复产能和竞争力。 备忘录要求国防部以“芬兰模式”为基础，对美国造船业的工",
+        "link": "https://world.huanqiu.com/article/4SneD4sIz8R",
+        "published": "2026-08-15 06:05",
+        "summary": "新华社华盛顿8月14日电（记者黄强 颜亮）据美国彭博社14日报道，特朗普政府对古巴的战略正日益侧重于加大经济制裁和施压，而非部署军事力量。 报道援引不愿透露姓名的知情人士的话说，美方目前关注重点在于切断古巴政权的所有收入来源，而不是采取类似",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "好评中国 | 新能源汽车“双突破”跑出发展新里程",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/ll/2026/08-14/10677542.shtml",
-        "published": "2026-08-14 12:22",
-        "summary": "据8月12日新华网消息，2026年7月，中国汽车工业协会发布的一组数据引发广泛关注：新能源汽车月度新车销量占比首次突破60%、累计占比首次突破50%。这两个“首次”不仅是中国新能源汽车产业发展的重要里程碑，更彰显了我国在绿色发展中的光明未来",
+        "title": "炮制所谓“转运报告”，扬言动用AI监测，美妄称数十国帮助中国避税",
+        "source": "环球网-国际",
+        "link": "https://world.huanqiu.com/article/4SnW6PvYqct",
+        "published": "2026-08-15 02:18",
+        "summary": "【环球时报驻美国特约记者 戴润芝 环球时报记者 迟静怡 张旺】美国白宫13日发布的一份报告称，多国正通过第三方转运出口商品以规避美国关税，并把主要矛头指向中国，无端指责中国正通过约40个国家和地区“洗白”自己的出口商品。对此，14日接受《环",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "经济政策一线微观察｜流水线变风景线，暑期“工厂游”火了",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677530.shtml",
-        "published": "2026-08-14 11:53",
-        "summary": "视频：经济政策一线微观察｜流水线变风景线，暑期“工厂游”火了来源：新华社",
+        "title": "调查｜排球青训如何适应新时代？这是面向未来的上海样本",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/33785538",
+        "published": "2026-08-15 07:01",
+        "summary": "作为三大球项目之一，排球一直备受中国体育观众的关注，而在国际舞台上，中国排球也曾收获许多辉煌。 但面向未来，青少年培养永远是保持项目竞争力的关键一环。随着社会环境的发展，排球的青训环境也在变化。 作为国内排球重镇之一，上海在排球青训工作上也",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "防卫预算申请额创新高 日本加速“再军事化”",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677477.shtml",
-        "published": "2026-08-14 11:31",
-        "summary": "日本2027财年防卫预算申请额再创历史新高，最终规模或达10万亿日元之巨。不仅如此，日方近日发布的2026版《防卫白皮书》，将军工产业扩张包装为经济增长点，引发各方警惕。",
+        "title": "也门摩卡港遭导弹袭击 胡塞武装称打击沙特目标",
+        "source": "环球网-军事",
+        "link": "https://mil.huanqiu.com/article/4SneIR9JTZk",
+        "published": "2026-08-15 06:08",
+        "summary": "当地时间14日，也门胡塞武装发言人叶海亚称，胡塞武装在摩卡地区发射多枚弹道导弹，打击沙特方面的军事集结点、武器装备及其控制的军舰。叶海亚称，袭击命中目标，摧毁军舰装备，造成数十名武装人员死伤，并表示将持续打击沙特军事集结目标。 同一天，也门",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "“上下楼即上下游” 北京中关村具身智能产业加速布局",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677519.shtml",
-        "published": "2026-08-14 11:30",
-        "summary": "中新网北京8月14日电 (牛琳 杜思凝 李在阳 李立卓)作为全国首家以“具身智能”命名的特色产业园，2025年2月挂牌的中关村(海淀)具身智能创新产业园，快速构建起“上下楼即上下游”的具身智能产业生态，入驻的具身智能和人工智能企业覆盖具身智",
+        "title": "美军宣称组建多国攻击无人机部队，被质疑“为什么不停止攻击别国人民”",
+        "source": "环球网-军事",
+        "link": "https://mil.huanqiu.com/article/4SnX2VvZUlP",
+        "published": "2026-08-15 02:45",
+        "summary": "【环球时报综合报道】以色列《耶路撒冷邮报》报道称，当地时间13日，美军中央司令部宣布，成立史上首支跨领域、多国联合攻击无人机部队。这是美军中央司令部在布局新型无人机技术系列举措的重要一步。 《耶路撒冷邮报》称，多年来，中央司令部一直处在应对",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "SMIC weighs more capacity as AI-related chip demand exceeds forecasts",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/tech/big-tech/article/3363996/smic-weighs-more-capacity-ai-related-chip-demand-exceeds-forecasts?utm_source=rss_feed",
-        "published": "2026-08-14 13:00",
-        "summary": "Semiconductor Manufacturing International Corporation (SMIC) is actively looking at adding equipment in its factories af",
+        "title": "Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre",
+        "published": "2026-08-15 00:05",
+        "summary": "‘A great deal of public opposition is likely’ to a proposed datacentre near Edinburgh, the force says Police in Scotland",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "South Korea’s moon landing, quantum chips: Seoul bets big on post-AI economy",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/week-asia/politics/article/3363902/south-koreas-moon-landing-quantum-chips-seoul-bets-big-post-ai-economy?utm_source=rss_feed",
-        "published": "2026-08-14 08:00",
-        "summary": "South Korea is banking on moonshots in a post-AI economy to stem sluggish growth potential amid an ageing population and",
-        "ai": true
+        "title": "Russia-Thailand trade up 23% in January-May 2026 — minister",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2173223",
+        "published": "2026-08-15 00:51",
+        "summary": "Russian Minister for the Development of the Russian Far East Alexey Chekunkov recalled that Russia-Thailand trade turnov",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "Armenia, Russia to step up food safety cooperation — Armenian Economy Ministry",
-        "source": "TASS",
-        "link": "https://tass.com/economy/2172583",
-        "published": "2026-08-14 02:52",
-        "summary": "The agreement was reached at a meeting between Armenian Economy Minister Gevorg Papoyan and Russian Agriculture Minister",
+        "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+        "published": "2026-08-15 01:52",
+        "summary": "Palestine’s vice-president calls plan ‘flagrant violation of international law’ and a step towards full Israeli annexati",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "AI escapes confinement",
+        "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
         "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/ai-escapes-confinement?traffic_source=rss",
-        "published": "2026-08-14 09:56",
-        "summary": "Over the course of two weeks, AI companies said that some of their AI models managed to hack systems.",
-        "ai": true
+        "link": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
+        "published": "2026-08-15 00:46",
+        "summary": "Rights groups warn settler and state-led violence aim to displace Palestinians and annex land in the occupied West Bank.",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "US president’s son-in-law to visit Israel for Gaza talks — media",
+        "title": "Russia's inflation stabilizing, says economy minister",
         "source": "TASS",
-        "link": "https://tass.com/world/2172627",
-        "published": "2026-08-14 08:15",
-        "summary": "According to the portal, Israeli Prime Minister Benjamin Netanyahu’s government \"is highly skeptical of the US Gaza plan",
+        "link": "https://tass.com/economy/2173453",
+        "published": "2026-08-14 23:16",
+        "summary": "Maxim Reshetnikov noted that a certain level of uncertainty persisted in the economy, driven in part by developments in ",
         "ai": false
       }
     ]
@@ -106,25 +106,25 @@
   "weather": [
     {
       "city": "南京",
-      "current": 26,
+      "current": 25,
       "min": 24,
-      "max": 27,
-      "condition": "雷阵雨",
-      "icon": "⛈️"
+      "max": 29,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 29,
-      "min": 24,
+      "current": 25,
+      "min": 23,
       "max": 30,
-      "condition": "多云",
-      "icon": "⛅"
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 32,
+      "current": 25,
       "min": 24,
-      "max": 33,
+      "max": 32,
       "condition": "雷阵雨",
       "icon": "⛈️"
     }

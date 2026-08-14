@@ -1,104 +1,104 @@
 {
-  "date": "2026-08-13",
-  "updated_at": "2026-08-13 13:21",
+  "date": "2026-08-14",
+  "updated_at": "2026-08-14 13:18",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！愿今天的心情像清晨的阳光一样明亮，祝你一切顺利。",
-    "language": "中文",
-    "words": 27
+    "text": "Bonjour ! Douceur, bonne humeur et réussite au programme de cette belle journée.",
+    "language": "Français",
+    "words": 13
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "企业如何智能化转型？“5A框架”发布",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-13/10676873.shtml",
-        "published": "2026-08-13 11:30",
-        "summary": "人民网廊坊8月12日电 (记者李君强、张腾扬)2026数智经济论坛8月12日在河北廊坊市举行。论坛上，主办方人民日报文化科技有限公司发布了企业智能化转型“5A框架”，助力企业在人工智能时代业务模式、组织形态和服务体系的全面创新。",
+        "title": "特朗普要五角大楼重振美国舰船工业",
+        "source": "环球网-国际",
+        "link": "https://world.huanqiu.com/article/4Sn3W0RvV6U",
+        "published": "2026-08-14 12:58",
+        "summary": "新华社北京8月14日电（记者郭倩）美国白宫网站13日发布消息说，总统特朗普当天签署一份国家安全总统备忘录，指示国防部重振舰船工业，解决舰船制造和维护方面的长期问题，并恢复产能和竞争力。 备忘录要求国防部以“芬兰模式”为基础，对美国造船业的工",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "（投资中国）DHL高管：中国市场的重要性正发生结构性升级",
+        "title": "好评中国 | 新能源汽车“双突破”跑出发展新里程",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-13/10676864.shtml",
-        "published": "2026-08-13 11:25",
-        "summary": "中新社上海8月13日电 (高志苗)DHL全球货运大中华区首席执行官艾若馨(Aditi Rasquinha)近日线上接受中新社采访时表示，中国市场在DHL全球布局中的重要性正发生结构性升级。“中国是全球供应链的关键环节，并持续向新能源、高端制",
+        "link": "https://www.chinanews.com.cn/ll/2026/08-14/10677542.shtml",
+        "published": "2026-08-14 12:22",
+        "summary": "据8月12日新华网消息，2026年7月，中国汽车工业协会发布的一组数据引发广泛关注：新能源汽车月度新车销量占比首次突破60%、累计占比首次突破50%。这两个“首次”不仅是中国新能源汽车产业发展的重要里程碑，更彰显了我国在绿色发展中的光明未来",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "伊拉克总理重申9月30日是国际联盟撤军最后期限",
+        "title": "经济政策一线微观察｜流水线变风景线，暑期“工厂游”火了",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-13/10676893.shtml",
-        "published": "2026-08-13 13:02",
-        "summary": "中新社北京8月13日电 综合消息：伊拉克总理新闻办公室当地时间12日发表声明说，伊总理扎伊迪当天重申，今年9月30日是美国主导的打击“伊斯兰国”国际联盟部队结束在伊军事任务并完成撤军的最终期限。",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677530.shtml",
+        "published": "2026-08-14 11:53",
+        "summary": "视频：经济政策一线微观察｜流水线变风景线，暑期“工厂游”火了来源：新华社",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "“十五五”首条千万吨级原油管道投产",
+        "title": "防卫预算申请额创新高 日本加速“再军事化”",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-13/10676910.shtml",
-        "published": "2026-08-13 13:00",
-        "summary": "新华社北京8月13日电(记者王悦阳)国家管网集团8月13日宣布，国家石油天然气基础设施重点项目——连云港至仪征原油管道工程连云港至淮安段投产一次成功。这是我国“十五五”开局投产的首条千万吨级原油管道，对优化我国中东部地区供能结构、完善油气“",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677477.shtml",
+        "published": "2026-08-14 11:31",
+        "summary": "日本2027财年防卫预算申请额再创历史新高，最终规模或达10万亿日元之巨。不仅如此，日方近日发布的2026版《防卫白皮书》，将军工产业扩张包装为经济增长点，引发各方警惕。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "“两弹一星功勋奖章”获得者王希季逝世 享年105岁",
+        "title": "“上下楼即上下游” 北京中关村具身智能产业加速布局",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-13/10676902.shtml",
-        "published": "2026-08-13 12:44",
-        "summary": "沉痛悼念王希季院士｜牧星耕宇一生报国，丹心昭昭永耀星河",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677519.shtml",
+        "published": "2026-08-14 11:30",
+        "summary": "中新网北京8月14日电 (牛琳 杜思凝 李在阳 李立卓)作为全国首家以“具身智能”命名的特色产业园，2025年2月挂牌的中关村(海淀)具身智能创新产业园，快速构建起“上下楼即上下游”的具身智能产业生态，入驻的具身智能和人工智能企业覆盖具身智",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas",
-        "published": "2026-08-13 13:02",
-        "summary": "Taiwan’s statement comes a day after reports that suspected China-linked hackers had carried out a first-of-a-kind breac",
+        "title": "SMIC weighs more capacity as AI-related chip demand exceeds forecasts",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/big-tech/article/3363996/smic-weighs-more-capacity-ai-related-chip-demand-exceeds-forecasts?utm_source=rss_feed",
+        "published": "2026-08-14 13:00",
+        "summary": "Semiconductor Manufacturing International Corporation (SMIC) is actively looking at adding equipment in its factories af",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Zambia heads to polls with President Hichilema expected to win second term",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/africa/20260813-zambia-heads-to-polls-with-president-hichilema-expected-to-win-second-term",
-        "published": "2026-08-13 08:33",
-        "summary": "Zambians vote Thursday in a general election widely expected to give President Hakainde Hichilema a second term, as his ",
-        "ai": false
+        "title": "South Korea’s moon landing, quantum chips: Seoul bets big on post-AI economy",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/week-asia/politics/article/3363902/south-koreas-moon-landing-quantum-chips-seoul-bets-big-post-ai-economy?utm_source=rss_feed",
+        "published": "2026-08-14 08:00",
+        "summary": "South Korea is banking on moonshots in a post-AI economy to stem sluggish growth potential amid an ageing population and",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Libyan parliament speaker, top Turkish diplomat discuss ways of settling Libyan crisis",
+        "title": "Armenia, Russia to step up food safety cooperation — Armenian Economy Ministry",
         "source": "TASS",
-        "link": "https://tass.com/world/2172129",
-        "published": "2026-08-13 05:32",
-        "summary": "The talks between Aguila Saleh and Hakan Fidan were held in Benghazi after the top Turkish diplomat’s meeting with Libya",
+        "link": "https://tass.com/economy/2172583",
+        "published": "2026-08-14 02:52",
+        "summary": "The agreement was reached at a meeting between Armenian Economy Minister Gevorg Papoyan and Russian Agriculture Minister",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
+        "title": "AI escapes confinement",
         "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss",
-        "published": "2026-08-13 04:59",
-        "summary": "Repeated drone strikes on oil and power infrastructure are deepening Libya's energy crisis.",
-        "ai": false
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/ai-escapes-confinement?traffic_source=rss",
+        "published": "2026-08-14 09:56",
+        "summary": "Over the course of two weeks, AI companies said that some of their AI models managed to hack systems.",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Israeli troops fail to remove settlers besieging Palestinian homes in West Bank village",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/middle-east/20260812-israeli-settlers-keep-up-siege-of-palestinian-homes-despite-rare-military-intervention",
-        "published": "2026-08-12 22:39",
-        "summary": "The Israeli military on Wednesday failed to remove settlers from blockaded Palestinian homes in the occupied West Bank. ",
+        "title": "US president’s son-in-law to visit Israel for Gaza talks — media",
+        "source": "TASS",
+        "link": "https://tass.com/world/2172627",
+        "published": "2026-08-14 08:15",
+        "summary": "According to the portal, Israeli Prime Minister Benjamin Netanyahu’s government \"is highly skeptical of the US Gaza plan",
         "ai": false
       }
     ]
@@ -107,26 +107,26 @@
     {
       "city": "南京",
       "current": 26,
-      "min": 23,
-      "max": 26,
-      "condition": "阴",
-      "icon": "☁️"
-    },
-    {
-      "city": "武汉",
-      "current": 28,
-      "min": 25,
-      "max": 29,
+      "min": 24,
+      "max": 27,
       "condition": "雷阵雨",
       "icon": "⛈️"
     },
     {
+      "city": "武汉",
+      "current": 29,
+      "min": 24,
+      "max": 30,
+      "condition": "多云",
+      "icon": "⛅"
+    },
+    {
       "city": "南宁",
-      "current": 33,
-      "min": 25,
+      "current": 32,
+      "min": 24,
       "max": 33,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "condition": "雷阵雨",
+      "icon": "⛈️"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "date": "2026-08-15",
-  "updated_at": "2026-08-15 07:52",
+  "date": "2026-08-16",
+  "updated_at": "2026-08-16 07:40",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Douceur, bonne humeur et réussite au programme de cette belle journée.",
-    "language": "Français",
-    "words": 13
+    "text": "早安！愿你抬头有阳光，心中有梦想，脚下有力量。",
+    "language": "中文",
+    "words": 23
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "美媒：美对古战略侧重经济制裁而非军事选项",
-        "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4SneD4sIz8R",
-        "published": "2026-08-15 06:05",
-        "summary": "新华社华盛顿8月14日电（记者黄强 颜亮）据美国彭博社14日报道，特朗普政府对古巴的战略正日益侧重于加大经济制裁和施压，而非部署军事力量。 报道援引不愿透露姓名的知情人士的话说，美方目前关注重点在于切断古巴政权的所有收入来源，而不是采取类似",
+        "title": "2026两岸青年企业家菁英论坛暨两岸青年研学交流活动在江苏昆山举办",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-15/10678421.shtml",
+        "published": "2026-08-15 21:59",
+        "summary": "中新社江苏昆山8月15日电 (记者 钟升)2026两岸青年企业家菁英论坛暨两岸青年研学交流活动15日在江苏省昆山市开幕。此次活动由两岸企业家峰会主办，主题是“青创成就梦想 AI赋能未来”，约450名两岸青年企业家代表、青年学生等参加活动。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "炮制所谓“转运报告”，扬言动用AI监测，美妄称数十国帮助中国避税",
-        "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4SnW6PvYqct",
-        "published": "2026-08-15 02:18",
-        "summary": "【环球时报驻美国特约记者 戴润芝 环球时报记者 迟静怡 张旺】美国白宫13日发布的一份报告称，多国正通过第三方转运出口商品以规避美国关税，并把主要矛头指向中国，无端指责中国正通过约40个国家和地区“洗白”自己的出口商品。对此，14日接受《环",
+        "title": "中国使馆：日政要参拜靖国神社严重挑战战后国际秩序",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-15/10678435.shtml",
+        "published": "2026-08-15 23:30",
+        "summary": "中国驻日本大使馆发言人15日就日本首相高市早苗向靖国神社供奉祭祀费、部分内阁成员和国会议员参拜靖国神社答记者问时表示，日方有关行径严重挑战二战胜利成果和战后国际秩序。中方对此表示强烈愤慨、严厉谴责，已向日方提出严正交涉、强烈抗议。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "调查｜排球青训如何适应新时代？这是面向未来的上海样本",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/33785538",
-        "published": "2026-08-15 07:01",
-        "summary": "作为三大球项目之一，排球一直备受中国体育观众的关注，而在国际舞台上，中国排球也曾收获许多辉煌。 但面向未来，青少年培养永远是保持项目竞争力的关键一环。随着社会环境的发展，排球的青训环境也在变化。 作为国内排球重镇之一，上海在排球青训工作上也",
+        "title": "莫言刷短剧拒绝“套路” 谈AI有体会",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cul/2026/08-15/10678432.shtml",
+        "published": "2026-08-15 22:15",
+        "summary": "中新社上海8月15日电 (记者 王笈)著名作家莫言时隔6年推出的全新小说集《人呐》，用短的篇幅写出深的人心。15日下午，他在2026上海书展的新书分享会上表示，“我这81篇短小说，人物是有性格的，故事是不重复的，情节既合理又奇特；如果改编成",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "也门摩卡港遭导弹袭击 胡塞武装称打击沙特目标",
-        "source": "环球网-军事",
-        "link": "https://mil.huanqiu.com/article/4SneIR9JTZk",
-        "published": "2026-08-15 06:08",
-        "summary": "当地时间14日，也门胡塞武装发言人叶海亚称，胡塞武装在摩卡地区发射多枚弹道导弹，打击沙特方面的军事集结点、武器装备及其控制的军舰。叶海亚称，袭击命中目标，摧毁军舰装备，造成数十名武装人员死伤，并表示将持续打击沙特军事集结目标。 同一天，也门",
+        "title": "中国官方发布推动生态环境损害赔偿制度改革进程十大案例",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-15/10678424.shtml",
+        "published": "2026-08-15 22:01",
+        "summary": "中新社北京8月15日电 (记者 阮煜琳)今年8月15日是中国第四个全国生态日，也是《中华人民共和国生态环境法典》施行之日。当日，中国生态环境部与最高人民法院、最高人民检察院联合发布“推动生态环境损害赔偿制度改革进程的十大案例”。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "美军宣称组建多国攻击无人机部队，被质疑“为什么不停止攻击别国人民”",
-        "source": "环球网-军事",
-        "link": "https://mil.huanqiu.com/article/4SnX2VvZUlP",
-        "published": "2026-08-15 02:45",
-        "summary": "【环球时报综合报道】以色列《耶路撒冷邮报》报道称，当地时间13日，美军中央司令部宣布，成立史上首支跨领域、多国联合攻击无人机部队。这是美军中央司令部在布局新型无人机技术系列举措的重要一步。 《耶路撒冷邮报》称，多年来，中央司令部一直处在应对",
+        "title": "调查显示：柬埔寨青年对中柬人文交流认知大幅正向提升",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678420.shtml",
+        "published": "2026-08-15 21:50",
+        "summary": "中新社金边8月15日电 (记者 杨强)《面向新时代全天候中柬命运共同体建设：2025年度柬埔寨青年对中柬人文交流认知调查报告》14日在金边发布。报告深度描绘柬埔寨青年对中柬人文交流认知现状，为深化新时代中柬命运共同体建设提供翔实的第一手数据",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre",
-        "published": "2026-08-15 00:05",
-        "summary": "‘A great deal of public opposition is likely’ to a proposed datacentre near Edinburgh, the force says Police in Scotland",
+        "title": "Secondhand book sales are booming. Is it because of AI?",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-15 19:25",
+        "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulp",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Russia-Thailand trade up 23% in January-May 2026 — minister",
+        "title": "Russian air defense intercepts 17 Flamingo missiles, 1,328 fixed-wing UAVs of Kiev forces",
         "source": "TASS",
-        "link": "https://tass.com/economy/2173223",
-        "published": "2026-08-15 00:51",
-        "summary": "Russian Minister for the Development of the Russian Far East Alexey Chekunkov recalled that Russia-Thailand trade turnov",
+        "link": "https://tass.com/defense/2173687",
+        "published": "2026-08-15 19:32",
+        "summary": "The Russian military have damaged logistics centers, fuel and energy facilities, and transport infrastructure in Ukraine",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-        "published": "2026-08-15 01:52",
-        "summary": "Palestine’s vice-president calls plan ‘flagrant violation of international law’ and a step towards full Israeli annexati",
+        "title": "US military aircraft, drone once again spotted over Persian Gulf",
+        "source": "TASS",
+        "link": "https://tass.com/world/2173771",
+        "published": "2026-08-16 04:54",
+        "summary": "A source in Middle Eastern air traffic control services also said that as for military transport aircraft, their flights",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
+        "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
         "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
-        "published": "2026-08-15 00:46",
-        "summary": "Rights groups warn settler and state-led violence aim to displace Palestinians and annex land in the occupied West Bank.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
+        "published": "2026-08-15 23:48",
+        "summary": "Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week.",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Russia's inflation stabilizing, says economy minister",
+        "title": "Russian Armed Forces struck depots containing military equipment at Odessa port",
         "source": "TASS",
-        "link": "https://tass.com/economy/2173453",
-        "published": "2026-08-14 23:16",
-        "summary": "Maxim Reshetnikov noted that a certain level of uncertainty persisted in the economy, driven in part by developments in ",
+        "link": "https://tass.com/defense/2173733",
+        "published": "2026-08-15 23:43",
+        "summary": "During the day combat unmanned aerial vehicles hit warehouses containing military supplies intended for the Armed Forces",
         "ai": false
       }
     ]
@@ -108,25 +108,25 @@
       "city": "南京",
       "current": 25,
       "min": 24,
-      "max": 29,
+      "max": 31,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "武汉",
       "current": 25,
-      "min": 23,
-      "max": 30,
+      "min": 24,
+      "max": 32,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
       "current": 25,
-      "min": 24,
-      "max": 32,
-      "condition": "雷阵雨",
-      "icon": "⛈️"
+      "min": 25,
+      "max": 33,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     }
   ]
 }

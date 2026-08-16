@@ -1,104 +1,104 @@
 {
-  "date": "2026-08-16",
-  "updated_at": "2026-08-16 07:40",
+  "date": "2026-08-17",
+  "updated_at": "2026-08-17 07:39",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！愿你抬头有阳光，心中有梦想，脚下有力量。",
-    "language": "中文",
-    "words": 23
+    "text": "Bonjour ! L'avenir appartient à ceux qui se lèvent tôt. Que la journée vous sourie !",
+    "language": "Français",
+    "words": 16
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "2026两岸青年企业家菁英论坛暨两岸青年研学交流活动在江苏昆山举办",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-15/10678421.shtml",
-        "published": "2026-08-15 21:59",
-        "summary": "中新社江苏昆山8月15日电 (记者 钟升)2026两岸青年企业家菁英论坛暨两岸青年研学交流活动15日在江苏省昆山市开幕。此次活动由两岸企业家峰会主办，主题是“青创成就梦想 AI赋能未来”，约450名两岸青年企业家代表、青年学生等参加活动。",
+        "title": "澳大利亚车市，中国车企强势突围",
+        "source": "环球网-国际",
+        "link": "https://world.huanqiu.com/article/4SpBErMzlms",
+        "published": "2026-08-17 02:25",
+        "summary": "【环球时报综合报道】随着油价上涨以及电动车政策持续推进，澳大利亚电动车销量快速增长，中国车企也借助价格优势加速进入这个长期由日本车企占据主导地位的市场。据《日经亚洲评论》15日报道，今年6月，中国车企比亚迪在澳大利亚的销量约为1.9万辆，仅",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "中国使馆：日政要参拜靖国神社严重挑战战后国际秩序",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-15/10678435.shtml",
-        "published": "2026-08-15 23:30",
-        "summary": "中国驻日本大使馆发言人15日就日本首相高市早苗向靖国神社供奉祭祀费、部分内阁成员和国会议员参拜靖国神社答记者问时表示，日方有关行径严重挑战二战胜利成果和战后国际秩序。中方对此表示强烈愤慨、严厉谴责，已向日方提出严正交涉、强烈抗议。",
+        "title": "美“航母帝国”遭遇三重危机",
+        "source": "环球网-军事",
+        "link": "https://mil.huanqiu.com/article/4SpA2eTGe7d",
+        "published": "2026-08-17 01:51",
+        "summary": "【环球时报特约记者 晨阳】 编者的话： 自从二战以来，庞大的航母战斗群一直是美国海洋霸权的象征。然而近年来随着美国造船工业和海军整体实力的下降，美国航母的状况明显恶化。近日，美国航母问题频出——位于中东战区的“林肯”号航母被爆出超期部署导致",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "莫言刷短剧拒绝“套路” 谈AI有体会",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cul/2026/08-15/10678432.shtml",
-        "published": "2026-08-15 22:15",
-        "summary": "中新社上海8月15日电 (记者 王笈)著名作家莫言时隔6年推出的全新小说集《人呐》，用短的篇幅写出深的人心。15日下午，他在2026上海书展的新书分享会上表示，“我这81篇短小说，人物是有性格的，故事是不重复的，情节既合理又奇特；如果改编成",
+        "title": "乌称袭击俄重要军工企业 俄称一日击落近1500架乌无人机",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/16/ARTIBYBL8MwRK2y1GRw8hOuT260816.shtml",
+        "published": "2026-08-16 21:47",
+        "summary": "乌克兰武装部队总参谋部16日通报，乌军当天袭击了俄罗斯罗斯托夫州的“卡缅斯基联合企业”，该企业属于俄罗斯军工综合体。乌方称，目标所在地发生火灾，目前损失程度及行动结果仍在核实。乌军方称，该军工企业是俄罗斯重要军工企业，生产用于“飓风”“龙卷",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "中国官方发布推动生态环境损害赔偿制度改革进程十大案例",
+        "title": "共创1000个AI场景 上海交大成立AI时代商科人才培养联盟",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-15/10678424.shtml",
-        "published": "2026-08-15 22:01",
-        "summary": "中新社北京8月15日电 (记者 阮煜琳)今年8月15日是中国第四个全国生态日，也是《中华人民共和国生态环境法典》施行之日。当日，中国生态环境部与最高人民法院、最高人民检察院联合发布“推动生态环境损害赔偿制度改革进程的十大案例”。",
+        "link": "https://www.chinanews.com.cn/edu/2026/08-16/10678776.shtml",
+        "published": "2026-08-16 21:03",
+        "summary": "中新网上海8月16日电 (记者 许婧)在16日举办的上海交大AI时代产业创新管理论坛暨交大安泰MBA“智能时代五链人才”培养体系发布会上，上海交大宣布联合上海市人工智能协会、上海市人工智能研究院、上海交通大学安泰经济与管理学院和上海交通大学",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "调查显示：柬埔寨青年对中柬人文交流认知大幅正向提升",
+        "title": "北斗时空安全产业平台落地长沙 共建共享推动特色产业集群建设",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678420.shtml",
-        "published": "2026-08-15 21:50",
-        "summary": "中新社金边8月15日电 (记者 杨强)《面向新时代全天候中柬命运共同体建设：2025年度柬埔寨青年对中柬人文交流认知调查报告》14日在金边发布。报告深度描绘柬埔寨青年对中柬人文交流认知现状，为深化新时代中柬命运共同体建设提供翔实的第一手数据",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-16/10678775.shtml",
+        "published": "2026-08-16 21:02",
+        "summary": "中新网长沙8月16日电(宋倩)北斗时空安全试验基地共建启动暨产业平台建设发布会16日在长沙举行，相关专家学者、企业代表等300余人齐聚，聚焦时空安全产业，共探共建共享产业生态。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Secondhand book sales are booming. Is it because of AI?",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-15 19:25",
-        "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulp",
+        "title": "Why are sandwiches more regulated than AI?",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
+        "published": "2026-08-17 01:36",
+        "summary": "Futurist Max Tegmark wonders why sandwiches are more regulated than artificial intelligence in the US.",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Russian air defense intercepts 17 Flamingo missiles, 1,328 fixed-wing UAVs of Kiev forces",
-        "source": "TASS",
-        "link": "https://tass.com/defense/2173687",
-        "published": "2026-08-15 19:32",
-        "summary": "The Russian military have damaged logistics centers, fuel and energy facilities, and transport infrastructure in Ukraine",
+        "title": "Trump orders Pentagon to scale back joint military exercises with South Korea",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3364222/trump-orders-pentagon-scale-back-joint-military-exercises-south-korea?utm_source=rss_feed",
+        "published": "2026-08-17 06:29",
+        "summary": "US President Donald Trump ordered the Pentagon on Sunday to scale back planned joint military exercises with South Korea",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "US military aircraft, drone once again spotted over Persian Gulf",
-        "source": "TASS",
-        "link": "https://tass.com/world/2173771",
-        "published": "2026-08-16 04:54",
-        "summary": "A source in Middle Eastern air traffic control services also said that as for military transport aircraft, their flights",
+        "title": "US mulls copying Russia’s air defense tech – Military Watch",
+        "source": "RT",
+        "link": "https://www.rt.com/news/644303-us-russia-s-400-radar/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-08-16 22:14",
+        "summary": "The Pentagon is considering next-generation mobile air defense radars modeled on Russia’s S-300 and S-400, according to ",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
-        "published": "2026-08-15 23:48",
-        "summary": "Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week.",
+        "title": "Impact of US trade policy shifts on Hong Kong ‘primarily psychological’: Paul Chan",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364173/impact-us-trade-policy-shifts-hong-kong-primarily-psychological-paul-chan?utm_source=rss_feed",
+        "published": "2026-08-16 13:49",
+        "summary": "Changes in US trade policy and interest rate trends will significantly affect Hong Kong’s economy but the impact will be",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Russian Armed Forces struck depots containing military equipment at Odessa port",
-        "source": "TASS",
-        "link": "https://tass.com/defense/2173733",
-        "published": "2026-08-15 23:43",
-        "summary": "During the day combat unmanned aerial vehicles hit warehouses containing military supplies intended for the Armed Forces",
+        "title": "What could stop Israeli settler attacks on Palestinians?",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+        "published": "2026-08-17 05:54",
+        "summary": "Violence in the occupied West Bank has intensified under Israel's far-right Netanyahu government.",
         "ai": false
       }
     ]
@@ -106,27 +106,27 @@
   "weather": [
     {
       "city": "南京",
-      "current": 25,
-      "min": 24,
-      "max": 31,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 27,
+      "min": 25,
+      "max": 32,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "武汉",
-      "current": 25,
-      "min": 24,
+      "current": 27,
+      "min": 26,
       "max": 32,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "南宁",
-      "current": 25,
-      "min": 25,
+      "current": 26,
+      "min": 26,
       "max": 33,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "condition": "雷阵雨",
+      "icon": "⛈️"
     }
   ]
 }

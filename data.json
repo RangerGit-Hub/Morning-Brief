@@ -1,105 +1,105 @@
 {
-  "date": "2026-08-17",
-  "updated_at": "2026-08-17 07:39",
+  "date": "2026-08-18",
+  "updated_at": "2026-08-18 07:48",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! L'avenir appartient à ceux qui se lèvent tôt. Que la journée vous sourie !",
-    "language": "Français",
-    "words": 16
+    "text": "早安！愿今天的心情像清晨的阳光一样明亮，祝你一切顺利。",
+    "language": "中文",
+    "words": 27
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "澳大利亚车市，中国车企强势突围",
+        "title": "“纠正不当列名的重要一步”！大疆诉美国防部案赢得关键程序性胜利",
         "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4SpBErMzlms",
-        "published": "2026-08-17 02:25",
-        "summary": "【环球时报综合报道】随着油价上涨以及电动车政策持续推进，澳大利亚电动车销量快速增长，中国车企也借助价格优势加速进入这个长期由日本车企占据主导地位的市场。据《日经亚洲评论》15日报道，今年6月，中国车企比亚迪在澳大利亚的销量约为1.9万辆，仅",
+        "link": "https://world.huanqiu.com/article/4SpyU6OxehM",
+        "published": "2026-08-18 01:23",
+        "summary": "【环球时报报道 记者 樊巍】《环球时报》记者8月17日从大疆创新（DJI）获悉，美国当地时间8月14日，大疆创新诉美国国防部案迎来重大实质性进展。美国哥伦比亚特区联邦巡回上诉法院裁定，下级法院需重新审理大疆被列入五角大楼“中国军事企业”（C",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "美“航母帝国”遭遇三重危机",
-        "source": "环球网-军事",
-        "link": "https://mil.huanqiu.com/article/4SpA2eTGe7d",
-        "published": "2026-08-17 01:51",
-        "summary": "【环球时报特约记者 晨阳】 编者的话： 自从二战以来，庞大的航母战斗群一直是美国海洋霸权的象征。然而近年来随着美国造船工业和海军整体实力的下降，美国航母的状况明显恶化。近日，美国航母问题频出——位于中东战区的“林肯”号航母被爆出超期部署导致",
+        "title": "广东力争到2030年山苍子全产业链总产值突破10亿元",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-17/10679331.shtml",
+        "published": "2026-08-17 22:04",
+        "summary": "中新网广州8月17日电 (记者 程景伟)据广东省林业局17日消息，《广东省林业局关于加快推进山苍子产业高质量发展的指导意见》(以下简称：《指导意见》)近日印发，提出全省以连南、连山、乳源三个自治县为核心，带动岭南民族特色高质量发展廊道16个",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "乌称袭击俄重要军工企业 俄称一日击落近1500架乌无人机",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/16/ARTIBYBL8MwRK2y1GRw8hOuT260816.shtml",
-        "published": "2026-08-16 21:47",
-        "summary": "乌克兰武装部队总参谋部16日通报，乌军当天袭击了俄罗斯罗斯托夫州的“卡缅斯基联合企业”，该企业属于俄罗斯军工综合体。乌方称，目标所在地发生火灾，目前损失程度及行动结果仍在核实。乌军方称，该军工企业是俄罗斯重要军工企业，生产用于“飓风”“龙卷",
+        "title": "国家统计局：“中国游”的流量正不断转化为“中国购”的增量",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4SppPAHUmZU",
+        "published": "2026-08-17 21:09",
+        "summary": "国务院新闻办公室今天下午召开新闻发布会介绍7月国民经济运行情况。 国家统计局相关负责人介绍，出入境便利化政策持续优化，离境退税2.0版7月1日落地实施，境外游客来华购物、旅行观光、品质消费持续增加。7月份，多地离境退税商品金额实现大幅增长，",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "共创1000个AI场景 上海交大成立AI时代商科人才培养联盟",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/edu/2026/08-16/10678776.shtml",
-        "published": "2026-08-16 21:03",
-        "summary": "中新网上海8月16日电 (记者 许婧)在16日举办的上海交大AI时代产业创新管理论坛暨交大安泰MBA“智能时代五链人才”培养体系发布会上，上海交大宣布联合上海市人工智能协会、上海市人工智能研究院、上海交通大学安泰经济与管理学院和上海交通大学",
+        "title": "事关加油、做饭、供暖！两部门最新发布",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4SpopMxyulR",
+        "published": "2026-08-17 20:53",
+        "summary": "家里做饭的天然气、出行加的汽油、冬季供暖的能源，都离不开油气产业。今天，国家发展改革委、国家能源局发布《石油天然气发展“十五五”规划》，定下未来5年油气行业的发展路线。 核心要干两件事 当前，国际油气供应链面临更多不确定性——地缘政治、贸易",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "北斗时空安全产业平台落地长沙 共建共享推动特色产业集群建设",
+        "title": "特朗普：伊朗不会达成我认为必要的那种协议",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-16/10678775.shtml",
-        "published": "2026-08-16 21:02",
-        "summary": "中新网长沙8月16日电(宋倩)北斗时空安全试验基地共建启动暨产业平台建设发布会16日在长沙举行，相关专家学者、企业代表等300余人齐聚，聚焦时空安全产业，共探共建共享产业生态。",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679362.shtml",
+        "published": "2026-08-18 07:34",
+        "summary": "中新网8月18日电 综合外媒报道，美国总统特朗普17日在白宫对媒体称，伊朗不会达成他认为结束美伊战事所必需的协议，并且“应当投降”，而两国间的谈判仍处于停滞状态。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Why are sandwiches more regulated than AI?",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
-        "published": "2026-08-17 01:36",
-        "summary": "Futurist Max Tegmark wonders why sandwiches are more regulated than artificial intelligence in the US.",
+        "title": "Kentucky farmers take on AI data-center boom – WSJ",
+        "source": "RT",
+        "link": "https://www.rt.com/news/644332-kentucky-farmers-sale-ai-data-senter/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-08-18 07:34",
+        "summary": "A farming family in Kentucky has rejected a $26.48 million offer on their land amid a wider push against AI data centers",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Trump orders Pentagon to scale back joint military exercises with South Korea",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3364222/trump-orders-pentagon-scale-back-joint-military-exercises-south-korea?utm_source=rss_feed",
-        "published": "2026-08-17 06:29",
-        "summary": "US President Donald Trump ordered the Pentagon on Sunday to scale back planned joint military exercises with South Korea",
+        "title": "Ghana president hopes to meet with Putin at Russia-Africa summit — foreign minister",
+        "source": "TASS",
+        "link": "https://tass.com/world/2174249",
+        "published": "2026-08-17 22:15",
+        "summary": "President John Dramani Mahama thanked the Russian president for the invitation to the third Russia-Africa summit",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "US mulls copying Russia’s air defense tech – Military Watch",
-        "source": "RT",
-        "link": "https://www.rt.com/news/644303-us-russia-s-400-radar/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-08-16 22:14",
-        "summary": "The Pentagon is considering next-generation mobile air defense radars modeled on Russia’s S-300 and S-400, according to ",
-        "ai": false
+        "title": "AI eyes in the sky: new satellites and artificial intelligence are transforming wildfire detection",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
+        "published": "2026-08-17 20:00",
+        "summary": "Hi-tech cameras orbiting Earth and on the ground, along with AI, help firefighters extinguish blazes before they spread ",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "Impact of US trade policy shifts on Hong Kong ‘primarily psychological’: Paul Chan",
+        "title": "South Korea on edge over Trump’s call to cut military drills, goodwill for Kim",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364173/impact-us-trade-policy-shifts-hong-kong-primarily-psychological-paul-chan?utm_source=rss_feed",
-        "published": "2026-08-16 13:49",
-        "summary": "Changes in US trade policy and interest rate trends will significantly affect Hong Kong’s economy but the impact will be",
+        "link": "https://www.scmp.com/week-asia/politics/article/3364307/south-korea-edge-over-trumps-call-cut-military-drills-goodwill-kim?utm_source=rss_feed",
+        "published": "2026-08-17 18:22",
+        "summary": "US President Donald Trump’s call to “substantially” reduce US-South Korea military drills has revived speculation that h",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "What could stop Israeli settler attacks on Palestinians?",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
-        "published": "2026-08-17 05:54",
-        "summary": "Violence in the occupied West Bank has intensified under Israel's far-right Netanyahu government.",
-        "ai": false
+        "title": "Are Microsoft’s AI plans being held back by a shortage of chips?",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
+        "published": "2026-08-17 12:00",
+        "summary": "Guardian investigation finds apparent discrepancy between what tech company has said about its AI capacity – and the num",
+        "ai": true
       }
     ]
   },
@@ -108,25 +108,25 @@
       "city": "南京",
       "current": 27,
       "min": 25,
-      "max": 32,
+      "max": 31,
       "condition": "毛毛雨",
-      "icon": "🌦️"
+      "icon": "🌧️"
     },
     {
       "city": "武汉",
-      "current": 27,
+      "current": 28,
       "min": 26,
-      "max": 32,
-      "condition": "多云",
-      "icon": "⛅"
+      "max": 34,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "南宁",
       "current": 26,
-      "min": 26,
+      "min": 25,
       "max": 33,
-      "condition": "雷阵雨",
-      "icon": "⛈️"
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     }
   ]
 }

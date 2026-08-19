@@ -1,104 +1,104 @@
 {
-  "date": "2026-08-19",
-  "updated_at": "2026-08-19 07:49",
+  "date": "2026-08-20",
+  "updated_at": "2026-08-20 07:48",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！愿好运气跟着你，好心情陪着你，度过愉快的一天。",
+    "text": "早安！愿你抬头有阳光，心中有梦想，脚下有力量。",
     "language": "中文",
-    "words": 26
+    "words": 23
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "临平算力小镇：AI浪潮下，选择自己的航道",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/33755439",
-        "published": "2026-08-19 07:22",
-        "summary": "顺着大浪的方向，却不走别人的航道。 2021年，新的临平区设立后，面临发展方向的选择。临平区内制造业基础雄厚，聚集了老板电器（002508.SZ）、春风动力（603129.SH）等30余家上市公司。在对前沿方向研判后，临平成立了全国首个以“",
+        "title": "普京：乌军袭击俄境内目标造成损失但未产生严重后果",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680722.shtml",
+        "published": "2026-08-20 06:05",
+        "summary": "中新社莫斯科8月19日电 (记者 田冰)俄罗斯总统普京19日在克里姆林宫主持召开俄战略发展和国家项目委员会会议时表示，俄经济增长总体较为平稳，呈现积极势头。乌军袭击俄境内目标造成损失但未产生严重后果。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "告别铺摊子，转身上台阶",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/19/ARTIEkfCU6WTOQhXKvLSmXRi260819.shtml",
-        "published": "2026-08-19 07:14",
-        "summary": "“多亏开发区合二为一，服务没断档，办事更高效。我们正忙着办理施工手续，项目很快能开工了。”在辽宁台安县，一家食品企业的副总经理与记者谈及新投资时说。 企业地处台安高新农业产业开发区。过去，受开发区规划限制，新项目一直不能落地。今年初，高新农",
+        "title": "受南海热带低压影响 广西沿海多个海上项目停航",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-20/10680713.shtml",
+        "published": "2026-08-20 00:49",
+        "summary": "中新社北海8月19日电 (张广权)受南海热带低压影响，广西沿海多个海上客运及旅游项目将于8月20日实施停航。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "中国AI深度赋能制造业 形成实打实生产力",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/19/ARTIlMbeaSXrkyK0zu13ckJO260819.shtml",
-        "published": "2026-08-19 07:04",
-        "summary": "[!--begin:htmlVideoCode--]2f76ed0cabed49f6bf9d431a4d37f776,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 从大模型迭代到应用出海",
+        "title": "特朗普宣布对伊启动“史上最严”经济行动，“任何支援国将遭重罚”",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680734.shtml",
+        "published": "2026-08-20 07:34",
+        "summary": "中新网8月20日电 当地时间8月19日，美国总统特朗普在其社交媒体平台“真实社交”上发文称，美国将对伊朗启动“美国有史以来针对他国实施的最严厉经济行动”。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "阿联酋宣布暂停与伊朗所有贸易及金融交易",
+        "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-19/10679986.shtml",
-        "published": "2026-08-19 06:54",
-        "summary": "中新网8月19日电 据“海湾新闻(Gulf News)”网站报道，阿联酋外交部19日凌晨宣布，即日起阿联酋决定暂停与伊朗的所有贸易、商业往来及金融交易，恢复时间直至另行通知。",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680732.shtml",
+        "published": "2026-08-20 07:21",
+        "summary": "当地时间8月19日，美国总统特朗普在其社交媒体平台“真实社交”发文称，伊朗未能抓住达成协议的机会，因此他宣布对伊朗采取“针对任何国家实施过的最严厉经济行动”，称这将是一场规模空前的“经济战和经济孤立”。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "阿联酋宣布暂停与伊朗的一切贸易金融往来",
+        "title": "“基辅市内传出爆炸声” 乌空军发布警报：弹道导弹正从北部方向袭来",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-19/10679981.shtml",
-        "published": "2026-08-19 06:13",
-        "summary": "阿联酋外交部19日凌晨宣布，鉴于地区局势持续升级破坏了地区和国际和平与安全，阿联酋决定暂停与伊朗的一切贸易、商业往来和金融交易，恢复时间另行通知。",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680731.shtml",
+        "published": "2026-08-20 07:15",
+        "summary": "中新网8月20日电 据乌克兰媒体报道，当地时间20日凌晨，乌克兰空军发布警报称，有弹道导弹正从北部方向飞向乌首都基辅。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "AI-written bills riddled with errors flooding US Congress – Politico",
-        "source": "RT",
-        "link": "https://www.rt.com/news/644371-us-ai-legislative-proposals/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-08-19 06:10",
-        "summary": "US congressional lawyers are struggling with a growing flood of error-ridden legislation drafted using AI tools Read Ful",
+        "title": "Taxpayers to fund clear-up of illegal dumps in West Yorkshire, Surrey and Kent",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/environment/2026/aug/19/taxpayers-to-fund-clear-up-of-dumps-in-west-yorkshire-surrey-and-kent",
+        "published": "2026-08-20 05:30",
+        "summary": "Andy Burnham promises drive to tackle toxic waste, raise fines and use AI-powered drones to detect illegal activity Ille",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Russia’s Putin hosts Myanmar leader, talks up energy projects",
+        "title": "China fund managers stick with AI, chips in August despite July sell-off, survey finds",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3364481/russias-putin-hosts-myanmar-leader-talks-energy-projects?utm_source=rss_feed",
-        "published": "2026-08-19 01:41",
-        "summary": "Russian President Vladimir Putin held talks in Moscow ⁠on Tuesday with ⁠Myanmar’s junta chief-turned-president, Min Aung",
-        "ai": false
+        "link": "https://www.scmp.com/business/markets/article/3364550/china-fund-managers-stick-ai-chips-august-despite-july-sell-survey-finds?utm_source=rss_feed",
+        "published": "2026-08-19 16:13",
+        "summary": "Despite July’s sharp sell-off in global semiconductor shares, driven by concerns over AI-linked profitability, artificia",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "'Tons' of nuclear material found at undisclosed Syrian site, IAEA chief says",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/middle-east/20260818-tons-of-nuclear-materials-found-at-undisclosed-syrian-site-iaea-chief-says",
-        "published": "2026-08-18 23:50",
-        "summary": "UN nuclear watchdog head Rafael Mariano Grossi said Tuesday that his agency had found several \"tons of nuclear materials",
+        "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-20 07:32",
+        "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Russian and Egyptian nuclear authorities reject ‘biased’ Politico report",
-        "source": "RT",
-        "link": "https://www.rt.com/news/644361-russia-egypt-politico-bias/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-08-18 22:52",
-        "summary": "Rosatom and Egypt’s nuclear authority have rejected a Politico report alleging violations at the El Dabaa nuclear plant,",
+        "title": "Trump says he is only US president to establish contact with Kim",
+        "source": "TASS",
+        "link": "https://tass.com/world/2175373",
+        "published": "2026-08-20 06:53",
+        "summary": "The US president added that Japan, South Korea, and other nations are \"a lot safer if I'm president than somebody else i",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Volodymyr Zelensky names new Defence minister after weeks of political crisis",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/volodymyr-zelensky-names-new-defence-minister-after-weeks-of-political-crisis",
-        "published": "2026-08-18 22:27",
-        "summary": "President ​Volodymyr Zelensky nominated ​Yevheny Khmara for parliamentary approval ​to become Defence minister. Khmara s",
+        "title": "Readiness to ask no questions led Khmara to defense minister’s seat — DPR politician",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2175265",
+        "published": "2026-08-20 00:24",
+        "summary": "Alexey Muratov added that a similar principle was used in the case of Ukrainian Foreign Minister Andrey Sibiga, whose ma",
         "ai": false
       }
     ]
@@ -107,7 +107,7 @@
     {
       "city": "南京",
       "current": 28,
-      "min": 26,
+      "min": 25,
       "max": 32,
       "condition": "阴",
       "icon": "☁️"
@@ -116,15 +116,15 @@
       "city": "武汉",
       "current": 28,
       "min": 27,
-      "max": 34,
-      "condition": "阴",
-      "icon": "☁️"
+      "max": 35,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "南宁",
       "current": 26,
       "min": 25,
-      "max": 33,
+      "max": 34,
       "condition": "毛毛雨",
       "icon": "🌦️"
     }

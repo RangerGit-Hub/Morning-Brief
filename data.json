@@ -1,104 +1,104 @@
 {
-  "date": "2026-08-20",
-  "updated_at": "2026-08-20 07:48",
+  "date": "2026-08-21",
+  "updated_at": "2026-08-21 07:53",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！愿你抬头有阳光，心中有梦想，脚下有力量。",
-    "language": "中文",
-    "words": 23
+    "text": "Bonjour ! L'avenir appartient à ceux qui se lèvent tôt. Que la journée vous sourie !",
+    "language": "Français",
+    "words": 16
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "普京：乌军袭击俄境内目标造成损失但未产生严重后果",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680722.shtml",
-        "published": "2026-08-20 06:05",
-        "summary": "中新社莫斯科8月19日电 (记者 田冰)俄罗斯总统普京19日在克里姆林宫主持召开俄战略发展和国家项目委员会会议时表示，俄经济增长总体较为平稳，呈现积极势头。乌军袭击俄境内目标造成损失但未产生严重后果。",
+        "title": "商务部回应美征收无人机关税：敦促立即撤销！",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4SsSFOuH9U1",
+        "published": "2026-08-21 01:07",
+        "summary": "【环球时报综合报道】针对美国总统特朗普近日签署公告，以应对国家安全威胁为由对进口无人机及零部件征收10%至100%的从价关税的提问，中国商务部发言人何亚东在20日的例行发布会上回应称，注意到美方对无人机及零部件征收232关税的决定。中方一贯",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "受南海热带低压影响 广西沿海多个海上项目停航",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-20/10680713.shtml",
-        "published": "2026-08-20 00:49",
-        "summary": "中新社北海8月19日电 (张广权)受南海热带低压影响，广西沿海多个海上客运及旅游项目将于8月20日实施停航。",
+        "title": "商业航天，利好来了！最新批复，民营企业+1",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4SsGghX94fR",
+        "published": "2026-08-20 19:43",
+        "summary": "工业和信息化部近日再次批复民营卫星物联网业务商用试验。本次批复的浙江时空道宇科技有限公司将开展为期两年的商用试验，这是卫星物联网业务进一步扩大向民营开放的重要举措。 在商用试验期间，时空道宇可依法试点经营卫星物联网业务，依托“吉利未来出行星",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "特朗普宣布对伊启动“史上最严”经济行动，“任何支援国将遭重罚”",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680734.shtml",
-        "published": "2026-08-20 07:34",
-        "summary": "中新网8月20日电 当地时间8月19日，美国总统特朗普在其社交媒体平台“真实社交”上发文称，美国将对伊朗启动“美国有史以来针对他国实施的最严厉经济行动”。",
+        "title": "经济日报：国家级经开区被摘牌传递新信号",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/33822686",
+        "published": "2026-08-21 07:34",
+        "summary": "近日，商务部发布公告称，东部、中部、西部、东北四大区域的5家国家级经开区因考核评价靠后，退出国家级经开区序列。这是国家级经开区动态管理机制建立以来，退出数量最多的一次。 开发区的级别，不仅是一种身份标识，也在一定程度上构成地方发展能力和开放",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680732.shtml",
-        "published": "2026-08-20 07:21",
-        "summary": "当地时间8月19日，美国总统特朗普在其社交媒体平台“真实社交”发文称，伊朗未能抓住达成协议的机会，因此他宣布对伊朗采取“针对任何国家实施过的最严厉经济行动”，称这将是一场规模空前的“经济战和经济孤立”。",
+        "title": "美24日公布对伊经济孤立措施 伊朗：徒劳无功 误判将付出代价",
+        "source": "环球网-国际",
+        "link": "https://world.huanqiu.com/article/4Ssg05vT1Tx",
+        "published": "2026-08-21 07:31",
+        "summary": "当地时间20日，美国财政部长贝森特称将对伊朗实施“前所未有的经济孤立”，并称将于24日召开新闻发布会详细说明具体行动内容。这是继特朗普此前一日威胁对伊实施“有史以来针对国家的最具毁灭性的经济行动”后，美方再就经济制裁伊朗发表威胁言论。 20",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "“基辅市内传出爆炸声” 乌空军发布警报：弹道导弹正从北部方向袭来",
+        "title": "伊朗强烈谴责美国制裁 称将利用“一切工具和能力”维护国家利益",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680731.shtml",
-        "published": "2026-08-20 07:15",
-        "summary": "中新网8月20日电 据乌克兰媒体报道，当地时间20日凌晨，乌克兰空军发布警报称，有弹道导弹正从北部方向飞向乌首都基辅。",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681391.shtml",
+        "published": "2026-08-21 06:45",
+        "summary": "中新网8月21日电 据外媒报道，伊朗外交部当地时间20日发表声明，强烈谴责美国对伊朗实施经济和贸易制裁，称美方此举侵犯了伊朗公民基本人权，是“经济恐怖主义”和“反人类罪”的体现。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Taxpayers to fund clear-up of illegal dumps in West Yorkshire, Surrey and Kent",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/environment/2026/aug/19/taxpayers-to-fund-clear-up-of-dumps-in-west-yorkshire-surrey-and-kent",
-        "published": "2026-08-20 05:30",
-        "summary": "Andy Burnham promises drive to tackle toxic waste, raise fines and use AI-powered drones to detect illegal activity Ille",
+        "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
+        "published": "2026-08-20 22:57",
+        "summary": "Trade body says local chains would have to balance concerns with potential benefits of AI-enabled technology Cinemas acr",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "China fund managers stick with AI, chips in August despite July sell-off, survey finds",
+        "title": "New Peru government vows to apply Hong Kong trade deal, but is silent on mainland China",
         "source": "SCMP",
-        "link": "https://www.scmp.com/business/markets/article/3364550/china-fund-managers-stick-ai-chips-august-despite-july-sell-survey-finds?utm_source=rss_feed",
-        "published": "2026-08-19 16:13",
-        "summary": "Despite July’s sharp sell-off in global semiconductor shares, driven by concerns over AI-linked profitability, artificia",
-        "ai": true
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3364737/perus-new-government-pledges-implement-hong-kong-trade-deal-keeps-silent-china?utm_source=rss_feed",
+        "published": "2026-08-21 05:08",
+        "summary": "Peru’s new government has pledged to bring its free-trade agreement with Hong Kong into force this year as part of an ef",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-20 07:32",
-        "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details",
+        "title": "Russia plans to add around 30 gigawatts of nuclear power capacity — Putin",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2175667",
+        "published": "2026-08-20 21:30",
+        "summary": "According to the president, nuclear energy accounts for roughly 20% of the electricity generated in Russia",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Trump says he is only US president to establish contact with Kim",
-        "source": "TASS",
-        "link": "https://tass.com/world/2175373",
-        "published": "2026-08-20 06:53",
-        "summary": "The US president added that Japan, South Korea, and other nations are \"a lot safer if I'm president than somebody else i",
+        "title": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
+        "published": "2026-08-20 12:53",
+        "summary": "US president pivots towards ‘crushing’ economic operation against Iran and its trading partners as military strikes fail",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Readiness to ask no questions led Khmara to defense minister’s seat — DPR politician",
+        "title": "Ukraine’s ex-defense minister urges to mobilize women",
         "source": "TASS",
-        "link": "https://tass.com/politics/2175265",
-        "published": "2026-08-20 00:24",
-        "summary": "Alexey Muratov added that a similar principle was used in the case of Ukrainian Foreign Minister Andrey Sibiga, whose ma",
+        "link": "https://tass.com/world/2175839",
+        "published": "2026-08-21 06:40",
+        "summary": "Alexey Reznikov noted that women can enter military service not just as medical workers",
         "ai": false
       }
     ]
@@ -107,24 +107,24 @@
     {
       "city": "南京",
       "current": 28,
-      "min": 25,
-      "max": 32,
-      "condition": "阴",
-      "icon": "☁️"
+      "min": 26,
+      "max": 31,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "武汉",
-      "current": 28,
+      "current": 29,
       "min": 27,
-      "max": 35,
-      "condition": "多云",
-      "icon": "⛅"
+      "max": 34,
+      "condition": "雷阵雨",
+      "icon": "⛈️"
     },
     {
       "city": "南宁",
       "current": 26,
-      "min": 25,
-      "max": 34,
+      "min": 26,
+      "max": 32,
       "condition": "毛毛雨",
       "icon": "🌦️"
     }

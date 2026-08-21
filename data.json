@@ -1,104 +1,104 @@
 {
-  "date": "2026-08-21",
-  "updated_at": "2026-08-21 07:53",
+  "date": "2026-08-22",
+  "updated_at": "2026-08-22 07:52",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! L'avenir appartient à ceux qui se lèvent tôt. Que la journée vous sourie !",
+    "text": "Bonjour ! Que cette journée commence bien et finisse encore mieux. Profitez-en !",
     "language": "Français",
-    "words": 16
+    "words": 13
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "商务部回应美征收无人机关税：敦促立即撤销！",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4SsSFOuH9U1",
-        "published": "2026-08-21 01:07",
-        "summary": "【环球时报综合报道】针对美国总统特朗普近日签署公告，以应对国家安全威胁为由对进口无人机及零部件征收10%至100%的从价关税的提问，中国商务部发言人何亚东在20日的例行发布会上回应称，注意到美方对无人机及零部件征收232关税的决定。中方一贯",
+        "title": "经济日报经世言：炮制“转运骗局”难掩贸易霸权本质",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/33830677",
+        "published": "2026-08-22 07:17",
+        "summary": "近日，美国政府发布所谓“转运骗局”报告，无端指责中国通过全球40多个国家和地区“洗白”出口商品、规避美国关税，还高调宣布启用人工智能边境系统，严查所谓“非法转运”。这套组合拳声势不小，却难掩其逻辑漏洞与政治算计，本质是为自身关税政策失效甩锅",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "商业航天，利好来了！最新批复，民营企业+1",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4SsGghX94fR",
-        "published": "2026-08-20 19:43",
-        "summary": "工业和信息化部近日再次批复民营卫星物联网业务商用试验。本次批复的浙江时空道宇科技有限公司将开展为期两年的商用试验，这是卫星物联网业务进一步扩大向民营开放的重要举措。 在商用试验期间，时空道宇可依法试点经营卫星物联网业务，依托“吉利未来出行星",
+        "title": "美国务院批准对韩出售1.25亿美元“响尾蛇”导弹",
+        "source": "环球网-军事",
+        "link": "https://mil.huanqiu.com/article/4StSjuPkP7S",
+        "published": "2026-08-22 06:16",
+        "summary": "新华社华盛顿8月21日电（记者黄强 徐剑梅）美国国务院21日发表声明称，已批准向韩国出售价值1.25亿美元的“响尾蛇”空对空导弹及相关设备服务。 声明说，韩国政府提出购买103枚AIM-9X“响尾蛇”Block II战术导弹和10套该型导弹",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "经济日报：国家级经开区被摘牌传递新信号",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/33822686",
-        "published": "2026-08-21 07:34",
-        "summary": "近日，商务部发布公告称，东部、中部、西部、东北四大区域的5家国家级经开区因考核评价靠后，退出国家级经开区序列。这是国家级经开区动态管理机制建立以来，退出数量最多的一次。 开发区的级别，不仅是一种身份标识，也在一定程度上构成地方发展能力和开放",
+        "title": "美企获反无人机订单 提供技术保护中东能源设施",
+        "source": "环球网-军事",
+        "link": "https://mil.huanqiu.com/article/4St0MAOSvnY",
+        "published": "2026-08-21 17:01",
+        "summary": "美国无人机生产商自主能手公司20日宣布获得一份价值约2230万美元的商业合同， 内容是提供反无人机技术，以保护中东地区油气设施。 不过，该公司没有披露客户身份、反无人机系统部署位置等详细信息。 据悉，自主能手公司主营防务与基础设施的防护系统",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "美24日公布对伊经济孤立措施 伊朗：徒劳无功 误判将付出代价",
+        "title": "荷兰对优步网约车公司开出8.25亿欧元罚单",
         "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4Ssg05vT1Tx",
-        "published": "2026-08-21 07:31",
-        "summary": "当地时间20日，美国财政部长贝森特称将对伊朗实施“前所未有的经济孤立”，并称将于24日召开新闻发布会详细说明具体行动内容。这是继特朗普此前一日威胁对伊实施“有史以来针对国家的最具毁灭性的经济行动”后，美方再就经济制裁伊朗发表威胁言论。 20",
+        "link": "https://world.huanqiu.com/article/4StUBGDQTVR",
+        "published": "2026-08-22 06:56",
+        "summary": "新华社海牙8月21日电（记者李弘 邵海军）荷兰数据保护局21日宣布，对美国网约车服务运营商优步公司处以8.25亿欧元罚款，理由是优步公司在未充分履行相关告知和人工审核义务的情况下，通过自动化系统停用司机账户，违反欧盟《通用数据保护条例》的相",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "伊朗强烈谴责美国制裁 称将利用“一切工具和能力”维护国家利益",
+        "title": "伊朗称美经济战“注定失败” 特朗普否认军事选项受限",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681391.shtml",
-        "published": "2026-08-21 06:45",
-        "summary": "中新网8月21日电 据外媒报道，伊朗外交部当地时间20日发表声明，强烈谴责美国对伊朗实施经济和贸易制裁，称美方此举侵犯了伊朗公民基本人权，是“经济恐怖主义”和“反人类罪”的体现。",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-22/10682143.shtml",
+        "published": "2026-08-22 06:46",
+        "summary": "针对美国总统特朗普日前宣称要对伊朗实施的“毁灭性经济行动”，21日，伊朗方面密集发声予以谴责，表示美方经济施压“注定失败”，同时伊朗方面将制定计划应对制裁。同日，特朗普称对伊朗转向经济战并不意味着美国军事选项受限。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
-        "published": "2026-08-20 22:57",
-        "summary": "Trade body says local chains would have to balance concerns with potential benefits of AI-enabled technology Cinemas acr",
+        "title": "China and US push Southeast Asia over their AI blocs. Will it test region’s non-alignment?",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3364853/china-and-us-push-southeast-asia-over-their-ai-blocs-will-it-test-regions-non-alignment?utm_source=rss_feed",
+        "published": "2026-08-21 23:00",
+        "summary": "Southeast Asian leaders have long insisted they will not be forced to pick sides in the great-power rivalry between the ",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "New Peru government vows to apply Hong Kong trade deal, but is silent on mainland China",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3364737/perus-new-government-pledges-implement-hong-kong-trade-deal-keeps-silent-china?utm_source=rss_feed",
-        "published": "2026-08-21 05:08",
-        "summary": "Peru’s new government has pledged to bring its free-trade agreement with Hong Kong into force this year as part of an ef",
+        "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss",
+        "published": "2026-08-22 06:52",
+        "summary": "The vice president's speech hinged heavily on economic themes, as voter confidence slips for Republican policies.",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Russia plans to add around 30 gigawatts of nuclear power capacity — Putin",
+        "title": "Iranian parliament speaker calls for refusing from US dollars in trade",
         "source": "TASS",
-        "link": "https://tass.com/politics/2175667",
-        "published": "2026-08-20 21:30",
-        "summary": "According to the president, nuclear energy accounts for roughly 20% of the electricity generated in Russia",
+        "link": "https://tass.com/economy/2176311",
+        "published": "2026-08-22 05:00",
+        "summary": "Mohammad Bagher Ghalibaf stressed that the use of US dollars in trade as an outdated method of payments",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
-        "published": "2026-08-20 12:53",
-        "summary": "US president pivots towards ‘crushing’ economic operation against Iran and its trading partners as military strikes fail",
+        "title": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss",
+        "published": "2026-08-22 04:07",
+        "summary": "Jose Gabriel Espinoza removed from post days after he was censured by the legislature amid tumult over economic reform.",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Ukraine’s ex-defense minister urges to mobilize women",
+        "title": "Poland plans to deploy missiles with range of over 1,000 km in its east — defense ministry",
         "source": "TASS",
-        "link": "https://tass.com/world/2175839",
-        "published": "2026-08-21 06:40",
-        "summary": "Alexey Reznikov noted that women can enter military service not just as medical workers",
+        "link": "https://tass.com/world/2176159",
+        "published": "2026-08-21 21:27",
+        "summary": "At the same time, Polish Defense Minister Wladyslaw Kosiniak-Kamysz said that Poland had already constructed 150 km of f",
         "ai": false
       }
     ]
@@ -106,27 +106,27 @@
   "weather": [
     {
       "city": "南京",
-      "current": 28,
+      "current": 27,
       "min": 26,
-      "max": 31,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "max": 30,
+      "condition": "雷阵雨",
+      "icon": "⛈️"
     },
     {
       "city": "武汉",
       "current": 29,
-      "min": 27,
-      "max": 34,
-      "condition": "雷阵雨",
+      "min": 28,
+      "max": 35,
+      "condition": "雷阵雨伴冰雹",
       "icon": "⛈️"
     },
     {
       "city": "南宁",
       "current": 26,
       "min": 26,
-      "max": 32,
+      "max": 30,
       "condition": "毛毛雨",
-      "icon": "🌦️"
+      "icon": "🌧️"
     }
   ]
 }

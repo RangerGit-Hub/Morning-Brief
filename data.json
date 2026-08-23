@@ -1,128 +1,128 @@
 {
-  "date": "2026-08-23",
-  "updated_at": "2026-08-23 07:42",
+  "date": "2026-08-24",
+  "updated_at": "2026-08-24 07:43",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！愿你抬头有阳光，心中有梦想，脚下有力量。",
+    "text": "早安！生活明朗，万物可爱，愿你今天也被温柔以待。",
     "language": "中文",
-    "words": 23
+    "words": 24
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "普京称俄军加大对乌企业打击",
+        "title": "体育产业规模将近翻番，意味着什么",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682493.shtml",
-        "published": "2026-08-23 00:04",
-        "summary": "当地时间22日，俄罗斯总统普京表示，乌克兰武装部队在过去40天里持续使用导弹和无人机对俄罗斯发动攻击，企图借此击败俄罗斯，但这“不过是一场冒险”。他称，乌军的打击并未造成任何实质性转折。",
+        "link": "https://www.chinanews.com.cn/ty/2026/08-24/10682890.shtml",
+        "published": "2026-08-24 07:35",
+        "summary": "《体育强国建设“十五五”规划》(以下简称“规划”)描绘了“十五五”时期中国体育事业发展的宏伟蓝图，亦体现出国家层面对体育综合价值和作用的重新锚定。该规划更是体育领域首次纳入国家级专项规划编制目录清单，明确提出到2030年体育产业总规模将突破",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "经济日报金观平：企业应成为科技创新“出题人”",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/33834638",
-        "published": "2026-08-23 06:50",
-        "summary": "推动科技创新和产业创新深度融合，是以高水平科技自立自强引领发展新质生产力的关键。其中，科技创新需突出应用导向，支持高校、科研院所对接企业开展科研攻关和人才培养；产业创新需强化企业创新主体地位，支持企业与高校、科研院所共建平台、共克难题。发挥",
+        "title": "国家首提“算力超市”和“算力银行”，背后藏着一盘算力“大棋”",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gsztc/2026/08-24/10682884.shtml",
+        "published": "2026-08-24 07:20",
+        "summary": "文/刘亮",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "叙利亚谴责以色列袭击“严重侵犯叙主权”",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682500.shtml",
-        "published": "2026-08-23 06:36",
-        "summary": "叙利亚过渡政府外交部22日发表声明，强烈谴责以色列无人机当天在叙利亚大马士革农村省拜特金地区袭击一辆民用车辆，此次袭击造成多名平民受伤。",
+        "title": "录取分数持续走高 职业本科如何守住“职业”本色",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/24/ARTIkdSqfMRDeZwSb0twWlrq260824.shtml",
+        "published": "2026-08-24 07:13",
+        "summary": "2025年世界职业院校技能大赛冠军总决赛现场。新华社发 在南京工业职业技术大学校企共建特色产业学院——北京精雕学院机床边，企业导师在指导学生。新华社发 学生在黑龙江省职业教育活动周启动仪式现场进行机器人应用与实践展示。新华社发 长春汽车职业",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "加拿大宣布9月8日起对美国商品征收报复性关税",
+        "title": "美军中央司令部：在中东地区海域开展舰艇补给作业",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682499.shtml",
-        "published": "2026-08-23 06:30",
-        "summary": "当地时间8月22日，加拿大总理卡尼发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-24/10682882.shtml",
+        "published": "2026-08-24 06:41",
+        "summary": "中新网8月24日电 当地时间8月23日，美军中央司令部在社交媒体上发布消息称，美国海军一架MH-60S“海鹰”直升机在中东地区海域为“拳师”号两栖攻击舰执行垂直补给任务，物资由“北极”号快速战斗支援舰提供。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "人工智能进课堂，如何学得更好",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/edu/2026/08-23/10682495.shtml",
-        "published": "2026-08-23 06:05",
-        "summary": "人工智能进课堂，如何学得更好(解码“十五五”专项规划)",
+        "title": "加拿大驻美大使：加美贸易谈判破裂原因涉及多项议题",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/24/ARTISQL9ZnZRSsmXPpBBk9gg260824.shtml",
+        "published": "2026-08-24 06:23",
+        "summary": "央视记者 当地时间8月23日获悉，加拿大驻美国大使马克·怀斯曼表示，加美贸易谈判22日晚间破裂，原因涉及多项议题，其中潜在协议的书面文本与加拿大方面认为双方此前已达成的共识存在出入。 怀斯曼23日在接受采访时称，并非某一个单独问题导致谈判失",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Nvidia customers notified of AI-related price rises above 15%",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/tech/big-tech/article/3364945/nvidia-customers-notified-ai-related-price-rises-above-15?utm_source=rss_feed",
-        "published": "2026-08-23 05:54",
-        "summary": "Some of Nvidia’s biggest customers have been told that the prices of servers containing its artificial intelligence chip",
+        "title": "Ella Baron on AI and the drought – cartoon",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/23/ella-baron-on-ai-and-the-drought-cartoon",
+        "published": "2026-08-24 01:03",
+        "summary": "Continue reading...",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Shutodown of Armenian NPP to make Yerevan more dependent on other states — diplomat",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2176541",
-        "published": "2026-08-23 04:58",
-        "summary": "Maria Zakharova noted that the Metsamor Nuclear Power Plant is a \"system-forming element in the republic’s energy balanc",
+        "title": "Zelensky details rift with Ukraine’s dismissed defence minister Fedorov",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3364991/zelensky-details-rift-ukraines-dismissed-defence-minister-fedorov?utm_source=rss_feed",
+        "published": "2026-08-24 02:20",
+        "summary": "Ukrainian President Volodymyr Zelensky said he believes actions taken by dismissed Defence Minister Mykhailo Fedorov, in",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Russian military strikes trains delivering military cargo in two regions of Ukraine",
-        "source": "TASS",
-        "link": "https://tass.com/defense/2176529",
-        "published": "2026-08-23 03:34",
-        "summary": "The Russian defense ministry said that \"regular strikes on rail infrastructure and locomotives used for supplying troops",
-        "ai": false
+        "title": "US efforts to secure AI supply chains are doomed to fail: Chinese academic",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3364973/us-efforts-secure-ai-supply-chains-are-doomed-fail-says-chinese-academic?utm_source=rss_feed",
+        "published": "2026-08-23 19:00",
+        "summary": "The latest US artificial intelligence (AI) and supply chain initiatives are doomed to fail, according to a prominent pol",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "Infantino defies FIFA vice president's request to stay away from Caribbean youth tournament",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/sport/20260822-infantino-defies-fifa-vice-president-s-request-to-stay-away-from-caribbean-youth-tournament",
-        "published": "2026-08-22 23:07",
-        "summary": "FIFA president Gianni Infantino made a rare public appearance in the Caribbean despite a request from vice president Vic",
-        "ai": false
+        "title": "Asia is reaching for the open road that Chinese AI offers",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/opinion/asia-opinion/article/3364157/asia-reaching-open-road-chinese-ai-offers?utm_source=rss_feed",
+        "published": "2026-08-23 16:30",
+        "summary": "At a recent Apec digital technology and AI forum in Chengdu, ministers across the Asia-Pacific Economic Cooperation foru",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Putin adamant upcoming Duma election will reaffirm nation’s sustainability",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2176435",
-        "published": "2026-08-22 21:09",
-        "summary": "Russian President said that the upcoming election also will reaffirm the maturity of russian political system",
-        "ai": false
+        "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+        "published": "2026-08-23 16:00",
+        "summary": "Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’ A seni",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 27,
-      "min": 26,
+      "current": 28,
+      "min": 27,
       "max": 32,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
+    },
+    {
+      "city": "武汉",
+      "current": 28,
+      "min": 27,
+      "max": 35,
       "condition": "大部晴朗",
       "icon": "🌤️"
     },
     {
-      "city": "武汉",
-      "current": 29,
-      "min": 28,
-      "max": 36,
-      "condition": "雷阵雨",
-      "icon": "⛈️"
-    },
-    {
       "city": "南宁",
-      "current": 26,
+      "current": 25,
       "min": 25,
       "max": 32,
       "condition": "阴",

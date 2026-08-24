@@ -1,105 +1,105 @@
 {
-  "date": "2026-08-24",
-  "updated_at": "2026-08-24 07:43",
+  "date": "2026-08-25",
+  "updated_at": "2026-08-25 07:48",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！生活明朗，万物可爱，愿你今天也被温柔以待。",
-    "language": "中文",
-    "words": 24
+    "text": "Bonjour ! Que cette nouvelle journée vous apporte joie, énergie et de belles surprises.",
+    "language": "Français",
+    "words": 14
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "体育产业规模将近翻番，意味着什么",
+        "title": "推动高质量发展行稳致远",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/ty/2026/08-24/10682890.shtml",
-        "published": "2026-08-24 07:35",
-        "summary": "《体育强国建设“十五五”规划》(以下简称“规划”)描绘了“十五五”时期中国体育事业发展的宏伟蓝图，亦体现出国家层面对体育综合价值和作用的重新锚定。该规划更是体育领域首次纳入国家级专项规划编制目录清单，明确提出到2030年体育产业总规模将突破",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683518.shtml",
+        "published": "2026-08-25 07:34",
+        "summary": "7月30日召开的中共中央政治局会议全面部署了下半年经济工作，明确要推动经济持续向新向优向好发展，努力实现“十五五”良好开局。做好下半年经济工作，要深入贯彻落实党中央决策部署，加大逆周期调节力度，充分发挥各项存量政策效能，及时谋划出台务实管用",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "国家首提“算力超市”和“算力银行”，背后藏着一盘算力“大棋”",
+        "title": "智慧生活加速到来！机器人硬核科技，将带来哪些惊喜？",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gsztc/2026/08-24/10682884.shtml",
-        "published": "2026-08-24 07:20",
-        "summary": "文/刘亮",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683513.shtml",
+        "published": "2026-08-25 07:29",
+        "summary": "2026年是人形机器人量产落地的关键元年，机器人彻底告别舞台炫技，全面转向实景作业。在2026年8月19日至23日举办的2026世界机器人大会上，近万平方米机器人消费街全新登场，覆盖家用、商用、养老、特种作业全场景，众多可量产、可落地的新品",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "录取分数持续走高 职业本科如何守住“职业”本色",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/24/ARTIkdSqfMRDeZwSb0twWlrq260824.shtml",
-        "published": "2026-08-24 07:13",
-        "summary": "2025年世界职业院校技能大赛冠军总决赛现场。新华社发 在南京工业职业技术大学校企共建特色产业学院——北京精雕学院机床边，企业导师在指导学生。新华社发 学生在黑龙江省职业教育活动周启动仪式现场进行机器人应用与实践展示。新华社发 长春汽车职业",
+        "title": "因QDII外汇违规，国泰海通资管被罚没5254.74万元",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/33841565",
+        "published": "2026-08-25 07:24",
+        "summary": "国泰海通资管被国家外汇管理局上海市分局罚没超5000万元。 近期，国家外汇管理局上海市分局披露三份行政处罚信息。其中，上海国泰海通证券资产管理有限公司（下称“国泰海通资管”）因违反合格境内机构投资者(简称QDII)境外证券投资外汇管理规定，",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "美军中央司令部：在中东地区海域开展舰艇补给作业",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-24/10682882.shtml",
-        "published": "2026-08-24 06:41",
-        "summary": "中新网8月24日电 当地时间8月23日，美军中央司令部在社交媒体上发布消息称，美国海军一架MH-60S“海鹰”直升机在中东地区海域为“拳师”号两栖攻击舰执行垂直补给任务，物资由“北极”号快速战斗支援舰提供。",
+        "title": "美财长：任何为伊朗洗钱的实体将被移出美元体系",
+        "source": "环球网-国际",
+        "link": "https://world.huanqiu.com/article/4SvzPvlcRR6",
+        "published": "2026-08-25 07:21",
+        "summary": "当地时间8月24日，美国财政部长贝森特就制裁伊朗举行新闻发布会。贝森特表示，任何为伊朗洗钱的实体将被移出美元体系。 美国财政部长贝森特23日晚在社交媒体上说，美国同伊朗的战事正进入“终局”，扬言要切断伊朗政权“每一条经济命脉”，直至德黑兰“",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "加拿大驻美大使：加美贸易谈判破裂原因涉及多项议题",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/24/ARTISQL9ZnZRSsmXPpBBk9gg260824.shtml",
-        "published": "2026-08-24 06:23",
-        "summary": "央视记者 当地时间8月23日获悉，加拿大驻美国大使马克·怀斯曼表示，加美贸易谈判22日晚间破裂，原因涉及多项议题，其中潜在协议的书面文本与加拿大方面认为双方此前已达成的共识存在出入。 怀斯曼23日在接受采访时称，并非某一个单独问题导致谈判失",
+        "title": "美财长称特朗普正就制裁伊朗致电各国领导人",
+        "source": "环球网-国际",
+        "link": "https://world.huanqiu.com/article/4SvzNn8imOC",
+        "published": "2026-08-25 07:20",
+        "summary": "当地时间8月24日，美国财政部长贝森特召开新闻发布会。贝森特表示，美国总统特朗普正致电各国领导人，明确要求其停止与伊朗的往来。 美国财政部长贝森特23日晚在社交媒体上说，美国同伊朗的战事正进入“终局”，扬言要切断伊朗政权“每一条经济命脉”，",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Ella Baron on AI and the drought – cartoon",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/23/ella-baron-on-ai-and-the-drought-cartoon",
-        "published": "2026-08-24 01:03",
-        "summary": "Continue reading...",
+        "title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
+        "published": "2026-08-24 22:01",
+        "summary": "Prime minister will use national cabinet meeting to assuage premiers over new AI law as Aemo forecasts seven-fold rise i",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Zelensky details rift with Ukraine’s dismissed defence minister Fedorov",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3364991/zelensky-details-rift-ukraines-dismissed-defence-minister-fedorov?utm_source=rss_feed",
-        "published": "2026-08-24 02:20",
-        "summary": "Ukrainian President Volodymyr Zelensky said he believes actions taken by dismissed Defence Minister Mykhailo Fedorov, in",
+        "title": "German foreign minister acknowledges funding shortfall for military aid to Ukraine",
+        "source": "TASS",
+        "link": "https://tass.com/world/2177219",
+        "published": "2026-08-25 06:50",
+        "summary": "Johann Wadephul said he had discussed the matter in detail with Ukraine's new defense minister",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "US efforts to secure AI supply chains are doomed to fail: Chinese academic",
+        "title": "Mexico ‘optimistic’ on US trade deal after Canada talks collapse",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3364973/us-efforts-secure-ai-supply-chains-are-doomed-fail-says-chinese-academic?utm_source=rss_feed",
-        "published": "2026-08-23 19:00",
-        "summary": "The latest US artificial intelligence (AI) and supply chain initiatives are doomed to fail, according to a prominent pol",
-        "ai": true
+        "link": "https://www.scmp.com/news/world/americas/article/3365112/mexico-optimistic-us-trade-deal-after-canada-talks-collapse?utm_source=rss_feed",
+        "published": "2026-08-25 02:36",
+        "summary": "Mexican President Claudia Sheinbaum expressed optimism she can reach a trade deal with US President Donald Trump as her ",
+        "ai": false
       },
       {
         "rank": 4,
-        "title": "Asia is reaching for the open road that Chinese AI offers",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/opinion/asia-opinion/article/3364157/asia-reaching-open-road-chinese-ai-offers?utm_source=rss_feed",
-        "published": "2026-08-23 16:30",
-        "summary": "At a recent Apec digital technology and AI forum in Chengdu, ministers across the Asia-Pacific Economic Cooperation foru",
-        "ai": true
+        "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
+        "published": "2026-08-25 02:22",
+        "summary": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from dispute Are you",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
-        "published": "2026-08-23 16:00",
-        "summary": "Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’ A seni",
-        "ai": true
+        "title": "India hopes for Putin’s participation in BRICS summit — top diplomat",
+        "source": "TASS",
+        "link": "https://tass.com/world/2177009",
+        "published": "2026-08-24 20:25",
+        "summary": "The 18th BRICS Summit will be held in New Delhi on September 12-13",
+        "ai": false
       }
     ]
   },
@@ -107,26 +107,26 @@
     {
       "city": "南京",
       "current": 28,
-      "min": 27,
-      "max": 32,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "min": 26,
+      "max": 33,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "武汉",
-      "current": 28,
-      "min": 27,
-      "max": 35,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 31,
+      "min": 30,
+      "max": 37,
+      "condition": "晴",
+      "icon": "☀️"
     },
     {
       "city": "南宁",
       "current": 25,
       "min": 25,
       "max": 32,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     }
   ]
 }

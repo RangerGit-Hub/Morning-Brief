@@ -1,132 +1,132 @@
 {
-  "date": "2026-08-25",
-  "updated_at": "2026-08-25 07:48",
+  "date": "2026-08-26",
+  "updated_at": "2026-08-26 07:51",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Que cette nouvelle journée vous apporte joie, énergie et de belles surprises.",
-    "language": "Français",
-    "words": 14
+    "text": "早安！生活明朗，万物可爱，愿你今天也被温柔以待。",
+    "language": "中文",
+    "words": 24
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "推动高质量发展行稳致远",
+        "title": "消息人士：“美中东情报设施遭伊朗重创 修复或需数十亿美元”",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683518.shtml",
-        "published": "2026-08-25 07:34",
-        "summary": "7月30日召开的中共中央政治局会议全面部署了下半年经济工作，明确要推动经济持续向新向优向好发展，努力实现“十五五”良好开局。做好下半年经济工作，要深入贯彻落实党中央决策部署，加大逆周期调节力度，充分发挥各项存量政策效能，及时谋划出台务实管用",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684221.shtml",
+        "published": "2026-08-26 06:31",
+        "summary": "中新网8月26日电 据美国全国广播公司(NBC)当地时间8月25日报道，4名知情人士表示，伊朗的导弹和无人机袭击对美国在中东的情报站点和监控设备造成严重破坏，损毁程度超过美国情报机构以往遭受的任何类似打击，修复费用预计将达到数十亿美元。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "智慧生活加速到来！机器人硬核科技，将带来哪些惊喜？",
+        "title": "古巴谴责美国延长对古实施经济封锁",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683513.shtml",
-        "published": "2026-08-25 07:29",
-        "summary": "2026年是人形机器人量产落地的关键元年，机器人彻底告别舞台炫技，全面转向实景作业。在2026年8月19日至23日举办的2026世界机器人大会上，近万平方米机器人消费街全新登场，覆盖家用、商用、养老、特种作业全场景，众多可量产、可落地的新品",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684219.shtml",
+        "published": "2026-08-26 05:56",
+        "summary": "古巴外交部长罗德里格斯25日谴责美国政府再次延长从1962年开始对古巴实施的《对敌贸易法》期限。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "因QDII外汇违规，国泰海通资管被罚没5254.74万元",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/33841565",
-        "published": "2026-08-25 07:24",
-        "summary": "国泰海通资管被国家外汇管理局上海市分局罚没超5000万元。 近期，国家外汇管理局上海市分局披露三份行政处罚信息。其中，上海国泰海通证券资产管理有限公司（下称“国泰海通资管”）因违反合格境内机构投资者(简称QDII)境外证券投资外汇管理规定，",
+        "title": "特朗普：霍尔木兹海峡国际水域内所有水雷已被清除或引爆",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684229.shtml",
+        "published": "2026-08-26 07:28",
+        "summary": "中新网8月26日电 据英国广播公司(BBC)当地时间25日报道，美国总统特朗普在社交媒体“真实社交”上表示，美国海军刚刚通知他，霍尔木兹海峡国际水域内的所有水雷均已被清除或引爆。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "美财长：任何为伊朗洗钱的实体将被移出美元体系",
-        "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4SvzPvlcRR6",
-        "published": "2026-08-25 07:21",
-        "summary": "当地时间8月24日，美国财政部长贝森特就制裁伊朗举行新闻发布会。贝森特表示，任何为伊朗洗钱的实体将被移出美元体系。 美国财政部长贝森特23日晚在社交媒体上说，美国同伊朗的战事正进入“终局”，扬言要切断伊朗政权“每一条经济命脉”，直至德黑兰“",
+        "title": "付费飞机餐走红，免费飞机餐会消失吗？",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-26/10684227.shtml",
+        "published": "2026-08-26 07:18",
+        "summary": "曾经坐飞机，只要航程达标，经济舱旅客就能拿到一份统一配送的免费飞机餐，好不好吃全凭运气。如今，煲仔饭、牛排、冒菜、鱼子酱拼盘等花样繁多的餐食陆续登上客舱，只不过这些精致美食大多需要额外付费。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "美财长称特朗普正就制裁伊朗致电各国领导人",
-        "source": "环球网-国际",
-        "link": "https://world.huanqiu.com/article/4SvzNn8imOC",
-        "published": "2026-08-25 07:20",
-        "summary": "当地时间8月24日，美国财政部长贝森特召开新闻发布会。贝森特表示，美国总统特朗普正致电各国领导人，明确要求其停止与伊朗的往来。 美国财政部长贝森特23日晚在社交媒体上说，美国同伊朗的战事正进入“终局”，扬言要切断伊朗政权“每一条经济命脉”，",
+        "title": "外媒：罕见！美中情局局长秘访莫斯科 与俄方举行未公开会谈",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684226.shtml",
+        "published": "2026-08-26 07:18",
+        "summary": "中新网8月26日电 据美国哥伦比亚广播公司(CBS)、英国广播公司(BBC)当地时间25日报道，美国中央情报局局长拉特克利夫已前往俄罗斯首都莫斯科与俄方进行未公开会谈。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
+        "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
         "source": "The Guardian",
-        "link": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
-        "published": "2026-08-24 22:01",
-        "summary": "Prime minister will use national cabinet meeting to assuage premiers over new AI law as Aemo forecasts seven-fold rise i",
+        "link": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
+        "published": "2026-08-26 03:02",
+        "summary": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "German foreign minister acknowledges funding shortfall for military aid to Ukraine",
-        "source": "TASS",
-        "link": "https://tass.com/world/2177219",
-        "published": "2026-08-25 06:50",
-        "summary": "Johann Wadephul said he had discussed the matter in detail with Ukraine's new defense minister",
+        "title": "US soldier who called for Trump impeachment facing military charges",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
+        "published": "2026-08-26 05:16",
+        "summary": "Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Mexico ‘optimistic’ on US trade deal after Canada talks collapse",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/americas/article/3365112/mexico-optimistic-us-trade-deal-after-canada-talks-collapse?utm_source=rss_feed",
-        "published": "2026-08-25 02:36",
-        "summary": "Mexican President Claudia Sheinbaum expressed optimism she can reach a trade deal with US President Donald Trump as her ",
+        "title": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
+        "source": "NPR",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
+        "published": "2026-08-25 23:20",
+        "summary": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
-        "published": "2026-08-25 02:22",
-        "summary": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from dispute Are you",
+        "title": "US admits defeat in China minerals race. Can Brazil turn panic into processing power?",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3365239/us-admits-defeat-china-minerals-race-can-brazil-turn-panic-processing-power?utm_source=rss_feed",
+        "published": "2026-08-25 21:48",
+        "summary": "Brazilian Mines and Energy Minister Alexandre Silveira revealed that US President Donald Trump and his team conceded dur",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "India hopes for Putin’s participation in BRICS summit — top diplomat",
-        "source": "TASS",
-        "link": "https://tass.com/world/2177009",
-        "published": "2026-08-24 20:25",
-        "summary": "The 18th BRICS Summit will be held in New Delhi on September 12-13",
-        "ai": false
+        "title": "No, AI doesn’t mean the end of mathematics – at least not yet | Bruce Schneier and Kasra Rafi",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers",
+        "published": "2026-08-25 20:00",
+        "summary": "Mathematicians are raising concerns that the technology could kill their profession. But they still have abilities AI do",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 28,
-      "min": 26,
+      "current": 27,
+      "min": 25,
       "max": 33,
       "condition": "大部晴朗",
       "icon": "🌤️"
     },
     {
       "city": "武汉",
-      "current": 31,
-      "min": 30,
-      "max": 37,
+      "current": 30,
+      "min": 29,
+      "max": 38,
       "condition": "晴",
       "icon": "☀️"
     },
     {
       "city": "南宁",
-      "current": 25,
-      "min": 25,
-      "max": 32,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 26,
+      "min": 26,
+      "max": 31,
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

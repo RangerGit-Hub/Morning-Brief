@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """每日晨报数据生成器
 
-抓取国内/国际新闻与南京/武汉/南宁天气，生成 site/data.json。
+抓取国内/国际新闻与五地天气，生成 site/data.json。
 仅使用 Python 标准库。
 
 - 国内新闻 5 条：信源为新华社、人民日报等权威主流媒体及部委/省级官媒（20+ 家），
@@ -14,7 +14,6 @@ import email.utils
 import html
 import json
 import os
-import random
 import re
 import sys
 import urllib.request
@@ -40,37 +39,73 @@ SITE_DIR = os.path.join(BASE_DIR, "site") if os.path.isdir(os.path.join(BASE_DIR
 DATA_PATH = os.path.join(SITE_DIR, "data.json")
 HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; MorningBrief/1.0)"}
 
-# ---------------- 早安问候语池（中文/英文/法语，均不超过 30 词） ----------------
+# ---------------- 早安问候语池（中文不超过 30 字，英文/法语不超过 30 词） ----------------
 GREETINGS = {
     "中文": [
-        "早安！愿今天的心情像清晨的阳光一样明亮，祝你一切顺利。",
-        "早安！新的一天，新的开始，愿你元气满满，笑容常在。",
-        "早安！愿你在今天的每个瞬间都能感受到生活的美好。",
-        "早安！阳光正好，微风不燥，愿你今天过得开心。",
-        "早安！愿好运气跟着你，好心情陪着你，度过愉快的一天。",
-        "早安！生活明朗，万物可爱，愿你今天也被温柔以待。",
-        "早安！每个清晨都是新的机会，愿你把握今天，不负自己。",
-        "早安！愿你抬头有阳光，心中有梦想，脚下有力量。",
+        "早安！愿你心有暖阳，脚步坚定。",
+        "早安！新的一天，愿好事如约而至。",
+        "清晨好！愿今天平安顺遂，收获满满。",
+        "早安！把握当下，向喜欢的生活出发。",
+        "早安！愿晨光带来勇气与好心情。",
+        "新的一天，愿你从容前行，事事顺心。",
+        "早安！愿微风拂去疲惫，阳光照亮心情。",
+        "清晨好！愿你眼里有光，心中有梦。",
+        "早安！愿今日所行皆坦途，所遇皆美好。",
+        "新日初醒，愿你带着微笑开启一天。",
+        "早安！愿努力都有回响，期待都有答案。",
+        "清晨好！愿你精神饱满，生活有序。",
+        "早安！愿今天多些惊喜，少些烦恼。",
+        "晨光已至，愿你心情明朗，一路向前。",
+        "早安！愿平凡的一天也有闪亮时刻。",
+        "新的一天，愿你不慌不忙，稳步成长。",
+        "早安！保持热爱，奔赴今天的美好。",
+        "清晨好！愿你拥有清醒、勇气与温柔。",
+        "早安！愿每一步都有意义，每天有进步。",
+        "天亮了，愿你带着希望迎接新一天。",
     ],
     "English": [
-        "Good morning! May your day be as bright and full of promise as the sunrise. Have a wonderful day!",
-        "Good morning! Wishing you a day filled with joy, energy, and small happy moments.",
-        "Good morning! Every sunrise brings a new chance. Make today count!",
-        "Good morning! May today bring you good news, warm smiles, and peaceful moments.",
-        "Good morning! Here's to a fresh start and a day full of possibilities. Enjoy it!",
-        "Good morning! Let the light of this new day guide you to something great.",
-        "Good morning! Stay curious, stay kind, and make the most of this beautiful day.",
-        "Good morning! May your coffee be strong and your day be wonderful!",
+        "Good morning! May today bring you calm, courage, and a reason to smile.",
+        "Rise and shine! A fresh day is ready for your best ideas.",
+        "Good morning! Take one hopeful step, then let the day unfold.",
+        "May your morning feel light and your whole day go smoothly.",
+        "Good morning! New light, new energy, new possibilities.",
+        "Start today with gratitude, curiosity, and a steady heart.",
+        "Good morning! May kind moments find you wherever you go.",
+        "A bright morning to you—make today meaningful in your own way.",
+        "Good morning! Trust your pace and enjoy the journey ahead.",
+        "May this new day bring clear thoughts and warm surprises.",
+        "Good morning! Breathe deeply, begin gently, and keep moving forward.",
+        "Wake with purpose and carry a little sunshine into the world.",
+        "Good morning! May your plans flow and your spirits stay high.",
+        "Today is a clean page—fill it with something worthwhile.",
+        "Good morning! Let small progress become a beautiful day.",
+        "May your coffee be warm and your choices be wise today.",
+        "Good morning! Keep your heart open and your goals in sight.",
+        "A new sunrise, a new chance to do something wonderful.",
+        "Good morning! May today reward your patience and effort.",
+        "Step into the day with confidence, kindness, and quiet joy.",
     ],
     "Français": [
-        "Bonjour ! Que cette nouvelle journée vous apporte joie, énergie et de belles surprises.",
-        "Bonjour ! Chaque matin est une nouvelle chance. Passez une excellente journée !",
-        "Bonjour ! Que le soleil de ce matin éclaire votre chemin et illumine votre journée.",
-        "Bonjour ! Prenez le temps d'apprécier les petits bonheurs du jour. Bonne journée !",
-        "Bonjour ! Je vous souhaite une journée pleine de sourires et de réussites.",
-        "Bonjour ! Que cette journée commence bien et finisse encore mieux. Profitez-en !",
-        "Bonjour ! L'avenir appartient à ceux qui se lèvent tôt. Que la journée vous sourie !",
-        "Bonjour ! Douceur, bonne humeur et réussite au programme de cette belle journée.",
+        "Bonjour ! Que cette journée vous apporte calme, énergie et sourires.",
+        "Bonjour ! Avancez avec confiance, une belle journée vous attend.",
+        "Que ce matin soit doux et votre journée pleine de belles surprises.",
+        "Bonjour ! Un nouveau jour commence, profitez de chaque instant.",
+        "Que la lumière du matin éclaire vos projets et votre humeur.",
+        "Bonjour ! Gardez le sourire et faites confiance à votre rythme.",
+        "Je vous souhaite une journée sereine, utile et pleine d’élan.",
+        "Bonjour ! Que vos efforts d’aujourd’hui portent de beaux fruits.",
+        "Commencez la journée avec gratitude, courage et bonne humeur.",
+        "Bonjour ! Que chaque petit pas vous rapproche de vos rêves.",
+        "Un matin lumineux pour une journée simple et heureuse.",
+        "Bonjour ! Respirez, souriez et accueillez les possibilités du jour.",
+        "Que cette nouvelle journée vous offre paix et inspiration.",
+        "Bonjour ! Prenez soin de vous et savourez les petits bonheurs.",
+        "Le jour se lève : avancez avec confiance et douceur.",
+        "Bonjour ! Que vos idées soient claires et votre cœur léger.",
+        "Une nouvelle journée commence, riche de promesses et d’occasions.",
+        "Bonjour ! Cultivez la joie et partagez un peu de lumière.",
+        "Que votre matin soit paisible et votre journée couronnée de succès.",
+        "Bonjour ! Aujourd’hui est une belle occasion de progresser.",
     ],
 }
 
@@ -96,8 +131,6 @@ DOMESTIC_SOURCES = [
     ("澎湃新闻-头条", hub("/thepaper/news")),
     ("人民日报-文字版", hub("/people/paper/rmrb")),
     ("环球网-国内", hub("/huanqiu/news/china")),
-    ("环球网-国际", hub("/huanqiu/news/world")),
-    ("环球网-军事", hub("/huanqiu/news/mil")),
     ("中国政府网-最新政策", hub("/gov/zhengce/zuixin")),
     ("工信部", hub("/gov/miit/xwfb")),
     ("国家发改委", hub("/gov/ndrc/xwzx")),
@@ -113,9 +146,7 @@ DOMESTIC_SOURCES = [
     ("四川省政府网", hub("/gov/sichuan")),
     ("北京市政府网", hub("/gov/beijing")),
     ("中国日报", ["http://www.chinadaily.com.cn/rss/china_rss.xml"]),
-    ("中国日报-国际", ["http://www.chinadaily.com.cn/rss/world_rss.xml"]),
     ("CGTN", ["https://www.cgtn.com/subscribe/rss/section/china.xml"]),
-    ("CGTN-国际", ["https://www.cgtn.com/subscribe/rss/section/world.xml"]),
 ]
 
 # ---------------- 国际新闻信源（10+ 家国际主流媒体） ----------------
@@ -139,6 +170,8 @@ CITIES = [
     ("南京", 32.06, 118.80),
     ("武汉", 30.59, 114.31),
     ("南宁", 22.82, 108.32),
+    ("定西市安定区", 35.5814, 104.6080),
+    ("孝感市应城市", 30.9334, 113.5665),
 ]
 
 WMO = {
@@ -157,6 +190,22 @@ WMO = {
 # ---------------- 内容筛选规则 ----------------
 DOMESTIC_EXCLUDE = ["娱乐", "明星", "八卦", "绯闻", "综艺", "演唱会", "电竞", "球星"]
 
+# 这些栏目本身只发布中国国内信息；综合新闻源仍须命中下方的中国地域或机构词。
+DOMESTIC_ONLY_SOURCES = {
+    "环球网-国内", "中国政府网-最新政策", "工信部", "国家发改委", "教育部",
+    "人民银行", "国资委", "商务部", "江苏省政府网", "浙江省政府网",
+    "湖南省政府网", "四川省政府网", "北京市政府网", "中国日报", "CGTN",
+}
+
+DOMESTIC_MARKERS = [
+    "中国", "我国", "国内", "全国", "中央", "国务院", "中共中央", "习近平",
+    "李强", "全国人大", "全国政协", "最高人民法院", "最高人民检察院", "部委",
+    "北京", "天津", "河北", "山西", "内蒙古", "辽宁", "吉林", "黑龙江",
+    "上海", "江苏", "浙江", "安徽", "福建", "江西", "山东", "河南", "湖北",
+    "湖南", "广东", "广西", "海南", "重庆", "四川", "贵州", "云南", "西藏",
+    "陕西", "甘肃", "青海", "宁夏", "新疆", "香港", "澳门", "台湾",
+]
+
 DOMESTIC_CATEGORIES = {
     "科技": ["人工智能", "AI", "大模型", "芯片", "半导体", "量子", "算力", "航天",
              "卫星", "火箭", "发射", "空间站", "探月", "北斗", "机器人", "无人机",
@@ -173,6 +222,9 @@ DOMESTIC_CATEGORIES = {
              "银行", "央行", "汇率", "人民币", "股市", "财政", "税收", "制造业", "工业",
              "企业", "民营经济", "消费", "物价", "产业", "项目", "出口", "进口",
              "产能", "供应链", "订单"],
+    "社会民生与灾害": ["泥石流", "山洪", "洪水", "暴雨", "地震", "台风", "灾害", "救援",
+                     "失联", "伤亡", "应急响应", "防汛", "抗旱", "消防", "事故", "交通",
+                     "铁路", "教育", "医疗", "就业", "养老", "住房", "社会保障", "生态", "环境"],
 }
 
 INTL_EXCLUDE_RE = re.compile(
@@ -295,6 +347,14 @@ def text_of(item):
     return item["title"] + " " + item["summary"]
 
 
+def domestic_relevance_score(item):
+    """判断新闻是否真正与中国国内事务有关，防止把纯国际新闻放进国内栏目。"""
+    if item["source"] in DOMESTIC_ONLY_SOURCES:
+        return 2
+    text = text_of(item)
+    return min(sum(1 for marker in DOMESTIC_MARKERS if marker in text), 3)
+
+
 def pub_dt(item):
     """发布时间；缺省（如人民网等无 pubDate 的源）按当前时间处理。"""
     return item["published"] or datetime.now(TZ)
@@ -309,21 +369,46 @@ def pick_domestic(items, limit=5):
         text = text_of(it)
         if any(k in text for k in DOMESTIC_EXCLUDE):
             continue
-        score = sum(
-            1 for words in DOMESTIC_CATEGORIES.values() if any(w in text for w in words)
-        )
-        scored.append({"item": it, "score": score})
+        relevance = domestic_relevance_score(it)
+        if relevance == 0:
+            continue
+        categories = {
+            name for name, words in DOMESTIC_CATEGORIES.items() if any(w in text for w in words)
+        }
+        score = relevance + len(categories)
+        scored.append({"item": it, "score": score, "categories": categories})
     scored.sort(
         key=lambda x: (x["score"], pub_dt(x["item"])),
         reverse=True,
     )
-    picked = [x for x in scored if x["score"] > 0][:limit]
-    if len(picked) < limit:
-        for x in scored:
-            if len(picked) >= limit:
-                break
-            if x not in picked:
-                picked.append(x)
+
+    picked = []
+    # 有合格候选时，至少保留一条国内政治新闻和一条民生/灾害新闻。
+    for required in ("政治", "社会民生与灾害"):
+        candidate = next((x for x in scored if required in x["categories"] and x not in picked), None)
+        if candidate:
+            picked.append(candidate)
+
+    source_counts = {}
+    for x in picked:
+        source = x["item"]["source"]
+        source_counts[source] = source_counts.get(source, 0) + 1
+
+    # 其余按重要性和时效补齐，同一信源最多两条，避免单一媒体占满榜单。
+    for x in scored:
+        if len(picked) >= limit:
+            break
+        source = x["item"]["source"]
+        if x not in picked and source_counts.get(source, 0) < 2:
+            picked.append(x)
+            source_counts[source] = source_counts.get(source, 0) + 1
+
+    # 信源不足时放宽来源数量限制，但绝不放宽“中国国内相关”条件。
+    for x in scored:
+        if len(picked) >= limit:
+            break
+        if x not in picked:
+            picked.append(x)
     return picked
 
 
@@ -435,9 +520,13 @@ def fetch_weather():
 
 
 # ---------------- 问候语 ----------------
-def pick_greeting():
-    lang = random.choice(list(GREETINGS))
-    text = random.choice(GREETINGS[lang])
+def pick_greeting(for_date=None):
+    """按日期轮换语言和词条；60 天内不会重复同一句问候。"""
+    for_date = for_date or datetime.now(TZ).date()
+    languages = list(GREETINGS)
+    day_index = for_date.toordinal()
+    lang = languages[day_index % len(languages)]
+    text = GREETINGS[lang][(day_index // len(languages)) % len(GREETINGS[lang])]
     count = len(text.split()) if lang != "中文" else len(re.sub(r"\s", "", text))
     if count > 30:
         raise ValueError(f"问候语超过 30 词：{lang}: {text}")
@@ -453,7 +542,7 @@ def main():
         "date": now.strftime("%Y-%m-%d"),
         "updated_at": now.strftime("%Y-%m-%d %H:%M"),
         "timezone": "Asia/Shanghai（北京时间）",
-        "greeting": pick_greeting(),
+        "greeting": pick_greeting(now.date()),
         "news": {
             "domestic": domestic,
             "international": international,
@@ -462,7 +551,7 @@ def main():
     }
     os.makedirs(os.path.dirname(DATA_PATH), exist_ok=True)
     tmp = DATA_PATH + ".tmp"
-    with open(tmp, "w", encoding="utf-8") as f:
+    with open(tmp, "w", encoding="utf-8", newline="\n") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     os.replace(tmp, DATA_PATH)
     print(

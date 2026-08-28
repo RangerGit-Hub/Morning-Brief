@@ -1,104 +1,104 @@
 {
-  "date": "2026-08-26",
-  "updated_at": "2026-08-26 07:51",
+  "date": "2026-08-28",
+  "updated_at": "2026-08-28 09:12",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！生活明朗，万物可爱，愿你今天也被温柔以待。",
+    "text": "早安！每个清晨都是新的机会，愿你把握今天，不负自己。",
     "language": "中文",
-    "words": 24
+    "words": 26
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "消息人士：“美中东情报设施遭伊朗重创 修复或需数十亿美元”",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684221.shtml",
-        "published": "2026-08-26 06:31",
-        "summary": "中新网8月26日电 据美国全国广播公司(NBC)当地时间8月25日报道，4名知情人士表示，伊朗的导弹和无人机袭击对美国在中东的情报站点和监控设备造成严重破坏，损毁程度超过美国情报机构以往遭受的任何类似打击，修复费用预计将达到数十亿美元。",
+        "title": "俄称控制一居民点 乌称打击俄多个目标",
+        "source": "环球网-军事",
+        "link": "https://mil.huanqiu.com/article/4SyVYzVR4e7",
+        "published": "2026-08-28 08:11",
+        "summary": "俄罗斯国防部27日通报称，过去一天，俄军控制了扎波罗热地区的一个居民点，打击了145处区域，目标包括物流中心、燃料能源设施、交通港口设施、弹药仓库、无人机组装车间，以及乌军和外国雇佣兵临时部署点。此外，俄军当天继续使用攻击型无人机打击乌军工",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "古巴谴责美国延长对古实施经济封锁",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684219.shtml",
-        "published": "2026-08-26 05:56",
-        "summary": "古巴外交部长罗德里格斯25日谴责美国政府再次延长从1962年开始对古巴实施的《对敌贸易法》期限。",
+        "title": "未来5年，这些新兴产业、新场景、新材料将迎来新发展",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/28/ARTISOiDJ1yvhdkxE32oMDWF260828.shtml",
+        "published": "2026-08-28 05:47",
+        "summary": "近日，国务院新闻办公室举行新闻发布会，工业和信息化部介绍全力抓好“十五五”规划实施，加快推进新型工业化有关情况。未来5年，这些新兴产业、新场景、新材料将迎来新发展。一起关注。 加快打造集成电路、航空航天、生物医药、低空经济、新型储能、智能机",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "特朗普：霍尔木兹海峡国际水域内所有水雷已被清除或引爆",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684229.shtml",
-        "published": "2026-08-26 07:28",
-        "summary": "中新网8月26日电 据英国广播公司(BBC)当地时间25日报道，美国总统特朗普在社交媒体“真实社交”上表示，美国海军刚刚通知他，霍尔木兹海峡国际水域内的所有水雷均已被清除或引爆。",
+        "title": "伊朗外交部：美国对伊政策是“彻头彻尾的闹剧”",
+        "source": "环球网-国际",
+        "link": "https://world.huanqiu.com/article/4SyFUZUlyzN",
+        "published": "2026-08-28 00:41",
+        "summary": "【环球时报特约记者 任重 环球时报驻美国特约记者 李致】当地时间26日，伊朗外交部发言人巴加埃表示，美国对伊政策是“彻头彻尾的闹剧”。伊朗总统佩泽希齐扬则称：“美国的经济压力不会有任何成效。”同一天，美国总统特朗普宣称，对伊经济制裁和军事打",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "付费飞机餐走红，免费飞机餐会消失吗？",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-26/10684227.shtml",
-        "published": "2026-08-26 07:18",
-        "summary": "曾经坐飞机，只要航程达标，经济舱旅客就能拿到一份统一配送的免费飞机餐，好不好吃全凭运气。如今，煲仔饭、牛排、冒菜、鱼子酱拼盘等花样繁多的餐食陆续登上客舱，只不过这些精致美食大多需要额外付费。",
+        "title": "美陆军将在部分军事基地部署微型核反应堆",
+        "source": "环球网-军事",
+        "link": "https://mil.huanqiu.com/article/4Sy7zwjlWhN",
+        "published": "2026-08-27 21:11",
+        "summary": "新华社北京8月27日电 美国陆军26日宣布，将在美国5座军事基地部署微型核反应堆，为军事设施提供不依赖商业电网的可靠能源。 据美联社报道，美国陆军已选定5家企业，分别在纽约州、得克萨斯州等5个州的军事基地部署微型核反应堆。根据不同企业的设计",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "外媒：罕见！美中情局局长秘访莫斯科 与俄方举行未公开会谈",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684226.shtml",
-        "published": "2026-08-26 07:18",
-        "summary": "中新网8月26日电 据美国哥伦比亚广播公司(CBS)、英国广播公司(BBC)当地时间25日报道，美国中央情报局局长拉特克利夫已前往俄罗斯首都莫斯科与俄方进行未公开会谈。",
+        "title": "俄称英国已向乌移交“风暴阴影”巡航导弹技术数据",
+        "source": "环球网-军事",
+        "link": "https://mil.huanqiu.com/article/4Sy1mYwCcLH",
+        "published": "2026-08-27 18:17",
+        "summary": "俄罗斯外交部发言人扎哈罗娃8月27日在每周例行吹风会上表示， 根据俄方掌握的信息，英国已向乌克兰转让了用于乌方企业自主组装“风暴阴影”巡航导弹的技术数据 。她还指出，法国总统马克龙也曾宣布类似的技术转让计划，但未来得及实施。公开信息显示，“",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
-        "published": "2026-08-26 03:02",
-        "summary": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry",
+        "title": "OpenAI, Anthropic join global call to strengthen cyber defences",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences",
+        "published": "2026-08-28 09:05",
+        "summary": "More than 100 organisations, including OpenAI and Anthropic, called Thursday for governments and technology companies to",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "US soldier who called for Trump impeachment facing military charges",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
-        "published": "2026-08-26 05:16",
-        "summary": "Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.",
+        "title": "Von der Leyen admits EU economy relied on energy from Russia, exports to China",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2178575",
+        "published": "2026-08-28 02:29",
+        "summary": "The European Commission president chose not to point out that the disruption of global trade and the blocking of energy ",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
-        "source": "NPR",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
-        "published": "2026-08-25 23:20",
-        "summary": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks",
+        "title": "Poland not planning to host nuclear warheads, deputy defense minister says",
+        "source": "TASS",
+        "link": "https://tass.com/world/2178553",
+        "published": "2026-08-28 01:43",
+        "summary": "Pawel Zalewski said that Poland wants to participate in NATO nuclear deterrence, which does not mean having nuclear warh",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "US admits defeat in China minerals race. Can Brazil turn panic into processing power?",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3365239/us-admits-defeat-china-minerals-race-can-brazil-turn-panic-processing-power?utm_source=rss_feed",
-        "published": "2026-08-25 21:48",
-        "summary": "Brazilian Mines and Energy Minister Alexandre Silveira revealed that US President Donald Trump and his team conceded dur",
+        "title": "Trump renames Lake Ontario in trade war with Canada",
+        "source": "RT",
+        "link": "https://www.rt.com/news/644744-lake-ontario-america-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-08-28 06:57",
+        "summary": "US President Donald Trump has officially renamed Lake Ontario “Lake America” amid an escalating trade war with Canada Re",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "No, AI doesn’t mean the end of mathematics – at least not yet | Bruce Schneier and Kasra Rafi",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers",
-        "published": "2026-08-25 20:00",
-        "summary": "Mathematicians are raising concerns that the technology could kill their profession. But they still have abilities AI do",
+        "title": "Tech companies call for collective action against AI-enabled cyber attacks",
+        "source": "Sky News",
+        "link": "https://news.sky.com/story/tech-companies-write-open-letter-calling-for-collective-action-against-ai-enabled-cyber-attacks-13577985",
+        "published": "2026-08-28 05:52",
+        "summary": "More than 100 companies have written an open letter calling for collective action to strengthen cyber defences amid a ri",
         "ai": true
       }
     ]
@@ -106,27 +106,27 @@
   "weather": [
     {
       "city": "南京",
-      "current": 27,
-      "min": 25,
+      "current": 30,
+      "min": 26,
       "max": 33,
       "condition": "大部晴朗",
       "icon": "🌤️"
     },
     {
       "city": "武汉",
-      "current": 30,
+      "current": 32,
       "min": 29,
-      "max": 38,
-      "condition": "晴",
-      "icon": "☀️"
+      "max": 36,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "南宁",
-      "current": 26,
+      "current": 27,
       "min": 26,
       "max": 31,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     }
   ]
 }

@@ -1,148 +1,148 @@
 {
-  "date": "2026-08-28",
-  "updated_at": "2026-08-28 09:30",
+  "date": "2026-08-29",
+  "updated_at": "2026-08-29 07:04",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Que votre matin soit paisible et votre journée couronnée de succès.",
-    "language": "Français",
-    "words": 11
+    "text": "天亮了，愿你带着希望迎接新一天。",
+    "language": "中文",
+    "words": 16
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "浙江大学党委书记人民日报撰文：为强国建设培养更多“会创造的人”",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/33964815",
-        "published": "2026-08-28 07:08",
-        "summary": "习近平总书记指出：“当前，新一轮科技革命和产业变革加速突破，全球科技竞争更加聚焦基础前沿领域，原创性颠覆性创新的重要性日益凸显。”加强拔尖创新人才自主培养，不仅关乎我国高等教育的高质量内涵式发展，更是决定我国未来全球科技竞争话语权、产业发展",
+        "title": "中国通过新修订的农业法 保障农民权益增加农民收入",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-28/10686238.shtml",
+        "published": "2026-08-28 23:07",
+        "summary": "中新社北京8月28日电 (记者 李京泽 郭超凯)十四届全国人大常委会第二十四次会议28日表决通过新修订的农业法。全国人大常委会法工委经济法室负责人当日在答记者问时表示，保障农民权益，增加农民收入是此次修法的重要内容之一。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "国家航天局紧急调度卫星资源 全力保障西藏吉隆县泥石流抢险救灾",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/27/ARTIXBpedEaMUw3BOyzwOZpH260827.shtml",
-        "published": "2026-08-27 19:28",
-        "summary": "央视网消息： 据“中国的航天”微信公众号消息，8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。 灾害发生后，习近平总书记高度重视并作出重要指示，要求“千方百计搜救失联人员，转移安置受威",
+        "title": "中国出台医疗保障法 维护公民医疗保障合法权益",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-28/10686210.shtml",
+        "published": "2026-08-28 22:12",
+        "summary": "中新社北京8月28日电 (记者 郭超凯)十四届全国人大常委会第二十四次会议8月28日表决通过医疗保障法，自2027年1月1日起施行。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "大学专业迎来一轮“上新” 就业前景如何？",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4SyXUp3lIjQ",
-        "published": "2026-08-28 09:05",
-        "summary": "又是一年开学季，大学专业也迎来一轮“上新”。今年，教育部新增38个本科专业，具身智能、智慧植保、国际组织与全球治理等专业集中亮相。这些新专业究竟学什么？就业前景如何？ 具身智能成工科新专业“顶流” 机器人需要怎样的复合人才？ 全国首批获批开",
+        "title": "（经济观察）中国楼市大步迈向“现房销售时代”",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/08-28/10686211.shtml",
+        "published": "2026-08-28 22:10",
+        "summary": "中新社北京8月28日电 (记者 庞无忌)在中国实施30余年的商品房预售制度，迎来重大改革。中国住房和城乡建设部等三部门28日对外发布《关于完善商品住房销售制度的通知》，大幅提高商品房预售条件的同时，明确将现房销售作为新房销售的“优先”选项。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "台风“沙德尔”在浙江省台州玉环市登陆，登陆时中心附近最大风力有12级；今年已有三个台风登陆浙江玉环",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4SyX7NWUXjI",
-        "published": "2026-08-28 08:54",
-        "summary": "据中央气象台最新消息，台风“沙德尔”（台风级）的中心已于今天8时05分前后在浙江台州玉环市坎门街道沿海登陆，登陆时中心附近最大风力有12级（35米/秒），中心最低气压975百帕。 今年三个台风登陆浙江玉环 今年以来，西北太平洋和南海已生成2",
+        "title": "西藏吉隆泥石流到底是如何发生的？独家动画演示灾害全程",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-28/10686234.shtml",
+        "published": "2026-08-28 22:46",
+        "summary": "8月26日10时30分许，尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。这场泥石流到底是如何发生的？为什么有如此强的破坏力？来看中央广播电视总台制作的全过程动画演示。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "4万亿算力网开建 国产算力生态加速成型",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/28/ARTIM7RSmPfnqDZ8PxYezqcc260828.shtml",
-        "published": "2026-08-28 06:34",
-        "summary": "我国AI日均词元调用量两年增长超千倍 “十五五”时期4万亿元算力网投资启幕 “词元工厂”与国产算力生态加速落地 中国大模型三重提速 你可能对“词元（Token）”没概念，但你每次和AI对话、生成一张图、写一段代码，背后都是海量词元在流动。它",
+        "title": "中国出台耕地保护和质量提升法 保障国家粮食安全",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-28/10686212.shtml",
+        "published": "2026-08-28 22:13",
+        "summary": "中新社北京8月28日电 (记者 郭超凯)十四届全国人大常委会第二十四次会议8月28日表决通过耕地保护和质量提升法，自2027年1月1日起施行。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "OpenAI, Anthropic join global call to strengthen cyber defences",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/technology/20260828-openai-anthropic-join-global-call-to-strengthen-cyber-defences",
-        "published": "2026-08-28 09:05",
-        "summary": "More than 100 organisations, including OpenAI and Anthropic, called Thursday for governments and technology companies to",
+        "title": "US-China AI rivalry needn’t preclude cooperation",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/opinion/china-opinion/article/3365101/us-china-ai-rivalry-neednt-preclude-cooperation?utm_source=rss_feed",
+        "published": "2026-08-29 05:30",
+        "summary": "Artificial intelligence (AI) poses risks that do not respect national borders, from cyberattacks and misinformation to s",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Von der Leyen admits EU economy relied on energy from Russia, exports to China",
-        "source": "TASS",
-        "link": "https://tass.com/economy/2178575",
-        "published": "2026-08-28 02:29",
-        "summary": "The European Commission president chose not to point out that the disruption of global trade and the blocking of energy ",
-        "ai": false
+        "title": "Labour rejects Zack Polanski’s call to ‘slam brakes’ on building AI datacentres",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/uk-news/2026/aug/28/labour-green-party-zack-polanski-ai-datacentres",
+        "published": "2026-08-28 23:11",
+        "summary": "Government says Green leader’s proposed moratorium on ‘energy-guzzling’ AI projects would be disaster for economy Labour",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Poland not planning to host nuclear warheads, deputy defense minister says",
-        "source": "TASS",
-        "link": "https://tass.com/world/2178553",
-        "published": "2026-08-28 01:43",
-        "summary": "Pawel Zalewski said that Poland wants to participate in NATO nuclear deterrence, which does not mean having nuclear warh",
+        "title": "President Donald Trump signs order creating US Space Academy",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/8/28/president-donald-trump-signs-order-creating-us-space-academy?traffic_source=rss",
+        "published": "2026-08-29 03:23",
+        "summary": "The president said graduates of the new academy would serve the US Space Force, NASA and the civilian flight industry.",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Trump renames Lake Ontario in trade war with Canada",
-        "source": "RT",
-        "link": "https://www.rt.com/news/644744-lake-ontario-america-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-08-28 06:57",
-        "summary": "US President Donald Trump has officially renamed Lake Ontario “Lake America” amid an escalating trade war with Canada Re",
+        "title": "Trump orders creation of US ‘Space Academy’, amid rivalry with China",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3365667/trump-orders-creation-us-space-academy-amid-rivalry-china?utm_source=rss_feed",
+        "published": "2026-08-29 03:07",
+        "summary": "US President Donald Trump on Friday announced the creation of a “Space Academy” to train future civilian and military re",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Tech companies call for collective action against AI-enabled cyber attacks",
-        "source": "Sky News",
-        "link": "https://news.sky.com/story/tech-companies-write-open-letter-calling-for-collective-action-against-ai-enabled-cyber-attacks-13577985",
-        "published": "2026-08-28 05:52",
-        "summary": "More than 100 companies have written an open letter calling for collective action to strengthen cyber defences amid a ri",
-        "ai": true
+        "title": "Ex-Ukrainian defense chief Fyodorov becomes adviser to Italian defense minister",
+        "source": "TASS",
+        "link": "https://tass.com/world/2179101",
+        "published": "2026-08-29 01:19",
+        "summary": "Mikhail Fyodorov thanked Guido Crosetto for his personal support and his offer to become his adviser on defense innovati",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 30,
+      "current": 27,
       "min": 26,
       "max": 33,
-      "condition": "多云",
-      "icon": "⛅"
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "武汉",
-      "current": 33,
-      "min": 29,
-      "max": 36,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 24,
+      "min": 24,
+      "max": 33,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 27,
-      "min": 26,
-      "max": 31,
+      "current": 25,
+      "min": 25,
+      "max": 34,
       "condition": "毛毛雨",
-      "icon": "🌦️"
+      "icon": "🌧️"
     },
     {
       "city": "定西市安定区",
-      "current": 13,
-      "min": 13,
-      "max": 16,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 11,
+      "min": 11,
+      "max": 22,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 30,
-      "min": 27,
-      "max": 34,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 24,
+      "min": 24,
+      "max": 30,
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

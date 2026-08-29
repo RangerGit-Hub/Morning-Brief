@@ -1,104 +1,104 @@
 {
-  "date": "2026-08-29",
-  "updated_at": "2026-08-29 07:04",
+  "date": "2026-08-30",
+  "updated_at": "2026-08-30 07:04",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "天亮了，愿你带着希望迎接新一天。",
-    "language": "中文",
-    "words": 16
+    "text": "Step into the day with confidence, kindness, and quiet joy.",
+    "language": "English",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "中国通过新修订的农业法 保障农民权益增加农民收入",
+        "title": "准确溯源冰岩崩位置 中方部署卫星遥感加强吉隆泥石流灾害监测",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-28/10686238.shtml",
-        "published": "2026-08-28 23:07",
-        "summary": "中新社北京8月28日电 (记者 李京泽 郭超凯)十四届全国人大常委会第二十四次会议28日表决通过新修订的农业法。全国人大常委会法工委经济法室负责人当日在答记者问时表示，保障农民权益，增加农民收入是此次修法的重要内容之一。",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-29/10686604.shtml",
+        "published": "2026-08-29 23:29",
+        "summary": "中新社北京8月29日电 (记者 郭超凯 陈溯)记者29日从中国应急管理部获悉，该部部署国家减灾中心启动卫星应急数据获取机制，综合利用应急减灾、资源、高分等系列卫星数据资源，对西藏日喀则市吉隆县泥石流灾害过程开展监测。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "中国出台医疗保障法 维护公民医疗保障合法权益",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-28/10686210.shtml",
-        "published": "2026-08-28 22:12",
-        "summary": "中新社北京8月28日电 (记者 郭超凯)十四届全国人大常委会第二十四次会议8月28日表决通过医疗保障法，自2027年1月1日起施行。",
+        "title": "台风“沙德尔”深入赣湘，国家防总办公室、应急管理部持续调度部署防范应对工作",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/29/ARTIF7rYOXQpDNJ2vtz7wSdL260829.shtml",
+        "published": "2026-08-29 18:04",
+        "summary": "央视网消息： 8月29日，国家防总办公室、应急管理部组织中国气象局、水利部、自然资源部、工业和信息化部、住房城乡建设部、交通运输部等部门以及湖南、江西等重点省份联合会商，研判风情汛情灾情，对防汛防台风工作进行再部署。 会商指出，台风“沙德尔",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "（经济观察）中国楼市大步迈向“现房销售时代”",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/08-28/10686211.shtml",
-        "published": "2026-08-28 22:10",
-        "summary": "中新社北京8月28日电 (记者 庞无忌)在中国实施30余年的商品房预售制度，迎来重大改革。中国住房和城乡建设部等三部门28日对外发布《关于完善商品住房销售制度的通知》，大幅提高商品房预售条件的同时，明确将现房销售作为新房销售的“优先”选项。",
+        "title": "人民日报：新能源汽车产业崛起，定义汽车新标准",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/33974534",
+        "published": "2026-08-30 06:56",
+        "summary": "“‘中国智造’已成为中国式现代化的又一亮丽名片。”习近平总书记在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话，铿锵有力。 中国新能源汽车产业，是这张亮丽名片上的一个标志性符号。 中国新能源汽车产业为什么能？ 得益于",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "西藏吉隆泥石流到底是如何发生的？独家动画演示灾害全程",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-28/10686234.shtml",
-        "published": "2026-08-28 22:46",
-        "summary": "8月26日10时30分许，尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。这场泥石流到底是如何发生的？为什么有如此强的破坏力？来看中央广播电视总台制作的全过程动画演示。",
+        "title": "中央气象台8月30日06时继续发布暴雨黄色预警",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/08/30/ARTIlFGSoQVjwTCCSFR7RqEI260830.shtml",
+        "published": "2026-08-30 06:10",
+        "summary": "央视网消息： 中央气象台8月30日06时继续发布暴雨黄色预警，预计，8月30日08时至31日08时，黑龙江北部、安徽中南部、江苏中南部、上海北部、浙江西北部、江西北部和西部、湖南东部和西南部、广西东北部、广东北部和南部、海南岛大部、云南西部",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "中国出台耕地保护和质量提升法 保障国家粮食安全",
+        "title": "三部门调拨1万件中央救灾物资支持云南受灾群众安置",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-28/10686212.shtml",
-        "published": "2026-08-28 22:13",
-        "summary": "中新社北京8月28日电 (记者 郭超凯)十四届全国人大常委会第二十四次会议8月28日表决通过耕地保护和质量提升法，自2027年1月1日起施行。",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-29/10686598.shtml",
+        "published": "2026-08-29 22:53",
+        "summary": "中新网8月29日电 据“应急管理部”微信公众号消息，8月29日，国家防灾减灾救灾委员会办公室、应急管理部针对近期强降雨导致云南昆明市磨憨磨丁经济合作区洪涝灾害影响，根据灾区群众避险转移和安置救助需要，会同国家粮食和物资储备局调拨帐篷、折叠床",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "US-China AI rivalry needn’t preclude cooperation",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/opinion/china-opinion/article/3365101/us-china-ai-rivalry-neednt-preclude-cooperation?utm_source=rss_feed",
-        "published": "2026-08-29 05:30",
-        "summary": "Artificial intelligence (AI) poses risks that do not respect national borders, from cyberattacks and misinformation to s",
+        "title": "Number of AI agents going out of control peaks in July — British newspaper",
+        "source": "TASS",
+        "link": "https://tass.com/society/2179365",
+        "published": "2026-08-30 01:29",
+        "summary": "The study notes that the number of such incidents nearly doubled compared to the previous month",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Labour rejects Zack Polanski’s call to ‘slam brakes’ on building AI datacentres",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/uk-news/2026/aug/28/labour-green-party-zack-polanski-ai-datacentres",
-        "published": "2026-08-28 23:11",
-        "summary": "Government says Green leader’s proposed moratorium on ‘energy-guzzling’ AI projects would be disaster for economy Labour",
-        "ai": true
+        "title": "Belgium blocks new attempt to expropriate Russian assets — minister",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2179381",
+        "published": "2026-08-30 03:50",
+        "summary": "\"This door is closed\", stressed Belgian Defense and Foreign Trade Minister Theo Francken",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "President Donald Trump signs order creating US Space Academy",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/8/28/president-donald-trump-signs-order-creating-us-space-academy?traffic_source=rss",
-        "published": "2026-08-29 03:23",
-        "summary": "The president said graduates of the new academy would serve the US Space Force, NASA and the civilian flight industry.",
+        "title": "Andrey Belousov: NATO nuclear expansion leaves Russia no choice but to respond",
+        "source": "RT",
+        "link": "https://www.rt.com/news/644810-belousov-nato-russia-response/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-08-30 00:00",
+        "summary": "The Foreign Ministry’s Ambassador-at-Large says any wider US nuclear mission in Europe would force a military-technical ",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Trump orders creation of US ‘Space Academy’, amid rivalry with China",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3365667/trump-orders-creation-us-space-academy-amid-rivalry-china?utm_source=rss_feed",
-        "published": "2026-08-29 03:07",
-        "summary": "US President Donald Trump on Friday announced the creation of a “Space Academy” to train future civilian and military re",
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-08-30 06:40",
+        "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Ex-Ukrainian defense chief Fyodorov becomes adviser to Italian defense minister",
+        "title": "US seriously considers use of nuclear weapons in Europe — Russian MFA",
         "source": "TASS",
-        "link": "https://tass.com/world/2179101",
-        "published": "2026-08-29 01:19",
-        "summary": "Mikhail Fyodorov thanked Guido Crosetto for his personal support and his offer to become his adviser on defense innovati",
+        "link": "https://tass.com/politics/2179385",
+        "published": "2026-08-30 05:00",
+        "summary": "According to Andrey Belousov, Washington’s efforts to initiate discussions on Russia’s non-strategic nuclear weapons ser",
         "ai": false
       }
     ]
@@ -108,39 +108,39 @@
       "city": "南京",
       "current": 27,
       "min": 26,
-      "max": 33,
+      "max": 31,
       "condition": "大部晴朗",
       "icon": "🌤️"
     },
     {
       "city": "武汉",
-      "current": 24,
-      "min": 24,
+      "current": 26,
+      "min": 26,
       "max": 33,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 25,
+      "current": 27,
       "min": 25,
-      "max": 34,
-      "condition": "毛毛雨",
-      "icon": "🌧️"
-    },
-    {
-      "city": "定西市安定区",
-      "current": 11,
-      "min": 11,
-      "max": 22,
+      "max": 32,
       "condition": "阴",
       "icon": "☁️"
     },
     {
+      "city": "定西市安定区",
+      "current": 9,
+      "min": 9,
+      "max": 24,
+      "condition": "晴",
+      "icon": "☀️"
+    },
+    {
       "city": "孝感市应城市",
-      "current": 24,
+      "current": 25,
       "min": 24,
-      "max": 30,
+      "max": 31,
       "condition": "阴",
       "icon": "☁️"
     }

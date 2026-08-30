@@ -1,104 +1,104 @@
 {
-  "date": "2026-08-30",
-  "updated_at": "2026-08-30 07:04",
+  "date": "2026-08-31",
+  "updated_at": "2026-08-31 07:04",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Step into the day with confidence, kindness, and quiet joy.",
-    "language": "English",
-    "words": 10
+    "text": "Bonjour ! Aujourd’hui est une belle occasion de progresser.",
+    "language": "Français",
+    "words": 9
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "准确溯源冰岩崩位置 中方部署卫星遥感加强吉隆泥石流灾害监测",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-29/10686604.shtml",
-        "published": "2026-08-29 23:29",
-        "summary": "中新社北京8月29日电 (记者 郭超凯 陈溯)记者29日从中国应急管理部获悉，该部部署国家减灾中心启动卫星应急数据获取机制，综合利用应急减灾、资源、高分等系列卫星数据资源，对西藏日喀则市吉隆县泥石流灾害过程开展监测。",
+        "title": "人民日报头版：长三角持续深化协同创新",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/33976861",
+        "published": "2026-08-31 06:56",
+        "summary": "风从海上来，潮涌长三角。这里，是我国经济发展最活跃、开放程度最高、创新能力最强的区域之一。 习近平总书记强调：“长三角区域要加强科技创新和产业创新跨区域协同”“要跨区域、跨部门整合科技创新力量和优势资源，实现强强联合，打造科技创新策源地”。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "台风“沙德尔”深入赣湘，国家防总办公室、应急管理部持续调度部署防范应对工作",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/29/ARTIF7rYOXQpDNJ2vtz7wSdL260829.shtml",
-        "published": "2026-08-29 18:04",
-        "summary": "央视网消息： 8月29日，国家防总办公室、应急管理部组织中国气象局、水利部、自然资源部、工业和信息化部、住房城乡建设部、交通运输部等部门以及湖南、江西等重点省份联合会商，研判风情汛情灾情，对防汛防台风工作进行再部署。 会商指出，台风“沙德尔",
+        "title": "联播+｜一方有难 八方支援",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-30/10686962.shtml",
+        "published": "2026-08-30 23:49",
+        "summary": "｜联播+｜8月28日，习近平总书记主持中央政治局会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作。两天前，灾害刚发生，总书记高度重视并作出重要指示，要求千方百计搜救失联人员，转移安置受威胁群众，加强监测预警，防止发生次生灾害。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "人民日报：新能源汽车产业崛起，定义汽车新标准",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/33974534",
-        "published": "2026-08-30 06:56",
-        "summary": "“‘中国智造’已成为中国式现代化的又一亮丽名片。”习近平总书记在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话，铿锵有力。 中国新能源汽车产业，是这张亮丽名片上的一个标志性符号。 中国新能源汽车产业为什么能？ 得益于",
+        "title": "直击西藏吉隆口岸抢险救灾：技术护航水陆空救援力量挺进核心区",
+        "source": "中国新闻网",
+        "link": "http://www.chinanews.com.cn/sh/shipin/cns/2026/08-30/news1067100.shtml",
+        "published": "2026-08-30 22:28",
+        "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏自治区日喀则市吉隆县吉隆口岸重大人员伤亡、失联。灾害发生后，中国迅速启动应急响应。目前，已动员组织解放军、武警、中国消防救援队、边防、公安以及中国安能等各方救援力量2141人，调",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "中央气象台8月30日06时继续发布暴雨黄色预警",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/08/30/ARTIlFGSoQVjwTCCSFR7RqEI260830.shtml",
-        "published": "2026-08-30 06:10",
-        "summary": "央视网消息： 中央气象台8月30日06时继续发布暴雨黄色预警，预计，8月30日08时至31日08时，黑龙江北部、安徽中南部、江苏中南部、上海北部、浙江西北部、江西北部和西部、湖南东部和西南部、广西东北部、广东北部和南部、海南岛大部、云南西部",
+        "title": "霍巍：我永远怀念的吉隆口岸",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/33974779",
+        "published": "2026-08-31 06:59",
+        "summary": "当我第一次从电视上看到这条消息：“中国西藏日喀则地区吉隆县吉隆口岸因尼泊尔泥石流灾害，人员遭受重大伤亡”——不禁惊呆了。我立即在网上搜索、询问吉隆口岸的情况，我方人员伤亡的情况如何？吉隆口岸是否已经被摧毁？后来终于得到了确切的消息，吉隆口岸",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "三部门调拨1万件中央救灾物资支持云南受灾群众安置",
+        "title": "西藏吉隆因山体滑坡形成的新堰塞湖已自然过流、基本排空",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-29/10686598.shtml",
-        "published": "2026-08-29 22:53",
-        "summary": "中新网8月29日电 据“应急管理部”微信公众号消息，8月29日，国家防灾减灾救灾委员会办公室、应急管理部针对近期强降雨导致云南昆明市磨憨磨丁经济合作区洪涝灾害影响，根据灾区群众避险转移和安置救助需要，会同国家粮食和物资储备局调拨帐篷、折叠床",
+        "link": "https://www.chinanews.com.cn/sh/2026/08-30/10686952.shtml",
+        "published": "2026-08-30 22:24",
+        "summary": "中新社北京8月30日电 (记者 郭超凯 陈溯)记者30日从中国应急管理部获悉，西藏吉隆泥石流灾害现场最新监测发现，此前山体滑坡形成的新堰塞湖已自然过流、基本排空，抢险救援救灾各项工作正抓紧开展。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Number of AI agents going out of control peaks in July — British newspaper",
-        "source": "TASS",
-        "link": "https://tass.com/society/2179365",
-        "published": "2026-08-30 01:29",
-        "summary": "The study notes that the number of such incidents nearly doubled compared to the previous month",
+        "title": "AI’s worst disasters will arrive unannounced | Letters",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/technology/2026/aug/30/ais-worst-disasters-will-arrive-unannounced",
+        "published": "2026-08-31 00:17",
+        "summary": "Dr Simon Nieder on the global efforts needed to curb the threats posed by AI. Plus letters from Dr Anthony Harris and Da",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Belgium blocks new attempt to expropriate Russian assets — minister",
-        "source": "TASS",
-        "link": "https://tass.com/economy/2179381",
-        "published": "2026-08-30 03:50",
-        "summary": "\"This door is closed\", stressed Belgian Defense and Foreign Trade Minister Theo Francken",
+        "title": "Ukraine’s war didn’t go to plan. Its former defense minister’s career did",
+        "source": "RT",
+        "link": "https://www.rt.com/news/644832-from-kiev-to-rome-fedorov/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-08-31 04:58",
+        "summary": "Former Ukrainian Defense Minister Fedorov will advise Italy on drones and military innovation, despite an unconvincing b",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Andrey Belousov: NATO nuclear expansion leaves Russia no choice but to respond",
-        "source": "RT",
-        "link": "https://www.rt.com/news/644810-belousov-nato-russia-response/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-08-30 00:00",
-        "summary": "The Foreign Ministry’s Ambassador-at-Large says any wider US nuclear mission in Europe would force a military-technical ",
+        "title": "NATO military activities in Arctic may lead to catastrophic consequences — Lavrov",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2179615",
+        "published": "2026-08-31 05:54",
+        "summary": "The foreign minister said NATO's Operation Arctic Sentry involves intensive military preparations in close proximity to ",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-08-30 06:40",
-        "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "title": "NASA launches new space telescope",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/video/20260830-nasa-launches-new-space-telescope",
+        "published": "2026-08-30 22:55",
+        "summary": "NASA has successfully launched its newest space telescope from the Kennedy Space Center in Florida. The telescope reache",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "US seriously considers use of nuclear weapons in Europe — Russian MFA",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2179385",
-        "published": "2026-08-30 05:00",
-        "summary": "According to Andrey Belousov, Washington’s efforts to initiate discussions on Russia’s non-strategic nuclear weapons ser",
+        "title": "Citi’s China-US corridor thrives as mainland firms hedge risks amid trade turbulence",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/business/banking-finance/article/3365445/citis-china-us-corridor-thrives-mainland-firms-hedge-risks-amid-trade-turbulence?utm_source=rss_feed",
+        "published": "2026-08-31 07:00",
+        "summary": "Escalating US-China trade friction has failed to dampen corporate activity between the two economies, with Citi reportin",
         "ai": false
       }
     ]
@@ -106,43 +106,43 @@
   "weather": [
     {
       "city": "南京",
-      "current": 27,
-      "min": 26,
-      "max": 31,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 24,
+      "min": 22,
+      "max": 26,
+      "condition": "雷阵雨",
+      "icon": "⛈️"
     },
     {
       "city": "武汉",
-      "current": 26,
-      "min": 26,
-      "max": 33,
+      "current": 25,
+      "min": 25,
+      "max": 31,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 27,
-      "min": 25,
-      "max": 32,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 24,
+      "min": 24,
+      "max": 31,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "定西市安定区",
-      "current": 9,
-      "min": 9,
-      "max": 24,
-      "condition": "晴",
-      "icon": "☀️"
+      "current": 10,
+      "min": 10,
+      "max": 23,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "孝感市应城市",
-      "current": 25,
+      "current": 24,
       "min": 24,
       "max": 31,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     }
   ]
 }

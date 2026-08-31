@@ -1,104 +1,104 @@
 {
-  "date": "2026-08-31",
-  "updated_at": "2026-08-31 07:04",
+  "date": "2026-09-01",
+  "updated_at": "2026-09-01 07:04",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Aujourd’hui est une belle occasion de progresser.",
-    "language": "Français",
-    "words": 9
+    "text": "早安！愿你心有暖阳，脚步坚定。",
+    "language": "中文",
+    "words": 15
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "人民日报头版：长三角持续深化协同创新",
+        "title": "国新办发布会丨介绍中国—东盟经贸合作情况暨第23届中国—东盟博览会、中国—东盟商务与投资峰会有关情况",
         "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/33976861",
-        "published": "2026-08-31 06:56",
-        "summary": "风从海上来，潮涌长三角。这里，是我国经济发展最活跃、开放程度最高、创新能力最强的区域之一。 习近平总书记强调：“长三角区域要加强科技创新和产业创新跨区域协同”“要跨区域、跨部门整合科技创新力量和优势资源，实现强强联合，打造科技创新策源地”。",
+        "link": "https://m.thepaper.cn/detail/33979330",
+        "published": "2026-09-01 06:40",
+        "summary": "2026年9月1日，国务院新闻办公室举行新闻发布会，请商务部副部长鄢东，广西壮族自治区党委常委、副主席卢新宁，中国贸促会副会长林红红介绍中国—东盟经贸合作情况暨第23届中国—东盟博览会、中国—东盟商务与投资峰会有关情况，并答记者问。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "联播+｜一方有难 八方支援",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-30/10686962.shtml",
-        "published": "2026-08-30 23:49",
-        "summary": "｜联播+｜8月28日，习近平总书记主持中央政治局会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作。两天前，灾害刚发生，总书记高度重视并作出重要指示，要求千方百计搜救失联人员，转移安置受威胁群众，加强监测预警，防止发生次生灾害。",
+        "title": "北京首个外卖包装新规今日起正式实施",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/33980440",
+        "published": "2026-09-01 05:12",
+        "summary": "外卖包装虽小，却是关系消费习惯、城市治理与生态建设的大命题。作为全国首个专门针对餐饮外卖商户绿色包装使用的地方标准，由北京市市场监督管理局发布的《餐饮外卖商户绿色包装使用指南》（DB11/T 2510-2026）（以下简称《指南》），于今日",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "直击西藏吉隆口岸抢险救灾：技术护航水陆空救援力量挺进核心区",
+        "title": "“十五五”，如何培养更多大国工匠（解码“十五五”专项规划）",
         "source": "中国新闻网",
-        "link": "http://www.chinanews.com.cn/sh/shipin/cns/2026/08-30/news1067100.shtml",
-        "published": "2026-08-30 22:28",
-        "summary": "8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏自治区日喀则市吉隆县吉隆口岸重大人员伤亡、失联。灾害发生后，中国迅速启动应急响应。目前，已动员组织解放军、武警、中国消防救援队、边防、公安以及中国安能等各方救援力量2141人，调",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687558.shtml",
+        "published": "2026-08-31 22:33",
+        "summary": "技能人才是支撑中国制造、中国创造的重要力量。“十四五”以来，我国技能人才规模进一步壮大、结构持续改善、作用更加突显，全国技能人才总量超过2.2亿人，其中高技能人才超7200万人，为经济社会高质量发展提供了坚实人才支撑。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "霍巍：我永远怀念的吉隆口岸",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/33974779",
-        "published": "2026-08-31 06:59",
-        "summary": "当我第一次从电视上看到这条消息：“中国西藏日喀则地区吉隆县吉隆口岸因尼泊尔泥石流灾害，人员遭受重大伤亡”——不禁惊呆了。我立即在网上搜索、询问吉隆口岸的情况，我方人员伤亡的情况如何？吉隆口岸是否已经被摧毁？后来终于得到了确切的消息，吉隆口岸",
+        "title": "以政治学创新赋能中国式现代化 首届政治学前沿论坛在京举办",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687572.shtml",
+        "published": "2026-08-31 22:59",
+        "summary": "中新网北京8月31日电 (记者 谭雨果)近日，中国社会科学杂志社与中国政法大学共同主办的中国社会科学杂志社首届政治学前沿论坛(2026)举行，论坛以“中国式现代化与中国政治学的时代命题”为主题，国内政治学领域百余位专家学者汇聚一堂，围绕中国",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "西藏吉隆因山体滑坡形成的新堰塞湖已自然过流、基本排空",
+        "title": "习近平会见俄罗斯总统普京",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/08-30/10686952.shtml",
-        "published": "2026-08-30 22:24",
-        "summary": "中新社北京8月30日电 (记者 郭超凯 陈溯)记者30日从中国应急管理部获悉，西藏吉隆泥石流灾害现场最新监测发现，此前山体滑坡形成的新堰塞湖已自然过流、基本排空，抢险救援救灾各项工作正抓紧开展。",
+        "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687564.shtml",
+        "published": "2026-08-31 22:46",
+        "summary": "中新社比什凯克8月31日电 (记者 郭金超 黄钰钦)当地时间8月31日下午，中国国家主席习近平在比什凯克出席2026年上海合作组织峰会期间会见俄罗斯总统普京。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "AI’s worst disasters will arrive unannounced | Letters",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/technology/2026/aug/30/ais-worst-disasters-will-arrive-unannounced",
-        "published": "2026-08-31 00:17",
-        "summary": "Dr Simon Nieder on the global efforts needed to curb the threats posed by AI. Plus letters from Dr Anthony Harris and Da",
+        "title": "Nepal disaster: fake and AI images flood social media as deaths mount",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/nepal-disaster-fake-and-ai-images-flood-social-media-as-deaths-mount",
+        "published": "2026-09-01 04:00",
+        "summary": "As deadly floods hit the Nepal-China border, social media is being flooded with fake and misleading footage. In Truth or",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Ukraine’s war didn’t go to plan. Its former defense minister’s career did",
-        "source": "RT",
-        "link": "https://www.rt.com/news/644832-from-kiev-to-rome-fedorov/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-08-31 04:58",
-        "summary": "Former Ukrainian Defense Minister Fedorov will advise Italy on drones and military innovation, despite an unconvincing b",
+        "title": "US targets China’s global trade surplus at G20 meeting ahead of Xi-Trump summit",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3365895/us-targets-chinas-global-trade-surplus-g20-meeting-ahead-xi-trump-summit?utm_source=rss_feed",
+        "published": "2026-09-01 03:10",
+        "summary": "US Treasury Secretary Scott Bessent on Monday targeted China’s global trade surplus, raising concerns over “excessive im",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "NATO military activities in Arctic may lead to catastrophic consequences — Lavrov",
+        "title": "Military from local special forces units took part in mutiny in Niger — Russian diplomat",
         "source": "TASS",
-        "link": "https://tass.com/politics/2179615",
-        "published": "2026-08-31 05:54",
-        "summary": "The foreign minister said NATO's Operation Arctic Sentry involves intensive military preparations in close proximity to ",
+        "link": "https://tass.com/politics/2180057",
+        "published": "2026-09-01 02:20",
+        "summary": "The uprising was suppressed by the authorities with the assistance from the Russian defense ministry’s Africa Corps",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "NASA launches new space telescope",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/video/20260830-nasa-launches-new-space-telescope",
-        "published": "2026-08-30 22:55",
-        "summary": "NASA has successfully launched its newest space telescope from the Kennedy Space Center in Florida. The telescope reache",
+        "title": "Xi, Putin vow to deepen strategic ties after Shanghai Cooperation Organisation summit meet",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3365890/xi-putin-vow-deepen-strategic-ties-after-meeting-sco-summit?utm_source=rss_feed",
+        "published": "2026-09-01 01:06",
+        "summary": "Chinese President Xi Jinping and Russian President Vladimir Putin both vowed to strengthen the role of the Shanghai Coop",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Citi’s China-US corridor thrives as mainland firms hedge risks amid trade turbulence",
+        "title": "Prediction markets have priced the Trump-Xi summit. Do the bets have any value?",
         "source": "SCMP",
-        "link": "https://www.scmp.com/business/banking-finance/article/3365445/citis-china-us-corridor-thrives-mainland-firms-hedge-risks-amid-trade-turbulence?utm_source=rss_feed",
-        "published": "2026-08-31 07:00",
-        "summary": "Escalating US-China trade friction has failed to dampen corporate activity between the two economies, with Citi reportin",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3365846/prediction-markets-have-priced-trump-xi-summit-do-bets-have-any-value?utm_source=rss_feed",
+        "published": "2026-08-31 22:00",
+        "summary": "US President Donald Trump has already announced the date: September 24. That is when, Trump says, Chinese President Xi J",
         "ai": false
       }
     ]
@@ -107,42 +107,42 @@
     {
       "city": "南京",
       "current": 24,
-      "min": 22,
-      "max": 26,
-      "condition": "雷阵雨",
-      "icon": "⛈️"
+      "min": 23,
+      "max": 28,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 25,
+      "current": 26,
       "min": 25,
-      "max": 31,
+      "max": 28,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 24,
-      "min": 24,
-      "max": 31,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 25,
+      "min": 25,
+      "max": 32,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": 10,
-      "min": 10,
+      "current": 11,
+      "min": 11,
       "max": 23,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "condition": "晴",
+      "icon": "☀️"
     },
     {
       "city": "孝感市应城市",
-      "current": 24,
-      "min": 24,
-      "max": 31,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 23,
+      "min": 23,
+      "max": 27,
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

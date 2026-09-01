@@ -1,148 +1,148 @@
 {
-  "date": "2026-09-01",
-  "updated_at": "2026-09-01 07:04",
+  "date": "2026-09-02",
+  "updated_at": "2026-09-02 07:06",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！愿你心有暖阳，脚步坚定。",
-    "language": "中文",
-    "words": 15
+    "text": "Good morning! May today bring you calm, courage, and a reason to smile.",
+    "language": "English",
+    "words": 13
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "国新办发布会丨介绍中国—东盟经贸合作情况暨第23届中国—东盟博览会、中国—东盟商务与投资峰会有关情况",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/33979330",
-        "published": "2026-09-01 06:40",
-        "summary": "2026年9月1日，国务院新闻办公室举行新闻发布会，请商务部副部长鄢东，广西壮族自治区党委常委、副主席卢新宁，中国贸促会副会长林红红介绍中国—东盟经贸合作情况暨第23届中国—东盟博览会、中国—东盟商务与投资峰会有关情况，并答记者问。",
+        "title": "双预警齐发！这些地区有大暴雨、雷暴大风",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688363.shtml",
+        "published": "2026-09-02 06:45",
+        "summary": "中央气象台9月2日6时继续发布暴雨黄色预警：预计，9月2日8时至3日8时，湖南东南部、江西中南部、浙江东部和南部、福建东部和南部、广东东部、台湾岛南部以及黑龙江东部等地部分地区有大到暴雨，其中，江西南部、浙江南部、福建东北部和东南部、广东东",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "北京首个外卖包装新规今日起正式实施",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/33980440",
-        "published": "2026-09-01 05:12",
-        "summary": "外卖包装虽小，却是关系消费习惯、城市治理与生态建设的大命题。作为全国首个专门针对餐饮外卖商户绿色包装使用的地方标准，由北京市市场监督管理局发布的《餐饮外卖商户绿色包装使用指南》（DB11/T 2510-2026）（以下简称《指南》），于今日",
+        "title": "216国道抢通作业推进至吉隆口岸泥石流灾害核心区",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688357.shtml",
+        "published": "2026-09-02 02:12",
+        "summary": "应急管理部调派中国安能专业救援力量，在西藏日喀则市吉隆县G216国道水毁路段持续攻坚，目前，G216国道抢通作业推进至吉隆口岸泥石流灾害核心区，救援人员可以通过陆路进入核心区进行搜救。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "“十五五”，如何培养更多大国工匠（解码“十五五”专项规划）",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687558.shtml",
-        "published": "2026-08-31 22:33",
-        "summary": "技能人才是支撑中国制造、中国创造的重要力量。“十四五”以来，我国技能人才规模进一步壮大、结构持续改善、作用更加突显，全国技能人才总量超过2.2亿人，其中高技能人才超7200万人，为经济社会高质量发展提供了坚实人才支撑。",
+        "title": "新闻联播 2026/09/01",
+        "source": "央视网-新闻联播",
+        "link": "https://tv.cctv.com/lm/xwlb/day/20260901.shtml",
+        "published": "2026-09-01 19:00",
+        "summary": "《新闻联播》 20260901 21:00 ⏱00:40:00 [视频]习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话 ⏱00:08:41 [视频]习近平出席“上海合作组织+”会议并发表重要讲话 ⏱00:06:08 [视",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "以政治学创新赋能中国式现代化 首届政治学前沿论坛在京举办",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687572.shtml",
-        "published": "2026-08-31 22:59",
-        "summary": "中新网北京8月31日电 (记者 谭雨果)近日，中国社会科学杂志社与中国政法大学共同主办的中国社会科学杂志社首届政治学前沿论坛(2026)举行，论坛以“中国式现代化与中国政治学的时代命题”为主题，国内政治学领域百余位专家学者汇聚一堂，围绕中国",
+        "title": "China's chemical engineering LLM upgraded with task execution",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-09-01/China-s-chemical-engineering-LLM-upgraded-with-task-execution-1Q4LRZVd0Nq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-01 10:37",
+        "summary": "China's chemical engineering LLM upgraded with task execution",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "习近平会见俄罗斯总统普京",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687564.shtml",
-        "published": "2026-08-31 22:46",
-        "summary": "中新社比什凯克8月31日电 (记者 郭金超 黄钰钦)当地时间8月31日下午，中国国家主席习近平在比什凯克出席2026年上海合作组织峰会期间会见俄罗斯总统普京。",
+        "title": "Full text of Xi Jinping's signed article in Egyptian media",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-09-01/Full-text-of-Xi-Jinping-s-signed-article-in-Egyptian-media-1Q4HKZdMMr6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-01 10:20",
+        "summary": "Chinese President Xi Jinping on Tuesday published a signed article titled \"Celebrating 70 Years of Solidarity, China and",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Nepal disaster: fake and AI images flood social media as deaths mount",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/nepal-disaster-fake-and-ai-images-flood-social-media-as-deaths-mount",
-        "published": "2026-09-01 04:00",
-        "summary": "As deadly floods hit the Nepal-China border, social media is being flooded with fake and misleading footage. In Truth or",
+        "title": "Congress advances new bill to give US edge in open-source AI race with China",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/us/economy-trade-business/article/3366035/congress-advances-new-bill-give-us-edge-open-source-ai-race-china?utm_source=rss_feed",
+        "published": "2026-09-02 05:08",
+        "summary": "The US Congress on Tuesday advanced a new bill that seeks to establish American global leadership in open-source artific",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "US targets China’s global trade surplus at G20 meeting ahead of Xi-Trump summit",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3365895/us-targets-chinas-global-trade-surplus-g20-meeting-ahead-xi-trump-summit?utm_source=rss_feed",
-        "published": "2026-09-01 03:10",
-        "summary": "US Treasury Secretary Scott Bessent on Monday targeted China’s global trade surplus, raising concerns over “excessive im",
+        "title": "Bank of America vice president killed in Times Square stabbing",
+        "source": "Sky News",
+        "link": "https://news.sky.com/story/bank-of-america-vice-president-killed-in-times-square-stabbing-13580026",
+        "published": "2026-09-02 03:21",
+        "summary": "A Bank of America vice president has been fatally stabbed in New York City's Times Square in a seemingly random and unpr",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Military from local special forces units took part in mutiny in Niger — Russian diplomat",
+        "title": "Iran developing air defense systems with no analogues — military",
         "source": "TASS",
-        "link": "https://tass.com/politics/2180057",
-        "published": "2026-09-01 02:20",
-        "summary": "The uprising was suppressed by the authorities with the assistance from the Russian defense ministry’s Africa Corps",
+        "link": "https://tass.com/world/2180417",
+        "published": "2026-09-01 20:34",
+        "summary": "According to Commander of the Air Defense Forces Alireza Elhami, one of the key advantages of Iran’s air defense systems",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Xi, Putin vow to deepen strategic ties after Shanghai Cooperation Organisation summit meet",
+        "title": "Trump envoy Daines visits Chinese AI, space firms to pave way for Xi summit in US",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3365890/xi-putin-vow-deepen-strategic-ties-after-meeting-sco-summit?utm_source=rss_feed",
-        "published": "2026-09-01 01:06",
-        "summary": "Chinese President Xi Jinping and Russian President Vladimir Putin both vowed to strengthen the role of the Shanghai Coop",
-        "ai": false
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3366009/trump-envoy-daines-visits-chinese-ai-space-firms-lay-groundwork-xi-summit-us?utm_source=rss_feed",
+        "published": "2026-09-01 19:54",
+        "summary": "US Senator Steve Daines, a close ally of President Donald Trump, has wrapped up a days-long trip to China, just weeks ah",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Prediction markets have priced the Trump-Xi summit. Do the bets have any value?",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3365846/prediction-markets-have-priced-trump-xi-summit-do-bets-have-any-value?utm_source=rss_feed",
-        "published": "2026-08-31 22:00",
-        "summary": "US President Donald Trump has already announced the date: September 24. That is when, Trump says, Chinese President Xi J",
-        "ai": false
+        "title": "AI data centers become surprise issue in US midterm elections",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/ai-data-centers-become-surprise-issue-in-us-midterm-elections",
+        "published": "2026-09-02 03:35",
+        "summary": "The boom of data centers to power artificial intelligence was a topic of discussion at the G20 summit on Tuesday in Nort",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 24,
+      "current": 23,
       "min": 23,
       "max": 28,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "武汉",
-      "current": 26,
-      "min": 25,
-      "max": 28,
+      "current": 25,
+      "min": 24,
+      "max": 31,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 25,
-      "min": 25,
-      "max": 32,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 23,
+      "min": 23,
+      "max": 31,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "定西市安定区",
-      "current": 11,
-      "min": 11,
-      "max": 23,
+      "current": 10,
+      "min": 10,
+      "max": 22,
       "condition": "晴",
       "icon": "☀️"
     },
     {
       "city": "孝感市应城市",
-      "current": 23,
+      "current": 24,
       "min": 23,
-      "max": 27,
-      "condition": "阴",
-      "icon": "☁️"
+      "max": 29,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     }
   ]
 }

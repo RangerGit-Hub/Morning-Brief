@@ -1,104 +1,104 @@
 {
-  "date": "2026-09-02",
-  "updated_at": "2026-09-02 07:06",
+  "date": "2026-09-03",
+  "updated_at": "2026-09-03 07:07",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! May today bring you calm, courage, and a reason to smile.",
-    "language": "English",
-    "words": 13
+    "text": "Bonjour ! Que cette journée vous apporte calme, énergie et sourires.",
+    "language": "Français",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "双预警齐发！这些地区有大暴雨、雷暴大风",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688363.shtml",
-        "published": "2026-09-02 06:45",
-        "summary": "中央气象台9月2日6时继续发布暴雨黄色预警：预计，9月2日8时至3日8时，湖南东南部、江西中南部、浙江东部和南部、福建东部和南部、广东东部、台湾岛南部以及黑龙江东部等地部分地区有大到暴雨，其中，江西南部、浙江南部、福建东北部和东南部、广东东",
+        "title": "西藏吉隆泥石流灾害搜救面积累计159.1万平方米",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4T362oLQjqZ",
+        "published": "2026-09-02 20:52",
+        "summary": "记者9月2日从西藏自治区政府新闻办召开的新闻发布会上获悉，截至目前，累计投入救援力量2300余人次、搜救车辆400余台次、搜救设备8000余台套、无人机飞行800余架次、空投物资装备5.43吨，在核心区域布设照明灯具4台、低压发电车1台、充",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "216国道抢通作业推进至吉隆口岸泥石流灾害核心区",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688357.shtml",
-        "published": "2026-09-02 02:12",
-        "summary": "应急管理部调派中国安能专业救援力量，在西藏日喀则市吉隆县G216国道水毁路段持续攻坚，目前，G216国道抢通作业推进至吉隆口岸泥石流灾害核心区，救援人员可以通过陆路进入核心区进行搜救。",
+        "title": "伊朗称将继续打击美军基地 警告与美合作国家承担后果",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/09/02/ARTIGbON6KOf5EQCP3igaF5o260902.shtml",
+        "published": "2026-09-02 15:18",
+        "summary": "当地时间9月2日凌晨，伊朗哈塔姆安比亚中央司令部发言人发表声明称，美军近期对伊朗南部多处军事和非军事目标实施空袭，造成平民伤亡。作为回应，伊朗武装力量使用导弹和无人机对地区内美军基地发动袭击。相关袭击对美军基础设施、武器和装备造成严重损失，",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "新闻联播 2026/09/01",
-        "source": "央视网-新闻联播",
-        "link": "https://tv.cctv.com/lm/xwlb/day/20260901.shtml",
-        "published": "2026-09-01 19:00",
-        "summary": "《新闻联播》 20260901 21:00 ⏱00:40:00 [视频]习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话 ⏱00:08:41 [视频]习近平出席“上海合作组织+”会议并发表重要讲话 ⏱00:06:08 [视",
+        "title": "五部门将开展第六次中国城乡老年人生活状况抽样调查",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/09/02/ARTIoGDXaCmyWSDM1b9TolJT260902.shtml",
+        "published": "2026-09-02 17:25",
+        "summary": "民政部、中央社会工作部、财政部、全国老龄办、中国老龄协会等五部门日前联合印发通知，将组织开展第六次中国城乡老年人生活状况抽样调查（以下简称第六次抽样调查），为深入实施积极应对人口老龄化国家战略，完善相关法律、法规和政策，提供基础数据保障。 ",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "China's chemical engineering LLM upgraded with task execution",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-09-01/China-s-chemical-engineering-LLM-upgraded-with-task-execution-1Q4LRZVd0Nq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-09-01 10:37",
-        "summary": "China's chemical engineering LLM upgraded with task execution",
+        "title": "习近平主席特使、全国政协副主席咸辉出席赞比亚总统就职典礼",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-03/10689169.shtml",
+        "published": "2026-09-03 06:37",
+        "summary": "新华社卢萨卡9月2日电(记者叶挺)应赞比亚共和国政府邀请，习近平主席特使、全国政协副主席咸辉1日在赞比亚首都卢萨卡出席赞比亚总统希奇莱马就职典礼。2日，希奇莱马在总统官邸会见咸辉。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Full text of Xi Jinping's signed article in Egyptian media",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-09-01/Full-text-of-Xi-Jinping-s-signed-article-in-Egyptian-media-1Q4HKZdMMr6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-09-01 10:20",
-        "summary": "Chinese President Xi Jinping on Tuesday published a signed article titled \"Celebrating 70 Years of Solidarity, China and",
+        "title": "研究报告显示——港企创科生态排亚洲第一",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4T3H14D1vnp",
+        "published": "2026-09-03 02:00",
+        "summary": "【环球时报驻香港特约记者 叶蓝】近日，香港科技园公司公布与科技市场情报机构CB Insights合作进行的研究报告《透视亚洲科技通往全球规模的快车道》（《Inside Asia's Fast-Track to Global Tech Sca",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Congress advances new bill to give US edge in open-source AI race with China",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/us/economy-trade-business/article/3366035/congress-advances-new-bill-give-us-edge-open-source-ai-race-china?utm_source=rss_feed",
-        "published": "2026-09-02 05:08",
-        "summary": "The US Congress on Tuesday advanced a new bill that seeks to establish American global leadership in open-source artific",
+        "title": "Venice Film Festival opens with George Clooney, Murdoch film and geopolitics",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/culture/20260902-venice-film-festival-clooney-murdoch-film-geopolitics",
+        "published": "2026-09-03 06:11",
+        "summary": "George Clooney used a Venice Film Festival appearance on Wednesday to weigh in on artificial intelligence, media ownersh",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Bank of America vice president killed in Times Square stabbing",
-        "source": "Sky News",
-        "link": "https://news.sky.com/story/bank-of-america-vice-president-killed-in-times-square-stabbing-13580026",
-        "published": "2026-09-02 03:21",
-        "summary": "A Bank of America vice president has been fatally stabbed in New York City's Times Square in a seemingly random and unpr",
-        "ai": false
+        "title": "China urges global AI cooperation, not rivalry, ahead of Xi-Trump summit",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/tech-war/article/3366143/china-urges-global-ai-cooperation-not-rivalry-ahead-xi-trump-summit?utm_source=rss_feed",
+        "published": "2026-09-02 21:30",
+        "summary": "China’s science and technology minister Yin Hejun has called for global cooperation to manage the opportunities and risk",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Iran developing air defense systems with no analogues — military",
-        "source": "TASS",
-        "link": "https://tass.com/world/2180417",
-        "published": "2026-09-01 20:34",
-        "summary": "According to Commander of the Air Defense Forces Alireza Elhami, one of the key advantages of Iran’s air defense systems",
+        "title": "Israeli PM says Israel is working to overthrow Iran’s government",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
+        "published": "2026-09-03 05:23",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Trump envoy Daines visits Chinese AI, space firms to pave way for Xi summit in US",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3366009/trump-envoy-daines-visits-chinese-ai-space-firms-lay-groundwork-xi-summit-us?utm_source=rss_feed",
-        "published": "2026-09-01 19:54",
-        "summary": "US Senator Steve Daines, a close ally of President Donald Trump, has wrapped up a days-long trip to China, just weeks ah",
-        "ai": true
+        "title": "Moscow, Minsk settle all outstanding issues, relations all good — prime minister",
+        "source": "TASS",
+        "link": "https://tass.com/world/2181309",
+        "published": "2026-09-02 22:05",
+        "summary": "Accoridng to Alexander Turchin, the Belarusian president gave the government a number of instructions on Wednesday to fo",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "AI data centers become surprise issue in US midterm elections",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/ai-data-centers-become-surprise-issue-in-us-midterm-elections",
-        "published": "2026-09-02 03:35",
-        "summary": "The boom of data centers to power artificial intelligence was a topic of discussion at the G20 summit on Tuesday in Nort",
+        "title": "UK government does not know what datacentres are being used for, FoI request shows",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/uk-news/2026/sep/02/uk-datacentres-ai-boom-foi-environment",
+        "published": "2026-09-02 21:44",
+        "summary": "Lack of information raises fears over environmental impact of the AI boom The UK government does not know what the count",
         "ai": true
       }
     ]
@@ -109,40 +109,40 @@
       "current": 23,
       "min": 23,
       "max": 28,
-      "condition": "多云",
-      "icon": "⛅"
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "武汉",
-      "current": 25,
+      "current": 24,
       "min": 24,
-      "max": 31,
+      "max": 27,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
       "current": 23,
-      "min": 23,
-      "max": 31,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "min": 22,
+      "max": 32,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "定西市安定区",
       "current": 10,
       "min": 10,
       "max": 22,
-      "condition": "晴",
-      "icon": "☀️"
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 24,
+      "current": 23,
       "min": 23,
       "max": 29,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

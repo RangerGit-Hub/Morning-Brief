@@ -1,104 +1,104 @@
 {
-  "date": "2026-09-03",
-  "updated_at": "2026-09-03 07:07",
+  "date": "2026-09-04",
+  "updated_at": "2026-09-04 07:07",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Que cette journée vous apporte calme, énergie et sourires.",
-    "language": "Français",
-    "words": 11
+    "text": "早安！新的一天，愿好事如约而至。",
+    "language": "中文",
+    "words": 16
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "西藏吉隆泥石流灾害搜救面积累计159.1万平方米",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4T362oLQjqZ",
-        "published": "2026-09-02 20:52",
-        "summary": "记者9月2日从西藏自治区政府新闻办召开的新闻发布会上获悉，截至目前，累计投入救援力量2300余人次、搜救车辆400余台次、搜救设备8000余台套、无人机飞行800余架次、空投物资装备5.43吨，在核心区域布设照明灯具4台、低压发电车1台、充",
+        "title": "应急管理部调派央企力量全力支持吉隆泥石流灾害抢险救援",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-04/10689974.shtml",
+        "published": "2026-09-04 00:03",
+        "summary": "西藏日喀则市吉隆县泥石流灾害发生后，应急管理部迅速调派中央企业工程应急救援力量796人、522台(套)装备驰援西藏，在现场指挥部统一指挥下，协同开展排查搜救、道路抢通、风险监测等抢险救援工作。此外，中交集团、中国中铁还选派7名隧道专家赴尼泊",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "伊朗称将继续打击美军基地 警告与美合作国家承担后果",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/02/ARTIGbON6KOf5EQCP3igaF5o260902.shtml",
-        "published": "2026-09-02 15:18",
-        "summary": "当地时间9月2日凌晨，伊朗哈塔姆安比亚中央司令部发言人发表声明称，美军近期对伊朗南部多处军事和非军事目标实施空袭，造成平民伤亡。作为回应，伊朗武装力量使用导弹和无人机对地区内美军基地发动袭击。相关袭击对美军基础设施、武器和装备造成严重损失，",
+        "title": "水利部持续做好西藏吉隆泥石流灾害抢险救援水利支持工作",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4T3wjvkKfxA",
+        "published": "2026-09-03 21:27",
+        "summary": "记者从水利部获悉：9月3日上午，水利部滚动研判西藏吉隆泥石流灾害全链条风险，安排部署抢险救援水利支持相关工作。 根据9月3日8时30分无人机航摄全景影像及2日20时31分雷达卫星影像分析，普热普强藏布堰塞湖上下游河道过流正常。 根据9月2日",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "五部门将开展第六次中国城乡老年人生活状况抽样调查",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/02/ARTIoGDXaCmyWSDM1b9TolJT260902.shtml",
-        "published": "2026-09-02 17:25",
-        "summary": "民政部、中央社会工作部、财政部、全国老龄办、中国老龄协会等五部门日前联合印发通知，将组织开展第六次中国城乡老年人生活状况抽样调查（以下简称第六次抽样调查），为深入实施积极应对人口老龄化国家战略，完善相关法律、法规和政策，提供基础数据保障。 ",
+        "title": "丁薛祥出席第十一届东方经济论坛全会并致辞",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-04/10689975.shtml",
+        "published": "2026-09-04 06:29",
+        "summary": "中新社符拉迪沃斯托克9月3日电 当地时间9月3日，中共中央政治局常委、国务院副总理丁薛祥在俄罗斯符拉迪沃斯托克出席第十一届东方经济论坛全会，并发表题为“深化中俄地区合作 增进两国人民福祉”的致辞。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "习近平主席特使、全国政协副主席咸辉出席赞比亚总统就职典礼",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-03/10689169.shtml",
-        "published": "2026-09-03 06:37",
-        "summary": "新华社卢萨卡9月2日电(记者叶挺)应赞比亚共和国政府邀请，习近平主席特使、全国政协副主席咸辉1日在赞比亚首都卢萨卡出席赞比亚总统希奇莱马就职典礼。2日，希奇莱马在总统官邸会见咸辉。",
+        "title": "青春华章丨速览安徽科创的“第一”与“首创”",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4T3vGd7LxqO",
+        "published": "2026-09-03 20:46",
+        "summary": "创新氛围浓厚，创新动能澎湃。近年来，安徽科技创新硕果累累，高地效应日益凸显：全国首款量子操作系统开放下载，全球首个可规模化应用工业具身智能大模型发布，助力我国首次绕月编队飞行……让我们通过一组海报，速览安徽科创的“第一”与“首创”。 文案/",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "研究报告显示——港企创科生态排亚洲第一",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4T3H14D1vnp",
-        "published": "2026-09-03 02:00",
-        "summary": "【环球时报驻香港特约记者 叶蓝】近日，香港科技园公司公布与科技市场情报机构CB Insights合作进行的研究报告《透视亚洲科技通往全球规模的快车道》（《Inside Asia's Fast-Track to Global Tech Sca",
+        "title": "Xi returns to Beijing after SCO summit, state visits to Kyrgyzstan, Egypt",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-09-03/Xi-returns-to-Beijing-after-SCO-summit-state-visits-to-Kyrgyzstan-Egypt-1Q7Z3Zl0ubK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-03 10:13",
+        "summary": "Xi returns to Beijing after SCO summit, state visits to Kyrgyzstan, Egypt",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Venice Film Festival opens with George Clooney, Murdoch film and geopolitics",
+        "title": "Nvidia to buy Hugging Face for $12.93 billion in major AI expansion",
         "source": "France 24",
-        "link": "https://www.france24.com/en/culture/20260902-venice-film-festival-clooney-murdoch-film-geopolitics",
-        "published": "2026-09-03 06:11",
-        "summary": "George Clooney used a Venice Film Festival appearance on Wednesday to weigh in on artificial intelligence, media ownersh",
+        "link": "https://www.france24.com/en/technology/20260903-nvidia-to-buy-hugging-face-for-12-93-billion-in-major-ai-expansion",
+        "published": "2026-09-04 05:34",
+        "summary": "Nvidia said Thursday it will buy AI developer platform Hugging Face for $12.93 billion, its latest major investment to e",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "China urges global AI cooperation, not rivalry, ahead of Xi-Trump summit",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/tech/tech-war/article/3366143/china-urges-global-ai-cooperation-not-rivalry-ahead-xi-trump-summit?utm_source=rss_feed",
-        "published": "2026-09-02 21:30",
-        "summary": "China’s science and technology minister Yin Hejun has called for global cooperation to manage the opportunities and risk",
-        "ai": true
-      },
-      {
-        "rank": 3,
-        "title": "Israeli PM says Israel is working to overthrow Iran’s government",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
-        "published": "2026-09-03 05:23",
-        "summary": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.",
+        "title": "Ousted Ukrainian defense chief launches Palantir-backed company",
+        "source": "RT",
+        "link": "https://www.rt.com/news/645094-ukrainian-fedorov-palantir-karp/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-09-04 01:58",
+        "summary": "Former Ukrainian Defense Minister Mikhail Fedorov is launching a military tech company backed by Palantir CEO Alex Karp ",
         "ai": false
       },
       {
+        "rank": 3,
+        "title": "Chinese military’s AI attack chain lags foreign models: researchers",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/military/article/3366256/chinese-militarys-ai-attack-chain-lags-foreign-models-researchers?utm_source=rss_feed",
+        "published": "2026-09-03 20:00",
+        "summary": "China’s military AI models trail their foreign equivalents in performance, concentrating on support functions rather tha",
+        "ai": true
+      },
+      {
         "rank": 4,
-        "title": "Moscow, Minsk settle all outstanding issues, relations all good — prime minister",
+        "title": "Trump says he has not yet considered inviting Putin to G20 summit",
         "source": "TASS",
-        "link": "https://tass.com/world/2181309",
-        "published": "2026-09-02 22:05",
-        "summary": "Accoridng to Alexander Turchin, the Belarusian president gave the government a number of instructions on Wednesday to fo",
+        "link": "https://tass.com/world/2182387",
+        "published": "2026-09-04 06:44",
+        "summary": "In late April, the US president told journalists that the presence of his Russian counterpart at the upcoming G20 summit",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "UK government does not know what datacentres are being used for, FoI request shows",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/uk-news/2026/sep/02/uk-datacentres-ai-boom-foi-environment",
-        "published": "2026-09-02 21:44",
-        "summary": "Lack of information raises fears over environmental impact of the AI boom The UK government does not know what the count",
+        "title": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources?utm_source=rss_feed",
+        "published": "2026-09-03 21:00",
+        "summary": "Chinese artificial intelligence start-up Moonshot AI – developer of the leading Kimi K3 model – has confidentially filed",
         "ai": true
       }
     ]
@@ -107,30 +107,30 @@
     {
       "city": "南京",
       "current": 23,
-      "min": 23,
+      "min": 22,
       "max": 28,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 24,
-      "min": 24,
+      "current": 23,
+      "min": 23,
       "max": 27,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 23,
+      "current": 22,
       "min": 22,
-      "max": 32,
-      "condition": "阴",
-      "icon": "☁️"
+      "max": 27,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "定西市安定区",
-      "current": 10,
+      "current": 11,
       "min": 10,
       "max": 22,
       "condition": "阴",

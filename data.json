@@ -1,148 +1,148 @@
 {
-  "date": "2026-09-04",
-  "updated_at": "2026-09-04 07:07",
+  "date": "2026-09-05",
+  "updated_at": "2026-09-05 07:07",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！新的一天，愿好事如约而至。",
-    "language": "中文",
-    "words": 16
+    "text": "Rise and shine! A fresh day is ready for your best ideas.",
+    "language": "English",
+    "words": 12
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "应急管理部调派央企力量全力支持吉隆泥石流灾害抢险救援",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-04/10689974.shtml",
-        "published": "2026-09-04 00:03",
-        "summary": "西藏日喀则市吉隆县泥石流灾害发生后，应急管理部迅速调派中央企业工程应急救援力量796人、522台(套)装备驰援西藏，在现场指挥部统一指挥下，协同开展排查搜救、道路抢通、风险监测等抢险救援工作。此外，中交集团、中国中铁还选派7名隧道专家赴尼泊",
+        "title": "初心不改，虽远不怠——习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问纪实",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34012556",
+        "published": "2026-09-05 03:58",
+        "summary": "8月30日至9月2日，中国北京－吉尔吉斯斯坦比什凯克－埃及开罗，航程在亚非两块大陆间划了一道壮美的弧线。 瓷丝泛海，锦绣流沙。绵延千年的古丝绸之路曾将此行到访的两个国度，同毗邻太平洋的中国紧紧相连。而今天，与中国连接的纽带是尊重、信任与合作",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "水利部持续做好西藏吉隆泥石流灾害抢险救援水利支持工作",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4T3wjvkKfxA",
-        "published": "2026-09-03 21:27",
-        "summary": "记者从水利部获悉：9月3日上午，水利部滚动研判西藏吉隆泥石流灾害全链条风险，安排部署抢险救援水利支持相关工作。 根据9月3日8时30分无人机航摄全景影像及2日20时31分雷达卫星影像分析，普热普强藏布堰塞湖上下游河道过流正常。 根据9月2日",
+        "title": "广东数字化赋能就业服务 打通求职服务“最后一公里”",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690736.shtml",
+        "published": "2026-09-04 22:58",
+        "summary": "中新网广州9月4日电 (记者 王坚)“百万英才汇南粤”是广东启动实施的高规格招才引智行动计划，“粤就业”作为“百万英才汇南粤”行动省级平台，以数字化手段，为高校毕业生和各类人才搭建起高效便捷的线上对接渠道。目前，“粤就业”累计发布“百万英才",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "丁薛祥出席第十一届东方经济论坛全会并致辞",
+        "title": "2026年“一带一路”脑健康与脑器交互科技国际会议在成都开幕",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-04/10689975.shtml",
-        "published": "2026-09-04 06:29",
-        "summary": "中新社符拉迪沃斯托克9月3日电 当地时间9月3日，中共中央政治局常委、国务院副总理丁薛祥在俄罗斯符拉迪沃斯托克出席第十一届东方经济论坛全会，并发表题为“深化中俄地区合作 增进两国人民福祉”的致辞。",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690738.shtml",
+        "published": "2026-09-04 22:58",
+        "summary": "中新网成都9月4日电 (王利文)2026年“一带一路”脑健康与脑器交互科技国际会议4日在成都召开。会议由四川省科学技术厅等单位指导，电子科技大学主办，中国—古巴神经技术与脑器交互“一带一路”联合实验室等承办，来自12个国家和地区的近千名专家",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "青春华章丨速览安徽科创的“第一”与“首创”",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4T3vGd7LxqO",
-        "published": "2026-09-03 20:46",
-        "summary": "创新氛围浓厚，创新动能澎湃。近年来，安徽科技创新硕果累累，高地效应日益凸显：全国首款量子操作系统开放下载，全球首个可规模化应用工业具身智能大模型发布，助力我国首次绕月编队飞行……让我们通过一组海报，速览安徽科创的“第一”与“首创”。 文案/",
+        "title": "向新之翼丨皖北小城宿州，何以因算力“出圈”？",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34010213",
+        "published": "2026-09-04 21:51",
+        "summary": "当长三角的AI大模型在眨眼间完成一次迭代，当上海部分高校的科研数据毫秒间完成一次传输，背后提供算力的，可能不是北上广深的某座超算中心，而是一座此前存在感并不高的皖北小城——宿州。 宿州市算力产业园超算中心。宿州市委网信办供图 十多年前还在“",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Xi returns to Beijing after SCO summit, state visits to Kyrgyzstan, Egypt",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-09-03/Xi-returns-to-Beijing-after-SCO-summit-state-visits-to-Kyrgyzstan-Egypt-1Q7Z3Zl0ubK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-09-03 10:13",
-        "summary": "Xi returns to Beijing after SCO summit, state visits to Kyrgyzstan, Egypt",
+        "title": "新闻联播 2026/09/04",
+        "source": "央视网-新闻联播",
+        "link": "https://tv.cctv.com/lm/xwlb/day/20260904.shtml",
+        "published": "2026-09-04 19:00",
+        "summary": "《新闻联播》 20260904 19:00 ⏱00:30:02 [视频]习近平致信祝贺中央广播电视总台《小喇叭》节目开播70周年强调 紧扣时代发展脉搏 深耕少儿文化沃土 为培养德智体美劳全面发展的社会主义建设者和接班人作出更大贡献 ⏱00:",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Nvidia to buy Hugging Face for $12.93 billion in major AI expansion",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/technology/20260903-nvidia-to-buy-hugging-face-for-12-93-billion-in-major-ai-expansion",
-        "published": "2026-09-04 05:34",
-        "summary": "Nvidia said Thursday it will buy AI developer platform Hugging Face for $12.93 billion, its latest major investment to e",
+        "title": "Iran uses AI drones in latest retaliatory strikes on US bases — army spokesperson",
+        "source": "TASS",
+        "link": "https://tass.com/world/2182903",
+        "published": "2026-09-04 23:11",
+        "summary": "Mohammad Akraminia noted that Tehran does not rule out the possibility of conducting preventive operations in the event ",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Ousted Ukrainian defense chief launches Palantir-backed company",
-        "source": "RT",
-        "link": "https://www.rt.com/news/645094-ukrainian-fedorov-palantir-karp/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-09-04 01:58",
-        "summary": "Former Ukrainian Defense Minister Mikhail Fedorov is launching a military tech company backed by Palantir CEO Alex Karp ",
+        "title": "Costa Rican president signals openness to domestic US military operations",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
+        "published": "2026-09-05 05:45",
+        "summary": "President Laura Fernandez notes that Congress would need to approve any US military operations within the country.",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Chinese military’s AI attack chain lags foreign models: researchers",
+        "title": "Trump threatens to cut trade with some countries if Fed doesn’t lower rates",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/military/article/3366256/chinese-militarys-ai-attack-chain-lags-foreign-models-researchers?utm_source=rss_feed",
-        "published": "2026-09-03 20:00",
-        "summary": "China’s military AI models trail their foreign equivalents in performance, concentrating on support functions rather tha",
-        "ai": true
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3366445/trump-threatens-cut-trade-some-countries-if-fed-doesnt-lower-rates?utm_source=rss_feed",
+        "published": "2026-09-05 01:38",
+        "summary": "President Donald Trump intensified pressure on the Federal Reserve to lower interest rates, threatening to cut off trade",
+        "ai": false
       },
       {
         "rank": 4,
-        "title": "Trump says he has not yet considered inviting Putin to G20 summit",
-        "source": "TASS",
-        "link": "https://tass.com/world/2182387",
-        "published": "2026-09-04 06:44",
-        "summary": "In late April, the US president told journalists that the presence of his Russian counterpart at the upcoming G20 summit",
+        "title": "Israel's West Bank camp displacements could be crime against humanity, UN says",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says",
+        "published": "2026-09-05 00:26",
+        "summary": "The Israeli government's forced displacement of the entire populations of three West Bank refugee camps in January 2025 ",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources?utm_source=rss_feed",
-        "published": "2026-09-03 21:00",
-        "summary": "Chinese artificial intelligence start-up Moonshot AI – developer of the leading Kimi K3 model – has confidentially filed",
-        "ai": true
+        "title": "Kazakhstan stabilizes oil output following CPC pipeline disruptions, minister says",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2182869",
+        "published": "2026-09-04 22:18",
+        "summary": "According to Kazakh Energy Minister Yerlan Akkenzhenov, oil production is projected to reach 96 million tonnes by the en",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 23,
+      "current": 22,
       "min": 22,
-      "max": 28,
-      "condition": "阴",
-      "icon": "☁️"
+      "max": 29,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "武汉",
       "current": 23,
-      "min": 23,
-      "max": 27,
+      "min": 22,
+      "max": 29,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 22,
-      "min": 22,
+      "current": 23,
+      "min": 23,
       "max": 27,
-      "condition": "多云",
-      "icon": "⛅"
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "定西市安定区",
       "current": 11,
-      "min": 10,
-      "max": 22,
+      "min": 11,
+      "max": 25,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 23,
-      "min": 23,
-      "max": 29,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 21,
+      "min": 21,
+      "max": 31,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     }
   ]
 }

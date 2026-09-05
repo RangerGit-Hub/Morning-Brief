@@ -1,104 +1,104 @@
 {
-  "date": "2026-09-05",
-  "updated_at": "2026-09-05 07:07",
+  "date": "2026-09-06",
+  "updated_at": "2026-09-06 07:07",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Rise and shine! A fresh day is ready for your best ideas.",
-    "language": "English",
-    "words": 12
+    "text": "Bonjour ! Avancez avec confiance, une belle journée vous attend.",
+    "language": "Français",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "初心不改，虽远不怠——习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问纪实",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34012556",
-        "published": "2026-09-05 03:58",
-        "summary": "8月30日至9月2日，中国北京－吉尔吉斯斯坦比什凯克－埃及开罗，航程在亚非两块大陆间划了一道壮美的弧线。 瓷丝泛海，锦绣流沙。绵延千年的古丝绸之路曾将此行到访的两个国度，同毗邻太平洋的中国紧紧相连。而今天，与中国连接的纽带是尊重、信任与合作",
+        "title": "美军称打击伊朗三艘油轮",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-05/10691194.shtml",
+        "published": "2026-09-05 23:33",
+        "summary": "当地时间9月5日，美国中央司令部发布声明称，“在伊朗伊斯兰革命卫队向两艘在地区水域巡逻的美军舰船发射弹道导弹后，美国中央司令部部队对三艘伊朗原油运输船实施了打击。”",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "广东数字化赋能就业服务 打通求职服务“最后一公里”",
+        "title": "外贸服务搬进宠博会 “浙里出海”助绍兴企业掘金新蓝海",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690736.shtml",
-        "published": "2026-09-04 22:58",
-        "summary": "中新网广州9月4日电 (记者 王坚)“百万英才汇南粤”是广东启动实施的高规格招才引智行动计划，“粤就业”作为“百万英才汇南粤”行动省级平台，以数字化手段，为高校毕业生和各类人才搭建起高效便捷的线上对接渠道。目前，“粤就业”累计发布“百万英才",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-05/10691192.shtml",
+        "published": "2026-09-05 23:32",
+        "summary": "中新网绍兴9月5日电(蓝伊旎)9月4日至6日，2026绍兴国际宠物用品博览会在浙江绍兴举办，汇聚100余家宠物行业展商，宠物食品、日用用品、医疗健康、智能设备等丰富类目吸引中外客商采购。其间，由浙江省贸促会主办的2026“浙里出海”—1+N",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "2026年“一带一路”脑健康与脑器交互科技国际会议在成都开幕",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690738.shtml",
-        "published": "2026-09-04 22:58",
-        "summary": "中新网成都9月4日电 (王利文)2026年“一带一路”脑健康与脑器交互科技国际会议4日在成都召开。会议由四川省科学技术厅等单位指导，电子科技大学主办，中国—古巴神经技术与脑器交互“一带一路”联合实验室等承办，来自12个国家和地区的近千名专家",
+        "title": "马上评｜一次食品安全事故，坍塌的可能是一个地方的口碑",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34015694",
+        "published": "2026-09-05 17:39",
+        "summary": "最近有网友反映，甘肃兰州榆中县发现“染色莴笋”，一些菜库人员违规使用食品添加剂给莴笋上色。9月5日，甘肃兰州榆中县农业农村局、榆中县市场监管局发布情况通报：发现有6家企业在莴笋收购环节违法使用了果绿食品添加剂，即依法对其进行立案查处。 视频",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "向新之翼丨皖北小城宿州，何以因算力“出圈”？",
+        "title": "严子怡夺得钻石联赛总决赛女子标枪冠军",
         "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34010213",
-        "published": "2026-09-04 21:51",
-        "summary": "当长三角的AI大模型在眨眼间完成一次迭代，当上海部分高校的科研数据毫秒间完成一次传输，背后提供算力的，可能不是北上广深的某座超算中心，而是一座此前存在感并不高的皖北小城——宿州。 宿州市算力产业园超算中心。宿州市委网信办供图 十多年前还在“",
+        "link": "https://m.thepaper.cn/detail/34018434",
+        "published": "2026-09-06 04:56",
+        "summary": "钻石联赛总决赛严子怡标枪夺冠 当地时间9月5日晚（北京时间6日凌晨），在比利时布鲁塞尔举行的2026年世界田联钻石联赛总决赛中，中国选手严子怡在女子标枪决赛中凭借68.42米的成绩斩获全场最佳，成功拿下本站冠军。 在世界田联公布的最新世界排",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "新闻联播 2026/09/04",
-        "source": "央视网-新闻联播",
-        "link": "https://tv.cctv.com/lm/xwlb/day/20260904.shtml",
-        "published": "2026-09-04 19:00",
-        "summary": "《新闻联播》 20260904 19:00 ⏱00:30:02 [视频]习近平致信祝贺中央广播电视总台《小喇叭》节目开播70周年强调 紧扣时代发展脉搏 深耕少儿文化沃土 为培养德智体美劳全面发展的社会主义建设者和接班人作出更大贡献 ⏱00:",
+        "title": "Vice premier: China-Russia energy ties boosts global market stability",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-09-05/Vice-premier-China-Russia-energy-ties-boosts-global-market-stability-1QbnE07yMQ8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-05 10:51",
+        "summary": "Amid the changing international landscape and frequent geopolitical conflicts, China and Russia have played an important",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Iran uses AI drones in latest retaliatory strikes on US bases — army spokesperson",
-        "source": "TASS",
-        "link": "https://tass.com/world/2182903",
-        "published": "2026-09-04 23:11",
-        "summary": "Mohammad Akraminia noted that Tehran does not rule out the possibility of conducting preventive operations in the event ",
+        "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
+        "published": "2026-09-06 04:00",
+        "summary": "A machete-wielding robber, a ‘tsunami of debt’ … campaigns echoing opposition talking points outspend major parties Get ",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Costa Rican president signals openness to domestic US military operations",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
-        "published": "2026-09-05 05:45",
-        "summary": "President Laura Fernandez notes that Congress would need to approve any US military operations within the country.",
+        "title": "German rocket reaches space as Europe enters satellite launch race",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/europe/article/3366509/german-rocket-reaches-space-europe-enters-satellite-launch-race?utm_source=rss_feed",
+        "published": "2026-09-06 06:06",
+        "summary": "German start-up Isar Aerospace on Saturday launched its first rocket into space from a site in Arctic Norway, bringing E",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Trump threatens to cut trade with some countries if Fed doesn’t lower rates",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3366445/trump-threatens-cut-trade-some-countries-if-fed-doesnt-lower-rates?utm_source=rss_feed",
-        "published": "2026-09-05 01:38",
-        "summary": "President Donald Trump intensified pressure on the Federal Reserve to lower interest rates, threatening to cut off trade",
+        "title": "Upcoming space summit to be worst Macron-organized event — media",
+        "source": "TASS",
+        "link": "https://tass.com/world/2183139",
+        "published": "2026-09-05 20:50",
+        "summary": "According to Politico, the main issues are that the summit is running behind schedule, has not been coordinated with maj",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Israel's West Bank camp displacements could be crime against humanity, UN says",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says",
-        "published": "2026-09-05 00:26",
-        "summary": "The Israeli government's forced displacement of the entire populations of three West Bank refugee camps in January 2025 ",
+        "title": "Russian minister sees financial points of convergence with US",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2183111",
+        "published": "2026-09-05 19:45",
+        "summary": "The Russian finance minister took part in a G20 Finance Ministers and Central Bank Governors meeting in the US city of A",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Kazakhstan stabilizes oil output following CPC pipeline disruptions, minister says",
+        "title": "Merz admits that German government lacks support",
         "source": "TASS",
-        "link": "https://tass.com/economy/2182869",
-        "published": "2026-09-04 22:18",
-        "summary": "According to Kazakh Energy Minister Yerlan Akkenzhenov, oil production is projected to reach 96 million tonnes by the en",
+        "link": "https://tass.com/world/2183239",
+        "published": "2026-09-06 04:55",
+        "summary": "Friedrich Merz also recalled that the previous German government had been \"divided from within and run out of steam so q",
         "ai": false
       }
     ]
@@ -107,39 +107,39 @@
     {
       "city": "南京",
       "current": 22,
-      "min": 22,
-      "max": 29,
+      "min": 21,
+      "max": 28,
       "condition": "大部晴朗",
       "icon": "🌤️"
     },
     {
       "city": "武汉",
-      "current": 23,
+      "current": 22,
       "min": 22,
-      "max": 29,
+      "max": 32,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
+    },
+    {
+      "city": "南宁",
+      "current": 21,
+      "min": 21,
+      "max": 30,
       "condition": "阴",
       "icon": "☁️"
     },
     {
-      "city": "南宁",
-      "current": 23,
-      "min": 23,
-      "max": 27,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
-    },
-    {
       "city": "定西市安定区",
-      "current": 11,
-      "min": 11,
-      "max": 25,
+      "current": 13,
+      "min": 13,
+      "max": 22,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
       "current": 21,
-      "min": 21,
+      "min": 20,
       "max": 31,
       "condition": "大部晴朗",
       "icon": "🌤️"

@@ -1,105 +1,105 @@
 {
-  "date": "2026-09-06",
-  "updated_at": "2026-09-06 07:07",
+  "date": "2026-09-07",
+  "updated_at": "2026-09-07 07:07",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Avancez avec confiance, une belle journée vous attend.",
-    "language": "Français",
-    "words": 10
+    "text": "清晨好！愿今天平安顺遂，收获满满。",
+    "language": "中文",
+    "words": 17
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "美军称打击伊朗三艘油轮",
+        "title": "（经济观察）中国财政部密集注资 加厚金融机构“安全垫”",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/09-05/10691194.shtml",
-        "published": "2026-09-05 23:33",
-        "summary": "当地时间9月5日，美国中央司令部发布声明称，“在伊朗伊斯兰革命卫队向两艘在地区水域巡逻的美军舰船发射弹道导弹后，美国中央司令部部队对三艘伊朗原油运输船实施了打击。”",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-06/10691609.shtml",
+        "published": "2026-09-06 23:46",
+        "summary": "中新社北京9月6日电 (陶思阅)8家中央金融企业6日分别发布增资计划，包括中国工商银行、中国农业银行、中国进出口银行、中国人寿、中国太平、中国人保、中国出口信用保险公司及中国再保等。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "外贸服务搬进宠博会 “浙里出海”助绍兴企业掘金新蓝海",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-05/10691192.shtml",
-        "published": "2026-09-05 23:32",
-        "summary": "中新网绍兴9月5日电(蓝伊旎)9月4日至6日，2026绍兴国际宠物用品博览会在浙江绍兴举办，汇聚100余家宠物行业展商，宠物食品、日用用品、医疗健康、智能设备等丰富类目吸引中外客商采购。其间，由浙江省贸促会主办的2026“浙里出海”—1+N",
+        "title": "福鼎市茶叶协会回应近10吨“泡水茶”被销毁：亏钱也绝不亏口碑",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34020894",
+        "published": "2026-09-06 21:18",
+        "summary": "9月5日下午，在被誉为“中国白茶第一镇”的福建省福鼎市点头镇，近10吨“泡水茶”集中销毁。受台风“沙德尔”带来的极端强降雨影响，点头镇集镇商铺、茶叶仓储点、包装企业、沿溪岸河岸工厂等都受到不同程度的破坏。 9月6日，“福鼎市茶叶协会”微信公",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "马上评｜一次食品安全事故，坍塌的可能是一个地方的口碑",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34015694",
-        "published": "2026-09-05 17:39",
-        "summary": "最近有网友反映，甘肃兰州榆中县发现“染色莴笋”，一些菜库人员违规使用食品添加剂给莴笋上色。9月5日，甘肃兰州榆中县农业农村局、榆中县市场监管局发布情况通报：发现有6家企业在莴笋收购环节违法使用了果绿食品添加剂，即依法对其进行立案查处。 视频",
+        "title": "王小洪分别会见老挝和乌兹别克斯坦客人",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-07/10691626.shtml",
+        "published": "2026-09-07 02:11",
+        "summary": "新华社北京9月6日电 中共中央书记处书记、公安部部长王小洪6日在京分别会见老挝人民革命党中央书记处书记、公安部部长万通和乌兹别克斯坦内务部部长塔什普拉托夫。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "严子怡夺得钻石联赛总决赛女子标枪冠军",
+        "title": "8家中央金融企业迎来增资，有何考量",
         "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34018434",
-        "published": "2026-09-06 04:56",
-        "summary": "钻石联赛总决赛严子怡标枪夺冠 当地时间9月5日晚（北京时间6日凌晨），在比利时布鲁塞尔举行的2026年世界田联钻石联赛总决赛中，中国选手严子怡在女子标枪决赛中凭借68.42米的成绩斩获全场最佳，成功拿下本站冠军。 在世界田联公布的最新世界排",
+        "link": "https://m.thepaper.cn/detail/34020893",
+        "published": "2026-09-06 21:09",
+        "summary": "9月6日，中国工商银行等8家中央金融企业分别发布增资计划，将补充核心一级资本。据统计，8家中央金融企业计划共增资3600亿元。 各方十分关注此次中央金融企业增资背后的考虑以及资金来源。就相关问题，记者采访了专家和业内人士。 增资背后，有何考",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Vice premier: China-Russia energy ties boosts global market stability",
+        "title": "2 dead, 10 missing after mudslide in east China's Jiangxi",
         "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-09-05/Vice-premier-China-Russia-energy-ties-boosts-global-market-stability-1QbnE07yMQ8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-09-05 10:51",
-        "summary": "Amid the changing international landscape and frequent geopolitical conflicts, China and Russia have played an important",
+        "link": "https://news.cgtn.com/news/2026-09-06/2-dead-10-missing-after-mudslide-in-east-China-s-Jiangxi-1QdctO3O6WY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-06 10:50",
+        "summary": "2 dead, 10 missing after mudslide in east China's Jiangxi",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
-        "published": "2026-09-06 04:00",
-        "summary": "A machete-wielding robber, a ‘tsunami of debt’ … campaigns echoing opposition talking points outspend major parties Get ",
+        "title": "AI: The future of smart households?",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/video/20260906-ai-the-future-of-smart-households",
+        "published": "2026-09-06 21:50",
+        "summary": "Could artificial intelligence soon be running our households? Beyond our smartphones, AI is now powering everything from",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "German rocket reaches space as Europe enters satellite launch race",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/europe/article/3366509/german-rocket-reaches-space-europe-enters-satellite-launch-race?utm_source=rss_feed",
-        "published": "2026-09-06 06:06",
-        "summary": "German start-up Isar Aerospace on Saturday launched its first rocket into space from a site in Arctic Norway, bringing E",
+        "title": "Energy secretary says US might not reach nuclear agreement with Iran",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
+        "published": "2026-09-07 01:39",
+        "summary": "Chris Wright tells ABC there ‘may not’ be an agreement that would prevent Iran from having nuclear weapons US energy sec",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Upcoming space summit to be worst Macron-organized event — media",
-        "source": "TASS",
-        "link": "https://tass.com/world/2183139",
-        "published": "2026-09-05 20:50",
-        "summary": "According to Politico, the main issues are that the summit is running behind schedule, has not been coordinated with maj",
+        "title": "FIFA confirms Infantino to stand for re-election as president",
+        "source": "Sky News",
+        "link": "https://news.sky.com/story/fifa-confirms-gianni-infantino-to-stand-for-re-election-as-president-13582281",
+        "published": "2026-09-06 20:01",
+        "summary": "FIFA has confirmed Gianni Infantino is standing for re-election next year after the president declined Sky News question",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Russian minister sees financial points of convergence with US",
-        "source": "TASS",
-        "link": "https://tass.com/economy/2183111",
-        "published": "2026-09-05 19:45",
-        "summary": "The Russian finance minister took part in a G20 Finance Ministers and Central Bank Governors meeting in the US city of A",
-        "ai": false
+        "title": "China will never allow any country in this world to achieve AI dominance: Victor Gao",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/science/article/3366540/china-will-never-allow-any-country-world-achieve-ai-dominance-victor-gao?utm_source=rss_feed",
+        "published": "2026-09-06 19:00",
+        "summary": "China will thwart US ambitions for global artificial intelligence (AI) dominance, the vice-president of the Centre for C",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Merz admits that German government lacks support",
-        "source": "TASS",
-        "link": "https://tass.com/world/2183239",
-        "published": "2026-09-06 04:55",
-        "summary": "Friedrich Merz also recalled that the previous German government had been \"divided from within and run out of steam so q",
-        "ai": false
+        "title": "Chinese military university urged to revise AI course to ‘educate for war’",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/military/article/3366490/chinese-military-university-urged-revise-ai-course-educate-war?utm_source=rss_feed",
+        "published": "2026-09-06 14:00",
+        "summary": "China’s military researchers have proposed a redesigned “AI principles and practice course” for graduate students with “",
+        "ai": true
       }
     ]
   },
@@ -114,35 +114,35 @@
     },
     {
       "city": "武汉",
-      "current": 22,
-      "min": 22,
-      "max": 32,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 23,
+      "min": 23,
+      "max": 33,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 21,
-      "min": 21,
-      "max": 30,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 23,
+      "min": 23,
+      "max": 32,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "定西市安定区",
       "current": 13,
-      "min": 13,
-      "max": 22,
-      "condition": "阴",
-      "icon": "☁️"
+      "min": 12,
+      "max": 14,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "孝感市应城市",
       "current": 21,
       "min": 20,
       "max": 31,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

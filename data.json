@@ -1,104 +1,104 @@
 {
-  "date": "2026-09-07",
-  "updated_at": "2026-09-07 07:07",
+  "date": "2026-09-08",
+  "updated_at": "2026-09-08 08:53",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "清晨好！愿今天平安顺遂，收获满满。",
-    "language": "中文",
-    "words": 17
+    "text": "Good morning! Take one hopeful step, then let the day unfold.",
+    "language": "English",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "（经济观察）中国财政部密集注资 加厚金融机构“安全垫”",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-06/10691609.shtml",
-        "published": "2026-09-06 23:46",
-        "summary": "中新社北京9月6日电 (陶思阅)8家中央金融企业6日分别发布增资计划，包括中国工商银行、中国农业银行、中国进出口银行、中国人寿、中国太平、中国人保、中国出口信用保险公司及中国再保等。",
+        "title": "青春华章丨燃！这就是今天的中国青年",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4T7FEzpM95t",
+        "published": "2026-09-07 20:51",
+        "summary": "中国经济网合肥9月7日讯（记者 武晓娟）9月6日晚，由中央网信办、教育部、人民日报社、中国科学院、共青团中央、安徽省委网信委主办的2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动，在中国科学技术大学举行。 活动紧扣青春",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "福鼎市茶叶协会回应近10吨“泡水茶”被销毁：亏钱也绝不亏口碑",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34020894",
-        "published": "2026-09-06 21:18",
-        "summary": "9月5日下午，在被誉为“中国白茶第一镇”的福建省福鼎市点头镇，近10吨“泡水茶”集中销毁。受台风“沙德尔”带来的极端强降雨影响，点头镇集镇商铺、茶叶仓储点、包装企业、沿溪岸河岸工厂等都受到不同程度的破坏。 9月6日，“福鼎市茶叶协会”微信公",
+        "title": "好评中国｜解锁 “空中的士”！合肥探索无人驾驶载人飞行器，开启低空载人新时代",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4T7F92YegrP",
+        "published": "2026-09-07 20:48",
+        "summary": "无人驾驶载人飞行器正从科幻走向现实。作为城市空中交通商业化运营主体，合肥合翼航空依托EH216-S全球“三证齐全”载人eVTOL 航空器，拿下载人无人驾驶航空器运营合格证，叩开国内低空经济载人商业化的大门。以骆岗空中交通运营中心为载体，合肥",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "王小洪分别会见老挝和乌兹别克斯坦客人",
+        "title": "中央气象台：北方地区有降雨降温过程",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-07/10691626.shtml",
-        "published": "2026-09-07 02:11",
-        "summary": "新华社北京9月6日电 中共中央书记处书记、公安部部长王小洪6日在京分别会见老挝人民革命党中央书记处书记、公安部部长万通和乌兹别克斯坦内务部部长塔什普拉托夫。",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-08/10692325.shtml",
+        "published": "2026-09-08 08:23",
+        "summary": "中新网9月8日电 据中央气象台网站消息，国内方面，昨日，河北、天津、四川、云南、广东等地出现较强降雨。预计未来三天，冷空气将继续影响北方地区，山西、陕西、甘肃、宁夏、四川等地有较强降雨，部分地区累计雨量较大，需防范局地强降雨和持续降雨可能引",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "8家中央金融企业迎来增资，有何考量",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34020893",
-        "published": "2026-09-06 21:09",
-        "summary": "9月6日，中国工商银行等8家中央金融企业分别发布增资计划，将补充核心一级资本。据统计，8家中央金融企业计划共增资3600亿元。 各方十分关注此次中央金融企业增资背后的考虑以及资金来源。就相关问题，记者采访了专家和业内人士。 增资背后，有何考",
+        "title": "8家中央金融企业获3600亿元增资 巨额资金将发挥哪些关键作用？",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-08/10692322.shtml",
+        "published": "2026-09-08 08:02",
+        "summary": "日前，中国工商银行等8家中央金融企业集中对外披露增资方案，合计计划增资3600亿元用于补充核心一级资本。财政部昨天(7日)明确，近期将发行3000亿元特别国债，专项为上述金融央企资本补充提供支撑。这一次中央金融企业大规模集中增资，背后有怎样",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "2 dead, 10 missing after mudslide in east China's Jiangxi",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-09-06/2-dead-10-missing-after-mudslide-in-east-China-s-Jiangxi-1QdctO3O6WY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-09-06 10:50",
-        "summary": "2 dead, 10 missing after mudslide in east China's Jiangxi",
+        "title": "飞天逐梦向火星，人类对火星有怎样的想象与探索",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34026810",
+        "published": "2026-09-08 08:31",
+        "summary": "2026年全国科普月之际，9月6日下午，“《飞天逐梦向火星》图书分享会”在杨浦区图书馆“静思讲坛”举行，这也是上海科技教育出版社“哲人石读书会”本年度的第六场活动。 该书的两位作者，天文学家卞毓麟和科普作家施韡以“火星，人类的下一个家园？”",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "AI: The future of smart households?",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/video/20260906-ai-the-future-of-smart-households",
-        "published": "2026-09-06 21:50",
-        "summary": "Could artificial intelligence soon be running our households? Beyond our smartphones, AI is now powering everything from",
+        "title": "AI, chip firms among bidders for flagship Northern Metropolis tech hub at border",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366667/ai-chip-firms-among-bidders-flagship-northern-metropolis-tech-hub-border?utm_source=rss_feed",
+        "published": "2026-09-08 08:30",
+        "summary": "Hong Kong’s flagship tech hub at the border with mainland China received bids from firms specialising in cutting-edge fi",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Energy secretary says US might not reach nuclear agreement with Iran",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
-        "published": "2026-09-07 01:39",
-        "summary": "Chris Wright tells ABC there ‘may not’ be an agreement that would prevent Iran from having nuclear weapons US energy sec",
+        "title": "UK’s Burnham risks Trump anger with new sanctions on Israel",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3366696/uks-burnham-risks-trump-anger-new-sanctions-israel?utm_source=rss_feed",
+        "published": "2026-09-08 06:42",
+        "summary": "UK Prime Minister Andy Burnham’s government is expected to ban trade with Israeli settlements in the West Bank on Tuesda",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "FIFA confirms Infantino to stand for re-election as president",
-        "source": "Sky News",
-        "link": "https://news.sky.com/story/fifa-confirms-gianni-infantino-to-stand-for-re-election-as-president-13582281",
-        "published": "2026-09-06 20:01",
-        "summary": "FIFA has confirmed Gianni Infantino is standing for re-election next year after the president declined Sky News question",
-        "ai": false
-      },
-      {
-        "rank": 4,
-        "title": "China will never allow any country in this world to achieve AI dominance: Victor Gao",
+        "title": "China vows deeper cooperation with Qatar in energy, AI and Middle East de-escalation",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/science/article/3366540/china-will-never-allow-any-country-world-achieve-ai-dominance-victor-gao?utm_source=rss_feed",
-        "published": "2026-09-06 19:00",
-        "summary": "China will thwart US ambitions for global artificial intelligence (AI) dominance, the vice-president of the Centre for C",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3366671/china-vows-deeper-cooperation-qatar-energy-ai-and-middle-east-de-escalation?utm_source=rss_feed",
+        "published": "2026-09-07 21:00",
+        "summary": "Chinese Premier Li Qiang pledged to deepen cooperation with Qatar in energy, investment, AI and diplomatic efforts to de",
         "ai": true
       },
       {
-        "rank": 5,
-        "title": "Chinese military university urged to revise AI course to ‘educate for war’",
+        "rank": 4,
+        "title": "Taiwan sets up US-backed cyber unit to hunt hidden military threats",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/military/article/3366490/chinese-military-university-urged-revise-ai-course-educate-war?utm_source=rss_feed",
-        "published": "2026-09-06 14:00",
-        "summary": "China’s military researchers have proposed a redesigned “AI principles and practice course” for graduate students with “",
+        "link": "https://www.scmp.com/news/china/military/article/3366658/taiwan-sets-us-backed-cyber-unit-hunt-hidden-military-threats?utm_source=rss_feed",
+        "published": "2026-09-07 19:55",
+        "summary": "Taiwan’s military plans to step up its cyber defences against mainland China with a new threat-hunting team and foreign ",
+        "ai": false
+      },
+      {
+        "rank": 5,
+        "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-08 07:05",
+        "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers ar",
         "ai": true
       }
     ]
@@ -106,41 +106,41 @@
   "weather": [
     {
       "city": "南京",
-      "current": 22,
-      "min": 21,
+      "current": 25,
+      "min": 22,
       "max": 28,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "武汉",
-      "current": 23,
-      "min": 23,
-      "max": 33,
+      "current": 28,
+      "min": 25,
+      "max": 34,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 23,
-      "min": 23,
+      "current": 28,
+      "min": 25,
       "max": 32,
       "condition": "毛毛雨",
       "icon": "🌦️"
     },
     {
       "city": "定西市安定区",
-      "current": 13,
-      "min": 12,
-      "max": 14,
+      "current": 10,
+      "min": 10,
+      "max": 11,
       "condition": "毛毛雨",
       "icon": "🌦️"
     },
     {
       "city": "孝感市应城市",
-      "current": 21,
-      "min": 20,
-      "max": 31,
+      "current": 27,
+      "min": 22,
+      "max": 33,
       "condition": "阴",
       "icon": "☁️"
     }

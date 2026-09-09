@@ -1,146 +1,146 @@
 {
-  "date": "2026-09-08",
-  "updated_at": "2026-09-08 08:53",
+  "date": "2026-09-09",
+  "updated_at": "2026-09-09 09:00",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! Take one hopeful step, then let the day unfold.",
-    "language": "English",
-    "words": 11
+    "text": "Que ce matin soit doux et votre journée pleine de belles surprises.",
+    "language": "Français",
+    "words": 12
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "青春华章丨燃！这就是今天的中国青年",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4T7FEzpM95t",
-        "published": "2026-09-07 20:51",
-        "summary": "中国经济网合肥9月7日讯（记者 武晓娟）9月6日晚，由中央网信办、教育部、人民日报社、中国科学院、共青团中央、安徽省委网信委主办的2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动，在中国科学技术大学举行。 活动紧扣青春",
+        "title": "华中西南地区有降温过程 四川盆地有较强降水",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693005.shtml",
+        "published": "2026-09-09 08:29",
+        "summary": "中新网9月9日电 据中央气象台网站消息，国内方面，昨日，四川、青海等地出现强降雨；内蒙古、辽宁、河南出现大风降温。预计未来三天，冷空气将继续影响北方地区，陕西、甘肃、宁夏、四川等地有较强降雨，需防范局地强降雨可能引发的山洪、地质灾害、中小河",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "好评中国｜解锁 “空中的士”！合肥探索无人驾驶载人飞行器，开启低空载人新时代",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4T7F92YegrP",
-        "published": "2026-09-07 20:48",
-        "summary": "无人驾驶载人飞行器正从科幻走向现实。作为城市空中交通商业化运营主体，合肥合翼航空依托EH216-S全球“三证齐全”载人eVTOL 航空器，拿下载人无人驾驶航空器运营合格证，叩开国内低空经济载人商业化的大门。以骆岗空中交通运营中心为载体，合肥",
+        "title": "医保缴费年限可按月累计 灵活就业人员参保有了新选择",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693009.shtml",
+        "published": "2026-09-09 08:44",
+        "summary": "国家医保局等七部门昨天发布《关于开展灵活就业人员、农民工、新就业形态人员参加基本医疗保险提质专项行动的通知》，这是国家层面首次针对灵活就业等群体的参保工作部署专项行动。目前，我国灵活就业人员参加职工医保规模持续增长。未来，如何实现灵活就业人",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "中央气象台：北方地区有降雨降温过程",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-08/10692325.shtml",
-        "published": "2026-09-08 08:23",
-        "summary": "中新网9月8日电 据中央气象台网站消息，国内方面，昨日，河北、天津、四川、云南、广东等地出现较强降雨。预计未来三天，冷空气将继续影响北方地区，山西、陕西、甘肃、宁夏、四川等地有较强降雨，部分地区累计雨量较大，需防范局地强降雨和持续降雨可能引",
+        "title": "香港特区首任行政长官董建华逝世，享年89岁",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34036049",
+        "published": "2026-09-09 08:26",
+        "summary": "据中国新闻网援引董建华办公室2026年9月9日凌晨发布的消息，全国政协前副主席、香港特别行政区首任行政长官董建华，于2026年9月8日晚10时许，在亲人陪伴下于医院安详辞世，享年89岁。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "8家中央金融企业获3600亿元增资 巨额资金将发挥哪些关键作用？",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-08/10692322.shtml",
-        "published": "2026-09-08 08:02",
-        "summary": "日前，中国工商银行等8家中央金融企业集中对外披露增资方案，合计计划增资3600亿元用于补充核心一级资本。财政部昨天(7日)明确，近期将发行3000亿元特别国债，专项为上述金融央企资本补充提供支撑。这一次中央金融企业大规模集中增资，背后有怎样",
+        "title": "单项冠军县，何以扛打｜培育钻石独占全国六成，为何是柘城",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/33993225",
+        "published": "2026-09-09 07:01",
+        "summary": "河南省商丘市柘城县，是豫东平原上的一个农业县，无山少矿，不产金刚石原料。 如今，柘城却已实现金刚石微粉年产量和出口量均占全国的90%以上，培育钻石产量占全国60%以上，基于金刚石产业延伸出来的超硬材料相关企业达到307家。 设计 郁斐 这件",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "飞天逐梦向火星，人类对火星有怎样的想象与探索",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34026810",
-        "published": "2026-09-08 08:31",
-        "summary": "2026年全国科普月之际，9月6日下午，“《飞天逐梦向火星》图书分享会”在杨浦区图书馆“静思讲坛”举行，这也是上海科技教育出版社“哲人石读书会”本年度的第六场活动。 该书的两位作者，天文学家卞毓麟和科普作家施韡以“火星，人类的下一个家园？”",
+        "title": "China's foreign trade expands 17.6 percent in first eight months",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-09-08/China-s-foreign-trade-expands-17-6-percent-in-first-eight-months-1Qgvh8yWpLG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-08 10:41",
+        "summary": "China's foreign trade expands 17.6 percent in first eight months",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "AI, chip firms among bidders for flagship Northern Metropolis tech hub at border",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366667/ai-chip-firms-among-bidders-flagship-northern-metropolis-tech-hub-border?utm_source=rss_feed",
-        "published": "2026-09-08 08:30",
-        "summary": "Hong Kong’s flagship tech hub at the border with mainland China received bids from firms specialising in cutting-edge fi",
+        "title": "Labor wants Australians to be able to opt out of online algorithms. How will it change your feed?",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/australia-news/2026/sep/09/labor-australians-opt-out-online-algorithms-how-change-feed",
+        "published": "2026-09-09 08:49",
+        "summary": "The prime minister has predicted blowback to the scheme, which will affect social media, search engines and AI chatbots ",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "UK’s Burnham risks Trump anger with new sanctions on Israel",
+        "title": "US accuses Chinese AI firms of ‘malicious’ copying of AI technology",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3366696/uks-burnham-risks-trump-anger-new-sanctions-israel?utm_source=rss_feed",
-        "published": "2026-09-08 06:42",
-        "summary": "UK Prime Minister Andy Burnham’s government is expected to ban trade with Israeli settlements in the West Bank on Tuesda",
-        "ai": false
-      },
-      {
-        "rank": 3,
-        "title": "China vows deeper cooperation with Qatar in energy, AI and Middle East de-escalation",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3366671/china-vows-deeper-cooperation-qatar-energy-ai-and-middle-east-de-escalation?utm_source=rss_feed",
-        "published": "2026-09-07 21:00",
-        "summary": "Chinese Premier Li Qiang pledged to deepen cooperation with Qatar in energy, investment, AI and diplomatic efforts to de",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3366835/us-accuses-chinese-ai-firms-malicious-copying-ai-technology?utm_source=rss_feed",
+        "published": "2026-09-09 04:50",
+        "summary": "⁠The US government on Tuesday accused Chinese artificial intelligence companies of maliciously copying technology from A",
         "ai": true
       },
       {
+        "rank": 3,
+        "title": "Russian defense chief holds talks with Vietnamese deputy PM — Defense Ministry",
+        "source": "TASS",
+        "link": "https://tass.com/defense/2184317",
+        "published": "2026-09-08 22:52",
+        "summary": "Russian Defense Minister Andrey Belousov congratulated General Phan Van Giang on the 81st anniversary of the independenc",
+        "ai": false
+      },
+      {
         "rank": 4,
-        "title": "Taiwan sets up US-backed cyber unit to hunt hidden military threats",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/military/article/3366658/taiwan-sets-us-backed-cyber-unit-hunt-hidden-military-threats?utm_source=rss_feed",
-        "published": "2026-09-07 19:55",
-        "summary": "Taiwan’s military plans to step up its cyber defences against mainland China with a new threat-hunting team and foreign ",
+        "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
+        "published": "2026-09-09 03:00",
+        "summary": "Ed Miliband announces sanctions on trade with settlements as PM says in the Guardian it is time to act I believe in a tw",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-08 07:05",
-        "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers ar",
-        "ai": true
+        "title": "Putin may agree to participate in Russia-China-US Summit if such offer is made — Lavrov",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2184427",
+        "published": "2026-09-09 02:05",
+        "summary": "The Russian foreign minister noted that such format of the summit cannot be considered as exclusive wish by the US, Chin",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 25,
-      "min": 22,
-      "max": 28,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 23,
+      "min": 20,
+      "max": 26,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 28,
-      "min": 25,
-      "max": 34,
+      "current": 24,
+      "min": 22,
+      "max": 28,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 28,
-      "min": 25,
+      "current": 29,
+      "min": 26,
       "max": 32,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "condition": "雷阵雨",
+      "icon": "⛈️"
     },
     {
       "city": "定西市安定区",
-      "current": 10,
-      "min": 10,
-      "max": 11,
+      "current": 9,
+      "min": 9,
+      "max": 12,
       "condition": "毛毛雨",
       "icon": "🌦️"
     },
     {
       "city": "孝感市应城市",
-      "current": 27,
-      "min": 22,
-      "max": 33,
+      "current": 21,
+      "min": 20,
+      "max": 24,
       "condition": "阴",
       "icon": "☁️"
     }

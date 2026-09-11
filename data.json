@@ -1,104 +1,104 @@
 {
-  "date": "2026-09-10",
-  "updated_at": "2026-09-10 08:48",
+  "date": "2026-09-11",
+  "updated_at": "2026-09-11 08:48",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！把握当下，向喜欢的生活出发。",
-    "language": "中文",
-    "words": 17
+    "text": "May your morning feel light and your whole day go smoothly.",
+    "language": "English",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
-        "source": "参考消息",
-        "link": "https://china.cankaoxiaoxi.com/#/detailsPage/diyi/3ffe5a88786b4f97a8d9b107b7652371/1/2026-09-09",
-        "published": "2026-09-09 21:06",
-        "summary": "原标题：在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候 新华社北京9月9日电 在第四十二个教师节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大教师和教育工作者致以节日祝贺和诚",
+        "title": "中央气象台：西南地区多阴雨 海南岛等地有大到暴雨",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-11/10694396.shtml",
+        "published": "2026-09-11 08:42",
+        "summary": "中新网9月11日电 据中央气象台网站消息，国内方面，昨日，四川、云南、广西等地出现较强降雨。预计未来三天华西地区多阴雨天气，关注持续性降雨对农业生产、交通等影响；华南南部局地有强降雨，注意防范暴雨次生灾害；内蒙古东北部、黑龙江等地注意防范局",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
+        "title": "身边的净土保卫战｜工业重地 绿色新生",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/09/ARTI2PmkTKRirKP8CoAWmdww260909.shtml",
-        "published": "2026-09-09 19:26",
-        "summary": "[!--begin:htmlVideoCode--]99e91ccdcb8243459afd893ad292dc83,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 在第四十二个教师节到来之际，中共中央",
+        "link": "https://news.cctv.com/2026/09/10/ARTIg1iLNN8nKFUSd9skAQbc260910.shtml",
+        "published": "2026-09-10 16:52",
+        "summary": "开栏的话 习近平总书记指出：“要全面落实土壤污染防治行动计划，突出重点区域、行业和污染物，强化土壤污染管控和修复，有效防范风险，让老百姓吃得放心、住得安心。” 新时代以来，以习近平同志为核心的党中央把生态文明建设作为关系中华民族永续发展的根",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "中央气象台：西南地区海南岛等地有中到大雨",
+        "title": "中汽协：8月新能源汽车国内销量比例达65.7%",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-10/10693690.shtml",
-        "published": "2026-09-10 08:44",
-        "summary": "中新网9月10日电 据中央气象台网站消息，国内方面，昨日，四川、云南、海南等地出现强降雨。预计未来三天，华西地区多阴雨天气，需关注持续性降雨影响。",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-11/10694386.shtml",
+        "published": "2026-09-11 08:03",
+        "summary": "中新网北京9月11日电(记者 张尼)中国汽车工业协会10日发布2026年8月汽车工业产销情况。数据显示，8月，新能源汽车国内销量比例达到65.7%。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "从“卖样机”到“卖生产力”：中国机器人出海潮下的隐忧",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34042507",
-        "published": "2026-09-10 08:36",
-        "summary": "2026年8月10日，北京，无界动力。视觉中国 资料图 9月上旬，无界动力（北京）技术研发有限公司（以下简称“无界动力”）一批全尺寸 K15机器人远渡重洋，抵达法国。按照计划，K15在远景动力法国电池超级工厂的现场部署即将启动，实现精准上下",
+        "title": "华西秋雨为何备受关注",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/09/11/ARTIVVQ3aCsjBzNIrCkWYKdE260911.shtml",
+        "published": "2026-09-11 06:55",
+        "summary": "新华社北京9月10日电 题：华西秋雨为何备受关注 新华社记者刘诗平 打开中央气象台10日的全国降水量预报图，全国大部地区天气晴好，但华西地区普遍是下雨天，未来72小时全国降水量预报图显示了同样的趋势。这是否意味着华西秋雨已经开启？今年华西秋",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "25人入选！2026年“最美教师”名单公布",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/10/ARTIhDaAugtESp2Es9oa25kH260910.shtml",
-        "published": "2026-09-10 08:15",
-        "summary": "为深入学习贯彻习近平总书记关于教育的重要论述，大力弘扬教育家精神，营造尊师重教社会风尚，加快建设教育强国，办好人民满意的教育，在第42个教师节到来之际，中央宣传部、教育部向全社会发布“最美教师”先进事迹。 万勇善、马天祥、马超群、马翠玲、王",
+        "title": "Graphics: China is a key driver of global trade in services",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-09-10/Graphics-China-is-a-key-driver-of-global-trade-in-services-1QjQ14iqHy8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-10 10:56",
+        "summary": "Graphics: China is a key driver of global trade in services",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Lawmakers blast AI companies after researcher warns of human extinction by 2030",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030",
-        "published": "2026-09-10 08:19",
-        "summary": "Former Anthropic employee Jacob Coxon said AI will become ‘superhuman systems’ that can cause human extinction by the en",
+        "title": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss",
+        "published": "2026-09-11 08:14",
+        "summary": "Venice Film Festival honours NAZA, an expose on Israel's use of AI systems in Gaza.",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Burnham defends UK ban on Israeli settlement trade",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/burnham-defends-uk-ban-on-israeli-settlement-trade?traffic_source=rss",
-        "published": "2026-09-10 04:32",
-        "summary": "UK Prime Minister Andy Burnham defended a ban on trade with Israeli settlements in the occupied West Bank",
-        "ai": false
+        "title": "Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/military/article/3367060/japans-ai-satellites-and-other-space-ambitions-serious-threat-china-warns?utm_source=rss_feed",
+        "published": "2026-09-10 19:00",
+        "summary": "Japan’s plan to develop tactical satellites equipped with artificial intelligence (AI) would boost its long-range offens",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Moscow, Hanoi to continue building Nuclear Science and Technology Center in Vietnam",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2185039",
-        "published": "2026-09-10 01:35",
-        "summary": "According to the joint statement, it is a key element of cooperation in the area of peaceful use of nuclear energy",
-        "ai": false
+        "title": "Moonshot, DeepSeek secretly routed user requests to Claude, Anthropic claims",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/us/diplomacy/article/3367112/moonshot-deepseek-secretly-routed-user-requests-claude-anthropic-claims?utm_source=rss_feed",
+        "published": "2026-09-11 07:23",
+        "summary": "American artificial intelligence (AI) giant Anthropic has accused its Chinese AI rivals DeepSeek and Moonshot on Thursda",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "Macron summit seeks boost for European space despite no-shows",
+        "title": "Space: Europe urged to find its path, from crewed spaceflight to communications",
         "source": "France 24",
-        "link": "https://www.france24.com/en/video/20260909-macron-summit-seeks-boost-for-european-space-despite-no-shows",
-        "published": "2026-09-09 23:32",
-        "summary": "France is pressing ahead with a space summit shunned by the US tech giants and hampered by a lower-than-expected turnout",
+        "link": "https://www.france24.com/en/tv-shows/a-propos/20260910-space-europe-urged-to-find-its-path-from-crewed-spaceflight-to-communications",
+        "published": "2026-09-11 05:05",
+        "summary": "French President Emmanuel Macron and European Commission President Ursula von der Leyen called on Thursday for Europeans",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Hanoi, Moscow to boost ties in defense, security, digital transformation — To Lam",
+        "title": "Global economy coping with aftermath of war against Iran better than expected — IMF",
         "source": "TASS",
-        "link": "https://tass.com/world/2185119",
-        "published": "2026-09-10 05:03",
-        "summary": "The Vietnamese president says Hanoi and Moscow are set to \"transform science and technology, innovations and digital tra",
+        "link": "https://tass.com/economy/2185759",
+        "published": "2026-09-11 02:51",
+        "summary": "According to IMF Spokesperson Julie Kozack, the global economy has weathered the shocks, including the energy shock, bet",
         "ai": false
       }
     ]
@@ -107,16 +107,16 @@
     {
       "city": "南京",
       "current": 21,
-      "min": 18,
+      "min": 19,
       "max": 25,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "武汉",
-      "current": 21,
-      "min": 19,
-      "max": 26,
+      "current": 22,
+      "min": 18,
+      "max": 28,
       "condition": "阴",
       "icon": "☁️"
     },
@@ -124,23 +124,23 @@
       "city": "南宁",
       "current": 24,
       "min": 22,
-      "max": 30,
-      "condition": "多云",
-      "icon": "⛅"
+      "max": 29,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "定西市安定区",
       "current": 10,
-      "min": 8,
-      "max": 16,
+      "min": 6,
+      "max": 19,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 19,
-      "min": 18,
-      "max": 24,
+      "current": 21,
+      "min": 17,
+      "max": 27,
       "condition": "阴",
       "icon": "☁️"
     }

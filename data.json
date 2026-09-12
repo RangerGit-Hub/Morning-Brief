@@ -1,104 +1,104 @@
 {
-  "date": "2026-09-11",
-  "updated_at": "2026-09-11 08:48",
+  "date": "2026-09-12",
+  "updated_at": "2026-09-12 08:52",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "May your morning feel light and your whole day go smoothly.",
-    "language": "English",
-    "words": 11
+    "text": "Bonjour ! Un nouveau jour commence, profitez de chaque instant.",
+    "language": "Français",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "中央气象台：西南地区多阴雨 海南岛等地有大到暴雨",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-11/10694396.shtml",
-        "published": "2026-09-11 08:42",
-        "summary": "中新网9月11日电 据中央气象台网站消息，国内方面，昨日，四川、云南、广西等地出现较强降雨。预计未来三天华西地区多阴雨天气，关注持续性降雨对农业生产、交通等影响；华南南部局地有强降雨，注意防范暴雨次生灾害；内蒙古东北部、黑龙江等地注意防范局",
+        "title": "商务部新闻发言人就美国中情局高官公开表示对中国开展间谍活动答记者问",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/09/11/ARTI25rr0wAhCQOgurb6xlb1260911.shtml",
+        "published": "2026-09-11 19:10",
+        "summary": "央视网消息 ：商务部新闻发言人就美国中情局高官公开表示对中国开展间谍活动答记者问。 问：美国中央情报局副局长埃利斯近日公开表示，美方正对中国包括中国企业，开展更广泛的间谍活动，以应对中国在军事和经济领域的“双重威胁”，特别是将人工智能、半导",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "身边的净土保卫战｜工业重地 绿色新生",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/10/ARTIg1iLNN8nKFUSd9skAQbc260910.shtml",
-        "published": "2026-09-10 16:52",
-        "summary": "开栏的话 习近平总书记指出：“要全面落实土壤污染防治行动计划，突出重点区域、行业和污染物，强化土壤污染管控和修复，有效防范风险，让老百姓吃得放心、住得安心。” 新时代以来，以习近平同志为核心的党中央把生态文明建设作为关系中华民族永续发展的根",
+        "title": "“圈养雪豹博流量” ？ 救护中心用科普回应谣言",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TAvXEXm5BK",
+        "published": "2026-09-12 07:20",
+        "summary": "近日，由中央网信办指导、青海省委网信办主办的2026年全国“辟谣侠”求真之旅 走进三江源活动，在青海西宁正式启动。青海是三江之源，中华水塔，生态、民族、文旅、特色产业广受社会关注。随着短视频快速传播，各类涉及青海的网络谣言时有出现，误导公众",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "中汽协：8月新能源汽车国内销量比例达65.7%",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-11/10694386.shtml",
-        "published": "2026-09-11 08:03",
-        "summary": "中新网北京9月11日电(记者 张尼)中国汽车工业协会10日发布2026年8月汽车工业产销情况。数据显示，8月，新能源汽车国内销量比例达到65.7%。",
+        "title": "各地各部门压紧压实责任 坚决防范遏制重特大事故",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/09/12/ARTICAMn9CRWdh6690sfQiKu260912.shtml",
+        "published": "2026-09-12 06:54",
+        "summary": "新华社北京9月11日电 题：深刻汲取事故教训 筑牢安全生产防线——各地各部门压紧压实责任坚决防范遏制重特大事故 新华社记者 9月10日11时15分许，一艘外籍货轮在山东青岛市靠港维修期间发生火灾，造成重大人员伤亡。 习近平总书记高度重视并作",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "华西秋雨为何备受关注",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/11/ARTIVVQ3aCsjBzNIrCkWYKdE260911.shtml",
-        "published": "2026-09-11 06:55",
-        "summary": "新华社北京9月10日电 题：华西秋雨为何备受关注 新华社记者刘诗平 打开中央气象台10日的全国降水量预报图，全国大部地区天气晴好，但华西地区普遍是下雨天，未来72小时全国降水量预报图显示了同样的趋势。这是否意味着华西秋雨已经开启？今年华西秋",
+        "title": "内地及港澳11支消防队伍齐聚华山练兵",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/tp/2026/09-11/10695001.shtml",
+        "published": "2026-09-11 22:49",
+        "summary": "图为消防人员在华山东峰下棋亭进行峡谷模拟救援。 陕西消防供图 图为消防人员在复杂崖壁救援项目中对模拟伤员进行转移。 陕西消防供图 图为消防人员在山野失联事故救援项目中转运模拟受伤人员。 陕西消防供图 图为消防人员开展缆车事故模拟救援。 陕西",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Graphics: China is a key driver of global trade in services",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-09-10/Graphics-China-is-a-key-driver-of-global-trade-in-services-1QjQ14iqHy8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-09-10 10:56",
-        "summary": "Graphics: China is a key driver of global trade in services",
+        "title": "河南中欧班列累计开行突破20000列 织密内陆开放丝路通道",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TAvivHp70F",
+        "published": "2026-09-12 07:25",
+        "summary": "河南中欧班列累计开行突破20000列。人民网记者 宋芳鑫摄 人民网郑州9月11电 （记者宋芳鑫）9月11日上午10点，一列满载光伏玻璃的X9060次专列从郑州国际陆港航空港片区鸣笛驶出，标志着河南中欧班列累计开行量突破20000列，河南“陆",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss",
-        "published": "2026-09-11 08:14",
-        "summary": "Venice Film Festival honours NAZA, an expose on Israel's use of AI systems in Gaza.",
+        "title": "AI agents OpenAI was testing uploaded malicious software to another service, say researchers",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
+        "published": "2026-09-12 07:56",
+        "summary": "Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems ",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/military/article/3367060/japans-ai-satellites-and-other-space-ambitions-serious-threat-china-warns?utm_source=rss_feed",
-        "published": "2026-09-10 19:00",
-        "summary": "Japan’s plan to develop tactical satellites equipped with artificial intelligence (AI) would boost its long-range offens",
-        "ai": true
+        "title": "Putin personally invites Egyptian president to Russia-Africa summit in Moscow",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2186385",
+        "published": "2026-09-12 01:47",
+        "summary": "The Russian leader met with the Egyptian president on the sidelines of the BRICS summit",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "Moonshot, DeepSeek secretly routed user requests to Claude, Anthropic claims",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/us/diplomacy/article/3367112/moonshot-deepseek-secretly-routed-user-requests-claude-anthropic-claims?utm_source=rss_feed",
-        "published": "2026-09-11 07:23",
-        "summary": "American artificial intelligence (AI) giant Anthropic has accused its Chinese AI rivals DeepSeek and Moonshot on Thursda",
+        "title": "Anthropic blocks efforts to use AI to research weapons development and carry out cyber attacks",
+        "source": "Sky News",
+        "link": "https://news.sky.com/story/anthropic-blocks-effort-to-use-ai-to-research-potential-biological-weapons-13584258",
+        "published": "2026-09-11 16:13",
+        "summary": "Anthropic says it has blocked efforts to use its artificial intelligence models to carry out cyber attacks and research ",
         "ai": true
       },
       {
         "rank": 4,
-        "title": "Space: Europe urged to find its path, from crewed spaceflight to communications",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/tv-shows/a-propos/20260910-space-europe-urged-to-find-its-path-from-crewed-spaceflight-to-communications",
-        "published": "2026-09-11 05:05",
-        "summary": "French President Emmanuel Macron and European Commission President Ursula von der Leyen called on Thursday for Europeans",
-        "ai": false
+        "title": "AI fight shadows final preparations for Xi Jinping’s White House visit to meet Donald Trump",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3367242/ai-fight-shadows-final-preparations-xi-jinpings-white-house-visit?utm_source=rss_feed",
+        "published": "2026-09-12 06:00",
+        "summary": "Rising tensions over artificial intelligence are shaping the final preparations for Chinese President Xi Jinping’s visit",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Global economy coping with aftermath of war against Iran better than expected — IMF",
+        "title": "BRICS Bank contributes to development of organization — Putin",
         "source": "TASS",
-        "link": "https://tass.com/economy/2185759",
-        "published": "2026-09-11 02:51",
-        "summary": "According to IMF Spokesperson Julie Kozack, the global economy has weathered the shocks, including the energy shock, bet",
+        "link": "https://tass.com/politics/2186485",
+        "published": "2026-09-12 05:04",
+        "summary": "The Russian president said that the bank is acting energetically",
         "ai": false
       }
     ]
@@ -106,41 +106,41 @@
   "weather": [
     {
       "city": "南京",
-      "current": 21,
-      "min": 19,
-      "max": 25,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 23,
+      "min": 20,
+      "max": 27,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "武汉",
-      "current": 22,
-      "min": 18,
-      "max": 28,
+      "current": 24,
+      "min": 21,
+      "max": 33,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
       "current": 24,
-      "min": 22,
-      "max": 29,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
-    },
-    {
-      "city": "定西市安定区",
-      "current": 10,
-      "min": 6,
-      "max": 19,
+      "min": 21,
+      "max": 30,
       "condition": "阴",
       "icon": "☁️"
     },
     {
+      "city": "定西市安定区",
+      "current": 12,
+      "min": 7,
+      "max": 19,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
+    },
+    {
       "city": "孝感市应城市",
-      "current": 21,
+      "current": 22,
       "min": 17,
-      "max": 27,
+      "max": 28,
       "condition": "阴",
       "icon": "☁️"
     }

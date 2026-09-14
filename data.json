@@ -1,145 +1,145 @@
 {
-  "date": "2026-09-13",
-  "updated_at": "2026-09-13 08:35",
+  "date": "2026-09-14",
+  "updated_at": "2026-09-14 08:40",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！愿晨光带来勇气与好心情。",
-    "language": "中文",
-    "words": 15
+    "text": "Good morning! New light, new energy, new possibilities.",
+    "language": "English",
+    "words": 8
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "从高空塔吊到北斗测量 服贸会上前沿技术集中亮相",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TBlH4KwKlt",
-        "published": "2026-09-13 07:28",
-        "summary": "今天（13日）是本届服贸会最后一天。昨天和今天，2026年服贸会迎来公众开放日。 作为本届服贸会九大专题展之一，工程咨询与建筑服务专题展正在北京首钢园举行。这处展馆展示了哪些前沿技术？ 展会现场，参展企业展示了依托物联网、大数据、AI驱动等",
+        "title": "为全球南方聚力 启金砖合作新程——中共中央政治局委员、外交部长王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-14/10695865.shtml",
+        "published": "2026-09-14 00:24",
+        "summary": "2026年9月12日至13日，国家主席习近平应邀赴印度出席金砖国家领导人第十八次会晤。行程结束之际，中共中央政治局委员、外交部长王毅向随行记者介绍此访情况。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "各地各部门压紧压实责任坚决防范遏制重特大事故",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/12/ARTIoH91XaDwFX0Mpz8XKmMK260912.shtml",
-        "published": "2026-09-12 20:21",
-        "summary": "新华社北京9月11日电 题：深刻汲取事故教训 筑牢安全生产防线——各地各部门压紧压实责任坚决防范遏制重特大事故 新华社记者 9月10日11时15分许，一艘外籍货轮在山东青岛市靠港维修期间发生火灾，造成重大人员伤亡。 习近平总书记高度重视并作",
+        "title": "“词元贷”给人工智能企业“贷”来什么？",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-14/10695874.shtml",
+        "published": "2026-09-14 06:12",
+        "summary": "广东率先探索以词元消耗等数字化指标授信——",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-13/10695502.shtml",
-        "published": "2026-09-13 06:47",
-        "summary": "中新社莫斯科9月12日电 9月9日至12日，中共中央政治局委员，全国人大常委会副委员长，中俄友好、和平与发展委员会中方主席李鸿忠在莫斯科出席第七届中俄中小企业实业论坛开幕式并致辞；与俄罗斯联邦委员会主席马特维延科，国家杜马第一副主席梅利尼科",
+        "title": "Senior Chinese legislator attends China-Russia enterprises forum",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-09-13/Senior-Chinese-legislator-attends-China-Russia-enterprises-forum-1QoBBSdDguA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-13 10:01",
+        "summary": "Li Hongzhong, vice chairman of China's National People's Congress (NPC) Standing Committee, attended the opening ceremon",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "从第二十六届投洽会看双向投资新机遇",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/12/ARTIUgUM4Xuq3AXuxqdEWqdl260912.shtml",
-        "published": "2026-09-12 15:33",
-        "summary": "鹭岛九月，天蓝海碧，大厦之门迎四海宾客。 9月8日至11日，第二十六届中国国际投资贸易洽谈会在福建厦门举行，吸引了来自129个国家和地区、30个国际组织的1200多个政府官方机构、工商企业团组参会。 习近平总书记指出，中国国际投资贸易洽谈会",
+        "title": "China releases list of world's leading sci-tech journals",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-09-13/China-releases-list-of-world-s-leading-sci-tech-journals-1QoI86TeFS8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-13 09:33",
+        "summary": "China released a list of the world's leading science and technology journals at the opening of the 2026 Pujiang Innovati",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "首个、首次、首台！本周我国硬核成果持续“上新”",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TBmyqkHBIc",
-        "published": "2026-09-13 08:16",
-        "summary": "本周 我国在能源基建、交通工程等领域 捷报频传 从长征系列火箭成功发射一箭六星 到深海科考新发现 我国硬核成果持续“上新” 我国成功发射“一箭六星” 9月10日17时00分，我国在酒泉卫星发射中心使用长征四号乙运载火箭，成功将遥感五十三号0",
+        "title": "攀岩世界杯贵阳站收官战：中国选手夺2金1银破世界纪录",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/ty/2026/09-14/10695868.shtml",
+        "published": "2026-09-14 05:44",
+        "summary": "中新社贵阳9月14日电 (记者 张伟)2026年世界攀联攀岩世界杯(中国贵阳)13日晚在贵州·彩湖国际攀岩中心迎来收官战。中国选手包揽男、女速度接力的2块金牌，并拿下男子项目银牌。中国选手赵一程、零勇志还以9.58秒的成绩创造男子速度接力新",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "The US and China are racing to build ‘self-improving AI’. Here’s what’s at stake",
+        "title": "China’s intelligence chief warns of risks from AI as ‘new arena for strategic rivalry’",
         "source": "SCMP",
-        "link": "https://www.scmp.com/tech/big-tech/article/3367237/us-and-china-are-racing-build-self-improving-ai-heres-whats-stake?utm_source=rss_feed",
-        "published": "2026-09-13 08:00",
-        "summary": "The US-China race for artificial intelligence dominance has entered a new phase: using AI to build better AI. Leading AI",
+        "link": "https://www.scmp.com/news/china/politics/article/3367349/chinas-intelligence-chief-warns-risks-ai-new-arena-strategic-rivalry?utm_source=rss_feed",
+        "published": "2026-09-14 08:00",
+        "summary": "China’s top intelligence official has warned of rising national security risks posed by artificial intelligence (AI), ca",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "BRICS nations see unilateral tariffs, non-tariff measures as threat to global trade",
-        "source": "TASS",
-        "link": "https://tass.com/world/2186691",
-        "published": "2026-09-12 20:53",
-        "summary": "The member states voiced serious concerns about the rise of unilateral tariff and non-tariff measures which distort trad",
+        "title": "Swedes vote in election that could see far-right in government",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
+        "published": "2026-09-14 03:58",
+        "summary": "Voting is under way in Sweden in a closely fought election that could see the far-right enter government.",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Ukraine war briefing: Russian developers used AI to build ‘kamikaze’ attack drone software, Anthropic says",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
-        "published": "2026-09-12 10:12",
-        "summary": "Anthropic also found that hackers used AI in attacks against targets in Ukrainian government, military and diplomatic se",
+        "title": "Seeking cash for AI, China’s Z.ai eyes new US$5b fundraising push after July share sale",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/article/3367364/seeking-cash-ai-chinas-zai-eyes-new-us5b-fundraising-push-after-july-share-sale?utm_source=rss_feed",
+        "published": "2026-09-13 21:34",
+        "summary": "Z.ai, the Chinese artificial intelligence model developer listed in Hong Kong, is seeking to raise about HK$15.7 billion",
         "ai": true
       },
       {
         "rank": 4,
-        "title": "Yemen’s government forces report destroying Houthi military assets near Mocha",
-        "source": "TASS",
-        "link": "https://tass.com/world/2186823",
-        "published": "2026-09-13 04:01",
-        "summary": "Spokesperson Majed Abdullah al-Nazili said that government troops had also \"eliminated large clusters\" of Houthi forces ",
+        "title": "Sweden votes in tight election that could see far-right party enter government",
+        "source": "Sky News",
+        "link": "https://news.sky.com/story/sweden-votes-in-tight-election-that-could-see-far-right-party-enter-government-13585281",
+        "published": "2026-09-13 17:01",
+        "summary": "Swedish voters have headed to the polls in an election that could bring a far-right party into government for the first ",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
+        "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
         "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
-        "published": "2026-09-13 02:36",
-        "summary": "Iran’s President has met Abu Dhabi’s Crown Prince at the BRICS summit for their highest-level talks since the war began.",
-        "ai": false
+        "link": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss",
+        "published": "2026-09-14 07:31",
+        "summary": "Trump downplays AI risks, saying he wants to maintain the US's lead over China in the emerging technology.",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 24,
+      "current": 23,
       "min": 21,
-      "max": 29,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "max": 26,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
       "current": 26,
-      "min": 23,
-      "max": 33,
+      "min": 24,
+      "max": 32,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 25,
-      "min": 23,
-      "max": 30,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 24,
+      "min": 24,
+      "max": 29,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "定西市安定区",
       "current": 12,
-      "min": 9,
+      "min": 11,
       "max": 19,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "孝感市应城市",
       "current": 23,
-      "min": 19,
+      "min": 22,
       "max": 30,
       "condition": "阴",
       "icon": "☁️"

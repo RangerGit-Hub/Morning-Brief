@@ -1,146 +1,146 @@
 {
-  "date": "2026-09-14",
-  "updated_at": "2026-09-14 08:40",
+  "date": "2026-09-15",
+  "updated_at": "2026-09-15 09:08",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! New light, new energy, new possibilities.",
-    "language": "English",
-    "words": 8
+    "text": "Que la lumière du matin éclaire vos projets et votre humeur.",
+    "language": "Français",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "为全球南方聚力 启金砖合作新程——中共中央政治局委员、外交部长王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
+        "title": "始终把人民生命安全放在首位——以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-14/10695865.shtml",
-        "published": "2026-09-14 00:24",
-        "summary": "2026年9月12日至13日，国家主席习近平应邀赴印度出席金砖国家领导人第十八次会晤。行程结束之际，中共中央政治局委员、外交部长王毅向随行记者介绍此访情况。",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696515.shtml",
+        "published": "2026-09-15 08:47",
+        "summary": "新华社北京9月14日电 题：始终把人民生命安全放在首位——以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "“词元贷”给人工智能企业“贷”来什么？",
+        "title": "中央气象台：四川盆地等地持续阴雨天气",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-14/10695874.shtml",
-        "published": "2026-09-14 06:12",
-        "summary": "广东率先探索以词元消耗等数字化指标授信——",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696509.shtml",
+        "published": "2026-09-15 08:15",
+        "summary": "中新网9月15日电 据中央气象台网站消息，昨日，海南局地出现特大暴雨。预计未来三天，青藏高原东部至华西地区等地多阴雨，关注持续降雨对农业生产、交通、工程建设等的影响；广西、广东、海南部分地区有明显降雨，需防范暴雨次生灾害及地质灾害滞后效应。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Senior Chinese legislator attends China-Russia enterprises forum",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-09-13/Senior-Chinese-legislator-attends-China-Russia-enterprises-forum-1QoBBSdDguA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-09-13 10:01",
-        "summary": "Li Hongzhong, vice chairman of China's National People's Congress (NPC) Standing Committee, attended the opening ceremon",
+        "title": "国新办发布会丨介绍2026年8月份国民经济运行情况",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34065849",
+        "published": "2026-09-15 08:58",
+        "summary": "2026年9月15日，国务院新闻办公室举行新闻发布会，国家统计局新闻发言人、总经济师、国民经济综合统计司司长付凌晖介绍2026年8月份国民经济运行情况，并答记者问。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "China releases list of world's leading sci-tech journals",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-09-13/China-releases-list-of-world-s-leading-sci-tech-journals-1QoI86TeFS8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-09-13 09:33",
-        "summary": "China released a list of the world's leading science and technology journals at the opening of the 2026 Pujiang Innovati",
+        "title": "世赛倒计时｜影像志①：一生只战一回！揭秘技工界的奥林匹克",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/33982176",
+        "published": "2026-09-15 09:01",
+        "summary": "【编者按】 一周后，第48届世界技能大赛将在上海开幕。从1950年到2026年，从马德里到上海，76年后，这项被誉为“世界技能奥林匹克”的赛事终于迎来了它的中国时刻。 届时，一群来自70多个国家和地区的1400余名年轻选手，将用双手与全世界",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "攀岩世界杯贵阳站收官战：中国选手夺2金1银破世界纪录",
+        "title": "“永恒的大地——乌日切夫美术作品展”在京启幕",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/ty/2026/09-14/10695868.shtml",
-        "published": "2026-09-14 05:44",
-        "summary": "中新社贵阳9月14日电 (记者 张伟)2026年世界攀联攀岩世界杯(中国贵阳)13日晚在贵州·彩湖国际攀岩中心迎来收官战。中国选手包揽男、女速度接力的2块金牌，并拿下男子项目银牌。中国选手赵一程、零勇志还以9.58秒的成绩创造男子速度接力新",
+        "link": "https://www.chinanews.com.cn/cul/2026/09-15/10696512.shtml",
+        "published": "2026-09-15 08:24",
+        "summary": "9月12日，“永恒的大地——乌日切夫美术作品展”在中国美术馆启幕。展览集中呈现中央民族大学美术学院院长乌日切夫教授三十余年来美术创作各阶段的代表作，涵盖版画、油墨画、水墨画、油画、综合材料等。乌日切夫将其25幅精品力作无偿捐赠给中国美术馆。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "China’s intelligence chief warns of risks from AI as ‘new arena for strategic rivalry’",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/politics/article/3367349/chinas-intelligence-chief-warns-risks-ai-new-arena-strategic-rivalry?utm_source=rss_feed",
-        "published": "2026-09-14 08:00",
-        "summary": "China’s top intelligence official has warned of rising national security risks posed by artificial intelligence (AI), ca",
+        "title": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘SICK conspiracy’",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/technology/20260915-trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspiracy",
+        "published": "2026-09-15 09:05",
+        "summary": "President Donald Trump on Monday rejected warnings about the risks of artificial intelligence, calling concerns over rog",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Swedes vote in election that could see far-right in government",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
-        "published": "2026-09-14 03:58",
-        "summary": "Voting is under way in Sweden in a closely fought election that could see the far-right enter government.",
-        "ai": false
+        "title": "Xi touts Brics cooperation on AI as US titans flag tech risks",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3367456/xi-touts-brics-cooperation-ai-us-titans-flag-tech-risks?utm_source=rss_feed",
+        "published": "2026-09-14 17:24",
+        "summary": "President Xi Jinping promoted China’s vision for artificial intelligence (AI) at the annual Brics summit, seeking to win",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Seeking cash for AI, China’s Z.ai eyes new US$5b fundraising push after July share sale",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/tech/article/3367364/seeking-cash-ai-chinas-zai-eyes-new-us5b-fundraising-push-after-july-share-sale?utm_source=rss_feed",
-        "published": "2026-09-13 21:34",
-        "summary": "Z.ai, the Chinese artificial intelligence model developer listed in Hong Kong, is seeking to raise about HK$15.7 billion",
+        "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
+        "published": "2026-09-15 02:41",
+        "summary": "Central bank chief says continent’s AI dependency could give trade partners unprecedented leverage in negotiations Europ",
         "ai": true
       },
       {
         "rank": 4,
-        "title": "Sweden votes in tight election that could see far-right party enter government",
-        "source": "Sky News",
-        "link": "https://news.sky.com/story/sweden-votes-in-tight-election-that-could-see-far-right-party-enter-government-13585281",
-        "published": "2026-09-13 17:01",
-        "summary": "Swedish voters have headed to the polls in an election that could bring a far-right party into government for the first ",
-        "ai": false
+        "title": "Microsoft proposes limits on its AI with code of conduct amid safety debate",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/technology/2026/sep/14/microsoft-ai-code-of-conduct",
+        "published": "2026-09-15 02:19",
+        "summary": "Firm publishes AI guidelines with Microsoft AI CEO saying: ‘AI must be subordinate and always in service of people’ Micr",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss",
-        "published": "2026-09-14 07:31",
-        "summary": "Trump downplays AI risks, saying he wants to maintain the US's lead over China in the emerging technology.",
-        "ai": true
+        "title": "US reveals it has weapons in space",
+        "source": "RT",
+        "link": "https://www.rt.com/news/645740-us-weapons-space-force/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-09-15 08:56",
+        "summary": "The US Space Force chief has revealed that it has deployed “space control weapons” in orbit Read Full Article at RT.com",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 23,
-      "min": 21,
-      "max": 26,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 24,
+      "min": 19,
+      "max": 27,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "武汉",
       "current": 26,
       "min": 24,
-      "max": 32,
+      "max": 30,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 24,
-      "min": 24,
-      "max": 29,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 25,
+      "min": 23,
+      "max": 30,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": 12,
-      "min": 11,
+      "current": 11,
+      "min": 8,
       "max": 19,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "孝感市应城市",
       "current": 23,
       "min": 22,
-      "max": 30,
+      "max": 27,
       "condition": "阴",
       "icon": "☁️"
     }

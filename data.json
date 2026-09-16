@@ -1,104 +1,104 @@
 {
-  "date": "2026-09-15",
-  "updated_at": "2026-09-15 09:08",
+  "date": "2026-09-16",
+  "updated_at": "2026-09-16 09:02",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Que la lumière du matin éclaire vos projets et votre humeur.",
-    "language": "Français",
-    "words": 11
+    "text": "新的一天，愿你从容前行，事事顺心。",
+    "language": "中文",
+    "words": 17
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "始终把人民生命安全放在首位——以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实",
+        "title": "中央气象台：重庆湖北等地局地有暴雨",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696515.shtml",
-        "published": "2026-09-15 08:47",
-        "summary": "新华社北京9月14日电 题：始终把人民生命安全放在首位——以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-16/10697162.shtml",
+        "published": "2026-09-16 08:11",
+        "summary": "中新网9月16日电 据中央气象台网站消息，昨日，四川、重庆等地部分地区出现较强降雨。未来三天，重庆、贵州、湖北等地有较强降雨，关注对农业生产、交通运输、工程建设等的影响；海南、广西等地前期降雨持续时间长、累计雨量大，关注地质灾害潜在风险。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "中央气象台：四川盆地等地持续阴雨天气",
+        "title": "全国统一医保医疗服务项目目录首次制定 首批覆盖13个类别",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696509.shtml",
-        "published": "2026-09-15 08:15",
-        "summary": "中新网9月15日电 据中央气象台网站消息，昨日，海南局地出现特大暴雨。预计未来三天，青藏高原东部至华西地区等地多阴雨，关注持续降雨对农业生产、交通、工程建设等的影响；广西、广东、海南部分地区有明显降雨，需防范暴雨次生灾害及地质灾害滞后效应。",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697167.shtml",
+        "published": "2026-09-16 08:51",
+        "summary": "今天(16日)，国家医保局正式印发《国家基本医疗保险医疗服务项目目录(第一批)制定工作方案》，我国将首次制定全国统一的医保医疗服务项目目录，进一步规范医保支付范围，提升保障公平性与基金使用效能。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "国新办发布会丨介绍2026年8月份国民经济运行情况",
+        "title": "多地试点“贯通培养”等举措，媒体：跳出“一考定终身”拓宽成长空间",
         "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34065849",
-        "published": "2026-09-15 08:58",
-        "summary": "2026年9月15日，国务院新闻办公室举行新闻发布会，国家统计局新闻发言人、总经济师、国民经济综合统计司司长付凌晖介绍2026年8月份国民经济运行情况，并答记者问。",
+        "link": "https://m.thepaper.cn/detail/34078978",
+        "published": "2026-09-16 08:06",
+        "summary": "近期，四川成都、湖南娄底等多地部分学校启动“十二年一贯制”贯通培养试点，同时配套推出减少中考计分科目、降低考试难度、优化普职分流比例、扩大普通高中学位供给等一系列举措，引发关注。这些改革并非简单政策叠加，而是对长期以来基础教育“内卷下移”问",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "世赛倒计时｜影像志①：一生只战一回！揭秘技工界的奥林匹克",
+        "title": "单项冠军县，何以扛打丨“世界超市”义乌，如何“货通”天下",
         "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/33982176",
-        "published": "2026-09-15 09:01",
-        "summary": "【编者按】 一周后，第48届世界技能大赛将在上海开幕。从1950年到2026年，从马德里到上海，76年后，这项被誉为“世界技能奥林匹克”的赛事终于迎来了它的中国时刻。 届时，一群来自70多个国家和地区的1400余名年轻选手，将用双手与全世界",
+        "link": "https://m.thepaper.cn/detail/34008497",
+        "published": "2026-09-16 07:32",
+        "summary": "每天早晨八点半，义乌国际商贸城准时开门迎客。不同肤色的客商操着不同语言涌进这座“世界超市”，目标只有一个：找货、下单、发柜。 义乌是浙江中部一座县级市，不沿海、不沿边，无矿产、无重工业。但就是这座小城，2025年外贸出口额居全国县（市、区）",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "“永恒的大地——乌日切夫美术作品展”在京启幕",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cul/2026/09-15/10696512.shtml",
-        "published": "2026-09-15 08:24",
-        "summary": "9月12日，“永恒的大地——乌日切夫美术作品展”在中国美术馆启幕。展览集中呈现中央民族大学美术学院院长乌日切夫教授三十余年来美术创作各阶段的代表作，涵盖版画、油墨画、水墨画、油画、综合材料等。乌日切夫将其25幅精品力作无偿捐赠给中国美术馆。",
+        "title": "China's industrial output up 5.3% in first 8 months",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-09-15/China-s-industrial-output-up-5-3-in-first-8-months-1Qs6LlSXfGM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-15 10:26",
+        "summary": "China's industrial output up 5.3% in first 8 months",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘SICK conspiracy’",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/technology/20260915-trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspiracy",
-        "published": "2026-09-15 09:05",
-        "summary": "President Donald Trump on Monday rejected warnings about the risks of artificial intelligence, calling concerns over rog",
+        "title": "Anthropic’s CEO calls for AI slowdown as Nvidia’s urges acceleration",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
+        "published": "2026-09-16 08:21",
+        "summary": "At San Francisco conference, OpenAI CEO Sam Altman calls for more rigorous security measures Anthropic’s CEO took the st",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Xi touts Brics cooperation on AI as US titans flag tech risks",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3367456/xi-touts-brics-cooperation-ai-us-titans-flag-tech-risks?utm_source=rss_feed",
-        "published": "2026-09-14 17:24",
-        "summary": "President Xi Jinping promoted China’s vision for artificial intelligence (AI) at the annual Brics summit, seeking to win",
-        "ai": true
+        "title": "Trade, tech curbs only worsen global energy imbalances — Russian Energy Minister",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2188025",
+        "published": "2026-09-15 23:47",
+        "summary": "Sergey Tsivilyov commented on Moscow's key proposals for the G20 ministerial energy meeting in Houston, Texas, which run",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
-        "published": "2026-09-15 02:41",
-        "summary": "Central bank chief says continent’s AI dependency could give trade partners unprecedented leverage in negotiations Europ",
-        "ai": true
+        "title": "Russia backs sovereign right of nations to choose their energy mix — Energy Minister",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2188077",
+        "published": "2026-09-16 02:49",
+        "summary": "\"Russia’s position is to respect the sovereign right of every country to determine its own development path and energy m",
+        "ai": false
       },
       {
         "rank": 4,
-        "title": "Microsoft proposes limits on its AI with code of conduct amid safety debate",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/technology/2026/sep/14/microsoft-ai-code-of-conduct",
-        "published": "2026-09-15 02:19",
-        "summary": "Firm publishes AI guidelines with Microsoft AI CEO saying: ‘AI must be subordinate and always in service of people’ Micr",
-        "ai": true
+        "title": "Finland spends 3.6 billion euros on Kiev’s military needs — Defense Ministry",
+        "source": "TASS",
+        "link": "https://tass.com/world/2187951",
+        "published": "2026-09-15 21:30",
+        "summary": "The package includes the Defense Ministry’s stocks and military products",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "US reveals it has weapons in space",
-        "source": "RT",
-        "link": "https://www.rt.com/news/645740-us-weapons-space-force/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-09-15 08:56",
-        "summary": "The US Space Force chief has revealed that it has deployed “space control weapons” in orbit Read Full Article at RT.com",
+        "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
+        "source": "NPR",
+        "link": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
+        "published": "2026-09-16 08:55",
+        "summary": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says th",
         "ai": false
       }
     ]
@@ -106,41 +106,41 @@
   "weather": [
     {
       "city": "南京",
-      "current": 24,
-      "min": 19,
-      "max": 27,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 25,
+      "min": 20,
+      "max": 28,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 26,
+      "current": 25,
       "min": 24,
-      "max": 30,
+      "max": 29,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
       "current": 25,
-      "min": 23,
+      "min": 24,
       "max": 30,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": 11,
-      "min": 8,
+      "current": 12,
+      "min": 10,
       "max": 19,
-      "condition": "多云",
-      "icon": "⛅"
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "孝感市应城市",
-      "current": 23,
-      "min": 22,
-      "max": 27,
+      "current": 24,
+      "min": 21,
+      "max": 24,
       "condition": "阴",
       "icon": "☁️"
     }

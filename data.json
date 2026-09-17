@@ -1,104 +1,104 @@
 {
-  "date": "2026-09-16",
-  "updated_at": "2026-09-16 09:02",
+  "date": "2026-09-17",
+  "updated_at": "2026-09-17 09:03",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "新的一天，愿你从容前行，事事顺心。",
-    "language": "中文",
-    "words": 17
+    "text": "Start today with gratitude, curiosity, and a steady heart.",
+    "language": "English",
+    "words": 9
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "中央气象台：重庆湖北等地局地有暴雨",
+        "title": "中央气象台：四川重庆湖北等地局地有暴雨",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-16/10697162.shtml",
-        "published": "2026-09-16 08:11",
-        "summary": "中新网9月16日电 据中央气象台网站消息，昨日，四川、重庆等地部分地区出现较强降雨。未来三天，重庆、贵州、湖北等地有较强降雨，关注对农业生产、交通运输、工程建设等的影响；海南、广西等地前期降雨持续时间长、累计雨量大，关注地质灾害潜在风险。",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-17/10697970.shtml",
+        "published": "2026-09-17 08:18",
+        "summary": "中新网9月17日电 据中央气象台网站消息，昨日，重庆、湖北等地部分地区出现较强降雨。未来三天，重庆、贵州、湖北等地有较强降雨，关注局地暴雨灾害风险及对农业生产、交通运输等的影响；海南前期降雨持续时间长、累计雨量大，关注地质灾害潜在风险。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "全国统一医保医疗服务项目目录首次制定 首批覆盖13个类别",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697167.shtml",
-        "published": "2026-09-16 08:51",
-        "summary": "今天(16日)，国家医保局正式印发《国家基本医疗保险医疗服务项目目录(第一批)制定工作方案》，我国将首次制定全国统一的医保医疗服务项目目录，进一步规范医保支付范围，提升保障公平性与基金使用效能。",
+        "title": "让国防教育“走新”又“走心”（金台点兵）",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TEioTypvoR",
+        "published": "2026-09-16 21:05",
+        "summary": "9月伊始，秋季开学第一课，一堂覆盖江西小学、初中、高中、大学四个学段的“长征大课”正式开讲。 90多年前，中央红军从江西于都集结出发，踏上漫漫征途。90多年后，一堂“长征大课”唤醒红色记忆，激励青少年感悟家国情怀，重整行装再出发。 踏寻先辈",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "多地试点“贯通培养”等举措，媒体：跳出“一考定终身”拓宽成长空间",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34078978",
-        "published": "2026-09-16 08:06",
-        "summary": "近期，四川成都、湖南娄底等多地部分学校启动“十二年一贯制”贯通培养试点，同时配套推出减少中考计分科目、降低考试难度、优化普职分流比例、扩大普通高中学位供给等一系列举措，引发关注。这些改革并非简单政策叠加，而是对长期以来基础教育“内卷下移”问",
+        "title": "今年第25号台风“杜鹃”生成",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-17/10697969.shtml",
+        "published": "2026-09-17 08:02",
+        "summary": "中新网9月17日电 据中央气象台网站消息，今年第25号台风“杜鹃”(热带风暴级；英文名称：Dujuan；名字来源：中国；意义：杜鹃花)已于昨天(16日)晚上在西北太平洋洋面生成，今天(17日)早晨5点钟其中心位于塞班岛东北方向约530公里的",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "单项冠军县，何以扛打丨“世界超市”义乌，如何“货通”天下",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34008497",
-        "published": "2026-09-16 07:32",
-        "summary": "每天早晨八点半，义乌国际商贸城准时开门迎客。不同肤色的客商操着不同语言涌进这座“世界超市”，目标只有一个：找货、下单、发柜。 义乌是浙江中部一座县级市，不沿海、不沿边，无矿产、无重工业。但就是这座小城，2025年外贸出口额居全国县（市、区）",
+        "title": "权威解读｜从前8个月数据看中国经济向新向优",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TEhRNecBou",
+        "published": "2026-09-16 20:26",
+        "summary": "2026年是“十五五”开局之年，中国经济在1至8月交出一份总体平稳、向新向优的成绩单。国家统计局15日发布数据显示，8月份生产供给平稳增长，就业物价总体稳定，对外贸易快速增长，新动能支撑作用增强。 前8个月经济数据成色如何？支撑向新向优的力",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "China's industrial output up 5.3% in first 8 months",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-09-15/China-s-industrial-output-up-5-3-in-first-8-months-1Qs6LlSXfGM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-09-15 10:26",
-        "summary": "China's industrial output up 5.3% in first 8 months",
+        "title": "习近平致信祝贺吉林大学建校80周年",
+        "source": "参考消息",
+        "link": "https://china.cankaoxiaoxi.com/#/detailsPage/diyi/34c5dfd9788446ae933b53dc026d15df/1/2026-09-16",
+        "published": "2026-09-16 13:55",
+        "summary": "新华社北京9月16日电 中共中央总书记、国家主席、中央军委主席习近平16日致信祝贺吉林大学建校80周年，向全体师生员工和广大校友致以祝贺。 习近平在贺信中强调，新起点上，希望吉林大学以新时代中国特色社会主义思想为指导，传承红色基因，发挥综合",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Anthropic’s CEO calls for AI slowdown as Nvidia’s urges acceleration",
+        "title": "Planning permission for new Scottish AI datacentres suspended for up to a year",
         "source": "The Guardian",
-        "link": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
-        "published": "2026-09-16 08:21",
-        "summary": "At San Francisco conference, OpenAI CEO Sam Altman calls for more rigorous security measures Anthropic’s CEO took the st",
+        "link": "https://www.theguardian.com/uk-news/2026/sep/16/datacentres-scotland-environmental-assessments-ai-boom",
+        "published": "2026-09-17 02:28",
+        "summary": "MSPs vote for strict environmental impact assessments and will delay decisions until national strategy is developed Holy",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Trade, tech curbs only worsen global energy imbalances — Russian Energy Minister",
-        "source": "TASS",
-        "link": "https://tass.com/economy/2188025",
-        "published": "2026-09-15 23:47",
-        "summary": "Sergey Tsivilyov commented on Moscow's key proposals for the G20 ministerial energy meeting in Houston, Texas, which run",
-        "ai": false
+        "title": "China’s AI chip stocks face crucial test as MetaX lock-up period expires",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/tech-trends/article/3367745/chinas-ai-chip-stocks-face-crucial-test-metax-lock-period-expires?utm_source=rss_feed",
+        "published": "2026-09-16 20:25",
+        "summary": "China is bracing for a potential massive sell-off of a high-profile artificial intelligence chip stock on Thursday, when",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Russia backs sovereign right of nations to choose their energy mix — Energy Minister",
-        "source": "TASS",
-        "link": "https://tass.com/economy/2188077",
-        "published": "2026-09-16 02:49",
-        "summary": "\"Russia’s position is to respect the sovereign right of every country to determine its own development path and energy m",
+        "title": "Putin urges Russians to vote in parliamentary election as show of support for Ukraine war",
+        "source": "France 24",
+        "link": "http://www.france24.com/en/europe/20260916-putin-urges-russians-to-vote-in-parliamentary-election-as-show-of-support-for-ukraine-war",
+        "published": "2026-09-17 03:47",
+        "summary": "Russian President Vladimir ⁠Putin on Wednesday described voter turnout in the upcoming parliamentary election as a barom",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Finland spends 3.6 billion euros on Kiev’s military needs — Defense Ministry",
+        "title": "Large-scale election campaign proceeds amidst special military operation, Putin notes",
         "source": "TASS",
-        "link": "https://tass.com/world/2187951",
-        "published": "2026-09-15 21:30",
-        "summary": "The package includes the Defense Ministry’s stocks and military products",
+        "link": "https://tass.com/politics/2188593",
+        "published": "2026-09-16 23:36",
+        "summary": "The Russian president said that residents of Donbass and Novorossiya will participate in electing State Duma deputies fo",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
-        "source": "NPR",
-        "link": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
-        "published": "2026-09-16 08:55",
-        "summary": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says th",
+        "title": "Military personnel's courage set an example for entire country, Putin says",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2188591",
+        "published": "2026-09-16 23:35",
+        "summary": "The Russian leader noted that the parliamentary election campaign is taking place during the special military operation",
         "ai": false
       }
     ]
@@ -106,43 +106,43 @@
   "weather": [
     {
       "city": "南京",
-      "current": 25,
-      "min": 20,
-      "max": 28,
+      "current": 24,
+      "min": 21,
+      "max": 26,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 25,
-      "min": 24,
-      "max": 29,
+      "current": 22,
+      "min": 21,
+      "max": 23,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 25,
+      "current": 26,
       "min": 24,
       "max": 30,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "雷阵雨",
+      "icon": "⛈️"
     },
     {
       "city": "定西市安定区",
-      "current": 12,
-      "min": 10,
-      "max": 19,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 11,
+      "min": 7,
+      "max": 21,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 24,
-      "min": 21,
-      "max": 24,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 19,
+      "min": 19,
+      "max": 21,
+      "condition": "强阵雨",
+      "icon": "🌦️"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "date": "2026-09-17",
-  "updated_at": "2026-09-17 09:03",
+  "date": "2026-09-18",
+  "updated_at": "2026-09-18 08:58",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Start today with gratitude, curiosity, and a steady heart.",
-    "language": "English",
-    "words": 9
+    "text": "Bonjour ! Gardez le sourire et faites confiance à votre rythme.",
+    "language": "Français",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "中央气象台：四川重庆湖北等地局地有暴雨",
+        "title": "四川重庆等地局地有暴雨 东北地区内蒙古有降雨降温",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-17/10697970.shtml",
-        "published": "2026-09-17 08:18",
-        "summary": "中新网9月17日电 据中央气象台网站消息，昨日，重庆、湖北等地部分地区出现较强降雨。未来三天，重庆、贵州、湖北等地有较强降雨，关注局地暴雨灾害风险及对农业生产、交通运输等的影响；海南前期降雨持续时间长、累计雨量大，关注地质灾害潜在风险。",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-18/10698648.shtml",
+        "published": "2026-09-18 08:58",
+        "summary": "中新网9月18日电 据中央气象台网站消息，昨日，湖北、湖南、江西等地部分地区出现较强降雨。未来三天，四川、重庆等地有较强降雨，需防范局地强降雨可能引发的次生灾害，关注对农业生产、交通运输等的影响。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "让国防教育“走新”又“走心”（金台点兵）",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TEioTypvoR",
-        "published": "2026-09-16 21:05",
-        "summary": "9月伊始，秋季开学第一课，一堂覆盖江西小学、初中、高中、大学四个学段的“长征大课”正式开讲。 90多年前，中央红军从江西于都集结出发，踏上漫漫征途。90多年后，一堂“长征大课”唤醒红色记忆，激励青少年感悟家国情怀，重整行装再出发。 踏寻先辈",
+        "title": "德国凯傲高级副总裁：中国为物理人工智能应用提供重要支持",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-18/10698634.shtml",
+        "published": "2026-09-18 08:20",
+        "summary": "中新社柏林9月17日电 (记者 马秀秀)德国凯傲(KION)集团软件与数字化高级副总裁史蒂夫·本特利(Steve Bentley)近日在柏林一场活动中对记者表示，中国丰富、活跃且发展迅速的产业生态，为物理人工智能在物流行业的应用提供了重要支",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "今年第25号台风“杜鹃”生成",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-17/10697969.shtml",
-        "published": "2026-09-17 08:02",
-        "summary": "中新网9月17日电 据中央气象台网站消息，今年第25号台风“杜鹃”(热带风暴级；英文名称：Dujuan；名字来源：中国；意义：杜鹃花)已于昨天(16日)晚上在西北太平洋洋面生成，今天(17日)早晨5点钟其中心位于塞班岛东北方向约530公里的",
+        "title": "国新办发布会丨介绍“十五五”时期推进住房城乡建设事业高质量发展有关情况",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34080595",
+        "published": "2026-09-18 08:42",
+        "summary": "2026年9月18日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，住房和城乡建设部新闻发言人、副部长陈绍旺介绍“十五五”时期推进住房城乡建设事业高质量发展有关情况，并答记者问。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "权威解读｜从前8个月数据看中国经济向新向优",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TEhRNecBou",
-        "published": "2026-09-16 20:26",
-        "summary": "2026年是“十五五”开局之年，中国经济在1至8月交出一份总体平稳、向新向优的成绩单。国家统计局15日发布数据显示，8月份生产供给平稳增长，就业物价总体稳定，对外贸易快速增长，新动能支撑作用增强。 前8个月经济数据成色如何？支撑向新向优的力",
+        "title": "首席展望丨东方证券于嘉懿：短扰动无碍长逻辑，黄金长牛还未结束",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34088512",
+        "published": "2026-09-18 08:39",
+        "summary": "【编者按】 今年以来，经济运行总体平稳，延续了动能向新、结构向优的良好态势，但外部环境变化带来的不利影响增多，国内结构调整仍面临压力，下半年承上启下，尤为关键。 在此时点，澎湃新闻“首席连线”2026年中经济展望以《新动能、新叙事》为题，推",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "习近平致信祝贺吉林大学建校80周年",
-        "source": "参考消息",
-        "link": "https://china.cankaoxiaoxi.com/#/detailsPage/diyi/34c5dfd9788446ae933b53dc026d15df/1/2026-09-16",
-        "published": "2026-09-16 13:55",
-        "summary": "新华社北京9月16日电 中共中央总书记、国家主席、中央军委主席习近平16日致信祝贺吉林大学建校80周年，向全体师生员工和广大校友致以祝贺。 习近平在贺信中强调，新起点上，希望吉林大学以新时代中国特色社会主义思想为指导，传承红色基因，发挥综合",
+        "title": "The Red Ribbon on the Earth | Seizing the Luding Bridge",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-09-17/The-Red-Ribbon-on-the-Earth-Seizing-the-Luding-Bridge-1QlR8DJkeB2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-17 10:57",
+        "summary": "Held up on the banks of the Dadu River by a lack of ferries to carry its soldiers and equipment across, the Central Red ",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Planning permission for new Scottish AI datacentres suspended for up to a year",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/uk-news/2026/sep/16/datacentres-scotland-environmental-assessments-ai-boom",
-        "published": "2026-09-17 02:28",
-        "summary": "MSPs vote for strict environmental impact assessments and will delay decisions until national strategy is developed Holy",
+        "title": "Intent not malicious, it's indifference: Thousands, if not millions, of books sent to AI woodchipper",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/tv-shows/spotlight/20260917-intent-not-malicious-it-s-indifference-thousands-if-not-millions-of-books-sent-to-ai-woodchipper",
+        "published": "2026-09-18 05:10",
+        "summary": "François Picard is pleased to welcome investigative journalist Emanuel Maiberg, Co-founder of 404 Media. As we embark on",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "China’s AI chip stocks face crucial test as MetaX lock-up period expires",
+        "title": "China trusted more than US, EU on AI regulation in Pew survey of middle-income countries",
         "source": "SCMP",
-        "link": "https://www.scmp.com/tech/tech-trends/article/3367745/chinas-ai-chip-stocks-face-crucial-test-metax-lock-period-expires?utm_source=rss_feed",
-        "published": "2026-09-16 20:25",
-        "summary": "China is bracing for a potential massive sell-off of a high-profile artificial intelligence chip stock on Thursday, when",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3367776/china-trusted-more-us-eu-ai-regulation-pew-survey-middle-income-countries?utm_source=rss_feed",
+        "published": "2026-09-17 22:00",
+        "summary": "Amid rising tensions over artificial intelligence (AI) competition and global concerns about the technology, China appea",
         "ai": true
       },
       {
         "rank": 3,
-        "title": "Putin urges Russians to vote in parliamentary election as show of support for Ukraine war",
-        "source": "France 24",
-        "link": "http://www.france24.com/en/europe/20260916-putin-urges-russians-to-vote-in-parliamentary-election-as-show-of-support-for-ukraine-war",
-        "published": "2026-09-17 03:47",
-        "summary": "Russian President Vladimir ⁠Putin on Wednesday described voter turnout in the upcoming parliamentary election as a barom",
-        "ai": false
+        "title": "President Xi’s industrial power play sees China bet big on AI, chips and smarter factories",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/economy/china-economy/article/3367877/president-xis-industrial-power-play-sees-china-bet-big-ai-chips-and-smarter-factories?utm_source=rss_feed",
+        "published": "2026-09-17 18:29",
+        "summary": "President Xi Jinping has reiterated calls for China to make its supply chains more resilient and self-sufficient while a",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "Large-scale election campaign proceeds amidst special military operation, Putin notes",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2188593",
-        "published": "2026-09-16 23:36",
-        "summary": "The Russian president said that residents of Donbass and Novorossiya will participate in electing State Duma deputies fo",
+        "title": "China, US may unveil measures to boost military ties when Xi visits Washington",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3367849/china-us-may-unveil-measures-boost-military-ties-when-xi-visits-washington?utm_source=rss_feed",
+        "published": "2026-09-17 22:00",
+        "summary": "China and the United States are discussing possible announcements to strengthen military-to-military ties during Chinese",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Military personnel's courage set an example for entire country, Putin says",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2188591",
-        "published": "2026-09-16 23:35",
-        "summary": "The Russian leader noted that the parliamentary election campaign is taking place during the special military operation",
+        "title": "A new Trump-Kim summit would be a nightmare for everyone but Pyongyang",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/opinion/asia-opinion/article/3367471/new-trump-kim-summit-would-be-nightmare-everyone-pyongyang?utm_source=rss_feed",
+        "published": "2026-09-17 20:30",
+        "summary": "It is clear that US President Donald Trump is pushing hard for a fresh summit with North Korean leader Kim Jong-un in th",
         "ai": false
       }
     ]
@@ -106,7 +106,7 @@
   "weather": [
     {
       "city": "南京",
-      "current": 24,
+      "current": 22,
       "min": 21,
       "max": 26,
       "condition": "阴",
@@ -114,9 +114,9 @@
     },
     {
       "city": "武汉",
-      "current": 22,
-      "min": 21,
-      "max": 23,
+      "current": 20,
+      "min": 20,
+      "max": 25,
       "condition": "阴",
       "icon": "☁️"
     },
@@ -124,25 +124,25 @@
       "city": "南宁",
       "current": 26,
       "min": 24,
-      "max": 30,
-      "condition": "雷阵雨",
-      "icon": "⛈️"
+      "max": 31,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "定西市安定区",
-      "current": 11,
-      "min": 7,
+      "current": 13,
+      "min": 12,
       "max": 21,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 19,
-      "min": 19,
-      "max": 21,
-      "condition": "强阵雨",
-      "icon": "🌦️"
+      "current": 20,
+      "min": 18,
+      "max": 25,
+      "condition": "多云",
+      "icon": "⛅"
     }
   ]
 }

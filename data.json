@@ -1,104 +1,104 @@
 {
-  "date": "2026-09-18",
-  "updated_at": "2026-09-18 08:58",
+  "date": "2026-09-19",
+  "updated_at": "2026-09-19 08:55",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Gardez le sourire et faites confiance à votre rythme.",
-    "language": "Français",
-    "words": 11
+    "text": "早安！愿微风拂去疲惫，阳光照亮心情。",
+    "language": "中文",
+    "words": 18
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "四川重庆等地局地有暴雨 东北地区内蒙古有降雨降温",
+        "title": "今夜起台风“杜鹃”逐渐转向趋向日本以南洋面 对我国近海无影响",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-18/10698648.shtml",
-        "published": "2026-09-18 08:58",
-        "summary": "中新网9月18日电 据中央气象台网站消息，昨日，湖北、湖南、江西等地部分地区出现较强降雨。未来三天，四川、重庆等地有较强降雨，需防范局地强降雨可能引发的次生灾害，关注对农业生产、交通运输等的影响。",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699332.shtml",
+        "published": "2026-09-19 08:40",
+        "summary": "中国天气网讯 据中央气象台消息，今年第25号台风“杜鹃”(台风级)的中心今天(19日)早晨5点钟位于日本东京偏南方向约1030公里的西北太平洋洋面上，就是北纬26.4度、东经140.3度，中心附近最大风力有12级(35米/秒)，中心最低气压",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "德国凯傲高级副总裁：中国为物理人工智能应用提供重要支持",
+        "title": "四川重庆等地局地有暴雨 东北地区内蒙古有降雨降温",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-18/10698634.shtml",
-        "published": "2026-09-18 08:20",
-        "summary": "中新社柏林9月17日电 (记者 马秀秀)德国凯傲(KION)集团软件与数字化高级副总裁史蒂夫·本特利(Steve Bentley)近日在柏林一场活动中对记者表示，中国丰富、活跃且发展迅速的产业生态，为物理人工智能在物流行业的应用提供了重要支",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699329.shtml",
+        "published": "2026-09-19 08:38",
+        "summary": "中新网9月19日电 据中央气象台网站19日消息，未来三天，四川、重庆、湖北等地有较强降雨，需防范局地强降雨可能引发的次生灾害，关注对农业生产、交通运输等的影响。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "国新办发布会丨介绍“十五五”时期推进住房城乡建设事业高质量发展有关情况",
+        "title": "直播丨警报响起！上海举行高层楼宇遭敌空袭防空疏散演练",
         "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34080595",
-        "published": "2026-09-18 08:42",
-        "summary": "2026年9月18日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，住房和城乡建设部新闻发言人、副部长陈绍旺介绍“十五五”时期推进住房城乡建设事业高质量发展有关情况，并答记者问。",
+        "link": "https://m.thepaper.cn/detail/34095999",
+        "published": "2026-09-19 08:34",
+        "summary": "2026年9月19日，是第26个全民国防教育日，也是上海开展全市防空警报试鸣的第19个年头。当天，在虹口区北外滩点位举行防空演练，以高层商务楼宇遭敌空袭为背景，运用新技术、新手段进行高空人员救援，同时组织专业力量，消除空袭后果。澎湃新闻直击",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "首席展望丨东方证券于嘉懿：短扰动无碍长逻辑，黄金长牛还未结束",
+        "title": "“可食用作业”流行，北京市场监管局提示警惕食品安全风险",
         "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34088512",
-        "published": "2026-09-18 08:39",
-        "summary": "【编者按】 今年以来，经济运行总体平稳，延续了动能向新、结构向优的良好态势，但外部环境变化带来的不利影响增多，国内结构调整仍面临压力，下半年承上启下，尤为关键。 在此时点，澎湃新闻“首席连线”2026年中经济展望以《新动能、新叙事》为题，推",
+        "link": "https://m.thepaper.cn/detail/34102385",
+        "published": "2026-09-19 08:39",
+        "summary": "“今天我们来吃作业吧。”近日，印有课本、作业本仿真图案的糯米纸零食——“可食用作业”“可食用课本”，在中小学生群体中流行。9月17日，北京市场监管局发布《关于“可食用作业”类网红食品的消费提示》（以下简称“《提示》”），警惕食品安全风险。 ",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "The Red Ribbon on the Earth | Seizing the Luding Bridge",
+        "title": "Japan's war memory: Remembering pain, forgetting responsibility",
         "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-09-17/The-Red-Ribbon-on-the-Earth-Seizing-the-Luding-Bridge-1QlR8DJkeB2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-09-17 10:57",
-        "summary": "Held up on the banks of the Dadu River by a lack of ferries to carry its soldiers and equipment across, the Central Red ",
+        "link": "https://news.cgtn.com/news/2026-09-18/Japan-s-war-memory-Remembering-pain-forgetting-responsibility-1Qx36LMXn6E/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-18 10:34",
+        "summary": "The divergence within Japanese society regarding the nature of the war and historical responsibility appears on the surf",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Intent not malicious, it's indifference: Thousands, if not millions, of books sent to AI woodchipper",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/tv-shows/spotlight/20260917-intent-not-malicious-it-s-indifference-thousands-if-not-millions-of-books-sent-to-ai-woodchipper",
-        "published": "2026-09-18 05:10",
-        "summary": "François Picard is pleased to welcome investigative journalist Emanuel Maiberg, Co-founder of 404 Media. As we embark on",
+        "title": "Google says its Gemini AI model hacked three other companies",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+        "published": "2026-09-19 08:53",
+        "summary": "Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a f",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "China trusted more than US, EU on AI regulation in Pew survey of middle-income countries",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3367776/china-trusted-more-us-eu-ai-regulation-pew-survey-middle-income-countries?utm_source=rss_feed",
-        "published": "2026-09-17 22:00",
-        "summary": "Amid rising tensions over artificial intelligence (AI) competition and global concerns about the technology, China appea",
-        "ai": true
-      },
-      {
-        "rank": 3,
-        "title": "President Xi’s industrial power play sees China bet big on AI, chips and smarter factories",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/economy/china-economy/article/3367877/president-xis-industrial-power-play-sees-china-bet-big-ai-chips-and-smarter-factories?utm_source=rss_feed",
-        "published": "2026-09-17 18:29",
-        "summary": "President Xi Jinping has reiterated calls for China to make its supply chains more resilient and self-sufficient while a",
-        "ai": true
-      },
-      {
-        "rank": 4,
-        "title": "China, US may unveil measures to boost military ties when Xi visits Washington",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3367849/china-us-may-unveil-measures-boost-military-ties-when-xi-visits-washington?utm_source=rss_feed",
-        "published": "2026-09-17 22:00",
-        "summary": "China and the United States are discussing possible announcements to strengthen military-to-military ties during Chinese",
+        "title": "Sweden's centre-left leader Andersson tasked with forming government after election",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/europe/20260918-sweden-s-centre-left-leader-andersson-tasked-with-forming-government-after-election",
+        "published": "2026-09-19 00:01",
+        "summary": "Sweden's parliament speaker on Friday tasked opposition leader Magdalena Andersson with forming a government after an el",
         "ai": false
       },
       {
-        "rank": 5,
-        "title": "A new Trump-Kim summit would be a nightmare for everyone but Pyongyang",
+        "rank": 3,
+        "title": "Hungary intends to phase out Russian gas by October 2027 — minister",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2189655",
+        "published": "2026-09-18 20:09",
+        "summary": "Hungarian Minister of Economy and Energy Istvan Kapitany noted that Hungary’s gas needs can and will be met from other s",
+        "ai": false
+      },
+      {
+        "rank": 4,
+        "title": "Xi-Trump summit, China AI at Brics, Asian Games",
         "source": "SCMP",
-        "link": "https://www.scmp.com/opinion/asia-opinion/article/3367471/new-trump-kim-summit-would-be-nightmare-everyone-pyongyang?utm_source=rss_feed",
-        "published": "2026-09-17 20:30",
-        "summary": "It is clear that US President Donald Trump is pushing hard for a fresh summit with North Korean leader Kim Jong-un in th",
+        "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3368001/xi-trump-summit-china-ai-brics-asian-games?utm_source=rss_feed",
+        "published": "2026-09-18 17:00",
+        "summary": "Chinese President Xi Jinping will travel to the US for a summit next week, which is likely to include talks about artifi",
+        "ai": true
+      },
+      {
+        "rank": 5,
+        "title": "India’s Modi caught between much-needed Russian oil and US trade threats",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/3368081/indias-modi-caught-between-much-needed-russian-oil-and-us-trade-threats?utm_source=rss_feed",
+        "published": "2026-09-19 08:46",
+        "summary": "Indian Prime Minister Narendra Modi is caught in an energy policy bind with no easy exit. Cutting Russian oil imports to",
         "ai": false
       }
     ]
@@ -106,43 +106,43 @@
   "weather": [
     {
       "city": "南京",
-      "current": 22,
+      "current": 24,
       "min": 21,
-      "max": 26,
+      "max": 28,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 20,
-      "min": 20,
-      "max": 25,
+      "current": 22,
+      "min": 21,
+      "max": 27,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 26,
-      "min": 24,
-      "max": 31,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 28,
+      "min": 25,
+      "max": 33,
+      "condition": "晴",
+      "icon": "☀️"
     },
     {
       "city": "定西市安定区",
-      "current": 13,
-      "min": 12,
-      "max": 21,
+      "current": 12,
+      "min": 9,
+      "max": 14,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 20,
+      "current": 22,
       "min": 18,
-      "max": 25,
-      "condition": "多云",
-      "icon": "⛅"
+      "max": 27,
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

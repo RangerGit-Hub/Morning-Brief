@@ -1,104 +1,104 @@
 {
-  "date": "2026-09-20",
-  "updated_at": "2026-09-20 08:36",
+  "date": "2026-09-21",
+  "updated_at": "2026-09-21 08:48",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! May kind moments find you wherever you go.",
-    "language": "English",
+    "text": "Je vous souhaite une journée sereine, utile et pleine d’élan.",
+    "language": "Français",
     "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "重庆湖北等地局地有暴雨 东北地区有降雨降温",
+        "title": "重庆和湖北西部等地有强降雨",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-20/10699761.shtml",
-        "published": "2026-09-20 08:09",
-        "summary": "中新网9月20日电 据中央气象台网站消息，昨日，四川、内蒙古、黑龙江、海南等地部分地区出现较强降雨。未来三天，四川、重庆、湖北等地有较强降雨，需防范局地强降雨可能引发的次生灾害，关注对农业生产、交通运输等的影响。",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-21/10700523.shtml",
+        "published": "2026-09-21 08:35",
+        "summary": "中新网9月21日电 据中央气象台网站消息，昨日，陕西、四川、河北等地部分地区出现大到暴雨。未来三天，四川、重庆、湖北等地有较强降雨，需防范次生灾害，关注对农业生产、交通运输等的影响。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "四川盐边突发泥石流灾害，当地民兵紧急投入抢险救援",
+        "title": "事关高校改革，国家出手了",
         "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TH8dMtsfjo",
-        "published": "2026-09-19 18:58",
-        "summary": "受特大暴雨影响，四川省盐边县格萨拉乡支六河村突发泥石流灾害，造成当地道路、通信中断，多人失联。 9月19日，盐边县人武部迅速集结30名民兵，调配多台工程机械，携带无人机、卫星电话等装备奔赴灾区，全力开展人员搜救、道路清淤、交通疏导等抢险救援",
+        "link": "https://china.huanqiu.com/article/4TIQSQrg7Hh",
+        "published": "2026-09-21 08:12",
+        "summary": "高等教育改革发展，关系当下，更利于长远。 近日，中办、国办印发《关于分类推进高校改革的意见》，对分类推进高校改革作出系统部署。 为何出台这份意见？ 建设教育强国，龙头是高等教育。截至2025年，全国高等教育在学总规模达4872.57万人，高",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "学习卡丨制造业争“先”，习近平指明前进方向",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/19/ARTI8jM6wvpFkqrMeewFk3Ii260919.shtml",
-        "published": "2026-09-19 14:16",
-        "summary": "9月16日至17日，全国先进制造业大会在京召开，会上传达了习近平总书记就发展先进制造业作出的重要指示。总书记强调，持续做大做强先进制造业，为推进中国式现代化提供有力支撑。 制造业是立国之本、强国之基，先进制造业是现代化产业体系的骨干支撑。习",
+        "title": "AI时代的第一份工作：不能只拼效率，还要有“学习曲线”",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-21/10700514.shtml",
+        "published": "2026-09-21 07:38",
+        "summary": "今年5月，中国青年报社社会调查中心针对应届毕业生的调查显示，64.1%的受访者期待企业更加注重人才培养，提供完善的岗前培训与成长支持。在人工智能快速进入招聘、办公和专业服务场景的背景下，这个期待值得认真理解。人们常把AI对就业的影响概括为“",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "新华每日电讯关注上海营商环境改革：“共营·共赢”造生态",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34107229",
-        "published": "2026-09-20 07:36",
-        "summary": "下午咨询企业注册，当晚被拉进服务群，第二天便有人上门对接。公司成立至今，上海思维敏科技有限公司联合创始人龚绎明仍记得这个细节——只用了两天，他就从“创意人”成为“创业者”。在上海“共营·共赢营商伙伴计划”（以下简称“营商伙伴计划”）支持下，",
+        "title": "我国成功发射“通感智算”一体化技术验证卫星",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TIN5awqeoZ",
+        "published": "2026-09-21 06:38",
+        "summary": "【环球时报报道 记者 樊巍】20日12时03分，中科宇航力箭一号遥十八运载火箭·超智算号在东风商业航天创新试验区发射，采用“一箭9星”的方式，将“超智算一号”等9颗卫星精准送入预定轨道，发射任务取得圆满成功，该批卫星主要用于空间环境监测、防",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "中国空间站“太空厨房”全面升级 航天员20分钟吃上热食",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/20/ARTIWQlm57DUCaQGGAAYyYhC260919.shtml",
-        "published": "2026-09-20 04:22",
-        "summary": "新华社天津9月19日电（李国利、占康）“太空饮水机”“太空微波炉”“太空烤箱”……依托多套设备协同工作，中国空间站“太空厨房”保障能力全面升级，出差太空的航天员乘组可以在20分钟内吃上热食。 这是记者19日从正在天津召开的我国首届航天医学工",
+        "title": "国新办发布会丨介绍守住管好“大国粮仓”，保障国家粮食安全有关情况",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34109051",
+        "published": "2026-09-21 08:45",
+        "summary": "2026年9月21日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，请国家发展和改革委员会党组成员、国家粮食和物资储备局局长刘焕鑫介绍守住管好“大国粮仓”，保障国家粮食安全有关情况，并答记者问。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Not all AI workers think the tech could kill everyone",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-20 07:01",
-        "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings",
+        "title": "Chinese AI chipmaker Hygon plots expansion from data centres to robotics",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics?utm_source=rss_feed",
+        "published": "2026-09-21 08:30",
+        "summary": "Chinese chipmaker Hygon Information Technology is set to release a new chip targeting physical-world applications includ",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force",
-        "published": "2026-09-20 03:57",
-        "summary": "President had brushed away suggestions to slow down AI technology, even as his own party counseled caution Donald Trump ",
+        "title": "Trump vows not to slow AI despite industry warnings",
+        "source": "RT",
+        "link": "https://www.rt.com/news/646002-trump-plans-appoint-ai-czar/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-09-20 17:50",
+        "summary": "US President Donald Trump has rejected calls to slow AI development, announcing an AI Force and plans to appoint an AI c",
         "ai": true
       },
       {
         "rank": 3,
-        "title": "North Korean leader calls for broader military AI use",
-        "source": "RT",
-        "link": "https://www.rt.com/news/645987-north-korea-military-ai/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-09-20 00:40",
-        "summary": "North Korean leader Kim Jong-un has urged the defense industry to accelerate the implementation of AI Read Full Article ",
+        "title": "Does Trump’s new AI Force signal tech race escalation ahead of Xi Jinping summit?",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3368158/does-trumps-new-ai-force-signal-tech-race-escalation-ahead-xi-jinping-summit?utm_source=rss_feed",
+        "published": "2026-09-20 20:00",
+        "summary": "US President Donald Trump has unveiled a new “AI Force” just days ahead of a state visit by Chinese leader Xi Jinping, i",
         "ai": true
       },
       {
         "rank": 4,
-        "title": "Russian parliamentary election turnout reaches 44.58% — election authority",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2190161",
-        "published": "2026-09-20 07:14",
-        "summary": "The information was posted on the Russian Central Election Commission’s website and reflects data as of 11:00 p.m. Satur",
+        "title": "Zelensky and Trump have agreed to meet in New York, Ukrainian president says",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3368178/zelensky-and-trump-have-agreed-meet-new-york-ukrainian-president-says?utm_source=rss_feed",
+        "published": "2026-09-21 03:46",
+        "summary": "Ukrainian ⁠President Volodymyr Zelensky said ⁠on Sunday he had spoken to US President Donald Trump and the two agreed to",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Russian parliamentary election turnout exceeds 44.5% — election authority",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2190153",
-        "published": "2026-09-20 05:16",
-        "summary": "The information was posted on the Russian Central Election Commission’s website and reflects data as of 9:00 p.m. GMT",
+        "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss",
+        "published": "2026-09-21 01:27",
+        "summary": "Prime minister of Italy's longest serving government since WW2 faces election threat from far-right rival party.",
         "ai": false
       }
     ]
@@ -106,9 +106,9 @@
   "weather": [
     {
       "city": "南京",
-      "current": 24,
+      "current": 25,
       "min": 22,
-      "max": 27,
+      "max": 28,
       "condition": "阴",
       "icon": "☁️"
     },
@@ -117,22 +117,22 @@
       "current": 25,
       "min": 23,
       "max": 28,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "南宁",
-      "current": 27,
+      "current": 28,
       "min": 25,
       "max": 33,
-      "condition": "晴",
-      "icon": "☀️"
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "定西市安定区",
-      "current": 10,
-      "min": 9,
-      "max": 13,
+      "current": 9,
+      "min": 7,
+      "max": 20,
       "condition": "阴",
       "icon": "☁️"
     },
@@ -140,9 +140,9 @@
       "city": "孝感市应城市",
       "current": 24,
       "min": 22,
-      "max": 28,
-      "condition": "阴",
-      "icon": "☁️"
+      "max": 27,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     }
   ]
 }

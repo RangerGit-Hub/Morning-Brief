@@ -1,148 +1,148 @@
 {
-  "date": "2026-09-21",
-  "updated_at": "2026-09-21 08:48",
+  "date": "2026-09-22",
+  "updated_at": "2026-09-22 09:24",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Je vous souhaite une journée sereine, utile et pleine d’élan.",
-    "language": "Français",
-    "words": 10
+    "text": "清晨好！愿你眼里有光，心中有梦。",
+    "language": "中文",
+    "words": 16
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "重庆和湖北西部等地有强降雨",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-21/10700523.shtml",
-        "published": "2026-09-21 08:35",
-        "summary": "中新网9月21日电 据中央气象台网站消息，昨日，陕西、四川、河北等地部分地区出现大到暴雨。未来三天，四川、重庆、湖北等地有较强降雨，需防范次生灾害，关注对农业生产、交通运输等的影响。",
+        "title": "两部门紧急拨付2亿元支持4省做好自然灾害应急抢险救灾工作",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/09/21/ARTILHNkcvTh0atmHsKHoZbg260921.shtml",
+        "published": "2026-09-21 21:22",
+        "summary": "央视网消息： 据应急管理部公众号消息，近期，我国南方多地出现大范围持续性强降雨，降雨极端性突出，引发洪涝、地质灾害，造成人员伤亡和房屋倒损。9月21日，财政部、应急管理部紧急拨付2亿元中央自然灾害救灾资金，支持四川、海南、浙江、福建等4省开",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "事关高校改革，国家出手了",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TIQSQrg7Hh",
-        "published": "2026-09-21 08:12",
-        "summary": "高等教育改革发展，关系当下，更利于长远。 近日，中办、国办印发《关于分类推进高校改革的意见》，对分类推进高校改革作出系统部署。 为何出台这份意见？ 建设教育强国，龙头是高等教育。截至2025年，全国高等教育在学总规模达4872.57万人，高",
+        "title": "青春逐梦启新程",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/09/21/ARTIsQTdUk1cscfVdxuQZp1D260921.shtml",
+        "published": "2026-09-21 18:01",
+        "summary": "9月6日晚，位于安徽合肥的中国科学技术大学体育馆内，气氛热烈，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动举行。 本次活动由中央网信办、教育部、人民日报社、中国科学院、共青团中央、安徽省委网信委主办，安徽省委宣传部",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "AI时代的第一份工作：不能只拼效率，还要有“学习曲线”",
+        "title": "华西雨水连绵 未来三天陕川渝有较强降水",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-21/10700514.shtml",
-        "published": "2026-09-21 07:38",
-        "summary": "今年5月，中国青年报社社会调查中心针对应届毕业生的调查显示，64.1%的受访者期待企业更加注重人才培养，提供完善的岗前培训与成长支持。在人工智能快速进入招聘、办公和专业服务场景的背景下，这个期待值得认真理解。人们常把AI对就业的影响概括为“",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701229.shtml",
+        "published": "2026-09-22 09:08",
+        "summary": "中新网9月22日电 据中央气象台网站消息，昨日，四川中南部、重庆、湖北西南部、湖南北部、贵州北部、福建南部、广东南部、台湾南部等地出现大到暴雨，湖北恩施和贵州毕节局地大暴雨。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "我国成功发射“通感智算”一体化技术验证卫星",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TIN5awqeoZ",
-        "published": "2026-09-21 06:38",
-        "summary": "【环球时报报道 记者 樊巍】20日12时03分，中科宇航力箭一号遥十八运载火箭·超智算号在东风商业航天创新试验区发射，采用“一箭9星”的方式，将“超智算一号”等9颗卫星精准送入预定轨道，发射任务取得圆满成功，该批卫星主要用于空间环境监测、防",
+        "title": "四川陕西重庆等地局地有暴雨",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701219.shtml",
+        "published": "2026-09-22 08:40",
+        "summary": "中新网9月22日电 据中央气象台网站消息，昨日，四川、重庆、湖北、湖南、贵州等地出现大到暴雨，局地大暴雨。未来三天，四川、重庆、湖北、陕西及黄淮南部等地有较强降雨，需防范次生灾害，关注对农业生产、交通运输等的影响。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "国新办发布会丨介绍守住管好“大国粮仓”，保障国家粮食安全有关情况",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34109051",
-        "published": "2026-09-21 08:45",
-        "summary": "2026年9月21日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，请国家发展和改革委员会党组成员、国家粮食和物资储备局局长刘焕鑫介绍守住管好“大国粮仓”，保障国家粮食安全有关情况，并答记者问。",
+        "title": "61% vs. 26%: The number behind the real US-China AI divide",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-09-21/61-vs-26-The-number-behind-the-real-US-China-AI-divide-1QC06kjnCtG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-21 10:50",
+        "summary": "61% vs. 26%: The number behind the real US-China AI divide",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Chinese AI chipmaker Hygon plots expansion from data centres to robotics",
+        "title": "AI poses new national security threat, outgoing Hong Kong deputy police chief warns",
         "source": "SCMP",
-        "link": "https://www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics?utm_source=rss_feed",
-        "published": "2026-09-21 08:30",
-        "summary": "Chinese chipmaker Hygon Information Technology is set to release a new chip targeting physical-world applications includ",
+        "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368258/ai-poses-new-national-security-threat-outgoing-hong-kong-deputy-police-chief-warns?utm_source=rss_feed",
+        "published": "2026-09-22 07:00",
+        "summary": "Retiring deputy police commissioner Andrew Kan Kai-yan has said artificial intelligence (AI) poses a new threat to natio",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Trump vows not to slow AI despite industry warnings",
-        "source": "RT",
-        "link": "https://www.rt.com/news/646002-trump-plans-appoint-ai-czar/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-09-20 17:50",
-        "summary": "US President Donald Trump has rejected calls to slow AI development, announcing an AI Force and plans to appoint an AI c",
+        "title": "US, China need nuclear-style AI safeguards, congressman says before Xi-Trump summit",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/us/diplomacy/article/3368311/us-china-need-nuclear-style-ai-safeguards-congressman-says-xi-trump-summit?utm_source=rss_feed",
+        "published": "2026-09-22 06:48",
+        "summary": "The US and China should agree on international regulatory standards for artificial intelligence (AI), akin to atomic-era",
         "ai": true
       },
       {
         "rank": 3,
-        "title": "Does Trump’s new AI Force signal tech race escalation ahead of Xi Jinping summit?",
+        "title": "Why Trump-Xi summit must put Korean peninsula back on the agenda",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3368158/does-trumps-new-ai-force-signal-tech-race-escalation-ahead-xi-jinping-summit?utm_source=rss_feed",
-        "published": "2026-09-20 20:00",
-        "summary": "US President Donald Trump has unveiled a new “AI Force” just days ahead of a state visit by Chinese leader Xi Jinping, i",
-        "ai": true
+        "link": "https://www.scmp.com/opinion/asia-opinion/article/3367602/why-trump-xi-summit-must-put-korean-peninsula-back-agenda?utm_source=rss_feed",
+        "published": "2026-09-22 05:30",
+        "summary": "The September 24 summit between President Xi Jinping and US President Donald Trump is no ordinary engagement. Their May ",
+        "ai": false
       },
       {
         "rank": 4,
-        "title": "Zelensky and Trump have agreed to meet in New York, Ukrainian president says",
+        "title": "Shadow of Xi summit hangs over Trump’s high-stakes talks with Japan’s Takaichi",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3368178/zelensky-and-trump-have-agreed-meet-new-york-ukrainian-president-says?utm_source=rss_feed",
-        "published": "2026-09-21 03:46",
-        "summary": "Ukrainian ⁠President Volodymyr Zelensky said ⁠on Sunday he had spoken to US President Donald Trump and the two agreed to",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3368288/shadow-xi-summit-hangs-over-trumps-high-stakes-talks-japans-takaichi?utm_source=rss_feed",
+        "published": "2026-09-22 09:00",
+        "summary": "When Japanese Prime Minister Sanae Takaichi meets US President Donald Trump in New York on Tuesday, the leader casting t",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss",
-        "published": "2026-09-21 01:27",
-        "summary": "Prime minister of Italy's longest serving government since WW2 faces election threat from far-right rival party.",
-        "ai": false
+        "title": "Stop relying on AI chatbots for customer care, UK banks and energy firms told",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/technology/2026/sep/21/stop-relying-on-chatbots-for-customer-care-uk-service-providers-urged",
+        "published": "2026-09-22 00:35",
+        "summary": "Citizens Advice says providers of essential services such as energy, banking, phone and internet should guarantee the ‘r",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 25,
+      "current": 23,
       "min": 22,
-      "max": 28,
+      "max": 26,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 25,
-      "min": 23,
-      "max": 28,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 22,
+      "min": 21,
+      "max": 26,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 28,
-      "min": 25,
-      "max": 33,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 27,
+      "min": 26,
+      "max": 32,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": 9,
+      "current": 13,
       "min": 7,
-      "max": 20,
+      "max": 21,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 24,
-      "min": 22,
-      "max": 27,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 22,
+      "min": 20,
+      "max": 26,
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

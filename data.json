@@ -1,146 +1,146 @@
 {
-  "date": "2026-09-22",
-  "updated_at": "2026-09-22 09:24",
+  "date": "2026-09-23",
+  "updated_at": "2026-09-23 09:12",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "清晨好！愿你眼里有光，心中有梦。",
-    "language": "中文",
-    "words": 16
+    "text": "A bright morning to you—make today meaningful in your own way.",
+    "language": "English",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "两部门紧急拨付2亿元支持4省做好自然灾害应急抢险救灾工作",
+        "title": "两部门联合部署全国碳市场重点排放单位碳排放计量审查摸底工作",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/21/ARTILHNkcvTh0atmHsKHoZbg260921.shtml",
-        "published": "2026-09-21 21:22",
-        "summary": "央视网消息： 据应急管理部公众号消息，近期，我国南方多地出现大范围持续性强降雨，降雨极端性突出，引发洪涝、地质灾害，造成人员伤亡和房屋倒损。9月21日，财政部、应急管理部紧急拨付2亿元中央自然灾害救灾资金，支持四川、海南、浙江、福建等4省开",
+        "link": "https://news.cctv.com/2026/09/22/ARTIomvBdb8e0APzle3vMmtS260922.shtml",
+        "published": "2026-09-22 21:07",
+        "summary": "央视网消息： 据“市说新语”公众号消息，近日，市场监管总局办公厅、生态环境部办公厅联合印发通知，部署对全国碳排放权交易市场重点排放单位开展碳排放计量审查摸底工作，旨在落实党中央、国务院决策部署，为重点排放单位碳计量管理工作提供清晰的“路线图",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "青春逐梦启新程",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/21/ARTIsQTdUk1cscfVdxuQZp1D260921.shtml",
-        "published": "2026-09-21 18:01",
-        "summary": "9月6日晚，位于安徽合肥的中国科学技术大学体育馆内，气氛热烈，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动举行。 本次活动由中央网信办、教育部、人民日报社、中国科学院、共青团中央、安徽省委网信委主办，安徽省委宣传部",
+        "title": "攻破难题！货船变身“海上医院”，中国船企已具备承接全球最高难度改装订单的系统能力",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TJxHTKBXRm",
+        "published": "2026-09-23 04:26",
+        "summary": "【环球时报报道 记者 郭媛丹】近日，由中船集团旗下中船澄西船舶修造有限公司为国外客户改装的“桑夏2” 轮启航。继6月“桑夏1”轮交付后，中国造船企业承接的两艘居住医疗船改装项目全部完工交付。中船澄西相关专家日前在接受《环球时报》记者采访时表",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "华西雨水连绵 未来三天陕川渝有较强降水",
+        "title": "第48届世界技能大赛在上海隆重开幕 李强出席并宣布开幕",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701229.shtml",
-        "published": "2026-09-22 09:08",
-        "summary": "中新网9月22日电 据中央气象台网站消息，昨日，四川中南部、重庆、湖北西南部、湖南北部、贵州北部、福建南部、广东南部、台湾南部等地出现大到暴雨，湖北恩施和贵州毕节局地大暴雨。",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-23/10701926.shtml",
+        "published": "2026-09-23 08:43",
+        "summary": "9月22日晚，第48届世界技能大赛在上海隆重开幕。开幕式上宣读了国家主席习近平的贺信。国务院总理李强出席开幕式并宣布开幕。新华社记者 黄敬文 摄 新华社上海9月22日电(记者王永前、安蓓)浦江激扬梦想，技能照亮世界。第48届世界技能大赛22",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "四川陕西重庆等地局地有暴雨",
+        "title": "中国法治国际论坛（2026）在深圳开幕 陈文清出席并讲话",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701219.shtml",
-        "published": "2026-09-22 08:40",
-        "summary": "中新网9月22日电 据中央气象台网站消息，昨日，四川、重庆、湖北、湖南、贵州等地出现大到暴雨，局地大暴雨。未来三天，四川、重庆、湖北、陕西及黄淮南部等地有较强降雨，需防范次生灾害，关注对农业生产、交通运输等的影响。",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-23/10701936.shtml",
+        "published": "2026-09-23 08:34",
+        "summary": "中新社深圳9月22日电 (记者 索有为)中国法治国际论坛(2026)22日在广东深圳开幕。中共中央政治局委员、中央政法委书记陈文清出席并讲话。中共中央政治局委员、广东省委书记黄坤明出席并致辞。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "61% vs. 26%: The number behind the real US-China AI divide",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-09-21/61-vs-26-The-number-behind-the-real-US-China-AI-divide-1QC06kjnCtG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-09-21 10:50",
-        "summary": "61% vs. 26%: The number behind the real US-China AI divide",
+        "title": "超低排放改造、提高产业集中度 我国钢铁产业提质转型",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TK3tXpTpGs",
+        "published": "2026-09-23 07:31",
+        "summary": "近日，中钢协发布8月钢铁行业运行情况，钢铁产量持续收缩，行业运行贴合高质量发展调控导向。 数据显示，8月全国粗钢产量7461万吨，同比下降3.7%、环比回落，生铁、钢材产量同步下行，行业主动控产成效持续显现。今年前8个月，全国累计生产粗钢6",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "AI poses new national security threat, outgoing Hong Kong deputy police chief warns",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368258/ai-poses-new-national-security-threat-outgoing-hong-kong-deputy-police-chief-warns?utm_source=rss_feed",
-        "published": "2026-09-22 07:00",
-        "summary": "Retiring deputy police commissioner Andrew Kan Kai-yan has said artificial intelligence (AI) poses a new threat to natio",
+        "title": "How would AI actually ‘kill all humans’? Here are the top five most likely scenarios | Toby Walsh",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/australia-news/commentisfree/2026/sep/23/how-would-ai-actually-kill-all-humans-here-are-the-top-five-most-likely-scenarios",
+        "published": "2026-09-23 08:51",
+        "summary": "From a dangerous new bioweapon to total societal breakdown, is a ‘superintelligent’ AI capable of wiping out humanity? E",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "US, China need nuclear-style AI safeguards, congressman says before Xi-Trump summit",
+        "title": "Canada seeks to wrap up India trade talks soon, as US ties fray",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/us/diplomacy/article/3368311/us-china-need-nuclear-style-ai-safeguards-congressman-says-xi-trump-summit?utm_source=rss_feed",
-        "published": "2026-09-22 06:48",
-        "summary": "The US and China should agree on international regulatory standards for artificial intelligence (AI), akin to atomic-era",
-        "ai": true
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3368443/canada-seeks-wrap-india-trade-talks-soon-us-ties-fray?utm_source=rss_feed",
+        "published": "2026-09-23 07:52",
+        "summary": "Canadian Prime Minister Mark Carney said on Tuesday that trade negotiations with India are making “good progress” and th",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "Why Trump-Xi summit must put Korean peninsula back on the agenda",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/opinion/asia-opinion/article/3367602/why-trump-xi-summit-must-put-korean-peninsula-back-agenda?utm_source=rss_feed",
-        "published": "2026-09-22 05:30",
-        "summary": "The September 24 summit between President Xi Jinping and US President Donald Trump is no ordinary engagement. Their May ",
+        "title": "NATO member moves closer to lifting nuclear weapons ban",
+        "source": "RT",
+        "link": "https://www.rt.com/news/646106-lithuania-nuclear-weapons-ban/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-09-23 05:01",
+        "summary": "Lithuania’s parliament has backed a constitutional amendment that would lift a ban on nuclear weapons Read Full Article ",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Shadow of Xi summit hangs over Trump’s high-stakes talks with Japan’s Takaichi",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3368288/shadow-xi-summit-hangs-over-trumps-high-stakes-talks-japans-takaichi?utm_source=rss_feed",
-        "published": "2026-09-22 09:00",
-        "summary": "When Japanese Prime Minister Sanae Takaichi meets US President Donald Trump in New York on Tuesday, the leader casting t",
-        "ai": false
+        "title": "Trump praises relations with Burnham despite tensions over AI and Iran",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/us-news/2026/sep/22/trump-says-relations-better-with-burnham-than-starmer-after-first-face-to-face-meeting",
+        "published": "2026-09-23 03:50",
+        "summary": "US president calls UK prime minister ‘a natural businessperson’ as leaders meet at UN assembly in New York Donald Trump ",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Stop relying on AI chatbots for customer care, UK banks and energy firms told",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/technology/2026/sep/21/stop-relying-on-chatbots-for-customer-care-uk-service-providers-urged",
-        "published": "2026-09-22 00:35",
-        "summary": "Citizens Advice says providers of essential services such as energy, banking, phone and internet should guarantee the ‘r",
-        "ai": true
+        "title": "Trump makes major Greenland military announcement",
+        "source": "RT",
+        "link": "https://www.rt.com/news/646101-trump-us-greenland-military/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-09-23 00:39",
+        "summary": "The US will expand its military presence in Greenland under a new security deal with Denmark, President Donald Trump has",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 23,
+      "current": 24,
       "min": 22,
-      "max": 26,
+      "max": 27,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 22,
-      "min": 21,
-      "max": 26,
+      "current": 24,
+      "min": 22,
+      "max": 27,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 27,
-      "min": 26,
+      "current": 28,
+      "min": 25,
       "max": 32,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "定西市安定区",
-      "current": 13,
-      "min": 7,
-      "max": 21,
+      "current": 14,
+      "min": 9,
+      "max": 18,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 22,
-      "min": 20,
-      "max": 26,
+      "current": 24,
+      "min": 21,
+      "max": 28,
       "condition": "阴",
       "icon": "☁️"
     }

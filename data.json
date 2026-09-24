@@ -1,104 +1,104 @@
 {
-  "date": "2026-09-23",
-  "updated_at": "2026-09-23 09:12",
+  "date": "2026-09-24",
+  "updated_at": "2026-09-24 09:01",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "A bright morning to you—make today meaningful in your own way.",
-    "language": "English",
-    "words": 11
+    "text": "Bonjour ! Que vos efforts d’aujourd’hui portent de beaux fruits.",
+    "language": "Français",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "两部门联合部署全国碳市场重点排放单位碳排放计量审查摸底工作",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/22/ARTIomvBdb8e0APzle3vMmtS260922.shtml",
-        "published": "2026-09-22 21:07",
-        "summary": "央视网消息： 据“市说新语”公众号消息，近日，市场监管总局办公厅、生态环境部办公厅联合印发通知，部署对全国碳排放权交易市场重点排放单位开展碳排放计量审查摸底工作，旨在落实党中央、国务院决策部署，为重点排放单位碳计量管理工作提供清晰的“路线图",
+        "title": "中方将在非洲和上合组织成员国分别再建10个鲁班工坊",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-24/10702742.shtml",
+        "published": "2026-09-24 08:22",
+        "summary": "中新社北京9月23日电 (记者 曾玥)中国国务院新闻办公室23日在北京举行“开局起步‘十五五’”系列主题新闻发布会。中国教育部新闻发言人、副部长王光彦在会上介绍，中方将在非洲和上合组织成员国分别再建设10个鲁班工坊，推动鲁班工坊提质升级。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "攻破难题！货船变身“海上医院”，中国船企已具备承接全球最高难度改装订单的系统能力",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TJxHTKBXRm",
-        "published": "2026-09-23 04:26",
-        "summary": "【环球时报报道 记者 郭媛丹】近日，由中船集团旗下中船澄西船舶修造有限公司为国外客户改装的“桑夏2” 轮启航。继6月“桑夏1”轮交付后，中国造船企业承接的两艘居住医疗船改装项目全部完工交付。中船澄西相关专家日前在接受《环球时报》记者采访时表",
+        "title": "探路医学人工智能，浙江建起“医疗Token工厂”",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/jk/2026/09-24/10702714.shtml",
+        "published": "2026-09-24 07:52",
+        "summary": "中新网杭州9月24日电(张煜欢)当医疗人工智能加速走进临床，数据安全、模型调用、能力标准化等难题成为产业落地堵点。23日，在浙江杭州举办的第五届全球数字贸易博览会数字医疗健康产业对接活动上，浙江正式发布“医疗Token工厂”1.0版本，尝试",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "第48届世界技能大赛在上海隆重开幕 李强出席并宣布开幕",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-23/10701926.shtml",
-        "published": "2026-09-23 08:43",
-        "summary": "9月22日晚，第48届世界技能大赛在上海隆重开幕。开幕式上宣读了国家主席习近平的贺信。国务院总理李强出席开幕式并宣布开幕。新华社记者 黄敬文 摄 新华社上海9月22日电(记者王永前、安蓓)浦江激扬梦想，技能照亮世界。第48届世界技能大赛22",
+        "title": "（机遇香港）香港五年规划促“双向融通” 推动大湾区发展能级跃升",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TKWRCgCoYA",
+        "published": "2026-09-23 20:50",
+        "summary": "中新社香港9月23日电 (记者 邱兆翔)《香港特别行政区经济和社会发展第一个五年规划(2026—2030年)》(下称“香港第一个五年规划”)日前公布。多位专家学者近日接受中新社记者采访时表示，规划将推动香港在制度衔接、基建互通、人员往来、信",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "中国法治国际论坛（2026）在深圳开幕 陈文清出席并讲话",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-23/10701936.shtml",
-        "published": "2026-09-23 08:34",
-        "summary": "中新社深圳9月22日电 (记者 索有为)中国法治国际论坛(2026)22日在广东深圳开幕。中共中央政治局委员、中央政法委书记陈文清出席并讲话。中共中央政治局委员、广东省委书记黄坤明出席并致辞。",
+        "title": "22小时挑战近9吨原料 揭秘世赛混凝土建筑项目难在哪儿",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TKWGcbn6Gn",
+        "published": "2026-09-23 20:45",
+        "summary": "第48届世界技能大赛昨天在中国上海开幕，此次大赛共有1385名选手参赛，中国71名参赛选手参加六大领域的全部64个项目的比赛。其中，57个项目为单人赛项目，7个为双人赛项目，分别是机电一体化、自主移动机器人、工业4.0、机器人系统集成、网络",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "超低排放改造、提高产业集中度 我国钢铁产业提质转型",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TK3tXpTpGs",
-        "published": "2026-09-23 07:31",
-        "summary": "近日，中钢协发布8月钢铁行业运行情况，钢铁产量持续收缩，行业运行贴合高质量发展调控导向。 数据显示，8月全国粗钢产量7461万吨，同比下降3.7%、环比回落，生铁、钢材产量同步下行，行业主动控产成效持续显现。今年前8个月，全国累计生产粗钢6",
+        "title": "高清大图丨习近平抵达华盛顿对美国进行国事访问",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34138762",
+        "published": "2026-09-24 08:12",
+        "summary": "当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。 习近平和夫人彭丽媛抵达华盛顿安德鲁斯空军基地时，特朗普和夫人梅拉尼娅热情迎接。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "How would AI actually ‘kill all humans’? Here are the top five most likely scenarios | Toby Walsh",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/australia-news/commentisfree/2026/sep/23/how-would-ai-actually-kill-all-humans-here-are-the-top-five-most-likely-scenarios",
-        "published": "2026-09-23 08:51",
-        "summary": "From a dangerous new bioweapon to total societal breakdown, is a ‘superintelligent’ AI capable of wiping out humanity? E",
+        "title": "Australia slams ‘unacceptable’ OpenAI breach of government health portal",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/asia/australasia/article/3368577/australia-slams-unacceptable-openai-breach-government-health-portal?utm_source=rss_feed",
+        "published": "2026-09-24 08:48",
+        "summary": "An autonomous OpenAI programme infiltrated an Australian government health website in June in an “unacceptable” breach, ",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Canada seeks to wrap up India trade talks soon, as US ties fray",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3368443/canada-seeks-wrap-india-trade-talks-soon-us-ties-fray?utm_source=rss_feed",
-        "published": "2026-09-23 07:52",
-        "summary": "Canadian Prime Minister Mark Carney said on Tuesday that trade negotiations with India are making “good progress” and th",
-        "ai": false
-      },
-      {
-        "rank": 3,
-        "title": "NATO member moves closer to lifting nuclear weapons ban",
-        "source": "RT",
-        "link": "https://www.rt.com/news/646106-lithuania-nuclear-weapons-ban/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-09-23 05:01",
-        "summary": "Lithuania’s parliament has backed a constitutional amendment that would lift a ban on nuclear weapons Read Full Article ",
-        "ai": false
-      },
-      {
-        "rank": 4,
-        "title": "Trump praises relations with Burnham despite tensions over AI and Iran",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/us-news/2026/sep/22/trump-says-relations-better-with-burnham-than-starmer-after-first-face-to-face-meeting",
-        "published": "2026-09-23 03:50",
-        "summary": "US president calls UK prime minister ‘a natural businessperson’ as leaders meet at UN assembly in New York Donald Trump ",
+        "title": "OpenAI AI agent breached Australian government website, PM says",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/australia/20260923-openai-ai-agent-breached-australian-government-website-pm-says",
+        "published": "2026-09-24 06:10",
+        "summary": "An AI agent developed by OpenAI gained unauthorised access to an Australian government website in June, accessing public",
         "ai": true
       },
       {
+        "rank": 3,
+        "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
+        "source": "NPR",
+        "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
+        "published": "2026-09-24 00:13",
+        "summary": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the",
+        "ai": true
+      },
+      {
+        "rank": 4,
+        "title": "Iran opposes restrictions on access to peaceful nuclear technology — Pezeshkian",
+        "source": "TASS",
+        "link": "https://tass.com/world/2191769",
+        "published": "2026-09-23 23:49",
+        "summary": "The Iranian president emphasized that the issue of the country's nuclear program must be resolved not on the battlefield",
+        "ai": false
+      },
+      {
         "rank": 5,
-        "title": "Trump makes major Greenland military announcement",
-        "source": "RT",
-        "link": "https://www.rt.com/news/646101-trump-us-greenland-military/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-09-23 00:39",
-        "summary": "The US will expand its military presence in Greenland under a new security deal with Denmark, President Donald Trump has",
+        "title": "Russia helps India overcome energy fallout from US aggression against Iran — MFA",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2191731",
+        "published": "2026-09-23 23:05",
+        "summary": "Russian Deputy Foreign Minister Andrey Rudenko emphasized the peaceful use of nuclear energy",
         "ai": false
       }
     ]
@@ -108,15 +108,15 @@
       "city": "南京",
       "current": 24,
       "min": 22,
-      "max": 27,
+      "max": 26,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 24,
+      "current": 25,
       "min": 22,
-      "max": 27,
+      "max": 28,
       "condition": "阴",
       "icon": "☁️"
     },
@@ -124,15 +124,15 @@
       "city": "南宁",
       "current": 28,
       "min": 25,
-      "max": 32,
-      "condition": "多云",
-      "icon": "⛅"
+      "max": 33,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "定西市安定区",
-      "current": 14,
-      "min": 9,
-      "max": 18,
+      "current": 12,
+      "min": 8,
+      "max": 16,
       "condition": "阴",
       "icon": "☁️"
     },
@@ -141,8 +141,8 @@
       "current": 24,
       "min": 21,
       "max": 28,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "多云",
+      "icon": "⛅"
     }
   ]
 }

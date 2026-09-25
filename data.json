@@ -1,148 +1,148 @@
 {
-  "date": "2026-09-24",
-  "updated_at": "2026-09-24 09:01",
+  "date": "2026-09-25",
+  "updated_at": "2026-09-25 09:07",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Que vos efforts d’aujourd’hui portent de beaux fruits.",
-    "language": "Français",
-    "words": 10
+    "text": "早安！愿今日所行皆坦途，所遇皆美好。",
+    "language": "中文",
+    "words": 18
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "中方将在非洲和上合组织成员国分别再建10个鲁班工坊",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-24/10702742.shtml",
-        "published": "2026-09-24 08:22",
-        "summary": "中新社北京9月23日电 (记者 曾玥)中国国务院新闻办公室23日在北京举行“开局起步‘十五五’”系列主题新闻发布会。中国教育部新闻发言人、副部长王光彦在会上介绍，中方将在非洲和上合组织成员国分别再建设10个鲁班工坊，推动鲁班工坊提质升级。",
+        "title": "有关货币政策，央行最新部署！",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TLkBxY2kuD",
+        "published": "2026-09-25 08:10",
+        "summary": "近期，中国人民银行货币政策委员会2026年第三季度（总第114次）例会召开。 会议认为，今年以来宏观政策更加积极有为，货币政策保持适度宽松，强化逆周期和跨周期调节，综合运用多种货币政策工具，为经济持续向好向优创造适宜的货币金融环境。贷款市场",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "探路医学人工智能，浙江建起“医疗Token工厂”",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/jk/2026/09-24/10702714.shtml",
-        "published": "2026-09-24 07:52",
-        "summary": "中新网杭州9月24日电(张煜欢)当医疗人工智能加速走进临床，数据安全、模型调用、能力标准化等难题成为产业落地堵点。23日，在浙江杭州举办的第五届全球数字贸易博览会数字医疗健康产业对接活动上，浙江正式发布“医疗Token工厂”1.0版本，尝试",
+        "title": "北京：商品房预售需封顶 优先选择现房销售",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TLDQVR9vhP",
+        "published": "2026-09-24 16:53",
+        "summary": "北京市住房和城乡建设委员会等4部门关于发布本市贯彻落实《关于完善商品住房销售制度的通知》的实施意见 京建发〔2026〕460号 各有关单位： 为贯彻落实《住房城乡建设部 自然资源部 金融监管总局关于完善商品住房销售制度的通知》（建房规〔20",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "（机遇香港）香港五年规划促“双向融通” 推动大湾区发展能级跃升",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TKWRCgCoYA",
-        "published": "2026-09-23 20:50",
-        "summary": "中新社香港9月23日电 (记者 邱兆翔)《香港特别行政区经济和社会发展第一个五年规划(2026—2030年)》(下称“香港第一个五年规划”)日前公布。多位专家学者近日接受中新社记者采访时表示，规划将推动香港在制度衔接、基建互通、人员往来、信",
+        "title": "【中国经济向新向优向强】新质生产力成为发展重要引擎",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/09/24/ARTIcswr4H14qnb7OjWFrLgb260924.shtml",
+        "published": "2026-09-24 21:12",
+        "summary": "2025年，我国经济发展新动能指数比上年增长12.5%，转型升级步伐加快；“三新”经济增加值占国内生产总值（GDP）的比重达18.39%，呈逐年提升态势。 今年以来，结构优化态势更加明显。8月份，装备制造业、高技术制造业增加值分别同比增长1",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "22小时挑战近9吨原料 揭秘世赛混凝土建筑项目难在哪儿",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TKWGcbn6Gn",
-        "published": "2026-09-23 20:45",
-        "summary": "第48届世界技能大赛昨天在中国上海开幕，此次大赛共有1385名选手参赛，中国71名参赛选手参加六大领域的全部64个项目的比赛。其中，57个项目为单人赛项目，7个为双人赛项目，分别是机电一体化、自主移动机器人、工业4.0、机器人系统集成、网络",
+        "title": "预售要封顶、定金不超1%……北京楼市新政将带来哪些影响？",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-25/10703573.shtml",
+        "published": "2026-09-25 08:51",
+        "summary": "为加快构建房地产发展新模式，稳步推进商品住房销售制度改革，北京市多部门联合印发了《本市贯彻落实〈关于完善商品住房销售制度的通知〉的实施意见》。《实施意见》明确了全面加强预售管理、有序实施现房销售、推行主办银行制度、完善商品住房信贷管理、优化",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "高清大图丨习近平抵达华盛顿对美国进行国事访问",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34138762",
-        "published": "2026-09-24 08:12",
-        "summary": "当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。 习近平和夫人彭丽媛抵达华盛顿安德鲁斯空军基地时，特朗普和夫人梅拉尼娅热情迎接。",
+        "title": "我国科研团队解锁薄板“漩涡操控”新技术",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/09/25/ARTIRAEwU17X7uVJfhFU6Uz0260924.shtml",
+        "published": "2026-09-25 05:00",
+        "summary": "不用任何电子设备，仅靠一块提前设计好的普通薄板，就能让大小不一的颗粒、构件自动旋转、绕行、定点停留。近日，中国科学院声学研究所联合合肥工业大学的科研团队，攻克新型物体操控技术，实现了无电子调控的跨尺度物体精准操控，相关成果近日在国际学术期刊",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Australia slams ‘unacceptable’ OpenAI breach of government health portal",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/asia/australasia/article/3368577/australia-slams-unacceptable-openai-breach-government-health-portal?utm_source=rss_feed",
-        "published": "2026-09-24 08:48",
-        "summary": "An autonomous OpenAI programme infiltrated an Australian government health website in June in an “unacceptable” breach, ",
+        "title": "Open AI attacked Australia’s health system – and then doubled down on its negligence. The time for ‘wait and see’ is over | Kate Crawford and Edward Santow",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/commentisfree/2026/sep/25/open-ai-attacked-australias-health-system-and-then-doubled-down-on-its-negligence-the-time-for-wait-and-see-is-over",
+        "published": "2026-09-25 08:03",
+        "summary": "Human hackers face serious consequences, and so must AI companies. There is no excuse for what happened Get our breaking",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "OpenAI AI agent breached Australian government website, PM says",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/australia/20260923-openai-ai-agent-breached-australian-government-website-pm-says",
-        "published": "2026-09-24 06:10",
-        "summary": "An AI agent developed by OpenAI gained unauthorised access to an Australian government website in June, accessing public",
+        "title": "Trump and Xi hold critical talks at White House summit",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
+        "published": "2026-09-25 05:41",
+        "summary": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
         "ai": true
       },
       {
         "rank": 3,
-        "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
-        "source": "NPR",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
-        "published": "2026-09-24 00:13",
-        "summary": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the",
+        "title": "US and China presidents discuss cooperation, trade and AI risks",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
+        "published": "2026-09-25 02:19",
+        "summary": "Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House",
         "ai": true
       },
       {
         "rank": 4,
-        "title": "Iran opposes restrictions on access to peaceful nuclear technology — Pezeshkian",
-        "source": "TASS",
-        "link": "https://tass.com/world/2191769",
-        "published": "2026-09-23 23:49",
-        "summary": "The Iranian president emphasized that the issue of the country's nuclear program must be resolved not on the battlefield",
+        "title": "Costa Rica’s foreign minister fired for attending Trump meeting without telling president",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/americas/article/3368722/costa-ricas-foreign-minister-fired-attending-trump-meeting-without-telling-president?utm_source=rss_feed",
+        "published": "2026-09-25 05:18",
+        "summary": "Costa Rica’s President Laura Fernandez on Thursday fired her foreign minister for attending a meeting on Latin America’s",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Russia helps India overcome energy fallout from US aggression against Iran — MFA",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2191731",
-        "published": "2026-09-23 23:05",
-        "summary": "Russian Deputy Foreign Minister Andrey Rudenko emphasized the peaceful use of nuclear energy",
-        "ai": false
+        "title": "The future of AI in their hands? Trump-Xi summit dismisses calls for global oversight",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/tv-shows/the-debate/20260924-the-future-of-ai-in-their-hands-trump-xi-summit-dismisses-calls-for-global-oversight",
+        "published": "2026-09-25 03:05",
+        "summary": "It’s their AI world and we’re just living in it. If that's the feeling of those who suffer from AI anxiety, it may worse",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 24,
+      "current": 26,
       "min": 22,
-      "max": 26,
-      "condition": "阴",
-      "icon": "☁️"
+      "max": 30,
+      "condition": "雷阵雨",
+      "icon": "⛈️"
     },
     {
       "city": "武汉",
-      "current": 25,
-      "min": 22,
-      "max": 28,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 28,
+      "min": 24,
+      "max": 32,
+      "condition": "雷阵雨",
+      "icon": "⛈️"
     },
     {
       "city": "南宁",
       "current": 28,
       "min": 25,
-      "max": 33,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "max": 34,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "定西市安定区",
       "current": 12,
       "min": 8,
-      "max": 16,
+      "max": 20,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 24,
-      "min": 21,
-      "max": 28,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 28,
+      "min": 23,
+      "max": 31,
+      "condition": "雷阵雨伴冰雹",
+      "icon": "⛈️"
     }
   ]
 }

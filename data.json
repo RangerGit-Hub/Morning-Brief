@@ -1,113 +1,113 @@
 {
-  "date": "2026-09-26",
-  "updated_at": "2026-09-26 09:09",
+  "date": "2026-09-27",
+  "updated_at": "2026-09-27 09:04",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! Trust your pace and enjoy the journey ahead.",
-    "language": "English",
-    "words": 10
+    "text": "Commencez la journée avec gratitude, courage et bonne humeur.",
+    "language": "Français",
+    "words": 9
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "美中贸易全国委员会会长谭森：“稳定的经贸关系为美中带来实实在在的利益”",
+        "title": "经济日报金观平：系统谋划夯实金融强国根基",
         "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34152936",
-        "published": "2026-09-26 07:01",
-        "summary": "“美中两国元首在不到半年时间内实现互访，不仅有助于巩固双边关系稳定发展的势头，也向工商界释放出积极信号。”美中贸易全国委员会会长谭森日前在接受本报记者采访时说。 今年5月，习近平主席同特朗普总统在北京举行历史性会晤，共同确立了构建中美建设性",
+        "link": "https://m.thepaper.cn/detail/34158617",
+        "published": "2026-09-27 07:05",
+        "summary": "《金融强国建设“十五五”规划》近期正式出台，金融强国建设有了清晰的“施工图”。文件既是对中央金融工作会议部署的深化落实，更是立足中国式现代化全局，对未来5年金融改革发展作出的系统谋划，意义重大，影响深远。 金融是国民经济的血脉，是国家核心竞",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "全国首家青少年人工智能学院将满两岁，缘何而设？如何育才？",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34142118",
-        "published": "2026-09-26 07:31",
-        "summary": "2026年9月，上海青少年人工智能学院启动第三届学员招生，短短时间报名人数超过了400人，再创新高。后续经过资格审查、笔试、面试等环节后，学院将从中择优录取。 到今年10月，这所由中国福利会少年宫与上海交通大学人工智能学院携手打造的全国首家",
+        "title": "“十一”假期前四川、陕西等地部分地区有大到暴雨 注意防范",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-26/10704297.shtml",
+        "published": "2026-09-26 23:08",
+        "summary": "今天(9月26日)至月底，华西到黄淮一带仍多降雨，四川、陕西、河南等地部分地区有大到暴雨。同时，江南、华南将持续闷热天气，浙江、福建等地部分地区还有持续性高温。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "月底前华西至黄淮一带仍多降雨 江南华南多地有持续性高温",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/26/ARTIzCIwpTvlwVvdqo39vmwH260926.shtml",
-        "published": "2026-09-26 08:21",
-        "summary": "央视网消息： 据中国天气网消息，今天（9月26日）至月底，华西到黄淮一带仍多降雨，四川、陕西、河南等地部分地区有大到暴雨，需警惕持续降雨可能引发的滑坡、泥石流等次生灾害。同时，江南、华南将持续闷热天气，浙江、福建等地部分地区还有持续性高温，",
+        "title": "世上本无法老的诅咒：颜海英、薛江谈古埃及与埃及学",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34149795",
+        "published": "2026-09-27 08:41",
+        "summary": "近日《上海书评》采访了北京大学颜海英教授、上海外国语大学薛江教授，探讨如何超越流行想象，理解古埃及观念，并以中国经验推动中埃学术对话。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "强对流蓝色预警：山西河北北京等地部分地区将有10级以上雷暴大风",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/26/ARTIUtn3UQ0U5rYENHHl4kS0260926.shtml",
-        "published": "2026-09-26 07:39",
-        "summary": "央视网消息： 中央气象台9月26日06时发布强对流天气蓝色预警，预计9月26日08时至27日08时，内蒙古南部、华北中北部、江淮南部、江南东部等地的部分地区将有8级以上雷暴大风或冰雹天气，其中，内蒙古西南部、山西北部、河北中部和东北部、北京",
+        "title": "4条高铁将同日开通 多地迈入高铁时代",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-27/10704309.shtml",
+        "published": "2026-09-27 06:41",
+        "summary": "本报北京9月26日电(记者刘静)记者今天从中国国家铁路集团有限公司获悉，京港高铁雄安至商丘段、西渝高铁西安至安康段、宜昌至兴山高铁、哈尔滨至伊春高铁将于9月28日集中开通运营。4条线路横跨南北、纵贯东西，覆盖华北、东北、西北、华中四大区域，",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "习近平圆满结束对美国的国事访问",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-26/10703971.shtml",
-        "published": "2026-09-26 01:58",
-        "summary": "中新社华盛顿9月25日电 (记者 郭金超 黄钰钦 郭超凯)当地时间9月25日下午，中国国家主席习近平结束对美国的国事访问返回北京。",
+        "title": "China's Kubuqi renewable energy base hits key milestone",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-09-26/China-s-Kubuqi-renewable-energy-base-hits-key-milestone-1QKlWEM7LXO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-26 10:54",
+        "summary": "China's Kubuqi renewable energy base hits key milestone",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
-        "published": "2026-09-26 07:21",
-        "summary": "Thousands gather in Paris as the pope warns against a 'paradise of machines' at the Elysee Palace.",
+        "title": "US and China establish ‘AI incidents’ hotline",
+        "source": "RT",
+        "link": "https://www.rt.com/news/646310-us-china-ai-incidents-hotline/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-09-27 06:46",
+        "summary": "President Donald Trump has rejected slowing the tech race or sharing Washington’s technological edge with Beijing Read F",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Xi at White House, trade-war truce extension, Golden Week travel",
+        "title": "Trade truce extension aside, was AI the real Xi-Trump summit breakthrough?",
         "source": "SCMP",
-        "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3368799/xi-white-house-trade-war-truce-extension-golden-week-travel?utm_source=rss_feed",
-        "published": "2026-09-25 17:00",
-        "summary": "Chinese President Xi Jinping and US President Donald Trump discussed artificial intelligence (AI) and Taiwan at the Whit",
+        "link": "https://www.scmp.com/economy/global-economy/article/3368908/trade-truce-extension-aside-was-ai-real-xi-trump-summit-breakthrough?utm_source=rss_feed",
+        "published": "2026-09-26 20:39",
+        "summary": "The Xi-Trump summit may prove more significant for stabilising relations and opening space for further negotiations betw",
         "ai": true
       },
       {
         "rank": 3,
-        "title": "Trump and Chinese president Xi end summit without major agreement on AI",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
-        "published": "2026-09-26 06:11",
-        "summary": "Xi’s state visit to the US emphasized personal rapport with the US president, rather than substantial agreements to paus",
+        "title": "Amid many thorny issues with China, Trump pushes to rename AI as superintelligence",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3368921/amid-many-thorny-issues-china-trump-pushes-rename-ai-superintelligence?utm_source=rss_feed",
+        "published": "2026-09-27 06:15",
+        "summary": "US President Donald Trump is pushing for a rebrand of artificial intelligence (AI) — and looking to get the world’s othe",
         "ai": true
       },
       {
         "rank": 4,
-        "title": "Japan says Trump voiced concern over weak yen in summit with PM Takaichi",
+        "title": "Claims China’s BeiDou satellite was refuelled in orbit could change space race",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/asia/east-asia/article/3368863/japan-says-trump-voiced-concern-over-weak-yen-summit-pm-takaichi?utm_source=rss_feed",
-        "published": "2026-09-25 23:52",
-        "summary": "US President Donald Trump raised concerns about yen weakness at a summit with Japanese Prime Minister Sanae Takaichi, Ja",
+        "link": "https://www.scmp.com/news/china/science/article/3368579/claims-chinas-beidou-satellite-was-refuelled-orbit-could-change-space-race?utm_source=rss_feed",
+        "published": "2026-09-27 06:00",
+        "summary": "Chinese researchers appear to have revealed a previously unknown satellite-to-satellite refuelling operation in high Ear",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Saudi Arabia ‘has not ruled out’ developing nuclear weapons – WaPo",
-        "source": "RT",
-        "link": "https://www.rt.com/news/646262-saudi-arabia-nuclear-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-09-26 09:03",
-        "summary": "A classified US intelligence assessment has fueled concerns over President Donald Trump’s civilian nuclear deal with Riy",
-        "ai": false
+        "title": "Why US chip controls took a back seat at the Xi-Trump summit",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/us/article/3368918/why-us-chip-controls-took-back-seat-xi-trump-summit?utm_source=rss_feed",
+        "published": "2026-09-27 02:57",
+        "summary": "There is little question that Jensen Huang and Lisa Su, the heads of US semiconductor chip giants Nvidia and Advanced Mi",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 24,
-      "min": 23,
+      "current": 22,
+      "min": 22,
       "max": 25,
       "condition": "毛毛雨",
       "icon": "🌦️"
@@ -117,32 +117,32 @@
       "current": 24,
       "min": 23,
       "max": 28,
-      "condition": "多云",
-      "icon": "⛅"
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 28,
+      "current": 29,
       "min": 25,
-      "max": 34,
-      "condition": "晴",
-      "icon": "☀️"
+      "max": 33,
+      "condition": "阵雨",
+      "icon": "🌦️"
     },
     {
       "city": "定西市安定区",
-      "current": 12,
-      "min": 9,
-      "max": 21,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 13,
+      "min": 11,
+      "max": 15,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "孝感市应城市",
       "current": 23,
       "min": 22,
-      "max": 26,
-      "condition": "阴",
-      "icon": "☁️"
+      "max": 27,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     }
   ]
 }

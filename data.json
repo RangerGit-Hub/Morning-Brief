@@ -1,105 +1,105 @@
 {
-  "date": "2026-09-27",
-  "updated_at": "2026-09-27 09:04",
+  "date": "2026-09-28",
+  "updated_at": "2026-09-28 09:22",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Commencez la journée avec gratitude, courage et bonne humeur.",
-    "language": "Français",
-    "words": 9
+    "text": "新日初醒，愿你带着微笑开启一天。",
+    "language": "中文",
+    "words": 16
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "经济日报金观平：系统谋划夯实金融强国根基",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34158617",
-        "published": "2026-09-27 07:05",
-        "summary": "《金融强国建设“十五五”规划》近期正式出台，金融强国建设有了清晰的“施工图”。文件既是对中央金融工作会议部署的深化落实，更是立足中国式现代化全局，对未来5年金融改革发展作出的系统谋划，意义重大，影响深远。 金融是国民经济的血脉，是国家核心竞",
+        "title": "华西至江汉江淮多降水 冷空气将影响中东部地区",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-28/10704652.shtml",
+        "published": "2026-09-28 08:13",
+        "summary": "中新网9月28日电 据中央气象台网站消息，昨日，重庆、湖北、安徽、江苏、浙江等地出现大到暴雨。未来三天，华西地区至江汉、江淮等地有持续降雨，青藏高原有明显雨雪天气，注意防范次生灾害；28日夜间起冷空气将影响中东部地区，关注大风降温、降雨对交",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "“十一”假期前四川、陕西等地部分地区有大到暴雨 注意防范",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-26/10704297.shtml",
-        "published": "2026-09-26 23:08",
-        "summary": "今天(9月26日)至月底，华西到黄淮一带仍多降雨，四川、陕西、河南等地部分地区有大到暴雨。同时，江南、华南将持续闷热天气，浙江、福建等地部分地区还有持续性高温。",
+        "title": "拒不履行信息网络安全管理义务致多人被骗，两公司法人获刑",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/09/28/ARTI2T4cuPrs9YjkEAYzmrVm260928.shtml",
+        "published": "2026-09-28 08:08",
+        "summary": "央视网消息： 公安网安部门持续推进“净网—2026”专项行动，聚焦网络黑灰产打击和信息安全保护、数据安全保护等方面，大力开展互联网生态治理，坚决维护网络空间清朗有序。今日，公布2起拒不履行信息网络安全管理义务罪典型案例。 江苏公安机关侦办的",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "世上本无法老的诅咒：颜海英、薛江谈古埃及与埃及学",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34149795",
-        "published": "2026-09-27 08:41",
-        "summary": "近日《上海书评》采访了北京大学颜海英教授、上海外国语大学薛江教授，探讨如何超越流行想象，理解古埃及观念，并以中国经验推动中埃学术对话。",
+        "title": "“民营企业在重大工程全链条各展所长”（高质量发展微视角）",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TOGqJpna0y",
+        "published": "2026-09-28 09:14",
+        "summary": "80.1% 1—8月，全国水利建设落实地方政府专项债券、银行贷款、社会资本共3128.1亿元，其中，引入民间资本134.3亿元，同比增长80.1%。 广东省湛江市麻章区，双向四车道的雷湖快线车来车往。路面下7米多深处，一条管线横穿而过，不声",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "4条高铁将同日开通 多地迈入高铁时代",
+        "title": "台湾人士吁民进党当局通过对话、谈判找出路",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-27/10704309.shtml",
-        "published": "2026-09-27 06:41",
-        "summary": "本报北京9月26日电(记者刘静)记者今天从中国国家铁路集团有限公司获悉，京港高铁雄安至商丘段、西渝高铁西安至安康段、宜昌至兴山高铁、哈尔滨至伊春高铁将于9月28日集中开通运营。4条线路横跨南北、纵贯东西，覆盖华北、东北、西北、华中四大区域，",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-28/10704657.shtml",
+        "published": "2026-09-28 09:10",
+        "summary": "中新社台北9月27日电 (记者 朱贺)当地时间9月23日至25日，中国国家主席习近平对美国进行国事访问，其间，两国元首达成八点成果共识。多位台湾人士27日受访表示，此访传递了中美相向而行、和平共处、互利共赢的积极信号，民进党当局应放弃对抗思",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "China's Kubuqi renewable energy base hits key milestone",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-09-26/China-s-Kubuqi-renewable-energy-base-hits-key-milestone-1QKlWEM7LXO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-09-26 10:54",
-        "summary": "China's Kubuqi renewable energy base hits key milestone",
+        "title": "《中国科学院“十五五”发展规划》发布",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TOFZxuKtYl",
+        "published": "2026-09-28 08:39",
+        "summary": "记者9月28日从中国科学院获悉，《中国科学院“十五五”发展规划》近日正式发布。规划聚焦抢占科技制高点核心任务，明确了“十五五”时期中国科学院科技事业发展的战略重点，围绕基础研究、战略高技术和可持续发展三大领域体系化部署科技攻关重点方向，着力",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "US and China establish ‘AI incidents’ hotline",
-        "source": "RT",
-        "link": "https://www.rt.com/news/646310-us-china-ai-incidents-hotline/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-09-27 06:46",
-        "summary": "President Donald Trump has rejected slowing the tech race or sharing Washington’s technological edge with Beijing Read F",
+        "title": "Bill Gates says AI without regulation is ‘completely irresponsible’",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss",
+        "published": "2026-09-28 03:34",
+        "summary": "The billionaire cofounder of Microsoft says, without restrictions, AI could 'cause a billion deaths'.",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Trade truce extension aside, was AI the real Xi-Trump summit breakthrough?",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/economy/global-economy/article/3368908/trade-truce-extension-aside-was-ai-real-xi-trump-summit-breakthrough?utm_source=rss_feed",
-        "published": "2026-09-26 20:39",
-        "summary": "The Xi-Trump summit may prove more significant for stabilising relations and opening space for further negotiations betw",
-        "ai": true
+        "title": "Serbian President Aleksandar Vucic resigns to run for prime minister in October elections",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister",
+        "published": "2026-09-28 02:17",
+        "summary": "Serbian President Aleksandar Vucic stepped down as the country's head of state Sunday, paving the way for him to run as ",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "Amid many thorny issues with China, Trump pushes to rename AI as superintelligence",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3368921/amid-many-thorny-issues-china-trump-pushes-rename-ai-superintelligence?utm_source=rss_feed",
-        "published": "2026-09-27 06:15",
-        "summary": "US President Donald Trump is pushing for a rebrand of artificial intelligence (AI) — and looking to get the world’s othe",
+        "title": "Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/technology/2026/sep/28/australia-is-run-on-legacy-systems-that-ai-agents-can-easily-exploit-former-un-cyber-negotiator-warns",
+        "published": "2026-09-27 23:00",
+        "summary": "Federal cabinet will discuss the OpenAI breach on Monday as the AI giant pauses testing of latest models amid fallout Fo",
         "ai": true
       },
       {
         "rank": 4,
-        "title": "Claims China’s BeiDou satellite was refuelled in orbit could change space race",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/science/article/3368579/claims-chinas-beidou-satellite-was-refuelled-orbit-could-change-space-race?utm_source=rss_feed",
-        "published": "2026-09-27 06:00",
-        "summary": "Chinese researchers appear to have revealed a previously unknown satellite-to-satellite refuelling operation in high Ear",
+        "title": "Kazakh president dismisses defense minister over drills incident, appoints new one",
+        "source": "TASS",
+        "link": "https://tass.com/world/2193613",
+        "published": "2026-09-27 20:19",
+        "summary": "At the same time, Tokayev signed a decree appointing Aidos Myrzakhmetov, commander of the Special Operations Forces, as ",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Why US chip controls took a back seat at the Xi-Trump summit",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/us/article/3368918/why-us-chip-controls-took-back-seat-xi-trump-summit?utm_source=rss_feed",
-        "published": "2026-09-27 02:57",
-        "summary": "There is little question that Jensen Huang and Lisa Su, the heads of US semiconductor chip giants Nvidia and Advanced Mi",
-        "ai": true
+        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+        "published": "2026-09-27 15:44",
+        "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+        "ai": false
       }
     ]
   },
@@ -107,9 +107,9 @@
     {
       "city": "南京",
       "current": 22,
-      "min": 22,
-      "max": 25,
-      "condition": "毛毛雨",
+      "min": 20,
+      "max": 23,
+      "condition": "强阵雨",
       "icon": "🌦️"
     },
     {
@@ -117,31 +117,31 @@
       "current": 24,
       "min": 23,
       "max": 28,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "南宁",
       "current": 29,
-      "min": 25,
-      "max": 33,
-      "condition": "阵雨",
+      "min": 26,
+      "max": 34,
+      "condition": "毛毛雨",
       "icon": "🌦️"
     },
     {
       "city": "定西市安定区",
-      "current": 13,
-      "min": 11,
-      "max": 15,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 10,
+      "min": 8,
+      "max": 18,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
       "current": 23,
-      "min": 22,
+      "min": 21,
       "max": 27,
-      "condition": "毛毛雨",
+      "condition": "阵雨",
       "icon": "🌦️"
     }
   ]

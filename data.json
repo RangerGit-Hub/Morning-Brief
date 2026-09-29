@@ -1,147 +1,147 @@
 {
-  "date": "2026-09-28",
-  "updated_at": "2026-09-28 09:22",
+  "date": "2026-09-29",
+  "updated_at": "2026-09-29 10:27",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "新日初醒，愿你带着微笑开启一天。",
-    "language": "中文",
-    "words": 16
+    "text": "May this new day bring clear thoughts and warm surprises.",
+    "language": "English",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "华西至江汉江淮多降水 冷空气将影响中东部地区",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-28/10704652.shtml",
-        "published": "2026-09-28 08:13",
-        "summary": "中新网9月28日电 据中央气象台网站消息，昨日，重庆、湖北、安徽、江苏、浙江等地出现大到暴雨。未来三天，华西地区至江汉、江淮等地有持续降雨，青藏高原有明显雨雪天气，注意防范次生灾害；28日夜间起冷空气将影响中东部地区，关注大风降温、降雨对交",
+        "title": "外媒关注中国先进制造业高质量发展——中国制造业争“先”惠及世界（国际论道）",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/09/28/ARTIet6xPW7YRrRTFjZ4wr7o260928.shtml",
+        "published": "2026-09-28 21:34",
+        "summary": "在奇瑞新能源汽车股份有限公司石家庄分公司总装车间，员工在装配新能源汽车。梁子栋摄（新华社发） 在位于北京经开区（亦庄）的Robot Mall机器人4S店内，一款人工智能全骨科手术机器人进行手术演示。马子涵摄（新华社发） 第二艘国产大型邮轮“",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "拒不履行信息网络安全管理义务致多人被骗，两公司法人获刑",
+        "title": "工信部等七部门联合印发《新型电池产业发展“十五五”规划》",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/28/ARTI2T4cuPrs9YjkEAYzmrVm260928.shtml",
-        "published": "2026-09-28 08:08",
-        "summary": "央视网消息： 公安网安部门持续推进“净网—2026”专项行动，聚焦网络黑灰产打击和信息安全保护、数据安全保护等方面，大力开展互联网生态治理，坚决维护网络空间清朗有序。今日，公布2起拒不履行信息网络安全管理义务罪典型案例。 江苏公安机关侦办的",
+        "link": "https://news.cctv.com/2026/09/28/ARTI0xSJ9ZRnUkMaFn5x0k9P260928.shtml",
+        "published": "2026-09-28 14:51",
+        "summary": "央视网消息 ：据“工信微报”微信公众号消息，为贯彻落实党中央、国务院决策部署，推动新型电池产业高质量发展，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部、国家发展改革委、交通运输部、商务部、市场监管总局、国家能",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "“民营企业在重大工程全链条各展所长”（高质量发展微视角）",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TOGqJpna0y",
-        "published": "2026-09-28 09:14",
-        "summary": "80.1% 1—8月，全国水利建设落实地方政府专项债券、银行贷款、社会资本共3128.1亿元，其中，引入民间资本134.3亿元，同比增长80.1%。 广东省湛江市麻章区，双向四车道的雷湖快线车来车往。路面下7米多深处，一条管线横穿而过，不声",
+        "title": "国家人工智能应用中试基地（文化旅游）在杭开园启用",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-29/10705305.shtml",
+        "published": "2026-09-29 10:26",
+        "summary": "中新网杭州9月29日电(曹丹)9月28日，国家人工智能应用中试基地(文化旅游)园区启用仪式暨首届生态合作伙伴大会在浙江杭州举行。现场，12家企业正式签约入驻。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "台湾人士吁民进党当局通过对话、谈判找出路",
+        "title": "微纪录片《长征二十夜》第三集 | 血染湘江的夜",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/09-28/10704657.shtml",
-        "published": "2026-09-28 09:10",
-        "summary": "中新社台北9月27日电 (记者 朱贺)当地时间9月23日至25日，中国国家主席习近平对美国进行国事访问，其间，两国元首达成八点成果共识。多位台湾人士27日受访表示，此访传递了中美相向而行、和平共处、互利共赢的积极信号，民进党当局应放弃对抗思",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705352.shtml",
+        "published": "2026-09-29 10:25",
+        "summary": "在纪念中国工农红军长征胜利90周年之际，由中共中央党史和文献研究院第七研究部、中共江苏省委宣传部、江苏省广播电视局和江苏省广播电视总台联合摄制，江苏省广播电视总台出品的网络系列微纪录片《长征二十夜》于9月26日在荔枝新闻、ai荔枝率先上线，",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "《中国科学院“十五五”发展规划》发布",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TOFZxuKtYl",
-        "published": "2026-09-28 08:39",
-        "summary": "记者9月28日从中国科学院获悉，《中国科学院“十五五”发展规划》近日正式发布。规划聚焦抢占科技制高点核心任务，明确了“十五五”时期中国科学院科技事业发展的战略重点，围绕基础研究、战略高技术和可持续发展三大领域体系化部署科技攻关重点方向，着力",
+        "title": "单项冠军县，何以扛打丨安徽长丰：一座小城的“能源突围”",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34163456",
+        "published": "2026-09-29 07:31",
+        "summary": "从合肥市区驱车向北约35公里，就进入长丰县下塘镇。比亚迪大道上，运送零部件的货车鱼贯驶入合肥基地园区。平均不到一分钟就有一辆整车下线，是这座产业小镇的日常，千亿产业的脉搏在这里清晰可感。 在全国县域经济的赛道上，长丰县是新能源汽车领域当之无",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Bill Gates says AI without regulation is ‘completely irresponsible’",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss",
-        "published": "2026-09-28 03:34",
-        "summary": "The billionaire cofounder of Microsoft says, without restrictions, AI could 'cause a billion deaths'.",
+        "title": "OpenAI ‘sorry and working to do better’ after hack of Medicare and other Australian government websites",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
+        "published": "2026-09-29 10:10",
+        "summary": "Artificial intelligence firm to front parliament as it apologises to Australians for agent attack OpenAI has apologised ",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Serbian President Aleksandar Vucic resigns to run for prime minister in October elections",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister",
-        "published": "2026-09-28 02:17",
-        "summary": "Serbian President Aleksandar Vucic stepped down as the country's head of state Sunday, paving the way for him to run as ",
-        "ai": false
+        "title": "Participants at the BRICS+ Fashion Summit discuss AI’s influence on the consumer journey",
+        "source": "RT",
+        "link": "https://www.rt.com/news/646387-brics-fashion-summit-ai/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-09-29 04:16",
+        "summary": "At the BRICS+ Fashion Summit, experts said AI is reshaping shopping, branding and production across the fashion industry",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/technology/2026/sep/28/australia-is-run-on-legacy-systems-that-ai-agents-can-easily-exploit-former-un-cyber-negotiator-warns",
-        "published": "2026-09-27 23:00",
-        "summary": "Federal cabinet will discuss the OpenAI breach on Monday as the AI giant pauses testing of latest models amid fallout Fo",
+        "title": "Strong AI demand prompts Hong Kong trade body to raise export growth forecast",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369092/strong-ai-demand-prompts-hong-kong-trade-body-raise-exports-growth-forecast?utm_source=rss_feed",
+        "published": "2026-09-28 21:29",
+        "summary": "Stronger-than-expected global demand for artificial intelligence-related products has prompted the Trade Development Cou",
         "ai": true
       },
       {
         "rank": 4,
-        "title": "Kazakh president dismisses defense minister over drills incident, appoints new one",
-        "source": "TASS",
-        "link": "https://tass.com/world/2193613",
-        "published": "2026-09-27 20:19",
-        "summary": "At the same time, Tokayev signed a decree appointing Aidos Myrzakhmetov, commander of the Special Operations Forces, as ",
-        "ai": false
+        "title": "Chinese chip foundry CanSemi’s IPO oversubscribed 2,360 times as investors chase AI boom",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/tech-trends/article/3369074/chinese-chip-foundry-cansemis-ipo-oversubscribed-2360-times-investors-chase-ai-boom?utm_source=rss_feed",
+        "published": "2026-09-28 19:30",
+        "summary": "Chinese chip foundry CanSemi Technology’s Shenzhen initial public offering (IPO) is emerging as one of mainland China’s ",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-        "published": "2026-09-27 15:44",
-        "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-        "ai": false
+        "title": "BRICS+ Fashion Summit in Moscow spotlights emerging brands, AI and new fashion hubs",
+        "source": "RT",
+        "link": "https://www.rt.com/news/646346-brics-fashion-summit-moscow/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-09-28 16:36",
+        "summary": "Moscow’s BRICS+ Fashion Summit will bring together global designers and brands to debate AI, retail, heritage and new ma",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 22,
+      "current": 20,
       "min": 20,
-      "max": 23,
-      "condition": "强阵雨",
+      "max": 22,
+      "condition": "毛毛雨",
       "icon": "🌦️"
     },
     {
       "city": "武汉",
-      "current": 24,
-      "min": 23,
-      "max": 28,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 22,
+      "min": 20,
+      "max": 25,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 29,
+      "current": 31,
       "min": 26,
-      "max": 34,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "max": 35,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "定西市安定区",
-      "current": 10,
-      "min": 8,
-      "max": 18,
+      "current": 15,
+      "min": 6,
+      "max": 20,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 23,
-      "min": 21,
-      "max": 27,
-      "condition": "阵雨",
+      "current": 21,
+      "min": 20,
+      "max": 25,
+      "condition": "毛毛雨",
       "icon": "🌦️"
     }
   ]

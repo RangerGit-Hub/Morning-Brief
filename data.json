@@ -1,104 +1,104 @@
 {
-  "date": "2026-09-29",
-  "updated_at": "2026-09-29 10:27",
+  "date": "2026-09-30",
+  "updated_at": "2026-09-30 09:48",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "May this new day bring clear thoughts and warm surprises.",
-    "language": "English",
-    "words": 10
+    "text": "Bonjour ! Que chaque petit pas vous rapproche de vos rêves.",
+    "language": "Français",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "外媒关注中国先进制造业高质量发展——中国制造业争“先”惠及世界（国际论道）",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/28/ARTIet6xPW7YRrRTFjZ4wr7o260928.shtml",
-        "published": "2026-09-28 21:34",
-        "summary": "在奇瑞新能源汽车股份有限公司石家庄分公司总装车间，员工在装配新能源汽车。梁子栋摄（新华社发） 在位于北京经开区（亦庄）的Robot Mall机器人4S店内，一款人工智能全骨科手术机器人进行手术演示。马子涵摄（新华社发） 第二艘国产大型邮轮“",
+        "title": "购房贷款贴息明起全国实施，哪些人受益、月供能省多少？",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-30/10706018.shtml",
+        "published": "2026-09-30 09:43",
+        "summary": "财政部、中国人民银行、金融监管总局昨天发布通知，明确自明天起，在全国范围内实施居民购房贷款贴息政策，政策实施期暂定1年。符合条件的居民房贷可享受1个百分点的贴息支持。这是中央财政首次对商业性个人住房贷款进行贴息。那么，享受这项政策支持需要符",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "工信部等七部门联合印发《新型电池产业发展“十五五”规划》",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/09/28/ARTI0xSJ9ZRnUkMaFn5x0k9P260928.shtml",
-        "published": "2026-09-28 14:51",
-        "summary": "央视网消息 ：据“工信微报”微信公众号消息，为贯彻落实党中央、国务院决策部署，推动新型电池产业高质量发展，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工业和信息化部、国家发展改革委、交通运输部、商务部、市场监管总局、国家能",
+        "title": "香港与杭州加强空天科技与产业合作 推动技术成果转化",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/dwq/2026/09-30/10706008.shtml",
+        "published": "2026-09-30 09:45",
+        "summary": "中新网香港9月30日电 香港与杭州29日在港启动空天科技与产业合作。当天，香港科技园公司与杭州市实业投资集团有限公司签署《空天科技与产业战略合作谅解备忘录》，双方将加强双向合作，共同推动低空经济、商业航天及相关技术的应用和成果转化。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "国家人工智能应用中试基地（文化旅游）在杭开园启用",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/09-29/10705305.shtml",
-        "published": "2026-09-29 10:26",
-        "summary": "中新网杭州9月29日电(曹丹)9月28日，国家人工智能应用中试基地(文化旅游)园区启用仪式暨首届生态合作伙伴大会在浙江杭州举行。现场，12家企业正式签约入驻。",
+        "title": "Technology helps every grain make it to the granary in China",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-09-29/Technology-helps-every-grain-make-it-to-the-granary-in-China-1QPlFAQmXLy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-09-29 10:59",
+        "summary": "Technology helps every grain make it to the granary in China",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "微纪录片《长征二十夜》第三集 | 血染湘江的夜",
+        "title": "欧盟相关成员国推动欧委会打造欧版“301”工具 中国商务部回应",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705352.shtml",
-        "published": "2026-09-29 10:25",
-        "summary": "在纪念中国工农红军长征胜利90周年之际，由中共中央党史和文献研究院第七研究部、中共江苏省委宣传部、江苏省广播电视局和江苏省广播电视总台联合摄制，江苏省广播电视总台出品的网络系列微纪录片《长征二十夜》于9月26日在荔枝新闻、ai荔枝率先上线，",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-30/10705983.shtml",
+        "published": "2026-09-30 09:02",
+        "summary": "中新社北京9月30日电 就欧盟相关成员国推动欧委会打造欧版“301”工具，中国商务部新闻发言人9月29日晚间表示，如欧方执意出台对中国企业或产品的歧视性限制措施，中方必将坚决予以回应。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "单项冠军县，何以扛打丨安徽长丰：一座小城的“能源突围”",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34163456",
-        "published": "2026-09-29 07:31",
-        "summary": "从合肥市区驱车向北约35公里，就进入长丰县下塘镇。比亚迪大道上，运送零部件的货车鱼贯驶入合肥基地园区。平均不到一分钟就有一辆整车下线，是这座产业小镇的日常，千亿产业的脉搏在这里清晰可感。 在全国县域经济的赛道上，长丰县是新能源汽车领域当之无",
+        "title": "我国持续深化大熊猫保护研究国际合作 守护旗舰物种 架起友谊桥梁（美丽中国）",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-30/10706012.shtml",
+        "published": "2026-09-30 09:38",
+        "summary": "记者 董丝雨",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "OpenAI ‘sorry and working to do better’ after hack of Medicare and other Australian government websites",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
-        "published": "2026-09-29 10:10",
-        "summary": "Artificial intelligence firm to front parliament as it apologises to Australians for agent attack OpenAI has apologised ",
+        "title": "Trump and US tech giants sign pact to stop AI from going rogue (VIDEOS)",
+        "source": "RT",
+        "link": "https://www.rt.com/news/646452-tech-pact-ai-controls/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-09-30 08:27",
+        "summary": "Six leading US tech companies have signed a White House accord pledging safeguards to prevent advanced AI systems from b",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Participants at the BRICS+ Fashion Summit discuss AI’s influence on the consumer journey",
-        "source": "RT",
-        "link": "https://www.rt.com/news/646387-brics-fashion-summit-ai/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-09-29 04:16",
-        "summary": "At the BRICS+ Fashion Summit, experts said AI is reshaping shopping, branding and production across the fashion industry",
+        "title": "Trump rejects calls to work with China on AI safety despite Xi summit progress",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3369254/trump-rejects-calls-work-china-ai-safety-despite-xi-summit-progress?utm_source=rss_feed",
+        "published": "2026-09-30 03:32",
+        "summary": "US President Donald Trump said on Tuesday he does not want to work with China on addressing artificial intelligence (AI)",
         "ai": true
       },
       {
         "rank": 3,
-        "title": "Strong AI demand prompts Hong Kong trade body to raise export growth forecast",
+        "title": "US-China trade truce remains ‘fragile’ after Xi-Trump summit, analysts say",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369092/strong-ai-demand-prompts-hong-kong-trade-body-raise-exports-growth-forecast?utm_source=rss_feed",
-        "published": "2026-09-28 21:29",
-        "summary": "Stronger-than-expected global demand for artificial intelligence-related products has prompted the Trade Development Cou",
-        "ai": true
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3369263/us-china-trade-truce-remains-fragile-after-xi-trump-summit-analysts-say?utm_source=rss_feed",
+        "published": "2026-09-30 09:30",
+        "summary": "The two-month extension of the US-China trade truce remains fragile despite last week’s summit between Presidents Donald",
+        "ai": false
       },
       {
         "rank": 4,
-        "title": "Chinese chip foundry CanSemi’s IPO oversubscribed 2,360 times as investors chase AI boom",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/tech/tech-trends/article/3369074/chinese-chip-foundry-cansemis-ipo-oversubscribed-2360-times-investors-chase-ai-boom?utm_source=rss_feed",
-        "published": "2026-09-28 19:30",
-        "summary": "Chinese chip foundry CanSemi Technology’s Shenzhen initial public offering (IPO) is emerging as one of mainland China’s ",
-        "ai": true
+        "title": "US Senate blocks resolution demanding accountability over Israeli violence in West Bank",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/sep/29/senate-resolution-west-bank-israel-violence",
+        "published": "2026-09-30 08:16",
+        "summary": "Nine American citizens have been killed by Israeli settlers or security forces in occupied West Bank since 2022 The US S",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "BRICS+ Fashion Summit in Moscow spotlights emerging brands, AI and new fashion hubs",
-        "source": "RT",
-        "link": "https://www.rt.com/news/646346-brics-fashion-summit-moscow/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-09-28 16:36",
-        "summary": "Moscow’s BRICS+ Fashion Summit will bring together global designers and brands to debate AI, retail, heritage and new ma",
+        "title": "Trump announces vague ‘morally binding’ AI deal among tech CEOs for ‘tremendous self-policing’",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence",
+        "published": "2026-09-30 07:21",
+        "summary": "US president also issues executive order officially rebranding ‘artificial intelligence’ as ‘superintelligence’ Donald T",
         "ai": true
       }
     ]
@@ -106,23 +106,23 @@
   "weather": [
     {
       "city": "南京",
-      "current": 20,
+      "current": 22,
       "min": 20,
-      "max": 22,
+      "max": 25,
       "condition": "毛毛雨",
       "icon": "🌦️"
     },
     {
       "city": "武汉",
-      "current": 22,
-      "min": 20,
-      "max": 25,
+      "current": 23,
+      "min": 22,
+      "max": 26,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 31,
+      "current": 30,
       "min": 26,
       "max": 35,
       "condition": "大部晴朗",
@@ -130,19 +130,19 @@
     },
     {
       "city": "定西市安定区",
-      "current": 15,
-      "min": 6,
-      "max": 20,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 7,
+      "min": 5,
+      "max": 13,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "孝感市应城市",
-      "current": 21,
+      "current": 24,
       "min": 20,
-      "max": 25,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "max": 27,
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

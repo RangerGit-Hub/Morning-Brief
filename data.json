@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-01",
-  "updated_at": "2026-10-01 09:47",
+  "date": "2026-10-02",
+  "updated_at": "2026-10-02 09:57",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！愿努力都有回响，期待都有答案。",
-    "language": "中文",
-    "words": 18
+    "text": "Good morning! Breathe deeply, begin gently, and keep moving forward.",
+    "language": "English",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "重庆贵州等地局地有暴雨 江南华南有分散雷阵雨",
+        "title": "贵州湖南广西广东福建等地有较强降水 中东部地区将有大风降温天气",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706591.shtml",
-        "published": "2026-10-01 08:51",
-        "summary": "中新网10月1日电 据中央气象台网站消息，昨日，重庆、贵州、湖北、湖南、浙江等地出现较强降雨，内蒙古、华北、东北等地出现大风降温天气。预计未来三天，青藏高原东部至南方大部地区多阴雨天气，贵州、重庆、湖南等局地有强降雨，关注对交通、旅游安全的",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-02/10706992.shtml",
+        "published": "2026-10-02 09:40",
+        "summary": "中新网10月2日电 据中央气象台网站消息，昨日，贵州、浙江、福建、广东、广西等地出现较强降雨，内蒙古、东北、黄淮及江南等地出现大风或降温天气。预计未来三天，青藏高原东部至南方大部地区多阴雨天气，贵州、湖南、福建、广东、广西等局地有较强降雨，",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "京沪穗落地住房销售改革细则：三地有哪些不同，对楼市有何影响？",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34180765",
-        "published": "2026-10-01 08:56",
-        "summary": "京沪穗三地商品住房销售制度改革细则相继落地。 9月30日，广州市住房和城乡建设局、广州市规划和自然资源局、国家金融监督管理总局广东监管局发布关于贯彻落实《关于完善商品住房销售制度的通知》的实施意见，并自发布之日起执行。 此前的8月28日，住",
+        "title": "冷空气连续影响我国多地凉意明显 南方阴雨广泛部分地区有暴雨",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/02/ARTIVZg0O4qEtxfGMjVaNQlA261002.shtml",
+        "published": "2026-10-02 09:00",
+        "summary": "央视网消息 ：据中国天气网消息，今天（10月2日）至8日，影响我国的冷空气活跃，多地气温将创新低，东北等地部分地区最高气温不足15℃，华北一直到江南地区最高气温在20℃上下，华南高温将缓解。降水方面，未来三天，南方多阴雨天气，贵州、湖南等局",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "习言道｜让老百姓过上更好的日子",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706590.shtml",
-        "published": "2026-10-01 08:47",
-        "summary": "10月1日出版的《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《加强普惠性、基础性、兜底性民生建设》。这是习近平总书记2012年11月至2026年1月期间有关重要论述的节录。",
+        "title": "什么是“中国机遇2.0”？9月4场展会告诉你答案",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TRbT1L9TG9",
+        "published": "2026-10-02 09:37",
+        "summary": "原标题：从9月4场展会看“中国机遇2.0” “十五五”开局之年，中国经济向新向优，对外开放步履稳健。 刚刚过去的9月，4场重要展会——第二十六届中国国际投资贸易洽谈会、2026年中国国际服务贸易交易会、第二十三届中国—东盟博览会和第五届全球",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "读报丨央媒集中刊发社论，热烈庆祝中华人民共和国成立77周年",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34184563",
-        "published": "2026-10-01 08:23",
-        "summary": "时序流转、山河锦绣，中华人民共和国迎来77周年华诞。 今年是中国共产党成立105周年、红军长征胜利90周年，也是“十五五”开局之年，在以习近平同志为核心的党中央坚强领导下，亿万人民踔厉奋发、勇毅前行，向着实现第二个百年奋斗目标阔步前行。 7",
+        "title": "国庆假期首日 全社会跨区域人员流动量超3.3亿人次",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TRXApikBhM",
+        "published": "2026-10-02 07:37",
+        "summary": "原标题：国庆假期首日 全社会跨区域人员流动量预计超3.3亿人次 记者从交通运输部获悉：10月1日，国庆假期首日，预计全社会跨区域人员流动量33410万人次，环比增长52.3%。 分方式来看，铁路客运量预计2480万人次，环比增长26.9%，",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "China's World Internet Conference summit to focus on open-source AI",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-09-30/China-s-World-Internet-Conference-summit-to-focus-on-open-source-AI-1QQPSohYhjO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-09-30 10:08",
-        "summary": "The 2026 World Internet Conference (WIC) Wuzhen Summit will put open-source AI and international cooperation on AI devel",
+        "title": "山洪灾害气象预警：广西、贵州局地发生的可能性较大",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/01/ARTImvEQKcFJs4aBLuIXSVXg261001.shtml",
+        "published": "2026-10-01 18:11",
+        "summary": "央视网消息： 水利部和中国气象局10月1日18时联合发布黄色山洪灾害气象预警：预计，10月1日20时至2日20时，福建中部、广东中东部、广西北部、贵州南部等地部分地区可能发生山洪灾害（蓝色预警），其中，广西北部、贵州南部局地发生山洪灾害可能",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Gavin Newsom signs laws to protect California workers from AI threat",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat",
-        "published": "2026-10-01 08:17",
-        "summary": "Democratic governor sharply critical of Donald Trump for not passing comprehensive federal AI regulations Governor Gavin",
+        "title": "We don’t need to panic about AI. We need to hold its creators accountable when things go wrong | John Quiggin",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/commentisfree/2026/oct/02/we-dont-need-to-panic-about-ai-we-need-to-hold-its-creators-accountable",
+        "published": "2026-10-02 09:13",
+        "summary": "If a chatbot prompt like ‘find Australian medicine statistics’ results in a website breach, the responsibility does not ",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Senate Democrats block datacenter energy bill, saying ‘toothless’ legislation ‘misses the mark’",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/us-news/2026/sep/30/senate-datacenter-energy-bill",
-        "published": "2026-10-01 01:48",
-        "summary": "Republicans supported legislation although Democrats said it wouldn’t effectively address energy consumption Senate Demo",
+        "title": "Indonesia’s Prabowo appoints new foreign minister",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/asia/southeast-asia/article/3369457/indonesias-prabowo-appoints-new-foreign-minister?utm_source=rss_feed",
+        "published": "2026-10-01 17:46",
+        "summary": "Indonesia’s President Prabowo Subianto replaced ⁠his foreign minister with a career diplomat on Thursday, in his second ",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Trump touts US$200 billion South Korean energy deal ahead of US midterms",
+        "title": "Nearly a third of Singaporeans open to nuclear energy’s potential, highest in Asean: study",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/asia/east-asia/article/3369401/trump-touts-us200-billion-south-korean-energy-deal-ahead-us-midterms?utm_source=rss_feed",
-        "published": "2026-10-01 09:44",
-        "summary": "US President Donald Trump has announced US$200 billion in energy investments from South Korea, including US$54 billion t",
+        "link": "https://www.scmp.com/week-asia/health-environment/article/3369437/nearly-third-singaporeans-open-nuclear-energys-potential-highest-asean-study?utm_source=rss_feed",
+        "published": "2026-10-01 15:25",
+        "summary": "Just under a third of Singaporeans, or 31.4 per cent, believe that nuclear energy promises a clean power source with the",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Meet 'America': Trump’s AI chatbot changes answers after challenging his claims",
+        "title": "G20 trade ministers deadlocked over industrial overcapacity, says US trade chief",
         "source": "France 24",
-        "link": "https://www.france24.com/en/meet-america-trump-s-ai-chatbot-changes-answers-after-challenging-his-claims-1",
-        "published": "2026-10-01 04:08",
-        "summary": "Donald Trump has launched “America”, an AI chatbot designed as a digital portal for US government information. But its r",
-        "ai": true
+        "link": "https://www.france24.com/en/economy/20261002-g20-trade-ministers-overcapacity-impasse-greer",
+        "published": "2026-10-02 09:30",
+        "summary": "G20 trade ministers failed to agree on tackling excess industrial capacity and eliminating forced labour from supply cha",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "Trump’s AI chatbot turns on its master",
+        "title": "Anthropic pushes for opt-out model for Australian content as ABC warns of ‘cannibalisation’ of news",
         "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-america-gov-ai-chatbot",
-        "published": "2026-10-01 03:12",
-        "summary": "The famously fact-averse president rolled out a new AI tool – but its answers don’t conform to his version of reality Do",
+        "link": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
+        "published": "2026-10-01 23:00",
+        "summary": "Maker of Claude claims AI could transform economy but ABC and SBS say the technology should be subject to media regulati",
         "ai": true
       }
     ]
@@ -106,43 +106,43 @@
   "weather": [
     {
       "city": "南京",
-      "current": 19,
-      "min": 18,
-      "max": 21,
+      "current": 17,
+      "min": 16,
+      "max": 20,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 18,
-      "min": 16,
-      "max": 22,
+      "current": 16,
+      "min": 14,
+      "max": 20,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 31,
-      "min": 27,
-      "max": 36,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 30,
+      "min": 26,
+      "max": 34,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "定西市安定区",
       "current": 11,
-      "min": 2,
+      "min": 7,
       "max": 19,
       "condition": "大部晴朗",
       "icon": "🌤️"
     },
     {
       "city": "孝感市应城市",
-      "current": 15,
+      "current": 16,
       "min": 14,
-      "max": 22,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "max": 20,
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

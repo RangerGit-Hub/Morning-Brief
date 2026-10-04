@@ -1,148 +1,148 @@
 {
-  "date": "2026-10-03",
-  "updated_at": "2026-10-03 09:42",
+  "date": "2026-10-04",
+  "updated_at": "2026-10-04 10:21",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Un matin lumineux pour une journée simple et heureuse.",
-    "language": "Français",
-    "words": 9
+    "text": "清晨好！愿你精神饱满，生活有序。",
+    "language": "中文",
+    "words": 16
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "当年红军用牛皮带煮汤喝，如今牦牛皮成了带动村民致富的好产业",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TSMUT6NNM5",
-        "published": "2026-10-03 07:33",
-        "summary": "原标题：青海班玛县立足资源禀赋发展牦牛产业 跟着政策走 日子有奔头（赓续长征精神 奋进复兴征程·记者再走长征路） 班玛县牧民在挤牦牛奶。本报记者 乔 栋摄 青海果洛藏族自治州班玛县，是红军长征途经地。在班玛县马格勒村，合作社的牦牛正不紧不慢",
+        "title": "贵州广西云南湖南广东等地有较强降水 中东部地区有大风降温天气",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-04/10707711.shtml",
+        "published": "2026-10-04 09:49",
+        "summary": "中新网10月4日电 据中央气象台网站消息，昨日，江西、湖南、贵州、广西等地出现较强降雨，内蒙古、河北等地出现大风或降温天气。预计4日至5日，内蒙古中东部、华北、黄淮、江汉及东部、南部海区风力较大，东北地区局地降水较强，关注对人体健康、交通出",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "国家行业产教融合共同体新增4个",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/03/ARTIIrPwRyXy9yTEnJlu2Nke261003.shtml",
-        "published": "2026-10-03 08:37",
-        "summary": "新华社北京10月2日电（记者魏冠宇）工业母机、粮食、铁路建设、新能源汽车等4个国家行业产教融合共同体日前在京成立，首批分别汇聚82家、67家、73家、69家成员单位，覆盖涉及行业全产业链的企业、职业院校、高等院校、科研机构及行业协会等。 行",
+        "title": "陕西省推出旅居养老消费补贴活动",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-04/10707682.shtml",
+        "published": "2026-10-04 08:49",
+        "summary": "中新网西安10月4日电 (记者 阿琳娜)陕西省推出“金秋银龄·惠享三秦”旅居养老消费补贴活动。从10月1日至12月31日，60岁及以上老年人在陕跨县域旅居，可享每人每天30元至50元的专项消费补贴，单人单次最高补贴不超过500元。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "【8点见】中使馆：已接到上海一音乐教师在曼谷失联的求助，敦促泰方尽快查明",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/03/ARTIOnQgeg2p05TutUPRZpfT261002.shtml",
-        "published": "2026-10-03 08:00",
-        "summary": "央视网消息 ：每天8点，央视网为您梳理24小时内发生在咱们身边的大小事儿。 ·10月1日，全社会跨区域人员流动量32949.5万人次。 ·国庆假期首日高速公路充电量同比增长60.4%。 ·我国力争2030年饲草总产量达1.3亿吨。 ·截至8",
+        "title": "全球媒体聚焦 | 中国国庆假期激发文旅消费活力",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-04/10707699.shtml",
+        "published": "2026-10-04 09:10",
+        "summary": "今年国庆假期，全国各地假日文化和旅游消费持续升温，引发外媒关注。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "不拼模型、不拼算力，这个科研能力相对弱的区何以集聚具身智能头部项目？",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TSMWpPZ3N3",
-        "published": "2026-10-03 07:34",
-        "summary": "一台四足机器人，本事真不小——搭载可见光、红外、气体等多类传感器，一旦捕捉到监测对象微量泄漏，即刻向中控平台发出预警。 在位于浙江绍兴市上虞区的具身智能测试实验室长三角中心，完成15天化工真实工况考核、取得国家级测试认证后，这款四足机器人前",
+        "title": "以赛为媒带动全域文旅 “全家福安”第二届福乒赛开幕",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/ty/2026/10-04/10707710.shtml",
+        "published": "2026-10-04 09:47",
+        "summary": "中新网宁德10月4日电 (记者 叶茂)以“乒乒乓乓·全家福安”为主题的“全家福安”第二届福乒赛3日晚在福建省宁德福安市开幕，赛事采用“专业精品赛事+全民健身赛事+全域嘉年华经济”模式，以国庆假期为契机，实现“一场赛事、激活一城消费、带动全域",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "千余名青少年齐聚鸡西 竞技篮球技艺",
+        "title": "广西贺州国庆假期多元活动激活夜间消费市场",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707368.shtml",
-        "published": "2026-10-03 09:22",
-        "summary": "中新网鸡西10月3日电(王妮娜 杨彬彬 刘琨)10月2日，2026央视体育青少年篮球冠军赛鸡西赛区在鸡西市体育会展中心开赛，来自辽宁、吉林、内蒙古等多地的119支队伍、1000余名青少年运动员同场竞技、以球会友。",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-04/10707709.shtml",
+        "published": "2026-10-04 09:47",
+        "summary": "中新网贺州10月4日电(韦佳秀 贝琲 廖法丽)国庆假期，广西贺州市多地推出特色夜间文旅活动，篝火金曲晚会、音乐节轮番上演，山水夜景与文化演出深度交融，为市民与八方游客打造沉浸式假日体验，持续激活地方夜间文旅消费活力。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-03 07:06",
-        "summary": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+        "title": "White House working group to assess AI risks, opportunities over 120 days — media",
+        "source": "TASS",
+        "link": "https://tass.com/world/2197235",
+        "published": "2026-10-04 08:42",
+        "summary": "According to the newspaper, this effectively means that Director of National Intelligence Jay Clayton will be responsibl",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "US man arrested over alleged $300 million scheme to smuggle Nvidia AI servers to China",
+        "title": "Latvia’s Andris Kulbergs scores big win in election shadowed by Russia",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/us/article/3369637/us-man-arrested-over-alleged-300-million-scheme-smuggle-nvidia-ai-servers-china?utm_source=rss_feed",
-        "published": "2026-10-03 05:57",
-        "summary": "Amid intensifying competition in the AI technology race, US authorities have arrested a California technology company ow",
-        "ai": true
+        "link": "https://www.scmp.com/news/world/europe/article/3369674/latvian-leader-poised-big-win-election-shadowed-putin?utm_source=rss_feed",
+        "published": "2026-10-04 07:11",
+        "summary": "Latvian Prime Minister Andris Kulbergs’ centrist, pro-Ukraine United List party won Saturday’s parliamentary election by",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "Currently 7,000 US military personnel stationed in Poland — Polish Defense Ministry",
-        "source": "TASS",
-        "link": "https://tass.com/world/2196807",
-        "published": "2026-10-02 22:49",
-        "summary": "Polish Deputy Defense Minister Cezary Tomczyk avoided giving a direct answer to the journalist’s question about whether ",
+        "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss",
+        "published": "2026-10-04 09:41",
+        "summary": "Ethiopia’s government forces say they’ve seized Mekelle from Tigray fighters after a week of intense battles.",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Italy to continue increasing defense spending — defense minister",
-        "source": "TASS",
-        "link": "https://tass.com/world/2196761",
-        "published": "2026-10-02 21:40",
-        "summary": "According to Guido Crosetto, more funds need to be spent on countering drones, utilizing artificial intelligence and bui",
-        "ai": true
+        "title": "Serbian populist leader Vucic launches campaign for prime minister",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss",
+        "published": "2026-10-04 08:26",
+        "summary": "Former Serbian President Aleksandar Vucic is seeking to extend his hold on power through a parliamentary vote.",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "What's real and what's fake? How AI is impacting Brazil's election race",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/tv-shows/focus/20261002-what-s-real-and-what-s-fake-how-ai-is-impacting-brazil-s-election-race",
-        "published": "2026-10-02 19:34",
-        "summary": "With just two days to go before the first round of Brazil's presidential election, artificial intelligence is taking cen",
-        "ai": true
+        "title": "Why Canada is preparing for a (long shot) US invasion",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-04 07:30",
+        "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 18,
+      "current": 21,
       "min": 17,
-      "max": 19,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "max": 23,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "武汉",
       "current": 19,
       "min": 17,
-      "max": 21,
-      "condition": "毛毛雨",
-      "icon": "🌧️"
-    },
-    {
-      "city": "南宁",
-      "current": 31,
-      "min": 26,
-      "max": 35,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
-    },
-    {
-      "city": "定西市安定区",
-      "current": 10,
-      "min": 7,
-      "max": 16,
+      "max": 23,
       "condition": "阴",
       "icon": "☁️"
     },
     {
+      "city": "南宁",
+      "current": 26,
+      "min": 24,
+      "max": 29,
+      "condition": "阴",
+      "icon": "☁️"
+    },
+    {
+      "city": "定西市安定区",
+      "current": 10,
+      "min": 4,
+      "max": 15,
+      "condition": "阵雪",
+      "icon": "🌨️"
+    },
+    {
       "city": "孝感市应城市",
-      "current": 19,
-      "min": 17,
-      "max": 20,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 21,
+      "min": 16,
+      "max": 22,
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

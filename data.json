@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-05",
-  "updated_at": "2026-10-05 09:33",
+  "date": "2026-10-06",
+  "updated_at": "2026-10-06 10:39",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Wake with purpose and carry a little sunshine into the world.",
-    "language": "English",
-    "words": 11
+    "text": "Bonjour ! Respirez, souriez et accueillez les possibilités du jour.",
+    "language": "Français",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "云南海南等地有较强降水 东部部分海区有大风",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-05/10708008.shtml",
-        "published": "2026-10-05 08:54",
-        "summary": "中新网10月5日电 据中央气象台网站消息，国内方面，昨日，浙江、福建、江西、湖南等地出现较强降雨，内蒙古、华北等地出现大风降温天气。未来三天，全国大部天气晴好，吉林东部、云南、海南等局地有较强降雨，关注对假期旅游、交通出行等的影响；东部、南",
+        "title": "流动中国 蓬勃向上",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TUv7wOCFmH",
+        "published": "2026-10-06 09:33",
+        "summary": "流动的中国，活力奔涌。 交通运输部数据显示：国庆假期前5日，全社会跨区域人员流动量约15.5亿人次，平均每天有3亿人次出行。 流动的中国，热气腾腾。 10月1日，全国铁路发送旅客2520.4万人次，创单日旅客发送量新高。 习近平总书记强调：",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "加快建设强大国内市场",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/04/ARTI9l0xtzVRLigh3REzdZz5261004.shtml",
-        "published": "2026-10-04 16:15",
-        "summary": "习近平总书记高度重视扩大内需，强调“要坚持以国内大循环为主体，正确处理消费和投资、需求和供给的关系”“让内需成为经济发展的主动力”。当前，外部环境复杂严峻，必须坚定实施扩大内需战略，以内需的稳定发展对冲外需的不确定性。“十五五”时期，全方位",
+        "title": "“世界第一跨”，传来好消息！",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TUtGGzLisr",
+        "published": "2026-10-06 08:41",
+        "summary": "今年是“十五五”开局之年，交通运输部明确，要推进跨区域、跨流域大通道建设，打通经济循环大动脉。到2030年，国家综合立体交通网主骨架建成率将提升到95%。 从长江之上的“世界第一跨”张靖皋长江大桥，到跨江越海的海外工程——马来西亚古晋的“竖",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "习近平总书记关切事｜观天十载探苍穹",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/04/ARTI0xQpA27LXWK4mfBL1MqB261004.shtml",
-        "published": "2026-10-04 15:25",
-        "summary": "浩瀚星空，寄托着人类亘古不变的科学憧憬。2016年9月，500米口径球面射电望远镜“中国天眼”（FAST）在贵州平塘大窝凼落成启用，习近平总书记致信祝贺，对这一重大科学基础设施的运行管理、科研攻关寄予殷切期望。 2026年9月25日，“中国",
+        "title": "缅北电诈主犯随机杀人祭天、有受害者头骨7个弹孔 案件细节曝光",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-06/10708362.shtml",
+        "published": "2026-10-06 10:24",
+        "summary": "由公安部和中央广播电视总台联合摄制的纪录片《缅北电诈覆灭纪实》于10月5日至7日，在央视综合频道18点档首播。纪录片全面展现了在党中央坚强领导下，我国公安机关会同有关部门开展打击缅北涉我犯罪专项工作，彻底铲除缅北“四大家族”等犯罪集团的艰苦",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "走近大国重器 感受硬核实力（文化中国行·人文观察）",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TU3C52FrEG",
-        "published": "2026-10-05 08:23",
-        "summary": "江南造船5号码头在建船舶。 丁子羽摄 中国一汽博物馆内展示的红旗品牌经典车型。 朱万昌摄（影像中国） 研学团在江南造船5号码头参观大型集装箱船。 郑永强摄 海南商业航天发射场火箭发射现场。 云伟晟摄 曾经“闲人免进”的工业重地，如今成为备受",
+        "title": "2026中国汽车场地越野锦标赛邹城站展开排位激战",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/ty/2026/10-06/10708334.shtml",
+        "published": "2026-10-06 10:05",
+        "summary": "中新网山东邹城10月6日电 2026中国汽车场地越野锦标赛(COC)邹城站5日至7日在山东省邹城市福特纵横户外主题乐园举行。来自全国的近60名越野、拉力名将齐聚孟子故里，在飞沙走石间展现强悍驾控实力。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "中尼科学家开展跨境巨灾应急联合科考",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707996.shtml",
-        "published": "2026-10-04 23:40",
-        "summary": "中新社加德满都10月4日电 (记者 崔楠)由中国地质大学(北京)牵头、尼泊尔科学院协同组建的中尼地质灾害应急跨境科学考察队中方成员10月4日抵达尼泊尔首都加德满都，将与尼方科研人员共同在尼开展为期约20天的跨境冰冻圈与岩石圈巨灾应急联合科考",
+        "title": "长三角铁路迎来节中返程客流高峰 6日预计发送旅客390万人次",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TUwnMJQUl6",
+        "published": "2026-10-06 10:20",
+        "summary": "记者从中国铁路上海局集团有限公司（以下简称“上铁集团”）获悉，10月6日是国庆假期第六天，长三角铁路迎来节中返程客流高峰，当天预计发送旅客390万人次。午后起，上海、南京、杭州、合肥、宁波、南通、盐城、扬州多地火车站将迎节中返程集中客流。1",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
-        "published": "2026-10-05 01:45",
-        "summary": "Clayton had said AI was a ‘gamechanger’ but also posed ‘a threat’ during his confirmation hearing Donald Trump on Sunday",
+        "title": "Whistleblower warns that humans don’t control AI",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whistleblower-warns-that-humans-dont-control-ai?traffic_source=rss",
+        "published": "2026-10-06 07:23",
+        "summary": "Former Anthropic researcher Jacob Coxon warns that AI companies ‘don’t fully control’ their models.",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Iran says no military solution to war as peace talks with US stall",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/middle-east/20261004-iran-us-military-middle-east-war-peace-talks",
-        "published": "2026-10-05 05:41",
-        "summary": "Iran's diplomat said on Sunday there was no military solution to the US war against Iran as peace talks appeared stalled",
+        "title": "Increased strikes on Ukraine aimed at preventing attacks on Russian economy — envoy",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2197709",
+        "published": "2026-10-05 20:26",
+        "summary": "The Russian Defense Ministry earlier said that Russian strikes on military facilities and the defense industry in Kiev a",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Iran tells US there is no military solution to Middle East war",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3369731/iran-tells-us-there-no-military-solution-middle-east-war?utm_source=rss_feed",
-        "published": "2026-10-05 03:44",
-        "summary": "Iran’s top diplomat insisted on Sunday that there would be no military solution to the United States’ war against the Is",
+        "title": "Sanchez chose 'best moment in a sea of troubles' to call for snap election, analyst says",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/sanchez-chose-best-moment-in-a-sea-of-troubles-to-call-for-snap-election-analyst-says",
+        "published": "2026-10-06 03:31",
+        "summary": "Spanish Prime Minister Pedro Sanchez on Monday called an early election for November 29, aiming to increase his parliame",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelensky",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3369727/ukraine-believes-russia-shared-jet-drone-technology-north-korea-says-zelensky?utm_source=rss_feed",
-        "published": "2026-10-05 00:45",
-        "summary": "Ukrainian President Volodymyr Zelensky said on Sunday ⁠he believed Russia ⁠may have shared jet-drone technology ⁠with it",
+        "title": "Kiev continues attacking Zaporozhye NPP, threatening nuclear catastrophe — diplomat",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2197833",
+        "published": "2026-10-06 02:40",
+        "summary": "\"These thuggish actions on the brink of a nuclear catastrophe once again expose the true terrorist nature of the Kiev re",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/brazil-heads-to-the-polls-for-high-stakes-election-between-lula-and-flavio-bolsonaro",
-        "published": "2026-10-05 00:38",
-        "summary": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz",
+        "title": "Russia ready to boost energy supplies to Myanmar — minister",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2197703",
+        "published": "2026-10-05 20:12",
+        "summary": "Joint business missions have confirmed that Russian companies are ready to increase supplies of energy resources, vehicl",
         "ai": false
       }
     ]
@@ -106,43 +106,43 @@
   "weather": [
     {
       "city": "南京",
-      "current": 18,
-      "min": 15,
-      "max": 20,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 22,
+      "min": 14,
+      "max": 23,
+      "condition": "晴",
+      "icon": "☀️"
     },
     {
       "city": "武汉",
-      "current": 19,
-      "min": 16,
-      "max": 23,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 21,
+      "min": 14,
+      "max": 24,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "南宁",
-      "current": 24,
-      "min": 22,
-      "max": 28,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 23,
+      "min": 19,
+      "max": 26,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "定西市安定区",
-      "current": 10,
-      "min": 5,
-      "max": 17,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 16,
+      "min": 2,
+      "max": 21,
+      "condition": "晴",
+      "icon": "☀️"
     },
     {
       "city": "孝感市应城市",
-      "current": 19,
-      "min": 15,
-      "max": 23,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 22,
+      "min": 11,
+      "max": 25,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-06",
-  "updated_at": "2026-10-06 10:39",
+  "date": "2026-10-07",
+  "updated_at": "2026-10-07 10:02",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Respirez, souriez et accueillez les possibilités du jour.",
-    "language": "Français",
-    "words": 10
+    "text": "早安！愿今天多些惊喜，少些烦恼。",
+    "language": "中文",
+    "words": 16
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "流动中国 蓬勃向上",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TUv7wOCFmH",
-        "published": "2026-10-06 09:33",
-        "summary": "流动的中国，活力奔涌。 交通运输部数据显示：国庆假期前5日，全社会跨区域人员流动量约15.5亿人次，平均每天有3亿人次出行。 流动的中国，热气腾腾。 10月1日，全国铁路发送旅客2520.4万人次，创单日旅客发送量新高。 习近平总书记强调：",
+        "title": "中央气象台：全国大部天气晴好 海南岛有较强降水",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-07/10708572.shtml",
+        "published": "2026-10-07 08:39",
+        "summary": "中新网10月7日电 据中央气象台网站7日消息，昨日，全国大部地区降水较弱，云南、海南等地出现中到大雨、局地暴雨。未来三天，海南岛有强降雨，累计雨量大，新疆北部和南疆西部等地有雨雪天气，关注对旅游、交通等的影响，防范可能引发的次生灾害。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "“世界第一跨”，传来好消息！",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TUtGGzLisr",
-        "published": "2026-10-06 08:41",
-        "summary": "今年是“十五五”开局之年，交通运输部明确，要推进跨区域、跨流域大通道建设，打通经济循环大动脉。到2030年，国家综合立体交通网主骨架建成率将提升到95%。 从长江之上的“世界第一跨”张靖皋长江大桥，到跨江越海的海外工程——马来西亚古晋的“竖",
+        "title": "长三角铁路今迎返程客流最高峰：预计发送415万人次，同比增长17.7%",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34207347",
+        "published": "2026-10-07 09:31",
+        "summary": "10月7日，澎湃新闻记者从中国铁路上海局集团有限公司（简称“上铁集团”）获悉，今日是国庆假期最后一天，全国铁路迎来返程客流最高峰，上铁集团当天预计发送旅客415万人次，较去年同比增长17.7%。 上铁集团在启用高峰线运行图的基础上，计划增开",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "缅北电诈主犯随机杀人祭天、有受害者头骨7个弹孔 案件细节曝光",
+        "title": "今日37个高速公路路段易发拥堵 主要集中在江苏河北等地",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-06/10708362.shtml",
-        "published": "2026-10-06 10:24",
-        "summary": "由公安部和中央广播电视总台联合摄制的纪录片《缅北电诈覆灭纪实》于10月5日至7日，在央视综合频道18点档首播。纪录片全面展现了在党中央坚强领导下，我国公安机关会同有关部门开展打击缅北涉我犯罪专项工作，彻底铲除缅北“四大家族”等犯罪集团的艰苦",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-07/10708579.shtml",
+        "published": "2026-10-07 08:49",
+        "summary": "今天是国庆假期最后一天，不少人将踏上返程。记者从交通运输部了解到，根据动态研判，今天(7日)全国高速公路有37个路段易发拥堵，主要集中在江苏、河北、安徽、广东、山东等省份。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "2026中国汽车场地越野锦标赛邹城站展开排位激战",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/ty/2026/10-06/10708334.shtml",
-        "published": "2026-10-06 10:05",
-        "summary": "中新网山东邹城10月6日电 2026中国汽车场地越野锦标赛(COC)邹城站5日至7日在山东省邹城市福特纵横户外主题乐园举行。来自全国的近60名越野、拉力名将齐聚孟子故里，在飞沙走石间展现强悍驾控实力。",
+        "title": "从系统代谢、物理约束与长时段历史重审能源转型",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34206706",
+        "published": "2026-10-07 09:48",
+        "summary": "2026年9月14日至15日，第二十一期中法历史文化国际合作研讨班在上海大学宝山校区文学院成功举办。本届研讨班由上海大学文学院历史学系、中国法国史研究会、法国巴黎人文科学之家基金会联合主办。在气候变化加剧、全球资源消耗逼近物理极限的当下，本",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "长三角铁路迎来节中返程客流高峰 6日预计发送旅客390万人次",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TUwnMJQUl6",
-        "published": "2026-10-06 10:20",
-        "summary": "记者从中国铁路上海局集团有限公司（以下简称“上铁集团”）获悉，10月6日是国庆假期第六天，长三角铁路迎来节中返程客流高峰，当天预计发送旅客390万人次。午后起，上海、南京、杭州、合肥、宁波、南通、盐城、扬州多地火车站将迎节中返程集中客流。1",
+        "title": "新闻联播 2026/10/06",
+        "source": "央视网-新闻联播",
+        "link": "https://tv.cctv.com/lm/xwlb/day/20261006.shtml",
+        "published": "2026-10-06 19:00",
+        "summary": "《新闻联播》 20261006 19:00 ⏱00:30:01 [视频]【新思想引领新征程】大食物观里的中国味道 ⏱00:06:31 [视频]欢度假期 乐享幸福生活 ⏱00:02:43 [视频]假期客流集中返程 多措并举保有序出行 ⏱00:",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Whistleblower warns that humans don’t control AI",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whistleblower-warns-that-humans-dont-control-ai?traffic_source=rss",
-        "published": "2026-10-06 07:23",
-        "summary": "Former Anthropic researcher Jacob Coxon warns that AI companies ‘don’t fully control’ their models.",
+        "title": "Hong Kong’s AI city brain must understand how people really speak",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369697/hong-kongs-ai-city-brain-must-understand-how-people-really-speak?utm_source=rss_feed",
+        "published": "2026-10-07 09:30",
+        "summary": "Chief Executive John Lee Ka-chiu’s vision of an “AI city brain” is bold and timely. An integrated system linking data ac",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Increased strikes on Ukraine aimed at preventing attacks on Russian economy — envoy",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2197709",
-        "published": "2026-10-05 20:26",
-        "summary": "The Russian Defense Ministry earlier said that Russian strikes on military facilities and the defense industry in Kiev a",
+        "title": "After cordial Xi-Trump summit, could China’s US dollar pivot cause tremors?",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/economy/global-economy/article/3369918/after-cordial-xi-trump-summit-could-chinas-us-dollar-pivot-cause-tremors?utm_source=rss_feed",
+        "published": "2026-10-07 06:00",
+        "summary": "As President Xi Jinping and US President Donald Trump talked tariffs, agricultural quotas and critical minerals at last ",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Sanchez chose 'best moment in a sea of troubles' to call for snap election, analyst says",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/sanchez-chose-best-moment-in-a-sea-of-troubles-to-call-for-snap-election-analyst-says",
-        "published": "2026-10-06 03:31",
-        "summary": "Spanish Prime Minister Pedro Sanchez on Monday called an early election for November 29, aiming to increase his parliame",
+        "title": "Trade turnover between Russia, Uzbekistan gain 20% in 7M 2026",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2198411",
+        "published": "2026-10-07 01:15",
+        "summary": "\"Despite the difficulties in the global economy, the trade turnover between Russia and Uzbekistan continues demonstratin",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Kiev continues attacking Zaporozhye NPP, threatening nuclear catastrophe — diplomat",
+        "title": "Impeachment motion for top diplomat Araghchi registered with Iranian parliament — agency",
         "source": "TASS",
-        "link": "https://tass.com/politics/2197833",
-        "published": "2026-10-06 02:40",
-        "summary": "\"These thuggish actions on the brink of a nuclear catastrophe once again expose the true terrorist nature of the Kiev re",
+        "link": "https://tass.com/world/2198251",
+        "published": "2026-10-06 22:31",
+        "summary": "The procedure was initiated by Amir-Hossein Sabeti, a member of parliament from Tehran",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Russia ready to boost energy supplies to Myanmar — minister",
+        "title": "Lithuania’s decision on nuke weapons poses threat to all of Europe — expert",
         "source": "TASS",
-        "link": "https://tass.com/economy/2197703",
-        "published": "2026-10-05 20:12",
-        "summary": "Joint business missions have confirmed that Russian companies are ready to increase supplies of energy resources, vehicl",
+        "link": "https://tass.com/politics/2198227",
+        "published": "2026-10-06 22:10",
+        "summary": "\"This leads to nuclear anarchy and opens the door to military nuclear technologies for countries that have no experience",
         "ai": false
       }
     ]
@@ -108,39 +108,39 @@
       "city": "南京",
       "current": 22,
       "min": 14,
-      "max": 23,
+      "max": 25,
       "condition": "晴",
       "icon": "☀️"
     },
     {
       "city": "武汉",
-      "current": 21,
-      "min": 14,
-      "max": 24,
-      "condition": "多云",
-      "icon": "⛅"
-    },
-    {
-      "city": "南宁",
-      "current": 23,
-      "min": 19,
-      "max": 26,
-      "condition": "多云",
-      "icon": "⛅"
-    },
-    {
-      "city": "定西市安定区",
-      "current": 16,
-      "min": 2,
-      "max": 21,
+      "current": 22,
+      "min": 15,
+      "max": 25,
       "condition": "晴",
       "icon": "☀️"
     },
     {
+      "city": "南宁",
+      "current": 25,
+      "min": 18,
+      "max": 30,
+      "condition": "晴",
+      "icon": "☀️"
+    },
+    {
+      "city": "定西市安定区",
+      "current": 10,
+      "min": 7,
+      "max": 18,
+      "condition": "多云",
+      "icon": "⛅"
+    },
+    {
       "city": "孝感市应城市",
       "current": 22,
-      "min": 11,
-      "max": 25,
+      "min": 13,
+      "max": 26,
       "condition": "大部晴朗",
       "icon": "🌤️"
     }

@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-07",
-  "updated_at": "2026-10-07 10:02",
+  "date": "2026-10-08",
+  "updated_at": "2026-10-08 10:27",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！愿今天多些惊喜，少些烦恼。",
-    "language": "中文",
-    "words": 16
+    "text": "Good morning! May your plans flow and your spirits stay high.",
+    "language": "English",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "中央气象台：全国大部天气晴好 海南岛有较强降水",
+        "title": "两部门联合发布典型案例，聚焦解决拖欠企业账款纠纷",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-07/10708572.shtml",
-        "published": "2026-10-07 08:39",
-        "summary": "中新网10月7日电 据中央气象台网站7日消息，昨日，全国大部地区降水较弱，云南、海南等地出现中到大雨、局地暴雨。未来三天，海南岛有强降雨，累计雨量大，新疆北部和南疆西部等地有雨雪天气，关注对旅游、交通等的影响，防范可能引发的次生灾害。",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-08/10708908.shtml",
+        "published": "2026-10-08 10:07",
+        "summary": "中新网10月8日电 据最高人民法院微信公众号消息，为贯彻落实党中央、国务院关于清理拖欠企业账款问题的重要部署，落实民营经济促进法对保障民营经济组织账款权益的有关规定，充分发挥调解在解决企业账款拖欠问题中的重要作用，引导民营企业通过自愿和合法",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "长三角铁路今迎返程客流最高峰：预计发送415万人次，同比增长17.7%",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34207347",
-        "published": "2026-10-07 09:31",
-        "summary": "10月7日，澎湃新闻记者从中国铁路上海局集团有限公司（简称“上铁集团”）获悉，今日是国庆假期最后一天，全国铁路迎来返程客流最高峰，上铁集团当天预计发送旅客415万人次，较去年同比增长17.7%。 上铁集团在启用高峰线运行图的基础上，计划增开",
+        "title": "房贷贴息政策实施满一周 多地成功落地首笔业务",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-08/10708873.shtml",
+        "published": "2026-10-08 09:23",
+        "summary": "9月29日，财政部会同中国人民银行、金融监管总局印发《关于实施居民购房贷款贴息政策的通知》(以下简称《通知》)，明确自今年10月1日起在全国范围内实施居民购房贷款贴息政策，减轻新购买首套住房家庭的商业性个人住房贷款利息负担。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "今日37个高速公路路段易发拥堵 主要集中在江苏河北等地",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-07/10708579.shtml",
-        "published": "2026-10-07 08:49",
-        "summary": "今天是国庆假期最后一天，不少人将踏上返程。记者从交通运输部了解到，根据动态研判，今天(7日)全国高速公路有37个路段易发拥堵，主要集中在江苏、河北、安徽、广东、山东等省份。",
+        "title": "两部门联合发布民营经济领域纠纷多元化解典型案例",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34210641",
+        "published": "2026-10-08 10:02",
+        "summary": "为贯彻落实党中央、国务院关于清理拖欠企业账款问题的重要部署，落实民营经济促进法对保障民营经济组织账款权益的有关规定，充分发挥调解在解决企业账款拖欠问题中的重要作用，引导民营企业通过自愿和合法原则进行调解，今天，最高人民法院与全国工商联联合发",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "从系统代谢、物理约束与长时段历史重审能源转型",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34206706",
-        "published": "2026-10-07 09:48",
-        "summary": "2026年9月14日至15日，第二十一期中法历史文化国际合作研讨班在上海大学宝山校区文学院成功举办。本届研讨班由上海大学文学院历史学系、中国法国史研究会、法国巴黎人文科学之家基金会联合主办。在气候变化加剧、全球资源消耗逼近物理极限的当下，本",
+        "title": "国庆假期全国安全形势总体平稳 未发生重大以上灾害事故",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/08/ARTIWYbcXa2uy2ivGaEPMpXR261008.shtml",
+        "published": "2026-10-08 09:05",
+        "summary": "央视网消息： 据应急管理部消息，国务院安委办、国家防减救灾办、应急管理部深入贯彻落实习近平总书记重要指示批示精神，认真落实全国安全生产视频会议部署，坚持人民至上、生命至上，围绕国庆假期安全风险特点，持续强化重点领域安全防范工作，切实维护人民",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "新闻联播 2026/10/06",
-        "source": "央视网-新闻联播",
-        "link": "https://tv.cctv.com/lm/xwlb/day/20261006.shtml",
-        "published": "2026-10-06 19:00",
-        "summary": "《新闻联播》 20261006 19:00 ⏱00:30:01 [视频]【新思想引领新征程】大食物观里的中国味道 ⏱00:06:31 [视频]欢度假期 乐享幸福生活 ⏱00:02:43 [视频]假期客流集中返程 多措并举保有序出行 ⏱00:",
+        "title": "财政部发行中央金融机构注资特别国债",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TWaxDwfyS8",
+        "published": "2026-10-08 09:59",
+        "summary": "财政部计划于今天（8日）发行2026年中央金融机构注资特别国债（一期）。本次拟发行的国债为5年期固定利率附息债，竞争性招标面值总额1500亿元，票面利率通过竞争性招标确定，明天（9日）开始计息，每年支付利息。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Hong Kong’s AI city brain must understand how people really speak",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369697/hong-kongs-ai-city-brain-must-understand-how-people-really-speak?utm_source=rss_feed",
-        "published": "2026-10-07 09:30",
-        "summary": "Chief Executive John Lee Ka-chiu’s vision of an “AI city brain” is bold and timely. An integrated system linking data ac",
+        "title": "OpenAI used AI to help write email warning Australian government AI had hacked its websites",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites",
+        "published": "2026-10-08 10:05",
+        "summary": "Exclusive: Revelation comes after company’s executive told parliamentary inquiry he did not believe AI had been used to ",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "After cordial Xi-Trump summit, could China’s US dollar pivot cause tremors?",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/economy/global-economy/article/3369918/after-cordial-xi-trump-summit-could-chinas-us-dollar-pivot-cause-tremors?utm_source=rss_feed",
-        "published": "2026-10-07 06:00",
-        "summary": "As President Xi Jinping and US President Donald Trump talked tariffs, agricultural quotas and critical minerals at last ",
-        "ai": false
+        "title": "White House promotes 'Trump TV' with an AI-altered photo",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/white-house-promotes-trump-tv-with-an-ai-altered-photo",
+        "published": "2026-10-08 03:45",
+        "summary": "The White House has promoted “Trump TV” using an AI-altered photo of passengers apparently watching the president’s new ",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Trade turnover between Russia, Uzbekistan gain 20% in 7M 2026",
-        "source": "TASS",
-        "link": "https://tass.com/economy/2198411",
-        "published": "2026-10-07 01:15",
-        "summary": "\"Despite the difficulties in the global economy, the trade turnover between Russia and Uzbekistan continues demonstratin",
-        "ai": false
+        "title": "The AI industry is booming. Women are getting left behind",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
+        "published": "2026-10-08 03:14",
+        "summary": "Women hold just a fraction of new AI jobs but are overrepresented in roles with high risk of AI disruption There’s a com",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "Impeachment motion for top diplomat Araghchi registered with Iranian parliament — agency",
-        "source": "TASS",
-        "link": "https://tass.com/world/2198251",
-        "published": "2026-10-06 22:31",
-        "summary": "The procedure was initiated by Amir-Hossein Sabeti, a member of parliament from Tehran",
+        "title": "Yemeni government forces claim 1,860 Houthis ‘neutralised’",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/10/8/yemeni-government-forces-claim-1860-houthis-neutralised?traffic_source=rss",
+        "published": "2026-10-08 09:02",
+        "summary": "Yemeni government forces said in a social media post that they carried out 2,103 'precise targeting operations'.",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Lithuania’s decision on nuke weapons poses threat to all of Europe — expert",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2198227",
-        "published": "2026-10-06 22:10",
-        "summary": "\"This leads to nuclear anarchy and opens the door to military nuclear technologies for countries that have no experience",
+        "title": "Japan explores ‘ownership’ of nuclear submarines as regional rivalries worsen",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/week-asia/politics/article/3370099/japan-explores-ownership-nuclear-submarines-regional-rivalries-worsen?utm_source=rss_feed",
+        "published": "2026-10-08 08:00",
+        "summary": "Japan is expected to float the idea of acquiring a fleet of nuclear-powered submarines in revised security documents to ",
         "ai": false
       }
     ]
@@ -106,41 +106,41 @@
   "weather": [
     {
       "city": "南京",
-      "current": 22,
+      "current": 23,
       "min": 14,
-      "max": 25,
-      "condition": "晴",
-      "icon": "☀️"
+      "max": 24,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "武汉",
       "current": 22,
-      "min": 15,
+      "min": 16,
       "max": 25,
       "condition": "晴",
       "icon": "☀️"
     },
     {
       "city": "南宁",
-      "current": 25,
-      "min": 18,
+      "current": 27,
+      "min": 19,
       "max": 30,
-      "condition": "晴",
-      "icon": "☀️"
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "定西市安定区",
-      "current": 10,
+      "current": 12,
       "min": 7,
       "max": 18,
-      "condition": "多云",
-      "icon": "⛅"
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
       "current": 22,
       "min": 13,
-      "max": 26,
+      "max": 25,
       "condition": "大部晴朗",
       "icon": "🌤️"
     }

@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-08",
-  "updated_at": "2026-10-08 10:27",
+  "date": "2026-10-09",
+  "updated_at": "2026-10-09 10:44",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! May your plans flow and your spirits stay high.",
-    "language": "English",
-    "words": 11
+    "text": "Que cette nouvelle journée vous offre paix et inspiration.",
+    "language": "Français",
+    "words": 9
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "两部门联合发布典型案例，聚焦解决拖欠企业账款纠纷",
+        "title": "海南岛强降雨还将持续 华西地区多阴雨",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-08/10708908.shtml",
-        "published": "2026-10-08 10:07",
-        "summary": "中新网10月8日电 据最高人民法院微信公众号消息，为贯彻落实党中央、国务院关于清理拖欠企业账款问题的重要部署，落实民营经济促进法对保障民营经济组织账款权益的有关规定，充分发挥调解在解决企业账款拖欠问题中的重要作用，引导民营企业通过自愿和合法",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-09/10709461.shtml",
+        "published": "2026-10-09 09:14",
+        "summary": "中新网10月9日电 据中央气象台网站消息，昨日，四川南部、贵州西北部、海南岛中东部等地出现中雨或大雨，海南岛东部部分地区出现暴雨或大暴雨，海南万宁最大累计降水量有210.1毫米；青海中东部出现小到中雪或雨夹雪，局地大雪。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "房贷贴息政策实施满一周 多地成功落地首笔业务",
+        "title": "三部门联合印发《农业品牌保护专项行动实施方案（2026—2027年）》",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-08/10708873.shtml",
-        "published": "2026-10-08 09:23",
-        "summary": "9月29日，财政部会同中国人民银行、金融监管总局印发《关于实施居民购房贷款贴息政策的通知》(以下简称《通知》)，明确自今年10月1日起在全国范围内实施居民购房贷款贴息政策，减轻新购买首套住房家庭的商业性个人住房贷款利息负担。",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-09/10709460.shtml",
+        "published": "2026-10-09 09:11",
+        "summary": "为深入贯彻落实党中央、国务院决策部署，强化农业品牌保护，严厉打击侵权违法行为，营造公平有序的市场环境，提振消费信心，保护农民利益，日前农业农村部、市场监管总局、国家知识产权局联合印发了《农业品牌保护专项行动实施方案(2026—2027年)》",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "两部门联合发布民营经济领域纠纷多元化解典型案例",
+        "title": "国庆假期上海新房成交量同比翻倍增长，9月二手房成交量创6年同期新高",
         "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34210641",
-        "published": "2026-10-08 10:02",
-        "summary": "为贯彻落实党中央、国务院关于清理拖欠企业账款问题的重要部署，落实民营经济促进法对保障民营经济组织账款权益的有关规定，充分发挥调解在解决企业账款拖欠问题中的重要作用，引导民营企业通过自愿和合法原则进行调解，今天，最高人民法院与全国工商联联合发",
+        "link": "https://m.thepaper.cn/detail/34214390",
+        "published": "2026-10-09 07:52",
+        "summary": "今年国庆黄金周，全国楼市迎来“银十”开局。在一系列购房支持政策持续释放下，多地新房市场到访、成交热度有所抬升，但城市、板块之间的分化依旧突出。 根据中指研究院监测的网签数据，10月1日—7日，重点25城新建住宅成交55.1万平方米，相较去年",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "国庆假期全国安全形势总体平稳 未发生重大以上灾害事故",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/08/ARTIWYbcXa2uy2ivGaEPMpXR261008.shtml",
-        "published": "2026-10-08 09:05",
-        "summary": "央视网消息： 据应急管理部消息，国务院安委办、国家防减救灾办、应急管理部深入贯彻落实习近平总书记重要指示批示精神，认真落实全国安全生产视频会议部署，坚持人民至上、生命至上，围绕国庆假期安全风险特点，持续强化重点领域安全防范工作，切实维护人民",
+        "title": "明德战略对话（2026）在新余举行",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/detail/34216727",
+        "published": "2026-10-09 10:27",
+        "summary": "凌厚祥 摄 10月8日，由中国人民大学、新华社新闻信息中心、中共新余市委、新余市人民政府联合主办的明德战略对话（2026）“天工开物 链接全球”——新余产业高质量发展对话在新余市开幕。新华社副社长、党组成员袭艳春，省委常委、省委宣传部部长卢",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "财政部发行中央金融机构注资特别国债",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TWaxDwfyS8",
-        "published": "2026-10-08 09:59",
-        "summary": "财政部计划于今天（8日）发行2026年中央金融机构注资特别国债（一期）。本次拟发行的国债为5年期固定利率附息债，竞争性招标面值总额1500亿元，票面利率通过竞争性招标确定，明天（9日）开始计息，每年支付利息。",
+        "title": "跨越70年的雕塑记忆：克林杜霍夫纪念雕塑作品在俄交接",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-09/10709486.shtml",
+        "published": "2026-10-09 10:23",
+        "summary": "中新网莫斯科10月9日电 (记者 田冰)在苏联著名雕塑家、艺术教育家尼古拉·克林杜霍夫来华执教70周年之际，10月8日，由中国青年雕塑家创作的《师者——克林杜霍夫》雕塑，以及复制的克林杜霍夫雕塑作品《为了和平》在俄罗斯艺术科学院正式交接。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "OpenAI used AI to help write email warning Australian government AI had hacked its websites",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites",
-        "published": "2026-10-08 10:05",
-        "summary": "Exclusive: Revelation comes after company’s executive told parliamentary inquiry he did not believe AI had been used to ",
+        "title": "3 dilemmas on keeping AI under control are converging",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/opinion/china-opinion/article/3369808/3-dilemmas-keeping-ai-under-control-are-converging?utm_source=rss_feed",
+        "published": "2026-10-09 09:30",
+        "summary": "In March, artificial intelligence agents powered by leading Chinese models reportedly displayed deception, concealed fai",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "White House promotes 'Trump TV' with an AI-altered photo",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/white-house-promotes-trump-tv-with-an-ai-altered-photo",
-        "published": "2026-10-08 03:45",
-        "summary": "The White House has promoted “Trump TV” using an AI-altered photo of passengers apparently watching the president’s new ",
-        "ai": true
+        "title": "IN BRIEF: Defense Ministry comments on special military op plan, West’s terrorist training",
+        "source": "TASS",
+        "link": "https://tass.com/defense/2199525",
+        "published": "2026-10-09 02:21",
+        "summary": "The senior command of the Ukrainian army is not independent, relying heavily on NATO, Deputy Defense Minister, Army Gene",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "The AI industry is booming. Women are getting left behind",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
-        "published": "2026-10-08 03:14",
-        "summary": "Women hold just a fraction of new AI jobs but are overrepresented in roles with high risk of AI disruption There’s a com",
-        "ai": true
+        "title": "Iranian president Pezeshkian to discuss energy cooperation at CIS summit",
+        "source": "TASS",
+        "link": "https://tass.com/world/2199411",
+        "published": "2026-10-08 22:51",
+        "summary": "The heads of state will also address various issues related to trade, culture, politics and security",
+        "ai": false
       },
       {
         "rank": 4,
-        "title": "Yemeni government forces claim 1,860 Houthis ‘neutralised’",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/10/8/yemeni-government-forces-claim-1860-houthis-neutralised?traffic_source=rss",
-        "published": "2026-10-08 09:02",
-        "summary": "Yemeni government forces said in a social media post that they carried out 2,103 'precise targeting operations'.",
+        "title": "Flavio Bolsonaro says he would work with China and US as Brazil’s president",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/americas/article/3370246/flavio-bolsonaro-says-he-would-work-china-and-us-brazils-president?utm_source=rss_feed",
+        "published": "2026-10-09 07:37",
+        "summary": "Flavio Bolsonaro said he would work with the US and China if he becomes Brazil’s president, after a surprise election pe",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Japan explores ‘ownership’ of nuclear submarines as regional rivalries worsen",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/week-asia/politics/article/3370099/japan-explores-ownership-nuclear-submarines-regional-rivalries-worsen?utm_source=rss_feed",
-        "published": "2026-10-08 08:00",
-        "summary": "Japan is expected to float the idea of acquiring a fleet of nuclear-powered submarines in revised security documents to ",
+        "title": "Relations between Russia and Iran develop in all areas and on rise — Pezeshkian",
+        "source": "TASS",
+        "link": "https://tass.com/world/2199591",
+        "published": "2026-10-09 04:55",
+        "summary": "Russian President Vladimir Putin met with Iranian President Masou Pezeshkian on the sidelines of a CIS summit",
         "ai": false
       }
     ]
@@ -107,42 +107,42 @@
     {
       "city": "南京",
       "current": 23,
-      "min": 14,
-      "max": 24,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "min": 15,
+      "max": 25,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 22,
-      "min": 16,
-      "max": 25,
+      "current": 24,
+      "min": 17,
+      "max": 26,
       "condition": "晴",
       "icon": "☀️"
     },
     {
       "city": "南宁",
-      "current": 27,
-      "min": 19,
-      "max": 30,
+      "current": 29,
+      "min": 21,
+      "max": 32,
       "condition": "大部晴朗",
       "icon": "🌤️"
     },
     {
       "city": "定西市安定区",
-      "current": 12,
-      "min": 7,
-      "max": 18,
+      "current": 10,
+      "min": 6,
+      "max": 11,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 22,
-      "min": 13,
-      "max": 25,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 24,
+      "min": 14,
+      "max": 26,
+      "condition": "晴",
+      "icon": "☀️"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-09",
-  "updated_at": "2026-10-09 10:44",
+  "date": "2026-10-10",
+  "updated_at": "2026-10-10 10:02",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Que cette nouvelle journée vous offre paix et inspiration.",
-    "language": "Français",
-    "words": 9
+    "text": "晨光已至，愿你心情明朗，一路向前。",
+    "language": "中文",
+    "words": 17
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "海南岛强降雨还将持续 华西地区多阴雨",
+        "title": "冷空气将影响北方地区 带来大风降温天气",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-09/10709461.shtml",
-        "published": "2026-10-09 09:14",
-        "summary": "中新网10月9日电 据中央气象台网站消息，昨日，四川南部、贵州西北部、海南岛中东部等地出现中雨或大雨，海南岛东部部分地区出现暴雨或大暴雨，海南万宁最大累计降水量有210.1毫米；青海中东部出现小到中雪或雨夹雪，局地大雪。",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-10/10710006.shtml",
+        "published": "2026-10-10 09:05",
+        "summary": "中新网10月10日电 据中央气象台网站消息，中东部地区以多云或晴为主。昨日，强降雨主要出现在海南，其中海南东部部分地区出现暴雨或大暴雨。今天起，海南强降雨将告一段落。预计未来三天，我国中东部地区以多云或晴为主，青藏高原大部、西北地区东部、四",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "三部门联合印发《农业品牌保护专项行动实施方案（2026—2027年）》",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-09/10709460.shtml",
-        "published": "2026-10-09 09:11",
-        "summary": "为深入贯彻落实党中央、国务院决策部署，强化农业品牌保护，严厉打击侵权违法行为，营造公平有序的市场环境，提振消费信心，保护农民利益，日前农业农村部、市场监管总局、国家知识产权局联合印发了《农业品牌保护专项行动实施方案(2026—2027年)》",
+        "title": "【8点见】四川南部县成群野猪在城区道路出没，当地回应",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/10/ARTIgOlaHZkqyuh4vY08Jw1q261010.shtml",
+        "published": "2026-10-10 08:01",
+        "summary": "央视网消息： 每天8点，央视网为您梳理24小时内发生在咱们身边的大小事儿。 ·2026年国庆节假期国内出游8.26亿人次，国内出游总花费7383.75亿元。 ·全国铁路中秋国庆假期运输发送旅客3.02亿人次，同比增长24.6%。 ·财政部安",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "国庆假期上海新房成交量同比翻倍增长，9月二手房成交量创6年同期新高",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34214390",
-        "published": "2026-10-09 07:52",
-        "summary": "今年国庆黄金周，全国楼市迎来“银十”开局。在一系列购房支持政策持续释放下，多地新房市场到访、成交热度有所抬升，但城市、板块之间的分化依旧突出。 根据中指研究院监测的网签数据，10月1日—7日，重点25城新建住宅成交55.1万平方米，相较去年",
+        "title": "检验检测，为经济发展添动能（大数据观察）",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TYDUbm2cet",
+        "published": "2026-10-10 08:52",
+        "summary": "超5万家机构，一年出具报告5.71亿份 检验检测，为经济发展添动能（大数据观察） 数据来源：国家市场监督管理总局 制图：张丹峰 人形机器人，安全可靠吗？直播间的首饰，是真是假？产品出海，如何证明符合当地标准？这些问题都与检验检测息息相关。 ",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "明德战略对话（2026）在新余举行",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/detail/34216727",
-        "published": "2026-10-09 10:27",
-        "summary": "凌厚祥 摄 10月8日，由中国人民大学、新华社新闻信息中心、中共新余市委、新余市人民政府联合主办的明德战略对话（2026）“天工开物 链接全球”——新余产业高质量发展对话在新余市开幕。新华社副社长、党组成员袭艳春，省委常委、省委宣传部部长卢",
+        "title": "“探索浩瀚宇宙，建设航天强国”（总书记的人民情怀）",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/09/ARTIBpSZFV9tAqcBtAEE2LFB261009.shtml",
+        "published": "2026-10-09 20:41",
+        "summary": "“探索浩瀚宇宙，建设航天强国，是我们不懈追求的航天梦。”2024年9月，习近平总书记在接见探月工程嫦娥六号任务参研参试人员代表时强调。 航天梦映照中国梦。 今年是“十五五”开局之年，是我国航天事业创建70周年。“十五五”规划纲要提出16个“",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "跨越70年的雕塑记忆：克林杜霍夫纪念雕塑作品在俄交接",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-09/10709486.shtml",
-        "published": "2026-10-09 10:23",
-        "summary": "中新网莫斯科10月9日电 (记者 田冰)在苏联著名雕塑家、艺术教育家尼古拉·克林杜霍夫来华执教70周年之际，10月8日，由中国青年雕塑家创作的《师者——克林杜霍夫》雕塑，以及复制的克林杜霍夫雕塑作品《为了和平》在俄罗斯艺术科学院正式交接。",
+        "title": "新闻联播 2026/10/09",
+        "source": "央视网-新闻联播",
+        "link": "https://tv.cctv.com/lm/xwlb/day/20261009.shtml",
+        "published": "2026-10-09 19:00",
+        "summary": "《新闻联播》 20261009 19:00 ⏱00:30:01 [视频]应习近平邀请 博茨瓦纳总统将访华 ⏱00:00:13 [视频]【新思想引领新征程】因地制宜 推动县域经济高质量发展 ⏱00:05:20 [视频]中共中央 国务院印发《关",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "3 dilemmas on keeping AI under control are converging",
+        "title": "New Taipei-Hong Kong subsea route opened to cut risk and meet AI demand",
         "source": "SCMP",
-        "link": "https://www.scmp.com/opinion/china-opinion/article/3369808/3-dilemmas-keeping-ai-under-control-are-converging?utm_source=rss_feed",
-        "published": "2026-10-09 09:30",
-        "summary": "In March, artificial intelligence agents powered by leading Chinese models reportedly displayed deception, concealed fai",
+        "link": "https://www.scmp.com/news/china/science/article/3370149/new-taipei-hong-kong-subsea-route-opened-cut-risk-and-meet-ai-demand?utm_source=rss_feed",
+        "published": "2026-10-10 09:00",
+        "summary": "One of the world’s biggest network service providers has opened a new subsea route between Taipei and Hong Kong to stren",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "IN BRIEF: Defense Ministry comments on special military op plan, West’s terrorist training",
-        "source": "TASS",
-        "link": "https://tass.com/defense/2199525",
-        "published": "2026-10-09 02:21",
-        "summary": "The senior command of the Ukrainian army is not independent, relying heavily on NATO, Deputy Defense Minister, Army Gene",
-        "ai": false
+        "title": "Anthropic AI model sent fake murder tip to US police, hit government sites",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3370414/anthropic-ai-model-sent-fake-murder-tip-us-police-hit-government-sites?utm_source=rss_feed",
+        "published": "2026-10-10 08:51",
+        "summary": "An artificial intelligence model developed by Anthropic submitted a fabricated tip about an unsolved murder to Philadelp",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Iranian president Pezeshkian to discuss energy cooperation at CIS summit",
-        "source": "TASS",
-        "link": "https://tass.com/world/2199411",
-        "published": "2026-10-08 22:51",
-        "summary": "The heads of state will also address various issues related to trade, culture, politics and security",
-        "ai": false
+        "title": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth?traffic_source=rss",
+        "published": "2026-10-10 02:23",
+        "summary": "The US midterm election campaign has been filled with political ads featuring AI deepfakes that can mislead voters.",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "Flavio Bolsonaro says he would work with China and US as Brazil’s president",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/americas/article/3370246/flavio-bolsonaro-says-he-would-work-china-and-us-brazils-president?utm_source=rss_feed",
-        "published": "2026-10-09 07:37",
-        "summary": "Flavio Bolsonaro said he would work with the US and China if he becomes Brazil’s president, after a surprise election pe",
+        "title": "British nuclear subs have only fire hoses as drone defense – media",
+        "source": "RT",
+        "link": "https://www.rt.com/news/647002-uk-nuclear-subs-only-hoses-drones/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-10-10 01:49",
+        "summary": "British sailors are training to defend Vanguard-class nuclear submarines from drones using fire hoses, The Sun has repor",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Relations between Russia and Iran develop in all areas and on rise — Pezeshkian",
+        "title": "European Parliament is in civilizational abyss, says Georgian parliament speaker",
         "source": "TASS",
-        "link": "https://tass.com/world/2199591",
-        "published": "2026-10-09 04:55",
-        "summary": "Russian President Vladimir Putin met with Iranian President Masou Pezeshkian on the sidelines of a CIS summit",
+        "link": "https://tass.com/world/2199969",
+        "published": "2026-10-10 00:19",
+        "summary": "On Thursday, the European Parliament adopted a resolution condemning the Georgian authorities’ plans to ban opposition p",
         "ai": false
       }
     ]
@@ -107,7 +107,7 @@
     {
       "city": "南京",
       "current": 23,
-      "min": 15,
+      "min": 16,
       "max": 25,
       "condition": "阴",
       "icon": "☁️"
@@ -115,32 +115,32 @@
     {
       "city": "武汉",
       "current": 24,
-      "min": 17,
-      "max": 26,
+      "min": 18,
+      "max": 28,
       "condition": "晴",
       "icon": "☀️"
     },
     {
       "city": "南宁",
       "current": 29,
-      "min": 21,
-      "max": 32,
+      "min": 22,
+      "max": 33,
       "condition": "大部晴朗",
       "icon": "🌤️"
     },
     {
       "city": "定西市安定区",
-      "current": 10,
-      "min": 6,
-      "max": 11,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 12,
+      "min": 1,
+      "max": 17,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "孝感市应城市",
       "current": 24,
-      "min": 14,
-      "max": 26,
+      "min": 16,
+      "max": 28,
       "condition": "晴",
       "icon": "☀️"
     }

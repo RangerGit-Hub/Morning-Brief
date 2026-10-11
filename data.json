@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-10",
-  "updated_at": "2026-10-10 10:02",
+  "date": "2026-10-11",
+  "updated_at": "2026-10-11 09:31",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "晨光已至，愿你心情明朗，一路向前。",
-    "language": "中文",
-    "words": 17
+    "text": "Today is a clean page—fill it with something worthwhile.",
+    "language": "English",
+    "words": 9
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "冷空气将影响北方地区 带来大风降温天气",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-10/10710006.shtml",
-        "published": "2026-10-10 09:05",
-        "summary": "中新网10月10日电 据中央气象台网站消息，中东部地区以多云或晴为主。昨日，强降雨主要出现在海南，其中海南东部部分地区出现暴雨或大暴雨。今天起，海南强降雨将告一段落。预计未来三天，我国中东部地区以多云或晴为主，青藏高原大部、西北地区东部、四",
+        "title": "食品安全法修订草案公开征求意见 涉及AI监管、校园食品安全等",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TYbDoC9agT",
+        "published": "2026-10-10 19:57",
+        "summary": "记者今天了解到，市场监管总局研究起草了《中华人民共和国食品安全法（修订草案征求意见稿）》，并向社会公开征求意见。 修订的主要内容包括五个方面： 一是强化智慧监管。推动“互联网+人工智能”监管应用，明确食品生产经营企业应当在食品生产经营关键风",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "【8点见】四川南部县成群野猪在城区道路出没，当地回应",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/10/ARTIgOlaHZkqyuh4vY08Jw1q261010.shtml",
-        "published": "2026-10-10 08:01",
-        "summary": "央视网消息： 每天8点，央视网为您梳理24小时内发生在咱们身边的大小事儿。 ·2026年国庆节假期国内出游8.26亿人次，国内出游总花费7383.75亿元。 ·全国铁路中秋国庆假期运输发送旅客3.02亿人次，同比增长24.6%。 ·财政部安",
+        "title": "证书年检、定期换证不得重复申报个税专项附加扣除",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-11/10710882.shtml",
+        "published": "2026-10-11 09:06",
+        "summary": "本报北京10月10日电(中青报·中青网记者 张均斌)在个人所得税综合所得年度汇算过程中，职业资格继续教育专项附加扣除的政策适用问题，一直是很多纳税人关注的热点。今天，税务部门对此作出提示，准确把握政策边界，方能精准享受税收优惠，避免产生涉税",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "检验检测，为经济发展添动能（大数据观察）",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TYDUbm2cet",
-        "published": "2026-10-10 08:52",
-        "summary": "超5万家机构，一年出具报告5.71亿份 检验检测，为经济发展添动能（大数据观察） 数据来源：国家市场监督管理总局 制图：张丹峰 人形机器人，安全可靠吗？直播间的首饰，是真是假？产品出海，如何证明符合当地标准？这些问题都与检验检测息息相关。 ",
+        "title": "中央气象台：北方大部地区将有冷空气活动",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-11/10710868.shtml",
+        "published": "2026-10-11 08:27",
+        "summary": "中新网10月11日电 据中央气象台网站消息，昨日，全国大部地区降水较弱，辽宁、北京、河北、江苏、四川等地今晨出现大雾天气。未来三天，冷空气将影响北方地区，关注大风降温对农业生产、人体健康等的影响；其中11日至12日，西北地区东部、华北南部、",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "“探索浩瀚宇宙，建设航天强国”（总书记的人民情怀）",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/09/ARTIBpSZFV9tAqcBtAEE2LFB261009.shtml",
-        "published": "2026-10-09 20:41",
-        "summary": "“探索浩瀚宇宙，建设航天强国，是我们不懈追求的航天梦。”2024年9月，习近平总书记在接见探月工程嫦娥六号任务参研参试人员代表时强调。 航天梦映照中国梦。 今年是“十五五”开局之年，是我国航天事业创建70周年。“十五五”规划纲要提出16个“",
+        "title": "历史首次！太仓口岸出口汽车首破100万辆",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TZ1qwqAUS1",
+        "published": "2026-10-11 08:22",
+        "summary": "记者从南京海关了解到， 今年前9个月，长江流域最大的汽车出口枢纽太仓口岸出口汽车108万辆，历史首次突破百万辆，同比增长超八成。 出口市场覆盖全球168个国家和地区。其中，9月份出口约16万辆，创单月出口历史新高，其中，新能源汽车出口同比增",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "新闻联播 2026/10/09",
-        "source": "央视网-新闻联播",
-        "link": "https://tv.cctv.com/lm/xwlb/day/20261009.shtml",
-        "published": "2026-10-09 19:00",
-        "summary": "《新闻联播》 20261009 19:00 ⏱00:30:01 [视频]应习近平邀请 博茨瓦纳总统将访华 ⏱00:00:13 [视频]【新思想引领新征程】因地制宜 推动县域经济高质量发展 ⏱00:05:20 [视频]中共中央 国务院印发《关",
+        "title": "Peng Liyuan urges development of digital education access for women",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-10-10/Peng-Liyuan-urges-development-of-digital-education-access-for-women-1R7u8ZefbW0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-10-10 10:42",
+        "summary": "Peng Liyuan, wife of Chinese President Xi Jinping and special envoy of the United Nations Educational, Scientific and Cu",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "New Taipei-Hong Kong subsea route opened to cut risk and meet AI demand",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/science/article/3370149/new-taipei-hong-kong-subsea-route-opened-cut-risk-and-meet-ai-demand?utm_source=rss_feed",
-        "published": "2026-10-10 09:00",
-        "summary": "One of the world’s biggest network service providers has opened a new subsea route between Taipei and Hong Kong to stren",
+        "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+        "published": "2026-10-11 07:01",
+        "summary": "Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on eac",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Anthropic AI model sent fake murder tip to US police, hit government sites",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3370414/anthropic-ai-model-sent-fake-murder-tip-us-police-hit-government-sites?utm_source=rss_feed",
-        "published": "2026-10-10 08:51",
-        "summary": "An artificial intelligence model developed by Anthropic submitted a fabricated tip about an unsolved murder to Philadelp",
-        "ai": true
+        "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-11 03:25",
+        "summary": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth?traffic_source=rss",
-        "published": "2026-10-10 02:23",
-        "summary": "The US midterm election campaign has been filled with political ads featuring AI deepfakes that can mislead voters.",
-        "ai": true
+        "title": "Trump demands Ukraine get new president, lashes out at Zelensky",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3370462/trump-demands-ukraine-get-new-president-lashes-out-zelensky?utm_source=rss_feed",
+        "published": "2026-10-11 02:31",
+        "summary": "US President Donald Trump has called for Ukraine to replace President Volodymyr Zelensky, accusing him of rejecting mult",
+        "ai": false
       },
       {
         "rank": 4,
-        "title": "British nuclear subs have only fire hoses as drone defense – media",
+        "title": "Ukraine should elect new president – Trump (VIDEO)",
         "source": "RT",
-        "link": "https://www.rt.com/news/647002-uk-nuclear-subs-only-hoses-drones/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-10-10 01:49",
-        "summary": "British sailors are training to defend Vanguard-class nuclear submarines from drones using fire hoses, The Sun has repor",
+        "link": "https://www.rt.com/news/647031-ukraine-should-elect-new-president/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-10-11 01:26",
+        "summary": "Ukraine should replace Vladimir Zelensky and “get a new president,” US President Donald Trump told reporters on Saturday",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "European Parliament is in civilizational abyss, says Georgian parliament speaker",
-        "source": "TASS",
-        "link": "https://tass.com/world/2199969",
-        "published": "2026-10-10 00:19",
-        "summary": "On Thursday, the European Parliament adopted a resolution condemning the Georgian authorities’ plans to ban opposition p",
+        "title": "Are Chinese military aircraft already using a new joint air facility in Laos?",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/military/article/3370439/are-chinese-military-aircraft-already-using-new-joint-air-facility-laos?utm_source=rss_feed",
+        "published": "2026-10-10 22:00",
+        "summary": "Chinese military aircraft may already be using a new joint aviation facility in Laos, with satellite imagery showing twi",
         "ai": false
       }
     ]
@@ -106,23 +106,23 @@
   "weather": [
     {
       "city": "南京",
-      "current": 23,
-      "min": 16,
+      "current": 22,
+      "min": 17,
       "max": 25,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "武汉",
-      "current": 24,
-      "min": 18,
-      "max": 28,
-      "condition": "晴",
-      "icon": "☀️"
+      "current": 23,
+      "min": 19,
+      "max": 29,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "南宁",
-      "current": 29,
+      "current": 27,
       "min": 22,
       "max": 33,
       "condition": "大部晴朗",
@@ -130,17 +130,17 @@
     },
     {
       "city": "定西市安定区",
-      "current": 12,
-      "min": 1,
-      "max": 17,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 10,
+      "min": 3,
+      "max": 18,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "孝感市应城市",
       "current": 24,
       "min": 16,
-      "max": 28,
+      "max": 29,
       "condition": "晴",
       "icon": "☀️"
     }

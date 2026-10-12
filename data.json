@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-11",
-  "updated_at": "2026-10-11 09:31",
+  "date": "2026-10-12",
+  "updated_at": "2026-10-12 10:01",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Today is a clean page—fill it with something worthwhile.",
-    "language": "English",
-    "words": 9
+    "text": "Bonjour ! Prenez soin de vous et savourez les petits bonheurs.",
+    "language": "Français",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "食品安全法修订草案公开征求意见 涉及AI监管、校园食品安全等",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TYbDoC9agT",
-        "published": "2026-10-10 19:57",
-        "summary": "记者今天了解到，市场监管总局研究起草了《中华人民共和国食品安全法（修订草案征求意见稿）》，并向社会公开征求意见。 修订的主要内容包括五个方面： 一是强化智慧监管。推动“互联网+人工智能”监管应用，明确食品生产经营企业应当在食品生产经营关键风",
+        "title": "浙江义乌：专家学者共话平安建设与基层社会治理现代化",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-12/10711821.shtml",
+        "published": "2026-10-12 09:41",
+        "summary": "中新网义乌10月12日电(董易鑫)“自2019年成立以来，西北政法大学义乌研究院围绕平安建设、基层社会治理、共建‘一带一路’、国际贸易及涉外法治等重点领域，立项课题百余项。”10月11日，中国“一带一路”智库合作联盟理事、西北政法大学义乌研",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "证书年检、定期换证不得重复申报个税专项附加扣除",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-11/10710882.shtml",
-        "published": "2026-10-11 09:06",
-        "summary": "本报北京10月10日电(中青报·中青网记者 张均斌)在个人所得税综合所得年度汇算过程中，职业资格继续教育专项附加扣除的政策适用问题，一直是很多纳税人关注的热点。今天，税务部门对此作出提示，准确把握政策边界，方能精准享受税收优惠，避免产生涉税",
+        "title": "东北虎带五崽、海南长臂猿扩群 首批国家公园交出五年生态答卷",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/12/ARTIs2JV2icaXlYz7I7BwOi8261012.shtml",
+        "published": "2026-10-12 08:25",
+        "summary": "记者12日从国家林业和草原局获悉，自2021年我国正式设立三江源、大熊猫、东北虎豹、海南热带雨林、武夷山5个国家公园以来，首批国家公园建设取得丰硕成果。中国特色国家公园制度体系基本建成，重点区域自然生态系统质量持续向好，旗舰物种种群数量稳步",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "中央气象台：北方大部地区将有冷空气活动",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-11/10710868.shtml",
-        "published": "2026-10-11 08:27",
-        "summary": "中新网10月11日电 据中央气象台网站消息，昨日，全国大部地区降水较弱，辽宁、北京、河北、江苏、四川等地今晨出现大雾天气。未来三天，冷空气将影响北方地区，关注大风降温对农业生产、人体健康等的影响；其中11日至12日，西北地区东部、华北南部、",
+        "title": "“2026世界市长对话·洛阳”共话古都焕新与城市发展",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/11/ARTIZvjqz71CulONkVnJW5Io261011.shtml",
+        "published": "2026-10-11 21:21",
+        "summary": "新华社郑州10月11日电（记者袁月明、任卓如）10月9日至11日，由国务院新闻办公室指导、以“赓续古都文脉 互鉴城市文明”为主题的“2026世界市长对话·洛阳”活动在河南省洛阳市举行。来自中国、英国、意大利、阿根廷、阿尔及利亚等10余个国家",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "历史首次！太仓口岸出口汽车首破100万辆",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TZ1qwqAUS1",
-        "published": "2026-10-11 08:22",
-        "summary": "记者从南京海关了解到， 今年前9个月，长江流域最大的汽车出口枢纽太仓口岸出口汽车108万辆，历史首次突破百万辆，同比增长超八成。 出口市场覆盖全球168个国家和地区。其中，9月份出口约16万辆，创单月出口历史新高，其中，新能源汽车出口同比增",
+        "title": "大道致远，笃行不怠——记中国元首外交金秋繁忙季",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-12/10711828.shtml",
+        "published": "2026-10-12 09:47",
+        "summary": "新华社北京10月11日电#8195;特稿丨大道致远，笃行不怠——记中国元首外交金秋繁忙季",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Peng Liyuan urges development of digital education access for women",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-10-10/Peng-Liyuan-urges-development-of-digital-education-access-for-women-1R7u8ZefbW0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-10-10 10:42",
-        "summary": "Peng Liyuan, wife of Chinese President Xi Jinping and special envoy of the United Nations Educational, Scientific and Cu",
+        "title": "新闻联播 2026/10/11",
+        "source": "央视网-新闻联播",
+        "link": "https://tv.cctv.com/lm/xwlb/day/20261011.shtml",
+        "published": "2026-10-11 19:00",
+        "summary": "《新闻联播》 20261011 19:00 ⏱00:30:01 [视频]【新思想引领新征程】守护绿水青山 共绘美丽中国新画卷 ⏱00:05:34 [视频]王沪宁会见越南国会主席 ⏱00:01:01 [视频]中国物流业景气指数连续5个月扩张 ",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
-        "published": "2026-10-11 07:01",
-        "summary": "Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on eac",
+        "title": "As AI and the Iran war loom, China’s energy technocrats are on the fast track",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/politics/article/3370383/ai-and-iran-war-loom-chinas-energy-technocrats-are-fast-track?utm_source=rss_feed",
+        "published": "2026-10-12 10:00",
+        "summary": "This is a special contribution from the Centre on Contemporary China and the World at the University of Hong Kong. Read ",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-11 03:25",
-        "summary": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
-        "ai": false
+        "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
+        "published": "2026-10-12 07:01",
+        "summary": "Kanishka Narayan to say Britain cannot rely entirely on tech companies amid rising global concern over AI dangers Compan",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Trump demands Ukraine get new president, lashes out at Zelensky",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3370462/trump-demands-ukraine-get-new-president-lashes-out-zelensky?utm_source=rss_feed",
-        "published": "2026-10-11 02:31",
-        "summary": "US President Donald Trump has called for Ukraine to replace President Volodymyr Zelensky, accusing him of rejecting mult",
-        "ai": false
+        "title": "US’s Reagan-era economic promises return as Trump’s AI-fueled growth fantasy",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan",
+        "published": "2026-10-11 19:00",
+        "summary": "‘Even if AI supercharged the economy, its impact on the government’s finances would be muted’ Back through political his",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "Ukraine should elect new president – Trump (VIDEO)",
-        "source": "RT",
-        "link": "https://www.rt.com/news/647031-ukraine-should-elect-new-president/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-10-11 01:26",
-        "summary": "Ukraine should replace Vladimir Zelensky and “get a new president,” US President Donald Trump told reporters on Saturday",
-        "ai": false
+        "title": "AI and nuclear war threaten human extinction by 2100, report warns",
+        "source": "Sky News",
+        "link": "https://news.sky.com/story/ai-and-nuclear-war-threaten-human-extinction-by-2100-report-warns-13597676",
+        "published": "2026-10-11 15:54",
+        "summary": "Malicious use of AI and nuclear conflict pose the biggest threat to human extinction by the year 2100, global experts ha",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Are Chinese military aircraft already using a new joint air facility in Laos?",
+        "title": "Despite a China-India thaw, military relations are stuck in 2020",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/military/article/3370439/are-chinese-military-aircraft-already-using-new-joint-air-facility-laos?utm_source=rss_feed",
-        "published": "2026-10-10 22:00",
-        "summary": "Chinese military aircraft may already be using a new joint aviation facility in Laos, with satellite imagery showing twi",
+        "link": "https://www.scmp.com/opinion/asia-opinion/article/3370226/despite-china-india-thaw-military-relations-are-stuck-2020?utm_source=rss_feed",
+        "published": "2026-10-12 05:30",
+        "summary": "Chinese President Xi Jinping has met Indian Prime Minister Narendra Modi three times in the past three years. Indian pil",
         "ai": false
       }
     ]
@@ -107,42 +107,42 @@
     {
       "city": "南京",
       "current": 22,
-      "min": 17,
-      "max": 25,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "min": 16,
+      "max": 24,
+      "condition": "晴",
+      "icon": "☀️"
     },
     {
       "city": "武汉",
-      "current": 23,
-      "min": 19,
-      "max": 29,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 25,
+      "min": 21,
+      "max": 30,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "南宁",
-      "current": 27,
-      "min": 22,
-      "max": 33,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 29,
+      "min": 23,
+      "max": 34,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": 10,
-      "min": 3,
-      "max": 18,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 11,
+      "min": 4,
+      "max": 16,
+      "condition": "小雨",
+      "icon": "🌧️"
     },
     {
       "city": "孝感市应城市",
-      "current": 24,
-      "min": 16,
+      "current": 25,
+      "min": 18,
       "max": 29,
-      "condition": "晴",
-      "icon": "☀️"
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     }
   ]
 }

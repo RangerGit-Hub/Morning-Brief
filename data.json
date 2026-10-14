@@ -1,148 +1,148 @@
 {
-  "date": "2026-10-13",
-  "updated_at": "2026-10-13 11:19",
+  "date": "2026-10-14",
+  "updated_at": "2026-10-14 09:34",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！愿平凡的一天也有闪亮时刻。",
-    "language": "中文",
-    "words": 16
+    "text": "Good morning! Let small progress become a beautiful day.",
+    "language": "English",
+    "words": 9
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "我国一批自研重器将集中亮相珠海航展",
+        "title": "红星照耀中国｜长征出发地，一根纱线串起千亿产业",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-13/10713598.shtml",
-        "published": "2026-10-13 11:12",
-        "summary": "10月13日，第十六届中国国际航空航天博览会新闻发布会在北京举行，集中介绍本届航展筹备进展和参展亮点。",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-14/10714133.shtml",
+        "published": "2026-10-14 09:14",
+        "summary": "江西于都，中央红军长征出发纪念馆里，一台手摇缝纫机的机身黑漆早已斑驳。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "打破专科“天花板”！职业教育专业基本涵盖国民经济各领域",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TahmenDnYb",
-        "published": "2026-10-13 08:51",
-        "summary": "记者12日从教育部举行的新闻发布会上了解到，截至2025年底，全国有职业学校10792所，在校生3355.96万人，我国已建成世界上规模最大且有质量的现代职业教育体系，职业教育专业基本涵盖国民经济各领域。 据介绍，截至2025年底，全国有中",
+        "title": "贵州湖北湖南江西等地降雨较强 新一轮冷空气即将影响我国",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-14/10714136.shtml",
+        "published": "2026-10-14 09:13",
+        "summary": "中新网10月14日电 据中央气象台网站消息，昨日，全国大部地区天气较好，降水较弱，仅在云南东部等地出现大雨或暴雨，局地大暴雨。今明两天，西南地区东部、江汉南部、江南北部等地将迎来一次较强降水过程，上述部分地区伴有雷电和短时强降雨。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "中国航展参展装备超3000件 约10%为“首展”“首秀”",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-13/10713560.shtml",
-        "published": "2026-10-13 10:10",
-        "summary": "10月13日，第十六届中国国际航空航天博览会新闻发布会在北京举行，集中介绍本届航展筹备进展和参展亮点。",
+        "title": "暴雨蓝色预警：5省市有大雨 重庆贵州湖南部分地区有暴雨",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/14/ARTIAEcWajLUDAW8vAFEw4l5261014.shtml",
+        "published": "2026-10-14 09:05",
+        "summary": "央视网消息： 中央气象台10月14日06时发布暴雨蓝色预警，预计，10月14日08时至15日08时，重庆南部、贵州北部、湖北南部、湖南北部、云南西部等地部分地区有大雨，其中，重庆东南部、贵州东北部、湖南北部等地部分地区有暴雨（50～85毫米",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "【8点见】中科院回应“付费住酒店可进中国天眼核心区”",
+        "title": "建设健康中国，习近平强调“六大能力”",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/13/ARTIKccumwKErw1xMt6mhpF4261013.shtml",
-        "published": "2026-10-13 07:59",
-        "summary": "央视网消息： 每天8点，央视网为您梳理24小时内发生在咱们身边的大小事儿。 ·外交部：对伯利兹外交、外贸、教育、文化、科学和技术部长丰塞卡采取反制措施，对巴拉圭通信和技术部长比利亚特采取反制措施。 ·商务部回应中欧混动汽车、电动汽车磋商共识",
+        "link": "https://news.cctv.com/2026/10/13/ARTI1YyrFr9cp56gRmBlftsF261013.shtml",
+        "published": "2026-10-13 20:19",
+        "summary": "全国卫生与健康大会12日至13日在北京召开。中共中央总书记、国家主席、中央军委主席习近平出席会议并发表重要讲话。 习近平强调，我们要建成的健康中国，是均衡普惠、优质高效的健康中国，应当具有强大的健康管理能力、疾病防控能力、医疗服务能力、医保",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "“十五五”时期 教育部将切实践行“健康第一”理念",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/13/ARTIT50JTrVpzWFUfj5qSLCV261013.shtml",
-        "published": "2026-10-13 07:07",
-        "summary": "基础教育达到高收入国家平均水平，学前教育毛入园率达到92.9%，义务教育巩固率达到96.1%，高中阶段毛入学率达到92%；职业教育为现代产业提供了70%以上新增高技能人才；我国接受过高等教育的人口达2.7亿人……在国务院新闻办公室近日举行的",
+        "title": "“求索”4.0上线！国内首个人工智能全产业链评测基准发布",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4Tb37ruOeYb",
+        "published": "2026-10-13 18:48",
+        "summary": "国内首个面向算力、模型算法、智能系统与产品、行业应用、安全治理等人工智能全产业链的评测基准——“求索”4.0版 今天（10月13日）正式发布。 这个人工智能国家标准评测基准体系为芯片、模型等厂商提供了统一的测试流程、评测标尺，还配套电力、医",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "China Mobile triples capacity at mega Inner Mongolia computing hub amid nation’s AI push",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/tech/big-tech/article/3370600/china-mobile-triples-capacity-mega-inner-mongolia-computing-hub-amid-nations-ai-push?utm_source=rss_feed",
-        "published": "2026-10-13 09:00",
-        "summary": "China Mobile, one of the country’s state-backed telecoms giants, has tripled the capacity of its largest intelligent com",
+        "title": "Zimbabwean author denies using AI to write award-winning story",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-14 07:31",
+        "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "AI fuelling growth while putting Asia’s young workers at risk, IMF meeting hears",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/week-asia/economics/article/3370618/ai-fuelling-growth-while-putting-asias-young-workers-risk-imf-meeting-hears?utm_source=rss_feed",
-        "published": "2026-10-12 19:04",
-        "summary": "An investment surge into artificial intelligence may be helping prop up a global economy battered by energy supply shock",
-        "ai": true
+        "title": "Enemies threaten to attack Israel ahead of October 27 Knesset elections — Netanyahu",
+        "source": "TASS",
+        "link": "https://tass.com/world/2201627",
+        "published": "2026-10-14 03:54",
+        "summary": "The Israeli prime minister added that the Israel Defense Forces presented him and Defense Minister Israel Katz with a \"p",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "DR Congo's former president Joseph Kabila to lead new movement with M23 rebels",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/africa/20261012-dr-congo-former-president-joseph-kabila-to-lead-new-movement-with-m23-rebels",
-        "published": "2026-10-13 05:27",
-        "summary": "Former DR Congo president Joseph Kabila announced a new political-military alliance with Rwanda-backed M23 rebels on Mon",
+        "title": "World Bank successfully interacts with BRICS Bank, AIIB — Executive Director",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2201583",
+        "published": "2026-10-14 01:28",
+        "summary": "The bank's priority is to eradicate poverty on a livable planet, Executive Director of the World Bank Neelkanth Mishra s",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-13 05:20",
-        "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+        "title": "Poland wants EU military production in ‘war-mode’",
+        "source": "RT",
+        "link": "https://rt-english.com/news/647151-poland-eu-war-production/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-10-14 00:39",
+        "summary": "The Polish defense minister urged the EU to put military production into “war mode,” citing the supposed ‘Russian threat",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "'Increasingly evident' Russia won't accept 'energy ceasefire': Zelensky",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/increasingly-evident-russia-won-t-accept-energy-ceasefire-zelensky",
-        "published": "2026-10-13 03:40",
-        "summary": "Ukrainian President Volodymyr Zelensky said Monday it was clear that Russia would not agree to stop hitting energy targe",
-        "ai": false
+        "title": "Scientists urge tighter AI controls to prevent global cyber risks",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
+        "published": "2026-10-14 04:00",
+        "summary": "Call comes amid polls casting doubts on political leaders' ability to manage AI risks as US midterm elections near.",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 25,
-      "min": 18,
-      "max": 26,
+      "current": 20,
+      "min": 16,
+      "max": 24,
       "condition": "多云",
       "icon": "⛅"
     },
     {
       "city": "武汉",
-      "current": 26,
-      "min": 21,
-      "max": 28,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 22,
+      "min": 18,
+      "max": 27,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "南宁",
-      "current": 32,
-      "min": 24,
+      "current": 29,
+      "min": 23,
       "max": 34,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "condition": "晴",
+      "icon": "☀️"
     },
     {
       "city": "定西市安定区",
-      "current": 15,
-      "min": 3,
-      "max": 17,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 10,
+      "min": 4,
+      "max": 18,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "孝感市应城市",
-      "current": 25,
-      "min": 19,
+      "current": 21,
+      "min": 15,
       "max": 26,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

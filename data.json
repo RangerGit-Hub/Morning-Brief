@@ -1,105 +1,105 @@
 {
-  "date": "2026-10-14",
-  "updated_at": "2026-10-14 09:34",
+  "date": "2026-10-15",
+  "updated_at": "2026-10-15 09:11",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! Let small progress become a beautiful day.",
-    "language": "English",
-    "words": 9
+    "text": "Le jour se lève : avancez avec confiance et douceur.",
+    "language": "Français",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "红星照耀中国｜长征出发地，一根纱线串起千亿产业",
+        "title": "湖南江西等地有大雨或暴雨 明日起我国降水将增多增强",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-14/10714133.shtml",
-        "published": "2026-10-14 09:14",
-        "summary": "江西于都，中央红军长征出发纪念馆里，一台手摇缝纫机的机身黑漆早已斑驳。",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10714781.shtml",
+        "published": "2026-10-15 09:09",
+        "summary": "中新网10月15日电 据中央气象台网站消息，昨日，贵州北部、湖北南部、湖南北部等地出现大雨或暴雨，湖南益阳局地大暴雨。今天，较强降雨仍主要出现在西南地区东部、江南北部等地，其中，湖南中北部、湖北东部、江西北部、安徽西南部等地部分地区有暴雨(",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "贵州湖北湖南江西等地降雨较强 新一轮冷空气即将影响我国",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-14/10714136.shtml",
-        "published": "2026-10-14 09:13",
-        "summary": "中新网10月14日电 据中央气象台网站消息，昨日，全国大部地区天气较好，降水较弱，仅在云南东部等地出现大雨或暴雨，局地大暴雨。今明两天，西南地区东部、江汉南部、江南北部等地将迎来一次较强降水过程，上述部分地区伴有雷电和短时强降雨。",
+        "title": "暴雨蓝色预警：湖南湖北江西安徽等地部分地区有暴雨",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/15/ARTIoISH3Am1X8Dsta3I5u8E261015.shtml",
+        "published": "2026-10-15 08:49",
+        "summary": "央视网消息： 中央气象台10月15日06时继续发布暴雨蓝色预警，预计，10月15日08时至16日08时，贵州东北部、湖南中北部、湖北东部、江西北部、安徽西南部等地部分地区有大雨，其中，湖南中北部、湖北东部、江西北部、安徽西南部等地部分地区有",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "暴雨蓝色预警：5省市有大雨 重庆贵州湖南部分地区有暴雨",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/14/ARTIAEcWajLUDAW8vAFEw4l5261014.shtml",
-        "published": "2026-10-14 09:05",
-        "summary": "央视网消息： 中央气象台10月14日06时发布暴雨蓝色预警，预计，10月14日08时至15日08时，重庆南部、贵州北部、湖北南部、湖南北部、云南西部等地部分地区有大雨，其中，重庆东南部、贵州东北部、湖南北部等地部分地区有暴雨（50～85毫米",
+        "title": "贵州湖南江西等地有较强降水 新一轮冷空气将自西向东影响我国大部地区",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10714766.shtml",
+        "published": "2026-10-15 08:29",
+        "summary": "中新网10月15日电 据中央气象台网站消息，昨日，湖南等地出现较强降雨，内蒙古中部等地有大风。预计15日，江南北部等地有较强降雨过程，部分地区累计雨量较大，需加强次生灾害防御，做好交通、旅游、城市运行等安全管理。15日至19日，新一轮冷空气",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "建设健康中国，习近平强调“六大能力”",
+        "title": "四川省成都市人大常委会原党组书记、主任包惠严重违纪违法被开除党籍",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/13/ARTI1YyrFr9cp56gRmBlftsF261013.shtml",
-        "published": "2026-10-13 20:19",
-        "summary": "全国卫生与健康大会12日至13日在北京召开。中共中央总书记、国家主席、中央军委主席习近平出席会议并发表重要讲话。 习近平强调，我们要建成的健康中国，是均衡普惠、优质高效的健康中国，应当具有强大的健康管理能力、疾病防控能力、医疗服务能力、医保",
+        "link": "https://news.cctv.com/2026/10/14/ARTIEdq2NHd5fefJnuTgVwl3261014.shtml",
+        "published": "2026-10-14 17:13",
+        "summary": "央视网消息 ：中央纪委国家监委网站通报，经中共中央批准，中央纪委国家监委对四川省成都市人大常委会原党组书记、主任包惠严重违纪违法问题进行了立案审查调查。 经查，包惠丧失理想信念，背弃初心使命，违背党中央防范化解重大金融风险重要要求，违规决策",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "“求索”4.0上线！国内首个人工智能全产业链评测基准发布",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4Tb37ruOeYb",
-        "published": "2026-10-13 18:48",
-        "summary": "国内首个面向算力、模型算法、智能系统与产品、行业应用、安全治理等人工智能全产业链的评测基准——“求索”4.0版 今天（10月13日）正式发布。 这个人工智能国家标准评测基准体系为芯片、模型等厂商提供了统一的测试流程、评测标尺，还配套电力、医",
+        "title": "新闻联播 2026/10/14",
+        "source": "央视网-新闻联播",
+        "link": "https://tv.cctv.com/lm/xwlb/day/20261014.shtml",
+        "published": "2026-10-14 19:00",
+        "summary": "《新闻联播》 20261014 19:00 ⏱00:30:02 [视频]习近平向第140届中国进出口商品交易会致贺信 ⏱00:00:56 [视频]央视快评：为世界发展繁荣持续注入新动力 ⏱00:00:07 [视频]不断提高人民健康水平 确保",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Zimbabwean author denies using AI to write award-winning story",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-14 07:31",
-        "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+        "title": "US and China race to shape AI agenda ahead of Xi-Trump talks in Shenzhen, sources say",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3370926/us-and-china-race-shape-ai-agenda-ahead-xi-trump-talks-shenzhen-sources-say?utm_source=rss_feed",
+        "published": "2026-10-15 09:00",
+        "summary": "The United States and China are in regular talks to iron out details of a framework announced last month for handling AI",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Enemies threaten to attack Israel ahead of October 27 Knesset elections — Netanyahu",
-        "source": "TASS",
-        "link": "https://tass.com/world/2201627",
-        "published": "2026-10-14 03:54",
-        "summary": "The Israeli prime minister added that the Israel Defense Forces presented him and Defense Minister Israel Katz with a \"p",
-        "ai": false
+        "title": "‘China shock 3.0’ to be driven by AI, biotech and robot exports, economist says",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3370925/china-shock-30-be-driven-ai-biotech-and-robot-exports-economist-says?utm_source=rss_feed",
+        "published": "2026-10-15 06:00",
+        "summary": "The world is on the cusp of a “China shock 3.0” driven by exports of artificial intelligence (AI), biotechnology and rob",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "World Bank successfully interacts with BRICS Bank, AIIB — Executive Director",
-        "source": "TASS",
-        "link": "https://tass.com/economy/2201583",
-        "published": "2026-10-14 01:28",
-        "summary": "The bank's priority is to eradicate poverty on a livable planet, Executive Director of the World Bank Neelkanth Mishra s",
+        "title": "Bank of America fined US$1.21 billion as US flags suspected Chinese money laundering",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3370920/bank-america-fined-us121-billion-us-flags-suspected-chinese-money-laundering?utm_source=rss_feed",
+        "published": "2026-10-15 01:47",
+        "summary": "Bank of America, the second-largest US bank, failed to promptly report hundreds of millions of dollars in suspicious tra",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Poland wants EU military production in ‘war-mode’",
-        "source": "RT",
-        "link": "https://rt-english.com/news/647151-poland-eu-war-production/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-10-14 00:39",
-        "summary": "The Polish defense minister urged the EU to put military production into “war mode,” citing the supposed ‘Russian threat",
+        "title": "Yemen government says it raised Houthis’ alleged use of Chinese tech with Beijing",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3370919/yemen-government-says-it-raised-houthis-alleged-use-chinese-tech-beijing?utm_source=rss_feed",
+        "published": "2026-10-15 01:16",
+        "summary": "The Yemeni government has spoken with Beijing about the Houthis’ alleged attempts to utilise Chinese-made technology for",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Scientists urge tighter AI controls to prevent global cyber risks",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
-        "published": "2026-10-14 04:00",
-        "summary": "Call comes amid polls casting doubts on political leaders' ability to manage AI risks as US midterm elections near.",
-        "ai": true
+        "title": "Poland considers reinstating conscription",
+        "source": "RT",
+        "link": "https://rt-english.com/news/647201-poland-considers-reinstating-conscription/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-10-15 00:54",
+        "summary": "Poland is considering reinstating compulsory military service, Deputy Defense Minister Magdalena Sobkowiak-Czarnecka has",
+        "ai": false
       }
     ]
   },
@@ -107,42 +107,42 @@
     {
       "city": "南京",
       "current": 20,
-      "min": 16,
+      "min": 17,
       "max": 24,
-      "condition": "多云",
-      "icon": "⛅"
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 22,
+      "current": 19,
       "min": 18,
-      "max": 27,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "max": 22,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "南宁",
-      "current": 29,
-      "min": 23,
-      "max": 34,
-      "condition": "晴",
-      "icon": "☀️"
-    },
-    {
-      "city": "定西市安定区",
-      "current": 10,
-      "min": 4,
-      "max": 18,
+      "current": 27,
+      "min": 25,
+      "max": 32,
       "condition": "大部晴朗",
       "icon": "🌤️"
     },
     {
+      "city": "定西市安定区",
+      "current": 9,
+      "min": 3,
+      "max": 16,
+      "condition": "雷阵雨",
+      "icon": "⛈️"
+    },
+    {
       "city": "孝感市应城市",
-      "current": 21,
-      "min": 15,
-      "max": 26,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 19,
+      "min": 19,
+      "max": 22,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     }
   ]
 }

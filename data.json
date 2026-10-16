@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-15",
-  "updated_at": "2026-10-15 09:11",
+  "date": "2026-10-16",
+  "updated_at": "2026-10-16 08:58",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Le jour se lève : avancez avec confiance et douceur.",
-    "language": "Français",
-    "words": 10
+    "text": "新的一天，愿你不慌不忙，稳步成长。",
+    "language": "中文",
+    "words": 17
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "湖南江西等地有大雨或暴雨 明日起我国降水将增多增强",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10714781.shtml",
-        "published": "2026-10-15 09:09",
-        "summary": "中新网10月15日电 据中央气象台网站消息，昨日，贵州北部、湖北南部、湖南北部等地出现大雨或暴雨，湖南益阳局地大暴雨。今天，较强降雨仍主要出现在西南地区东部、江南北部等地，其中，湖南中北部、湖北东部、江西北部、安徽西南部等地部分地区有暴雨(",
+        "title": "学习手记｜变废为宝 点绿成金",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/16/ARTIbn1a5HaWLfxVIEVbHWqs261016.shtml",
+        "published": "2026-10-16 08:46",
+        "summary": "旧家电拆解金属再次加工，塑料回收做成T恤……10月14日在江西丰城举办的2026循环经济产业创新发展大会上，一个个“变废为宝”场景备受关注。 发展循环经济是我国经济社会发展的重大战略，关乎生态文明建设、国家资源安全与高质量发展大局。 “着力",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "暴雨蓝色预警：湖南湖北江西安徽等地部分地区有暴雨",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/15/ARTIoISH3Am1X8Dsta3I5u8E261015.shtml",
-        "published": "2026-10-15 08:49",
-        "summary": "央视网消息： 中央气象台10月15日06时继续发布暴雨蓝色预警，预计，10月15日08时至16日08时，贵州东北部、湖南中北部、湖北东部、江西北部、安徽西南部等地部分地区有大雨，其中，湖南中北部、湖北东部、江西北部、安徽西南部等地部分地区有",
+        "title": "我国大部地区有降水过程 较强冷空气将自西向东影响我国大部地区",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-16/10715388.shtml",
+        "published": "2026-10-16 08:25",
+        "summary": "中新网10月16日电 据中央气象台网站消息，昨日，湖南、江西等地出现较强降雨，新疆等地出现强降雪和大风降温。预计16日至19日，冷空气将继续影响我国大部地区，带来大风、降温和雨雪天气，注意防范对交通运输、农业、城市运行等的影响，并做好森林草",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "贵州湖南江西等地有较强降水 新一轮冷空气将自西向东影响我国大部地区",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-15/10714766.shtml",
-        "published": "2026-10-15 08:29",
-        "summary": "中新网10月15日电 据中央气象台网站消息，昨日，湖南等地出现较强降雨，内蒙古中部等地有大风。预计15日，江南北部等地有较强降雨过程，部分地区累计雨量较大，需加强次生灾害防御，做好交通、旅游、城市运行等安全管理。15日至19日，新一轮冷空气",
+        "title": "【8点见】“吴兴两人赴泰国旅游意外死亡”，官方通报",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/16/ARTI29666zX2J6Wy4XdOfW0L261016.shtml",
+        "published": "2026-10-16 07:59",
+        "summary": "央视网消息 ：每天8点，央视网为您梳理24小时内发生在咱们身边的大小事儿。 ·交通运输部：我国自动化码头应用规模、技术水平、作业效率居世界前列。 ·第三轮第七批中央生态环境保护督察全部实现督察进驻。 ·我国地理信息产业总产值超9000亿元，",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "四川省成都市人大常委会原党组书记、主任包惠严重违纪违法被开除党籍",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/14/ARTIEdq2NHd5fefJnuTgVwl3261014.shtml",
-        "published": "2026-10-14 17:13",
-        "summary": "央视网消息 ：中央纪委国家监委网站通报，经中共中央批准，中央纪委国家监委对四川省成都市人大常委会原党组书记、主任包惠严重违纪违法问题进行了立案审查调查。 经查，包惠丧失理想信念，背弃初心使命，违背党中央防范化解重大金融风险重要要求，违规决策",
+        "title": "京津冀首个出口保税集货仓落地天津",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-16/10715392.shtml",
+        "published": "2026-10-16 08:15",
+        "summary": "京津冀地区首个服务出口的全球保税集货仓，日前(13日)正式落地天津东疆综合保税区。这座集货仓面积2.9万平方米，可为跨境电商卖家提供集货、质检、贴标等综合服务。自今年试运营以来，仓库库存量稳步提升，货源地覆盖天津、北京、河北、山西等地区。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "新闻联播 2026/10/14",
-        "source": "央视网-新闻联播",
-        "link": "https://tv.cctv.com/lm/xwlb/day/20261014.shtml",
-        "published": "2026-10-14 19:00",
-        "summary": "《新闻联播》 20261014 19:00 ⏱00:30:02 [视频]习近平向第140届中国进出口商品交易会致贺信 ⏱00:00:56 [视频]央视快评：为世界发展繁荣持续注入新动力 ⏱00:00:07 [视频]不断提高人民健康水平 确保",
+        "title": "活力中国调研行丨在“南A中心”，看“智”变图景",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TdAdArWGaG",
+        "published": "2026-10-16 08:08",
+        "summary": "“哪个地方更适合种香蕉？”“清理病果后，还需要做哪些预防措施来防止复发？” 轻点屏幕，捷佳润科技集团股份有限公司企管总监陈秀娟向农业AI大模型“土谛AI”输入这些问题，一份详尽的分析报告片刻生成。 10月12日，走进中国—东盟国家人工智能应",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "US and China race to shape AI agenda ahead of Xi-Trump talks in Shenzhen, sources say",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3370926/us-and-china-race-shape-ai-agenda-ahead-xi-trump-talks-shenzhen-sources-say?utm_source=rss_feed",
-        "published": "2026-10-15 09:00",
-        "summary": "The United States and China are in regular talks to iron out details of a framework announced last month for handling AI",
+        "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
+        "published": "2026-10-16 08:34",
+        "summary": "Meta says Muse excels at ‘multi-step reasoning’ and ‘complex software engineering’ as it races to catch up to Chinese ri",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "‘China shock 3.0’ to be driven by AI, biotech and robot exports, economist says",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3370925/china-shock-30-be-driven-ai-biotech-and-robot-exports-economist-says?utm_source=rss_feed",
-        "published": "2026-10-15 06:00",
-        "summary": "The world is on the cusp of a “China shock 3.0” driven by exports of artificial intelligence (AI), biotechnology and rob",
-        "ai": true
+        "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
+        "published": "2026-10-16 08:31",
+        "summary": "Iraq's parliament has finalised key minister appointments five months after al-Zaidi's government took office.",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "Bank of America fined US$1.21 billion as US flags suspected Chinese money laundering",
+        "title": "Z.ai’s GLM-5.3 raises researcher fears the Chinese model can fake AI safety tests",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3370920/bank-america-fined-us121-billion-us-flags-suspected-chinese-money-laundering?utm_source=rss_feed",
-        "published": "2026-10-15 01:47",
-        "summary": "Bank of America, the second-largest US bank, failed to promptly report hundreds of millions of dollars in suspicious tra",
-        "ai": false
+        "link": "https://www.scmp.com/tech/big-tech/article/3370963/zais-glm-53-raises-researcher-fears-chinese-model-can-fake-ai-safety-tests?utm_source=rss_feed",
+        "published": "2026-10-15 18:00",
+        "summary": "Chinese artificial intelligence lab Z.ai’s latest flagship model, GLM-5.3, may be sophisticated enough to “fake” its way",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "Yemen government says it raised Houthis’ alleged use of Chinese tech with Beijing",
+        "title": "China, US discuss AI as chip stock rout hits Asian markets",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3370919/yemen-government-says-it-raised-houthis-alleged-use-chinese-tech-beijing?utm_source=rss_feed",
-        "published": "2026-10-15 01:16",
-        "summary": "The Yemeni government has spoken with Beijing about the Houthis’ alleged attempts to utilise Chinese-made technology for",
-        "ai": false
+        "link": "https://www.scmp.com/plus/tech/tech-war/article/3371013/china-us-discuss-ai-chip-stock-rout-hits-asian-markets?utm_source=rss_feed",
+        "published": "2026-10-15 17:27",
+        "summary": "China and the United States are in regular talks about artificial intelligence (AI) as they seek to firm up plans for an",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Poland considers reinstating conscription",
-        "source": "RT",
-        "link": "https://rt-english.com/news/647201-poland-considers-reinstating-conscription/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-10-15 00:54",
-        "summary": "Poland is considering reinstating compulsory military service, Deputy Defense Minister Magdalena Sobkowiak-Czarnecka has",
+        "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-16 07:38",
+        "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maas",
         "ai": false
       }
     ]
@@ -106,43 +106,43 @@
   "weather": [
     {
       "city": "南京",
-      "current": 20,
-      "min": 17,
-      "max": 24,
+      "current": 21,
+      "min": 18,
+      "max": 25,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 19,
-      "min": 18,
-      "max": 22,
+      "current": 21,
+      "min": 19,
+      "max": 25,
       "condition": "毛毛雨",
       "icon": "🌦️"
     },
     {
       "city": "南宁",
-      "current": 27,
-      "min": 25,
-      "max": 32,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 26,
+      "min": 24,
+      "max": 31,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "定西市安定区",
-      "current": 9,
-      "min": 3,
-      "max": 16,
-      "condition": "雷阵雨",
-      "icon": "⛈️"
+      "current": 7,
+      "min": 4,
+      "max": 15,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "孝感市应城市",
-      "current": 19,
-      "min": 19,
-      "max": 22,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 21,
+      "min": 18,
+      "max": 24,
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

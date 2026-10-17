@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-16",
-  "updated_at": "2026-10-16 08:58",
+  "date": "2026-10-17",
+  "updated_at": "2026-10-17 09:00",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "新的一天，愿你不慌不忙，稳步成长。",
-    "language": "中文",
-    "words": 17
+    "text": "May your coffee be warm and your choices be wise today.",
+    "language": "English",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "学习手记｜变废为宝 点绿成金",
+        "title": "时政现场说丨抓住“东数西算”战略机遇 打造绿色算力产业沃土",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/16/ARTIbn1a5HaWLfxVIEVbHWqs261016.shtml",
-        "published": "2026-10-16 08:46",
-        "summary": "旧家电拆解金属再次加工，塑料回收做成T恤……10月14日在江西丰城举办的2026循环经济产业创新发展大会上，一个个“变废为宝”场景备受关注。 发展循环经济是我国经济社会发展的重大战略，关乎生态文明建设、国家资源安全与高质量发展大局。 “着力",
+        "link": "https://news.cctv.com/2026/10/17/ARTIhQarVLwSADv62b8McYEW261017.shtml",
+        "published": "2026-10-17 07:56",
+        "summary": "16日上午，在内蒙古自治区乌兰察布市考察调研的习近平总书记前往察哈尔高新技术开发区，在展示厅了解内蒙古自治区推进“东数西算”工程枢纽节点建设和绿色算力产业发展等情况。 [!--begin:htmlVideoCode--]87e702f5f6",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "我国大部地区有降水过程 较强冷空气将自西向东影响我国大部地区",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-16/10715388.shtml",
-        "published": "2026-10-16 08:25",
-        "summary": "中新网10月16日电 据中央气象台网站消息，昨日，湖南、江西等地出现较强降雨，新疆等地出现强降雪和大风降温。预计16日至19日，冷空气将继续影响我国大部地区，带来大风、降温和雨雪天气，注意防范对交通运输、农业、城市运行等的影响，并做好森林草",
+        "title": "多地发布细则，商品住房销售制度改革落地实施",
+        "source": "央视网-新闻",
+        "link": "https://jingji.cctv.com/2026/10/16/ARTIXF60n6bpVNj5nqpck3hP261016.shtml",
+        "published": "2026-10-16 23:28",
+        "summary": "新华社北京10月16日电 题：多地发布细则，商品住房销售制度改革落地实施 新华社记者王优玲 日前，深圳、杭州两地同日发布商品住房销售制度改革相关细则，加强预售管理、推进现房销售。至此，全国已有北京、上海、广州、武汉、天津、杭州、深圳等多个城",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "【8点见】“吴兴两人赴泰国旅游意外死亡”，官方通报",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/16/ARTI29666zX2J6Wy4XdOfW0L261016.shtml",
-        "published": "2026-10-16 07:59",
-        "summary": "央视网消息 ：每天8点，央视网为您梳理24小时内发生在咱们身边的大小事儿。 ·交通运输部：我国自动化码头应用规模、技术水平、作业效率居世界前列。 ·第三轮第七批中央生态环境保护督察全部实现督察进驻。 ·我国地理信息产业总产值超9000亿元，",
+        "title": "习言道｜一定要把我们的母亲河保护好",
+        "source": "中国新闻网",
+        "link": "http://www.chinanews.com.cn/gn/shipin/2026/10-17/news1072060.shtml",
+        "published": "2026-10-17 08:28",
+        "summary": "“确保一江清水绵延后世、惠泽人民”。长江是中华民族的母亲河，长江经济带事关全国发展大局。长江的保护和发展，是习近平总书记长久的牵挂。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "京津冀首个出口保税集货仓落地天津",
+        "title": "中央音乐学院举行“10·15”艺术节开幕音乐会",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-16/10715392.shtml",
-        "published": "2026-10-16 08:15",
-        "summary": "京津冀地区首个服务出口的全球保税集货仓，日前(13日)正式落地天津东疆综合保税区。这座集货仓面积2.9万平方米，可为跨境电商卖家提供集货、质检、贴标等综合服务。自今年试运营以来，仓库库存量稳步提升，货源地覆盖天津、北京、河北、山西等地区。",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-17/10716036.shtml",
+        "published": "2026-10-17 01:13",
+        "summary": "中新网北京10月17日电 10月15日晚，2026中俄教育年·中央音乐学院“10·15”艺术节开幕式交响音乐会在中央音乐学院歌剧音乐厅上演。圣彼得堡国立音乐学院院长、俄罗斯功勋艺术家阿列克谢·瓦西里耶夫执棒中央音乐学院交响乐团，以中俄当代新",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "活力中国调研行丨在“南A中心”，看“智”变图景",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TdAdArWGaG",
-        "published": "2026-10-16 08:08",
-        "summary": "“哪个地方更适合种香蕉？”“清理病果后，还需要做哪些预防措施来防止复发？” 轻点屏幕，捷佳润科技集团股份有限公司企管总监陈秀娟向农业AI大模型“土谛AI”输入这些问题，一份详尽的分析报告片刻生成。 10月12日，走进中国—东盟国家人工智能应",
+        "title": "Giant machines harvest a sea of cotton in Xinjiang",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-10-16/Giant-machines-harvest-a-sea-of-cotton-in-Xinjiang-1Rhw8hUZ3Ms/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-10-16 10:55",
+        "summary": "Giant machines harvest a sea of cotton in Xinjiang",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
-        "published": "2026-10-16 08:34",
-        "summary": "Meta says Muse excels at ‘multi-step reasoning’ and ‘complex software engineering’ as it races to catch up to Chinese ri",
+        "title": "North Korea says it tested new torpedo with AI tech",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/asia/east-asia/article/3371218/north-korea-says-it-tested-new-torpedo-ai-tech?utm_source=rss_feed",
+        "published": "2026-10-17 07:37",
+        "summary": "⁠North Korea conducted an underwater ⁠test of a new torpedo weapon system on Thursday to verify technological upgrades, ",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
-        "published": "2026-10-16 08:31",
-        "summary": "Iraq's parliament has finalised key minister appointments five months after al-Zaidi's government took office.",
+        "title": "Paraguay’s tech minister defies Beijing sanctions, says Taiwan ties ‘not up for negotiation’",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/article/3371214/paraguays-tech-minister-defies-beijing-sanctions-says-taiwan-ties-not-negotiation?utm_source=rss_feed",
+        "published": "2026-10-17 05:43",
+        "summary": "Paraguay’s technology minister said on Thursday that sanctions imposed on him by Beijing over his country’s ties with Ta",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Z.ai’s GLM-5.3 raises researcher fears the Chinese model can fake AI safety tests",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/tech/big-tech/article/3370963/zais-glm-53-raises-researcher-fears-chinese-model-can-fake-ai-safety-tests?utm_source=rss_feed",
-        "published": "2026-10-15 18:00",
-        "summary": "Chinese artificial intelligence lab Z.ai’s latest flagship model, GLM-5.3, may be sophisticated enough to “fake” its way",
-        "ai": true
+        "title": "Trump says US, Russia, China to sign nuclear arms control agreements",
+        "source": "TASS",
+        "link": "https://tass.com/world/2203373",
+        "published": "2026-10-17 05:29",
+        "summary": "The US leader noted that he had raised the issue of nuclear arms control during negotiations with Russian President Vlad",
+        "ai": false
       },
       {
         "rank": 4,
-        "title": "China, US discuss AI as chip stock rout hits Asian markets",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/plus/tech/tech-war/article/3371013/china-us-discuss-ai-chip-stock-rout-hits-asian-markets?utm_source=rss_feed",
-        "published": "2026-10-15 17:27",
-        "summary": "China and the United States are in regular talks about artificial intelligence (AI) as they seek to firm up plans for an",
-        "ai": true
+        "title": "Ukraine president targets Trump, Putin at EU summit",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
+        "published": "2026-10-17 01:59",
+        "summary": "President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO.",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-16 07:38",
-        "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maas",
+        "title": "US military’s shortage of missile defense munitions to persist until at least 2030 — TV",
+        "source": "TASS",
+        "link": "https://tass.com/world/2203071",
+        "published": "2026-10-16 21:09",
+        "summary": "According to the TV channel, defense contractor Lockheed Martin unveiled a plan to quadruple annual THAAD interceptor pr",
         "ai": false
       }
     ]
@@ -106,43 +106,43 @@
   "weather": [
     {
       "city": "南京",
-      "current": 21,
-      "min": 18,
-      "max": 25,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": null,
+      "min": null,
+      "max": null,
+      "condition": "暂不可用",
+      "icon": "🌡️"
     },
     {
       "city": "武汉",
-      "current": 21,
-      "min": 19,
-      "max": 25,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 25,
+      "min": 22,
+      "max": 31,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "南宁",
-      "current": 26,
+      "current": 27,
       "min": 24,
       "max": 31,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "定西市安定区",
-      "current": 7,
-      "min": 4,
-      "max": 15,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 4,
+      "min": 1,
+      "max": 10,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "孝感市应城市",
-      "current": 21,
-      "min": 18,
-      "max": 24,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 24,
+      "min": 21,
+      "max": 31,
+      "condition": "多云",
+      "icon": "⛅"
     }
   ]
 }

@@ -1,122 +1,122 @@
 {
-  "date": "2026-10-18",
-  "updated_at": "2026-10-18 08:35",
+  "date": "2026-10-19",
+  "updated_at": "2026-10-19 08:45",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Que vos idées soient claires et votre cœur léger.",
-    "language": "Français",
-    "words": 11
+    "text": "早安！保持热爱，奔赴今天的美好。",
+    "language": "中文",
+    "words": 16
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "AI时代培育自我思考与德性提升的古典学︱“古典学教育的现状与未来”研讨会",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/newsDetail_forward_34272802",
-        "published": "2026-10-18 08:01",
-        "summary": "2026年10月10日至11日，“古典学教育的现状与未来”学术研讨会在中国人民大学举行。会议由中国人民大学文学院古典学教研室主办，中国社会科学院古典文明研究中心、中山大学博雅学院和古典学研究中心、重庆大学博雅学院和古典文明研究中心、四川大学",
+        "title": "金观平：协同联动防止产业单兵突进——把握好发展新质生产力实践的总要求②",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/18/ARTIU64PdOuCFZArFyVNR8Cx261018.shtml",
+        "published": "2026-10-18 21:24",
+        "summary": "近日，中共中央、国务院印发《关于发展新质生产力的意见》，明确提出发展新质生产力要统筹处理好政府和市场、质态和业态、改革和发展、自主和开放的关系，为各地推进产业升级、培育新质生产力指明了科学实践路径。 新质生产力是符合新发展理念的先进生产力质",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "经济日报评论员：让群众就近看得上病看得好病",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/newsDetail_forward_34272799",
-        "published": "2026-10-18 06:57",
-        "summary": "习近平总书记在全国卫生与健康大会上指出，全面提高医疗服务水平是建成健康中国的一项重点任务。要深入实施医疗卫生强基工程，优化医疗卫生机构功能定位和结构布局，促进分级诊疗，让群众能就近看得上病、看得好病。 “看得上病、看得好病”，既是健康中国的",
+        "title": "新一股冷空气将影响我国中东部大部地区",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-19/10716932.shtml",
+        "published": "2026-10-19 08:15",
+        "summary": "中新网10月19日电 据中央气象台网站消息，19日至21日新一轮冷空气影响中东部地区，关注大风降温、雨雪天气对人体健康、交通出行等的影响，做好森林草原和城乡防火工作。20日开始，新疆北部将出现明显雨雪天气，防范对交通运输、城市运行等的影响。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "时政新闻眼丨再到祖国北疆，习近平关注高质量发展底色",
+        "title": "从“算力集群”到“小鱼竿” 各地因地“谋发展”擦亮特色新产业金字招牌",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/17/ARTIBOGCLn4Nir3bKTeO5Vqi261017.shtml",
-        "published": "2026-10-17 12:20",
-        "summary": "“北京向西一步，就是乌兰察布。” 金秋十月，与北京直线距离240公里的草原小城乌兰察布迎来最美时节。 10月16日，习近平总书记来到内蒙古自治区乌兰察布市考察调研。从黄旗海自然保护区，到察哈尔高新技术开发区，从绿色生态到绿色产业，总书记这次",
+        "link": "https://news.cctv.com/2026/10/18/ARTIdsUwIn8JAQhpFjbufjHt261018.shtml",
+        "published": "2026-10-18 10:48",
+        "summary": "[!--begin:htmlVideoCode--]276ac9027c71452d93f7b4fcc23ef4eb,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 中共中央、国务院印发的",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "遨游太空的少先队队旗沿长征路接力传递 神二十航天员寄语全国青少年",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/18/ARTIATM2moMHIuYddWPZybLW261018.shtml",
-        "published": "2026-10-18 03:44",
-        "summary": "新华社西安10月17日电（李国利、雷智颖）一面曾遨游太空的中国少年先锋队队旗，17日沿着红军长征路接力传递至陕西的少先队员代表手里。这是“高举队旗跟党走 少年接力新长征”少先队队旗传递教育实践活动的最后一站。 少先队队旗传递教育实践活动由全",
+        "title": "长江流域维持阴雨模式 新一股较强冷空气携大风降温来袭",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-19/10716935.shtml",
+        "published": "2026-10-19 08:28",
+        "summary": "中国天气网讯 今天(10月19日)，长江流域一带雨势增强，重庆、湖北、安徽、江苏等地部分地区有暴雨或大暴雨，明天上述地区降雨依然持续。与此同时，新一股较强冷空气上线，将给中东部带来大风、降温天气。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "广交会观察：中国智造以创新自信走向世界舞台",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TeW9tfYyZ9",
-        "published": "2026-10-17 23:06",
-        "summary": "从“买中国货”到“帮中国货卖到全世界”——这是第140届广交会现场采购商用订单投出的信任票。 一副眼镜，能翻译122种语言，开展首日展台前就排起了各国采购商的长队。而这样的“爆款”，在本届广交会不是个案——服务机器人、智慧医疗、新能源等新兴",
+        "title": "新闻联播 2026/10/18",
+        "source": "央视网-新闻联播",
+        "link": "https://tv.cctv.com/lm/xwlb/day/20261018.shtml",
+        "published": "2026-10-18 19:00",
+        "summary": "《新闻联播》 20261018 19:00 ⏱00:29:59 [视频]【新思想引领新征程】绘就幸福“夕阳红” 持续增进民生福祉 ⏱00:05:23 [视频]李强同乌兹别克斯坦总理会谈 ⏱00:01:54 [视频]李强会见乌兹别克斯坦总统 ",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Why Britain should reject the lure of cheap – and  scary – Chinese AI",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
-        "published": "2026-10-17 23:00",
-        "summary": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from China T",
+        "title": "The AI promise was automation. The reality? Managing digital workers",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/big-tech/article/3371246/ai-promise-was-automation-reality-managing-digital-workers?utm_source=rss_feed",
+        "published": "2026-10-18 22:00",
+        "summary": "When artificial intelligence agents first arrived, they came with a tantalising promise: autonomous “digital workers” th",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "How Taiwan’s new AI satellite system aims to speed up early warning against PLA moves",
+        "title": "Trump endorses ally Netanyahu in Israeli election, praising ‘great warrior prime minister’",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/military/article/3371252/how-taiwans-new-ai-satellite-system-aims-speed-early-warning-against-pla-moves?utm_source=rss_feed",
-        "published": "2026-10-17 22:00",
-        "summary": "Taiwan will acquire an AI-powered satellite imagery system capable of rapidly identifying People’s Liberation Army ships",
-        "ai": true
+        "link": "https://www.scmp.com/news/world/middle-east/article/3371326/trump-endorses-ally-netanyahu-israeli-election-praising-great-warrior-prime-minister?utm_source=rss_feed",
+        "published": "2026-10-19 01:04",
+        "summary": "US President Donald Trump on ⁠Sunday endorsed his ally Benjamin Netanyahu ⁠as the long-time Israeli prime minister strug",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "Italy launches probe against Israeli defense minister",
-        "source": "RT",
-        "link": "https://rt-english.com/news/647328-italy-israel-katz-gaza/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-10-17 16:24",
-        "summary": "Italy has launched a probe against Israeli Defense Minister Israel Katz over alleged abuse of Gaza-bound aid flotilla ac",
+        "title": "Major fire at Canada military base leaves four dead, dozens injured",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-19 07:06",
+        "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst con",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "European diplomats attacked by Israeli settlers in West Bank",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-18 07:52",
-        "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+        "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+        "source": "NPR",
+        "link": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+        "published": "2026-10-19 02:38",
+        "summary": "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "AI used for first time to analyse lawmakers’ 5-year plan, policy address debate",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/hong-kong/politics/article/3371265/ai-used-first-time-analyse-lawmakers-5-year-plan-policy-address-debate?utm_source=rss_feed",
-        "published": "2026-10-17 19:30",
-        "summary": "Hong Kong’s legislature has for the first time used artificial intelligence (AI) to analyse lawmakers’ remarks during a ",
-        "ai": true
+        "title": "Trump looking for ‘innovative’ ways of settling Ukrainian conflict — Energy Secretary",
+        "source": "TASS",
+        "link": "https://tass.com/world/2203817",
+        "published": "2026-10-19 00:25",
+        "summary": "President Trump is trying to do is find what different way will lead to peace, US Energy Secretary Chris Wright said",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 20,
-      "min": 18,
-      "max": 25,
-      "condition": "毛毛雨",
-      "icon": "🌧️"
+      "current": null,
+      "min": null,
+      "max": null,
+      "condition": "暂不可用",
+      "icon": "🌡️"
     },
     {
       "city": "武汉",
       "current": 18,
-      "min": 16,
-      "max": 22,
+      "min": 17,
+      "max": 20,
       "condition": "阴",
       "icon": "☁️"
     },
@@ -130,19 +130,19 @@
     },
     {
       "city": "定西市安定区",
-      "current": 2,
-      "min": -1,
-      "max": 14,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 5,
+      "min": 3,
+      "max": 15,
+      "condition": "阵雨",
+      "icon": "🌦️"
     },
     {
       "city": "孝感市应城市",
-      "current": 19,
-      "min": 17,
-      "max": 22,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 18,
+      "min": 16,
+      "max": 18,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     }
   ]
 }

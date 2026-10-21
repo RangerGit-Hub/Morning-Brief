@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-20",
-  "updated_at": "2026-10-20 09:31",
+  "date": "2026-10-21",
+  "updated_at": "2026-10-21 09:14",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! Keep your heart open and your goals in sight.",
-    "language": "English",
-    "words": 11
+    "text": "Une nouvelle journée commence, riche de promesses et d’occasions.",
+    "language": "Français",
+    "words": 9
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "支持和推动三区域打造科技金融协同发展高地 多部门出台重磅文件",
-        "source": "央视网-新闻",
-        "link": "https://jingji.cctv.com/2026/10/19/ARTIhLSsXI2Rr75g4bWJKfOE261019.shtml",
-        "published": "2026-10-19 21:09",
-        "summary": "近日，中国人民银行、科技部、金融监管总局、中国证监会、国家发展改革委、工业和信息化部、财政部、人力资源社会保障部、国务院国资委、国家知识产权局、国家外汇局联合印发 《关于金融支持建设北京（京津冀）、上海（长三角）、粤港澳大湾区国际科技创新中",
+        "title": "活力中国调研行｜文昌这家民营超算中心把遥感数据卖到了新加坡",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/newsDetail_forward_34294334",
+        "published": "2026-10-21 08:53",
+        "summary": "一座由民营企业投建运营的航天超算中心，走通了全国首单卫星遥感数据出境业务。这条过去没有先例的路，在海南文昌被踩出来了。 文昌航天超算中心。（澎湃新闻记者 唐莹莹 摄） “今年5月，我们实现了全国首单遥感数据出口到新加坡的业务。在中央各部委联",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "冷空气将影响我国中东部大部地区 江淮江汉等地有较强降雨",
+        "title": "台风“蔷琵”继续向西偏北方向移动 中东部地区仍有大风降温天气",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-20/10717573.shtml",
-        "published": "2026-10-20 08:39",
-        "summary": "中新网10月20日电 据中央气象台网站消息，20日至21日，冷空气将影响我国中东部地区，关注大风降温、雨雪天气对人体健康、交通出行等的影响，做好森林草原和城乡防火工作。21日至24日，新疆北部将有持续雨雪和大风降温天气，局地累计降水量大，需",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-21/10718246.shtml",
+        "published": "2026-10-21 08:30",
+        "summary": "中新网10月21日电 据中央气象台网站消息，21日，冷空气继续影响我国中东部地区，关注大风降温、雨雪天气对人体健康、交通出行等的影响，做好森林草原和城乡防火工作；渤海、黄海等海域关注海上大风影响。21日至24日，新疆北部将有持续雨雪和大风降",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "学习进行时丨推动高质量发展，总书记强调因地制宜",
+        "title": "AI+教育，“加”什么，如何“加”",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/19/ARTIkMS54A4U2U8BShSw3fIZ261019.shtml",
-        "published": "2026-10-19 21:47",
-        "summary": "10月16日，中共中央总书记、国家主席、中央军委主席习近平在内蒙古自治区乌兰察布市考察。这是习近平总书记在察哈尔高新技术开发区考察，了解绿色算力产业发展等情况。新华社记者 岳月伟 摄 【学习进行时】“因地制宜、扬长补短，走出适合本地区实际的",
+        "link": "https://news.cctv.com/2026/10/21/ARTIFrlsUIAm2PJi7ps2APJe261021.shtml",
+        "published": "2026-10-21 00:11",
+        "summary": "对话嘉宾： 大湾区大学讲席教授、数学系主任 张宏坤 北京师范大学教授、智慧学习研究院院长 黄荣怀 宁夏银川市金凤区良田中学教师 秦春娟 科大讯飞副总裁、研究院执行院长 王士进 中国青少年研究中心2025年对7省（市）8563名中小学生进行的",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "​全国社会保障基金理事会党组召开会议 坚决拥护中央纪委国家监委给予王文灵开除党籍、开除公职处分的决定",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4Tg7kuiEBda",
-        "published": "2026-10-19 21:34",
-        "summary": "10月19日，全国社会保障基金理事会召开党组(扩大)会议，传达中央纪委国家监委给予王文灵开除党籍、开除公职处分的决定。全国社会保障基金理事会党组书记、理事长刘昆同志主持会议，党组成员参加。中央纪委国家监委驻财政部纪检监察组有关同志列席会议。",
+        "title": "未来三天我国中东部多晴好天气 适宜加快秋收秋种进度",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/20/ARTIrikSheHs7XlU1M2aDqNC261020.shtml",
+        "published": "2026-10-20 18:34",
+        "summary": "央视网消息： 据中国天气网消息，中央气象台预计，10月21至23日，东北地区、江淮、江汉等地以晴好天气为主，气象条件利于土壤散墒、加快秋收秋种进度。东南沿海地区要密切关注台风“蔷琵”动态，做好水稻提前抢收准备。 秋收秋种进展 据农业农村部最",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "焦点访谈丨让荒漠添绿又生金 看“三北”的生态蝶变",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4Tg5yO9GjN4",
-        "published": "2026-10-19 20:44",
-        "summary": "荒漠化是人类共同面临的全球性生态挑战，土地退化加速、治理资金短缺、修复模式难持续、跨境协同不足等难题，需要各国共同面对。8月闭幕的《联合国防治荒漠化公约》第十七次缔约方大会，就以“恢复土地，重燃希望”为主题，汇聚全球197个缔约方共商治沙大",
+        "title": "历史上的今天｜1949年10月21日，中央人民政府政务院正式成立",
+        "source": "澎湃新闻-精选",
+        "link": "https://m.thepaper.cn/newsDetail_forward_34289758",
+        "published": "2026-10-21 09:07",
+        "summary": "1949年10月21日，周恩来主持召开第一次政务会议，宣布中央人民政府政务院正式成立。1954年9月，根据第一届全国人民代表大会通过的宪法规定，政务院改称国务院。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "How smart will Hong Kong’s ‘AI city brain’ be?",
+        "title": "Brazil’s family farming backbone embraces Chinese AI to reverse vital sector’s decline",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/hong-kong/society/article/3371394/how-smart-will-hong-kongs-ai-city-brain-be?utm_source=rss_feed",
-        "published": "2026-10-20 08:30",
-        "summary": "When Severe Typhoon Dolphin approached eastern China in August, more than 110,000 delivery riders across Hangzhou receiv",
+        "link": "https://www.scmp.com/news/china/science/article/3371528/brazils-family-farming-backbone-embraces-chinese-ai-reverse-vital-sectors-decline",
+        "published": "2026-10-21 09:00",
+        "summary": "The family farmers who produce the lion’s share of Brazil’s staple foods are opening their arms to cutting-edge Chinese ",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Energy storage units to be installed in all Russian solar power plants",
-        "source": "TASS",
-        "link": "https://tass.com/economy/2204271",
-        "published": "2026-10-19 23:22",
-        "summary": "Russia plans to construct around 6.2 GW of generation capacity based on renewable energy sources, Energy Minister Sergey",
+        "title": "EU sending ‘biased’ observers to interfere in Serbian election – president",
+        "source": "RT",
+        "link": "https://rt-english.com/news/647444-serbia-eu-election-interference/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-10-21 00:17",
+        "summary": "The EU’s election monitoring team is biased and intends to directly intervene in Serbia’s upcoming election, Ana Brnabic",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Trump says he’s open to meeting Xi and Putin in China for nuclear talks",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/us/article/3371428/trump-says-hes-open-xi-putin-meeting-china-nuclear-talks?utm_source=rss_feed",
-        "published": "2026-10-20 04:20",
-        "summary": "US President Donald Trump said on Monday he was open to a three-way meeting with Chinese President Xi Jinping and Russia",
-        "ai": false
+        "title": "US bans use of China’s DeepSeek AI tools by government agencies",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
+        "published": "2026-10-20 20:33",
+        "summary": "Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says The US government on Monda",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "Russia-China-US summit would prolong the war, Kyiv says",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/russia-china-us-summit-would-prolong-the-war-kyiv-says",
-        "published": "2026-10-20 03:21",
-        "summary": "Ukrainian ⁠Foreign Minister ​Andrii Sybiha said on ​Monday that a summit between Russia, China ​and the ‌US would ⁠encou",
-        "ai": false
+        "title": "Commercial lenders shouldering heavier AI burden than central banks: ICBC president",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/business/banking-finance/article/3371521/commercial-lenders-shouldering-heavier-ai-burden-central-banks-icbc-president",
+        "published": "2026-10-21 07:00",
+        "summary": "As artificial intelligence reshapes the finance industry, commercial bankers are facing a “more miserable” transition th",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Russia expects Iran’s President to take part in GECF summit — Lavrov",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2204289",
-        "published": "2026-10-19 23:48",
-        "summary": "The summit will take place in Moscow in late October",
+        "title": "Musk ordered slowdown of Starlink service Ukraine military relies on, report says",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3371563/musk-ordered-slowdown-starlink-service-ukraine-military-relies-report-says",
+        "published": "2026-10-21 06:49",
+        "summary": "Elon Musk last week ⁠ordered the slowdown of ⁠a military-grade version of ⁠SpaceX’s Starlink satellite service that Ukra",
         "ai": false
       }
     ]
@@ -106,41 +106,41 @@
   "weather": [
     {
       "city": "南京",
-      "current": 20,
-      "min": 18,
-      "max": 21,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 17,
+      "min": 13,
+      "max": 19,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 18,
-      "min": 17,
-      "max": 20,
-      "condition": "毛毛雨",
-      "icon": "🌧️"
+      "current": 17,
+      "min": 16,
+      "max": 21,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "南宁",
       "current": 27,
       "min": 23,
       "max": 32,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "定西市安定区",
-      "current": 4,
-      "min": 0,
-      "max": 6,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 3,
+      "min": -2,
+      "max": 12,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 16,
-      "min": 16,
-      "max": 19,
+      "current": 17,
+      "min": 14,
+      "max": 21,
       "condition": "毛毛雨",
       "icon": "🌦️"
     }

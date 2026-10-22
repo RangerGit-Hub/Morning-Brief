@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-21",
-  "updated_at": "2026-10-21 09:14",
+  "date": "2026-10-22",
+  "updated_at": "2026-10-22 09:10",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Une nouvelle journée commence, riche de promesses et d’occasions.",
-    "language": "Français",
-    "words": 9
+    "text": "清晨好！愿你拥有清醒、勇气与温柔。",
+    "language": "中文",
+    "words": 17
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "活力中国调研行｜文昌这家民营超算中心把遥感数据卖到了新加坡",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/newsDetail_forward_34294334",
-        "published": "2026-10-21 08:53",
-        "summary": "一座由民营企业投建运营的航天超算中心，走通了全国首单卫星遥感数据出境业务。这条过去没有先例的路，在海南文昌被踩出来了。 文昌航天超算中心。（澎湃新闻记者 唐莹莹 摄） “今年5月，我们实现了全国首单遥感数据出口到新加坡的业务。在中央各部委联",
+        "title": "受权发布丨中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/21/ARTIRso2Dk80WwMgbJY74f2e261021.shtml",
+        "published": "2026-10-21 18:38",
+        "summary": "新华社北京10月21日电 中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见 为推动科技创新和产业创新深度融合，经党中央、国务院同意，现提出如下意见。 一、总体要求 坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "台风“蔷琵”继续向西偏北方向移动 中东部地区仍有大风降温天气",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-21/10718246.shtml",
-        "published": "2026-10-21 08:30",
-        "summary": "中新网10月21日电 据中央气象台网站消息，21日，冷空气继续影响我国中东部地区，关注大风降温、雨雪天气对人体健康、交通出行等的影响，做好森林草原和城乡防火工作；渤海、黄海等海域关注海上大风影响。21日至24日，新疆北部将有持续雨雪和大风降",
+        "title": "国家防总、应急管理部针对沪浙闽启动防汛防台风四级应急响应",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/22/ARTIx45J1tFqCNPzlfWzVVWJ261022.shtml",
+        "published": "2026-10-22 09:02",
+        "summary": "央视网消息 ：今年第30号台风“蔷琵”（超强台风级）中心10月22日5时距离台湾台北市东南方向约750公里，中心附近最大风力16级（55米每秒）。据中央气象台预报，“蔷琵”将于23日夜间进入东海南部海域后转为偏北方向移动，24日夜间在浙江东",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "AI+教育，“加”什么，如何“加”",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/21/ARTIFrlsUIAm2PJi7ps2APJe261021.shtml",
-        "published": "2026-10-21 00:11",
-        "summary": "对话嘉宾： 大湾区大学讲席教授、数学系主任 张宏坤 北京师范大学教授、智慧学习研究院院长 黄荣怀 宁夏银川市金凤区良田中学教师 秦春娟 科大讯飞副总裁、研究院执行院长 王士进 中国青少年研究中心2025年对7省（市）8563名中小学生进行的",
+        "title": "国家防总、应急管理部针对上海浙江福建  启动防汛防台风四级应急响应  派出工作组赴浙江协助指导防汛防台风工作",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-22/10718858.shtml",
+        "published": "2026-10-22 09:02",
+        "summary": "今年第30号台风“蔷琵”(超强台风级)中心10月22日5时距离台湾台北市东南方向约750公里，中心附近最大风力16级(55米每秒)。据中央气象台预报，“蔷琵”将于23日夜间进入东海南部海域后转为偏北方向移动，24日夜间在浙江东部近海转向东北",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "未来三天我国中东部多晴好天气 适宜加快秋收秋种进度",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/20/ARTIrikSheHs7XlU1M2aDqNC261020.shtml",
-        "published": "2026-10-20 18:34",
-        "summary": "央视网消息： 据中国天气网消息，中央气象台预计，10月21至23日，东北地区、江淮、江汉等地以晴好天气为主，气象条件利于土壤散墒、加快秋收秋种进度。东南沿海地区要密切关注台风“蔷琵”动态，做好水稻提前抢收准备。 秋收秋种进展 据农业农村部最",
+        "title": "中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
+        "source": "中国政府网-最新政策",
+        "link": "https://www.gov.cn/zhengce/202610/content_7083930.htm",
+        "published": "2026-10-21 18:17",
+        "summary": "新华社北京10月21日电 中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见 为推动科技创新和产业创新深度融合，经党中央、国务院同意，现提出如下意见。 一、总体要求 坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "历史上的今天｜1949年10月21日，中央人民政府政务院正式成立",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/newsDetail_forward_34289758",
-        "published": "2026-10-21 09:07",
-        "summary": "1949年10月21日，周恩来主持召开第一次政务会议，宣布中央人民政府政务院正式成立。1954年9月，根据第一届全国人民代表大会通过的宪法规定，政务院改称国务院。",
+        "title": "“黑色黄金”整线出口 纺织业的“高端自主”长啥样？",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-22/10718844.shtml",
+        "published": "2026-10-22 09:04",
+        "summary": "截至目前，我国已培育形成80个国家先进制造业集群，覆盖高端装备、新一代信息技术、新材料、智能网联新能源汽车等领域，实现制造业重点产业链全域贯通，集聚1700余家国家级创新载体，成为制造业创新策源的“强磁场”。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Brazil’s family farming backbone embraces Chinese AI to reverse vital sector’s decline",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/science/article/3371528/brazils-family-farming-backbone-embraces-chinese-ai-reverse-vital-sectors-decline",
-        "published": "2026-10-21 09:00",
-        "summary": "The family farmers who produce the lion’s share of Brazil’s staple foods are opening their arms to cutting-edge Chinese ",
+        "title": "AI agents disabled safeguards and one denied it – OpenAI",
+        "source": "RT",
+        "link": "https://rt-english.com/news/647491-ai-agents-disabled-safeguards-openai/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-10-22 09:02",
+        "summary": "OpenAI’s agents disabled their own safety monitoring during testing, with one of them trying to cover up the behavior, t",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "EU sending ‘biased’ observers to interfere in Serbian election – president",
-        "source": "RT",
-        "link": "https://rt-english.com/news/647444-serbia-eu-election-interference/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-10-21 00:17",
-        "summary": "The EU’s election monitoring team is biased and intends to directly intervene in Serbia’s upcoming election, Ana Brnabic",
+        "title": "Russia, China to continue expanding cooperation in all areas — Putin",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2205605",
+        "published": "2026-10-21 22:02",
+        "summary": "The Russian president noted that the two countries cooperate in areas including energy, information technology, space, a",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "US bans use of China’s DeepSeek AI tools by government agencies",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
-        "published": "2026-10-20 20:33",
-        "summary": "Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says The US government on Monda",
-        "ai": true
+        "title": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
+        "published": "2026-10-21 22:08",
+        "summary": "About 80 US, Israeli and British volunteers held near Nahalin in West Bank and taken to police station The Israeli milit",
+        "ai": false
       },
       {
         "rank": 4,
-        "title": "Commercial lenders shouldering heavier AI burden than central banks: ICBC president",
+        "title": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
         "source": "SCMP",
-        "link": "https://www.scmp.com/business/banking-finance/article/3371521/commercial-lenders-shouldering-heavier-ai-burden-central-banks-icbc-president",
-        "published": "2026-10-21 07:00",
-        "summary": "As artificial intelligence reshapes the finance industry, commercial bankers are facing a “more miserable” transition th",
+        "link": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
+        "published": "2026-10-21 22:00",
+        "summary": "The US government’s latest ban on Chinese artificial intelligence start-up DeepSeek could have a chilling effect on the ",
         "ai": true
       },
       {
         "rank": 5,
-        "title": "Musk ordered slowdown of Starlink service Ukraine military relies on, report says",
+        "title": "Hong Kong’s Election Committee race: should you care? Here’s what you need to know",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3371563/musk-ordered-slowdown-starlink-service-ukraine-military-relies-report-says",
-        "published": "2026-10-21 06:49",
-        "summary": "Elon Musk last week ⁠ordered the slowdown of ⁠a military-grade version of ⁠SpaceX’s Starlink satellite service that Ukra",
+        "link": "https://www.scmp.com/news/hong-kong/article/3371658/hong-kongs-election-committee-race-more-contests-familiar-faces-and-what-comes-next",
+        "published": "2026-10-21 18:02",
+        "summary": "Nominations have closed for Hong Kong’s Election Committee election, setting the stage for the November 22 poll. The pol",
         "ai": false
       }
     ]
@@ -106,8 +106,8 @@
   "weather": [
     {
       "city": "南京",
-      "current": 17,
-      "min": 13,
+      "current": 15,
+      "min": 11,
       "max": 19,
       "condition": "阴",
       "icon": "☁️"
@@ -115,34 +115,34 @@
     {
       "city": "武汉",
       "current": 17,
-      "min": 16,
-      "max": 21,
+      "min": 15,
+      "max": 20,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 27,
-      "min": 23,
-      "max": 32,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 23,
+      "min": 21,
+      "max": 30,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "定西市安定区",
-      "current": 3,
-      "min": -2,
-      "max": 12,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 6,
+      "min": 2,
+      "max": 17,
+      "condition": "毛毛雨",
+      "icon": "🌧️"
     },
     {
       "city": "孝感市应城市",
-      "current": 17,
-      "min": 14,
-      "max": 21,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 15,
+      "min": 12,
+      "max": 20,
+      "condition": "多云",
+      "icon": "⛅"
     }
   ]
 }

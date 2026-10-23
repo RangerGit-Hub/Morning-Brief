@@ -1,114 +1,114 @@
 {
-  "date": "2026-10-22",
-  "updated_at": "2026-10-22 09:10",
+  "date": "2026-10-23",
+  "updated_at": "2026-10-23 09:10",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "清晨好！愿你拥有清醒、勇气与温柔。",
-    "language": "中文",
-    "words": 17
+    "text": "A new sunrise, a new chance to do something wonderful.",
+    "language": "English",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "受权发布丨中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/21/ARTIRso2Dk80WwMgbJY74f2e261021.shtml",
-        "published": "2026-10-21 18:38",
-        "summary": "新华社北京10月21日电 中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见 为推动科技创新和产业创新深度融合，经党中央、国务院同意，现提出如下意见。 一、总体要求 坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党",
+        "title": "西藏巴青发生7.0级地震 两部门启动国家地震灾害四级应急响应",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-23/10719484.shtml",
+        "published": "2026-10-23 08:39",
+        "summary": "中新社北京10月23日电 (记者 郭超凯)记者23日从中国应急管理部获悉，西藏那曲市巴青县发生7.0级地震后，国务院抗震救灾指挥部办公室、应急管理部启动国家地震灾害四级应急响应。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "国家防总、应急管理部针对沪浙闽启动防汛防台风四级应急响应",
+        "title": "海浪橙色警报：浙江南部、福建近岸海域将出现4到5米的巨浪",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/22/ARTIx45J1tFqCNPzlfWzVVWJ261022.shtml",
-        "published": "2026-10-22 09:02",
-        "summary": "央视网消息 ：今年第30号台风“蔷琵”（超强台风级）中心10月22日5时距离台湾台北市东南方向约750公里，中心附近最大风力16级（55米每秒）。据中央气象台预报，“蔷琵”将于23日夜间进入东海南部海域后转为偏北方向移动，24日夜间在浙江东",
+        "link": "https://news.cctv.com/2026/10/22/ARTIrMZHLvkQC7hyy51mdHlS261022.shtml",
+        "published": "2026-10-22 16:15",
+        "summary": "央视网消息： 国家海洋预报台10月22日16时发布海浪橙色警报。受今年第30号台风“蔷琵”（超强台风级）的影响，预计：10月22日下午到23日下午，东海南部、钓鱼岛附近海域、台湾以东洋面将出现6到9米的狂浪到狂涛区，台湾海峡、南海东北部、巴",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "国家防总、应急管理部针对上海浙江福建  启动防汛防台风四级应急响应  派出工作组赴浙江协助指导防汛防台风工作",
+        "title": "部分企业在开展个人信息收集与应用服务中存在问题 专家建议治理转向前端管住采集源头",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-22/10718858.shtml",
-        "published": "2026-10-22 09:02",
-        "summary": "今年第30号台风“蔷琵”(超强台风级)中心10月22日5时距离台湾台北市东南方向约750公里，中心附近最大风力16级(55米每秒)。据中央气象台预报，“蔷琵”将于23日夜间进入东海南部海域后转为偏北方向移动，24日夜间在浙江东部近海转向东北",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-23/10719479.shtml",
+        "published": "2026-10-23 08:06",
+        "summary": "今年9月初，在四川成都读大学的陈涛(化名)在某兼职群看到有人发布一则“轻松日结、无需出镜拍戏”的AI兼职招募信息。联系对方后，陈涛了解到，只需提供多角度人脸照片、配合完成动态人脸识别，就能一次性领取500元报酬。觉得无需花费太多时间和精力就",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
-        "source": "中国政府网-最新政策",
-        "link": "https://www.gov.cn/zhengce/202610/content_7083930.htm",
-        "published": "2026-10-21 18:17",
-        "summary": "新华社北京10月21日电 中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见 为推动科技创新和产业创新深度融合，经党中央、国务院同意，现提出如下意见。 一、总体要求 坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党",
+        "title": "国家粮食和物资储备局向西藏调运中央救灾物资支持做好救灾救助工作",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TiySyZzAo8",
+        "published": "2026-10-23 07:59",
+        "summary": "10月23日凌晨，根据西藏那曲巴青7.0级地震抗震救灾工作需要，按照应急管理部调令，国家粮食和物资储备局连夜调运棉帐篷、棉大衣、棉被、折叠床等5000件（套）中央救灾物资，支持灾区保障受灾群众基本生活。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "“黑色黄金”整线出口 纺织业的“高端自主”长啥样？",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-22/10718844.shtml",
-        "published": "2026-10-22 09:04",
-        "summary": "截至目前，我国已培育形成80个国家先进制造业集群，覆盖高端装备、新一代信息技术、新材料、智能网联新能源汽车等领域，实现制造业重点产业链全域贯通，集聚1700余家国家级创新载体，成为制造业创新策源的“强磁场”。",
+        "title": "中央气象台10月23日06时继续发布台风蓝色预警",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4Tiwaw2P9Bu",
+        "published": "2026-10-23 07:07",
+        "summary": "中央气象台10月2 3 日 06 时继续发布台风蓝色预警： 今年第30号台风“蔷琵”（强台风级）的中心今天（23日）早晨5点钟位于台湾省台北市东南方向约405公里的洋面上，就是北纬22.2度，东经124.0度，中心附近最大风力14级（45米",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "AI agents disabled safeguards and one denied it – OpenAI",
-        "source": "RT",
-        "link": "https://rt-english.com/news/647491-ai-agents-disabled-safeguards-openai/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-10-22 09:02",
-        "summary": "OpenAI’s agents disabled their own safety monitoring during testing, with one of them trying to cover up the behavior, t",
+        "title": "Fresh Hong Kong graduates feel AI impact as degree pay advantage narrows",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371826/fresh-hong-kong-graduates-feel-ai-impact-degree-pay-advantage-narrows",
+        "published": "2026-10-23 08:30",
+        "summary": "Fresh Hong Kong graduates are increasingly feeling the impact of artificial intelligence (AI) as they enter the workforc",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Russia, China to continue expanding cooperation in all areas — Putin",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2205605",
-        "published": "2026-10-21 22:02",
-        "summary": "The Russian president noted that the two countries cooperate in areas including energy, information technology, space, a",
-        "ai": false
+        "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+        "published": "2026-10-23 05:50",
+        "summary": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing The lates",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
+        "title": "Australia offers astronaut Katherine Bennell-Pegg for space mission to International Space Station",
         "source": "The Guardian",
-        "link": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
-        "published": "2026-10-21 22:08",
-        "summary": "About 80 US, Israeli and British volunteers held near Nahalin in West Bank and taken to police station The Israeli milit",
+        "link": "https://www.theguardian.com/australia-news/2026/oct/23/australian-astronaut-katherine-bennell-pegg-2028-space-mission",
+        "published": "2026-10-23 07:51",
+        "summary": "Australian of the Year would become the first astronaut in space to qualify under the Australian flag if she embarks on ",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
-        "published": "2026-10-21 22:00",
-        "summary": "The US government’s latest ban on Chinese artificial intelligence start-up DeepSeek could have a chilling effect on the ",
+        "title": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
+        "published": "2026-10-23 05:30",
+        "summary": "PM will also announce funding for specialised protective gear and the deployment of military aircraft The UK government ",
         "ai": true
       },
       {
         "rank": 5,
-        "title": "Hong Kong’s Election Committee race: should you care? Here’s what you need to know",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/hong-kong/article/3371658/hong-kongs-election-committee-race-more-contests-familiar-faces-and-what-comes-next",
-        "published": "2026-10-21 18:02",
-        "summary": "Nominations have closed for Hong Kong’s Election Committee election, setting the stage for the November 22 poll. The pol",
-        "ai": false
+        "title": "Rogue AI agents infiltrating US bank accounts – Axios",
+        "source": "RT",
+        "link": "https://rt-english.com/news/647535-ai-agents-bank-warning/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-10-23 04:39",
+        "summary": "US banks have detected unvetted AI agents accessing customer accounts, with some appearing to act beyond users’ instruct",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 15,
-      "min": 11,
-      "max": 19,
+      "current": 17,
+      "min": 14,
+      "max": 21,
       "condition": "阴",
       "icon": "☁️"
     },
@@ -116,33 +116,33 @@
       "city": "武汉",
       "current": 17,
       "min": 15,
-      "max": 20,
-      "condition": "阴",
-      "icon": "☁️"
+      "max": 22,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "南宁",
-      "current": 23,
-      "min": 21,
-      "max": 30,
+      "current": 26,
+      "min": 24,
+      "max": 32,
       "condition": "大部晴朗",
       "icon": "🌤️"
     },
     {
       "city": "定西市安定区",
-      "current": 6,
-      "min": 2,
+      "current": 5,
+      "min": 4,
       "max": 17,
-      "condition": "毛毛雨",
-      "icon": "🌧️"
+      "condition": "雾",
+      "icon": "🌫️"
     },
     {
       "city": "孝感市应城市",
-      "current": 15,
-      "min": 12,
-      "max": 20,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 17,
+      "min": 14,
+      "max": 22,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     }
   ]
 }

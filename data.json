@@ -1,63 +1,72 @@
 {
-  "date": "2026-10-24",
-  "updated_at": "2026-10-24 09:20",
+  "date": "2026-10-25",
+  "updated_at": "2026-10-25 08:46",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Cultivez la joie et partagez un peu de lumière.",
-    "language": "Français",
-    "words": 11
+    "text": "早安！愿每一步都有意义，每天有进步。",
+    "language": "中文",
+    "words": 18
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "新闻联播 2026/10/23",
-        "source": "央视网-新闻联播",
-        "link": "https://tv.cctv.com/lm/xwlb/day/20261023.shtml",
-        "published": "2026-10-23 19:00",
-        "summary": "《新闻联播》 20261023 19:00 ⏱00:30:01 [视频]中共中央政治局召开会议 审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议 ⏱00:01:47 [视频]习近平对西藏那曲市巴青县7.0级地震作",
+        "title": "中国记协第十届理事会第八次常务理事会议在京召开",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-25/10720545.shtml",
+        "published": "2026-10-25 08:25",
+        "summary": "10月24日，中华全国新闻工作者协会(简称“中国记协”)第十届理事会第八次常务理事会议在京召开。中国记协主席何平主持并讲话，中国记协副主席、常务理事参加，省级记协主席、副主席、秘书长列席会议，中央组织部干部三局、中央宣传部干部局、财政部行政",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "【8点见】店员掐人中施救顾客反被索赔46万元？法院判了",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/24/ARTInrQ2Uno43xKufN7Bijdl261024.shtml",
-        "published": "2026-10-24 08:00",
-        "summary": "央视网消息 ：每天8点，央视网为您梳理24小时内发生在咱们身边的大小事儿。 ·截至10月23日18时，西藏巴青地震，未发现失联人员。中央组织部从代中央管理党费中划拨2500万元支持抗震救灾。 ·截至10月23日13时，西藏巴青地震已致16人",
+        "title": "20类救灾物资已陆续运往西藏巴青地震灾区",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720506.shtml",
+        "published": "2026-10-24 21:26",
+        "summary": "中新网那曲10月24日电 (卢鑫)24日，西藏自治区那曲市抗震救灾指挥部公布信息，中央、自治区、市、县四级调配的20类救灾物资已陆续运往灾区。救灾物资中不但包含棉衣、棉裤、折叠床等灾区急需的生活物资，其中1台大型无人机翼龙已到达现场。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "王毅会见联合国难民事务高级专员萨利赫",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720180.shtml",
-        "published": "2026-10-24 09:16",
-        "summary": "中新社雄安10月24日电 (记者 曾玥 周昕)10月23日，中共中央政治局委员、外交部长王毅在河北雄安新区会见来华出席2026全球治理论坛(雄安)的联合国难民事务高级专员萨利赫。",
+        "title": "Xi's key remarks on advancing full and rigorous Party self-governance",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-10-24/Xi-s-key-remarks-on-advancing-full-and-rigorous-Party-self-governance-1RuL4xceBB6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-10-24 10:59",
+        "summary": "Xi Jinping, general secretary of the Communist Party of China (CPC) Central Committee, Chinese president and chairman of",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "王毅出席2026全球治理论坛（雄安）开幕式",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720179.shtml",
-        "published": "2026-10-24 09:15",
-        "summary": "中新社雄安10月24日电 (记者 曾玥 周昕)10月23日，2026全球治理论坛(雄安)开幕式在河北雄安新区举行，中共中央政治局委员、外交部长王毅出席，宣读习近平主席致信并作主旨发言。",
+        "title": "All aboard: China and Guinea train Simandou railway crews",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-10-24/All-aboard-China-and-Guinea-train-Simandou-railway-crews-1RuEXeWIDuw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-10-24 09:17",
+        "summary": "All aboard: China and Guinea train Simandou railway crews",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "走好新的长征路，为人类进步事业作出更大贡献",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/24/ARTImUVFKXWuuWIyly879dp3261024.shtml",
-        "published": "2026-10-24 06:21",
-        "summary": "面对世界之变、时代之变、历史之变，中国将继续弘扬伟大长征精神，走好新时代的长征路，为推动构建人类命运共同体贡献力量 10月22日，习近平总书记在纪念中国工农红军长征胜利90周年大会上发表重要讲话，深刻揭示长征胜利蕴含的党和人民军队铿锵前进的",
+        "title": "中国商务部回应美发布新版对外投资限制拟议规则",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720519.shtml",
+        "published": "2026-10-24 22:01",
+        "summary": "中新社北京10月24日电 (记者 尹倩芸)美国财政部日前发布新版对外投资限制拟议规则，征求公众评论意见。中国商务部新闻发言人24日在答记者问时表示，中方对此坚决反对，将保留采取相应措施的权利。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
+        "title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
+        "published": "2026-10-25 08:00",
+        "summary": "Singapore is turning to major technology firms to strengthen its cyber defences, even as it presses them for greater tra",
+        "ai": true
+      },
+      {
+        "rank": 2,
         "title": "China’s AI compute surge heavily reliant on US chips, offshore cloud access: report",
         "source": "SCMP",
         "link": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
@@ -66,39 +75,30 @@
         "ai": true
       },
       {
-        "rank": 2,
-        "title": "West Bank: Extensive military operation 'on the way', Netanyahu says",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says",
-        "published": "2026-10-23 23:56",
-        "summary": "Israeli Prime Minister Benjamin Netanyahu on Friday warned of an imminent large-scale military operation in the West Ban",
-        "ai": false
-      },
-      {
         "rank": 3,
-        "title": "China warns against space arms race, urges equal rights for all in outer space",
+        "title": "How to share AI wealth? Neither the US nor Asia has the answer",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3371975/china-warns-against-space-arms-race-urges-equal-rights-all-outer-space",
-        "published": "2026-10-23 22:22",
-        "summary": "China has unveiled a position paper on outer space governance, prioritising the prevention of space weaponisation while ",
-        "ai": false
+        "link": "https://www.scmp.com/opinion/world-opinion/article/3371822/how-share-ai-wealth-neither-us-nor-asia-has-answer",
+        "published": "2026-10-25 05:30",
+        "summary": "On October 18, Anthropic, the artificial intelligence (AI) laboratory preparing one of the largest listings in history, ",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "Netanyahu orders West Bank closure after attack on Israelis ends in gun battle",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3371912/netanyahu-orders-west-bank-closure-after-deadly-checkpoint-shoot-out",
-        "published": "2026-10-23 16:29",
-        "summary": "Prime Minister Benjamin Netanyahu threatened a military operation in the occupied West Bank on a scale unseen in decades",
+        "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+        "published": "2026-10-25 05:25",
+        "summary": "But Elon Musk, whose company SpaceX owns Starlink, accuses Ukrainian military of violating ⁠the company’s terms Ukraine’",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-        "published": "2026-10-24 06:03",
-        "summary": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Tru",
+        "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+        "published": "2026-10-25 04:37",
+        "summary": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
         "ai": false
       }
     ]
@@ -106,32 +106,32 @@
   "weather": [
     {
       "city": "南京",
-      "current": 17,
-      "min": 15,
-      "max": 21,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 18,
+      "min": 16,
+      "max": 24,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "武汉",
-      "current": 18,
-      "min": 15,
+      "current": 19,
+      "min": 16,
       "max": 24,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
-    },
-    {
-      "city": "南宁",
-      "current": 25,
-      "min": 22,
-      "max": 31,
       "condition": "阴",
       "icon": "☁️"
     },
     {
+      "city": "南宁",
+      "current": 24,
+      "min": 24,
+      "max": 31,
+      "condition": "多云",
+      "icon": "⛅"
+    },
+    {
       "city": "定西市安定区",
-      "current": 6,
-      "min": 4,
+      "current": 4,
+      "min": 2,
       "max": 9,
       "condition": "阴",
       "icon": "☁️"
@@ -139,10 +139,10 @@
     {
       "city": "孝感市应城市",
       "current": 19,
-      "min": 14,
-      "max": 24,
-      "condition": "晴",
-      "icon": "☀️"
+      "min": 17,
+      "max": 25,
+      "condition": "多云",
+      "icon": "⛅"
     }
   ]
 }

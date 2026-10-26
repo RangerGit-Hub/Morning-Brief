@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-25",
-  "updated_at": "2026-10-25 08:46",
+  "date": "2026-10-26",
+  "updated_at": "2026-10-26 08:57",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！愿每一步都有意义，每天有进步。",
-    "language": "中文",
-    "words": 18
+    "text": "Good morning! May today reward your patience and effort.",
+    "language": "English",
+    "words": 9
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "中国记协第十届理事会第八次常务理事会议在京召开",
+        "title": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-25/10720545.shtml",
-        "published": "2026-10-25 08:25",
-        "summary": "10月24日，中华全国新闻工作者协会(简称“中国记协”)第十届理事会第八次常务理事会议在京召开。中国记协主席何平主持并讲话，中国记协副主席、常务理事参加，省级记协主席、副主席、秘书长列席会议，中央组织部干部三局、中央宣传部干部局、财政部行政",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-26/10720890.shtml",
+        "published": "2026-10-26 08:08",
+        "summary": "中新网10月26日电 据中央气象台网站消息，昨日，内蒙古、河北等地部分地区出现雨雪天气。预计今明两天，北方地区将有大风降温天气，黑龙江、内蒙古等地有雨雪天气，关注对交通、城市运行及农牧业等的影响。渤海、黄海、东海、台湾海峡等海域关注海上大风",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "20类救灾物资已陆续运往西藏巴青地震灾区",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720506.shtml",
-        "published": "2026-10-24 21:26",
-        "summary": "中新网那曲10月24日电 (卢鑫)24日，西藏自治区那曲市抗震救灾指挥部公布信息，中央、自治区、市、县四级调配的20类救灾物资已陆续运往灾区。救灾物资中不但包含棉衣、棉裤、折叠床等灾区急需的生活物资，其中1台大型无人机翼龙已到达现场。",
+        "title": "中央气象台对台风“蔷琵”停止编号",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TlSGZis140",
+        "published": "2026-10-26 07:44",
+        "summary": "据中央气象台消息，今年第30号台风“蔷琵”25日23时在东海东北部海面变性为温带气旋，中央气象台对其停止编号。（来源 中国天气网）",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Xi's key remarks on advancing full and rigorous Party self-governance",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-10-24/Xi-s-key-remarks-on-advancing-full-and-rigorous-Party-self-governance-1RuL4xceBB6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-10-24 10:59",
-        "summary": "Xi Jinping, general secretary of the Communist Party of China (CPC) Central Committee, Chinese president and chairman of",
+        "title": "央行今日开展7000亿元中期借贷便利操作",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TlTcsNz625",
+        "published": "2026-10-26 08:22",
+        "summary": "为保持银行体系流动性充裕，今天，中国人民银行将以固定数量、利率招标、多重价位中标方式 开展7000亿元中期借贷便利（MLF）操作，期限为1年期。 中期借贷便利是中央银行提供中期基础货币的货币政策工具，可通过招标方式开展。 （总台央视记者 孙",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "All aboard: China and Guinea train Simandou railway crews",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-10-24/All-aboard-China-and-Guinea-train-Simandou-railway-crews-1RuEXeWIDuw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-10-24 09:17",
-        "summary": "All aboard: China and Guinea train Simandou railway crews",
+        "title": "习近平同比利时国王菲利普就中比建交55周年互致贺信",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/25/ARTIpf9mifVZpLFlAPpXT1zw261025.shtml",
+        "published": "2026-10-25 17:39",
+        "summary": "新华社北京10月25日电 10月25日，国家主席习近平同比利时国王菲利普互致贺信，庆祝两国建交55周年。 习近平指出，建交55年来，中国和比利时坚持相互尊重、平等相待、互利共赢，两国关系平稳发展。双方各领域交流合作亮点纷呈、成果丰硕，两国人",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "中国商务部回应美发布新版对外投资限制拟议规则",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720519.shtml",
-        "published": "2026-10-24 22:01",
-        "summary": "中新社北京10月24日电 (记者 尹倩芸)美国财政部日前发布新版对外投资限制拟议规则，征求公众评论意见。中国商务部新闻发言人24日在答记者问时表示，中方对此坚决反对，将保留采取相应措施的权利。",
+        "title": "跟着一块锂电池“扬帆出海” 读懂中国开放新趋势——向新、向绿、向远",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/25/ARTIzvKWADdPlyajxcs8FMzN261025.shtml",
+        "published": "2026-10-25 17:04",
+        "summary": "[!--begin:htmlVideoCode--]7b887f76d4414b44a594a6b6efd507da,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 福建厦门港是我国锂电池",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
+        "title": "Why cloud computing pioneer Wang Jian thinks space is the next AI frontier",
         "source": "SCMP",
-        "link": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency",
-        "published": "2026-10-25 08:00",
-        "summary": "Singapore is turning to major technology firms to strengthen its cyber defences, even as it presses them for greater tra",
+        "link": "https://www.scmp.com/tech/tech-trends/article/3371979/why-cloud-computing-pioneer-wang-jian-thinks-space-next-ai-frontier",
+        "published": "2026-10-26 06:00",
+        "summary": "Long before artificial intelligence became the next big thing in the tech industry, Wang Jian was crafting the foundatio",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "China’s AI compute surge heavily reliant on US chips, offshore cloud access: report",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
-        "published": "2026-10-24 09:00",
-        "summary": "China’s access to artificial intelligence computing power will double next year, but US-designed chips will account for ",
-        "ai": true
+        "title": "Incumbent President of Brazil Lula da Silva wins presidential election",
+        "source": "TASS",
+        "link": "https://tass.com/world/2207637",
+        "published": "2026-10-26 08:49",
+        "summary": "The official was re-elected as the president of the country for a fourth term",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "How to share AI wealth? Neither the US nor Asia has the answer",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/opinion/world-opinion/article/3371822/how-share-ai-wealth-neither-us-nor-asia-has-answer",
-        "published": "2026-10-25 05:30",
-        "summary": "On October 18, Anthropic, the artificial intelligence (AI) laboratory preparing one of the largest listings in history, ",
-        "ai": true
+        "title": "Brazil's President Lula da Silva beats Flavio Bolsonaro to win re-election",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election",
+        "published": "2026-10-26 08:23",
+        "summary": "Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Fla",
+        "ai": false
       },
       {
         "rank": 4,
-        "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+        "title": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live as it happened",
         "source": "The Guardian",
-        "link": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
-        "published": "2026-10-25 05:25",
-        "summary": "But Elon Musk, whose company SpaceX owns Starlink, accuses Ukrainian military of violating ⁠the company’s terms Ukraine’",
+        "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+        "published": "2026-10-26 07:40",
+        "summary": "Student List movement projected to have 141 seats in the new parliament, well clear of the 126 required for majority Ser",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+        "title": "Bulgaria election heads to a run-off amid low voter turnout",
         "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
-        "published": "2026-10-25 04:37",
-        "summary": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
+        "link": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
+        "published": "2026-10-26 06:57",
+        "summary": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week.",
         "ai": false
       }
     ]
@@ -107,42 +107,42 @@
     {
       "city": "南京",
       "current": 18,
-      "min": 16,
-      "max": 24,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "min": 14,
+      "max": 23,
+      "condition": "雾",
+      "icon": "🌫️"
     },
     {
       "city": "武汉",
-      "current": 19,
-      "min": 16,
-      "max": 24,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 20,
+      "min": 18,
+      "max": 25,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "南宁",
-      "current": 24,
-      "min": 24,
-      "max": 31,
-      "condition": "多云",
-      "icon": "⛅"
-    },
-    {
-      "city": "定西市安定区",
-      "current": 4,
-      "min": 2,
-      "max": 9,
+      "current": 26,
+      "min": 23,
+      "max": 32,
       "condition": "阴",
       "icon": "☁️"
     },
     {
-      "city": "孝感市应城市",
-      "current": 19,
-      "min": 17,
-      "max": 25,
+      "city": "定西市安定区",
+      "current": 2,
+      "min": 1,
+      "max": 9,
       "condition": "多云",
       "icon": "⛅"
+    },
+    {
+      "city": "孝感市应城市",
+      "current": 21,
+      "min": 17,
+      "max": 24,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     }
   ]
 }

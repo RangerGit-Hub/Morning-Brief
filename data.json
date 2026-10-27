@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-26",
-  "updated_at": "2026-10-26 08:57",
+  "date": "2026-10-27",
+  "updated_at": "2026-10-27 09:47",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! May today reward your patience and effort.",
-    "language": "English",
-    "words": 9
+    "text": "Que votre matin soit paisible et votre journée couronnée de succès.",
+    "language": "Français",
+    "words": 11
   },
   "news": {
     "domestic": [
@@ -13,136 +13,136 @@
         "rank": 1,
         "title": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-26/10720890.shtml",
-        "published": "2026-10-26 08:08",
-        "summary": "中新网10月26日电 据中央气象台网站消息，昨日，内蒙古、河北等地部分地区出现雨雪天气。预计今明两天，北方地区将有大风降温天气，黑龙江、内蒙古等地有雨雪天气，关注对交通、城市运行及农牧业等的影响。渤海、黄海、东海、台湾海峡等海域关注海上大风",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721450.shtml",
+        "published": "2026-10-27 08:27",
+        "summary": "中新网10月27日电 据中央气象台网站消息，昨日，海南岛出现较强降雨，内蒙古、华北、东北出现大风天气。预计未来三天，黑龙江、内蒙古等地有雨雪天气；今明两天北方地区大风降温天气持续；关注对交通、农牧业等的影响。东海、台湾海峡等海域关注海上大风",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "中央气象台对台风“蔷琵”停止编号",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TlSGZis140",
-        "published": "2026-10-26 07:44",
-        "summary": "据中央气象台消息，今年第30号台风“蔷琵”25日23时在东海东北部海面变性为温带气旋，中央气象台对其停止编号。（来源 中国天气网）",
+        "title": "机构：运营力正成为衡量住房租赁资产长期价值新尺度",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-27/10721454.shtml",
+        "published": "2026-10-27 09:31",
+        "summary": "中新网北京10月27日电(记者 谢艺观)“当规模红利逐渐退去，运营力正在成为衡量住房租赁资产长期价值的新尺度。”ICCRA住房租赁产业研究院院长赵然在第八届领航·住房租赁产业国际论坛上如是表示。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "央行今日开展7000亿元中期借贷便利操作",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TlTcsNz625",
-        "published": "2026-10-26 08:22",
-        "summary": "为保持银行体系流动性充裕，今天，中国人民银行将以固定数量、利率招标、多重价位中标方式 开展7000亿元中期借贷便利（MLF）操作，期限为1年期。 中期借贷便利是中央银行提供中期基础货币的货币政策工具，可通过招标方式开展。 （总台央视记者 孙",
+        "title": "China marks anniversary of Taiwan's recovery",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-10-26/China-marks-anniversary-of-Taiwan-s-recovery-1RxYyQoNtII/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-10-26 10:11",
+        "summary": "China on Sunday marked the 81st anniversary of its recovery of Taiwan and observed Taiwan Recovery Day, with commemorati",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "习近平同比利时国王菲利普就中比建交55周年互致贺信",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/25/ARTIpf9mifVZpLFlAPpXT1zw261025.shtml",
-        "published": "2026-10-25 17:39",
-        "summary": "新华社北京10月25日电 10月25日，国家主席习近平同比利时国王菲利普互致贺信，庆祝两国建交55周年。 习近平指出，建交55年来，中国和比利时坚持相互尊重、平等相待、互利共赢，两国关系平稳发展。双方各领域交流合作亮点纷呈、成果丰硕，两国人",
+        "title": "量质齐升，中国外贸何以表现强劲？",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-27/10721461.shtml",
+        "published": "2026-10-27 08:59",
+        "summary": "量质齐升，中国外贸何以表现强劲？(开放谈)",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "跟着一块锂电池“扬帆出海” 读懂中国开放新趋势——向新、向绿、向远",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/25/ARTIzvKWADdPlyajxcs8FMzN261025.shtml",
-        "published": "2026-10-25 17:04",
-        "summary": "[!--begin:htmlVideoCode--]7b887f76d4414b44a594a6b6efd507da,0,1,16:9,newPlayer[!--end:htmlVideoCode--] 央视网消息： 福建厦门港是我国锂电池",
+        "title": "中央纪委国家监委通报2026年1至9月全国纪检监察机关监督检查审查调查情况",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-27/10721440.shtml",
+        "published": "2026-10-27 07:16",
+        "summary": "图1：全国纪检监察机关处分人员按职级划分图 图2：全国纪检监察机关运用“四种形态”占比图 本报讯 2026年1至9月，全国纪检监察机关共接收信访举报350.6万件次，其中检举控告类信访举报84.7万件次。处置问题线索214.9万件。立案80",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Why cloud computing pioneer Wang Jian thinks space is the next AI frontier",
+        "title": "Taiwan looks to autonomous swarms to counter Beijing’s grey-zone pressure",
         "source": "SCMP",
-        "link": "https://www.scmp.com/tech/tech-trends/article/3371979/why-cloud-computing-pioneer-wang-jian-thinks-space-next-ai-frontier",
-        "published": "2026-10-26 06:00",
-        "summary": "Long before artificial intelligence became the next big thing in the tech industry, Wang Jian was crafting the foundatio",
+        "link": "https://www.scmp.com/news/china/military/article/3372189/taiwan-looks-autonomous-swarms-counter-beijings-grey-zone-pressure",
+        "published": "2026-10-27 09:00",
+        "summary": "Taiwan is developing an AI-powered system to coordinate drone fleets for maritime surveillance and countering “grey-zone",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Incumbent President of Brazil Lula da Silva wins presidential election",
+        "title": "Russia ready for further cooperation with Slovakia on nuclear energy — minister",
         "source": "TASS",
-        "link": "https://tass.com/world/2207637",
-        "published": "2026-10-26 08:49",
-        "summary": "The official was re-elected as the president of the country for a fourth term",
+        "link": "https://tass.com/economy/2207999",
+        "published": "2026-10-26 22:38",
+        "summary": "Valery Falkov recalled that Russian enterprises had been supplying nuclear fuel to Slovakia’s nuclear power plants for m",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Brazil's President Lula da Silva beats Flavio Bolsonaro to win re-election",
+        "title": "Leaders across Americas react to Brazil President Lula's re-election",
         "source": "France 24",
-        "link": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election",
-        "published": "2026-10-26 08:23",
-        "summary": "Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Fla",
+        "link": "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election",
+        "published": "2026-10-27 01:05",
+        "summary": "​President Luiz Inacio Lula da Silva won Brazil's presidential election on Sunday (October 25), defeating right-wing ​Se",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live as it happened",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-        "published": "2026-10-26 07:40",
-        "summary": "Student List movement projected to have 141 seats in the new parliament, well clear of the 126 required for majority Ser",
-        "ai": false
+        "title": "EU country turns to AI to slash government workforce",
+        "source": "RT",
+        "link": "https://rt-english.com/news/647761-netherlands-ai-government-job-cuts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-10-27 00:53",
+        "summary": "The Netherlands plans to cut 25,000 government jobs by 2035, using AI and administrative reforms to save billions annual",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Bulgaria election heads to a run-off amid low voter turnout",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
-        "published": "2026-10-26 06:57",
-        "summary": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week.",
-        "ai": false
+        "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
+        "published": "2026-10-27 08:01",
+        "summary": "Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been em",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 18,
-      "min": 14,
-      "max": 23,
-      "condition": "雾",
-      "icon": "🌫️"
+      "current": 17,
+      "min": 13,
+      "max": 20,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "武汉",
-      "current": 20,
-      "min": 18,
-      "max": 25,
+      "current": 18,
+      "min": 16,
+      "max": 21,
       "condition": "大部晴朗",
       "icon": "🌤️"
     },
     {
       "city": "南宁",
-      "current": 26,
-      "min": 23,
-      "max": 32,
+      "current": 28,
+      "min": 24,
+      "max": 31,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
+    },
+    {
+      "city": "定西市安定区",
+      "current": 5,
+      "min": -1,
+      "max": 12,
       "condition": "阴",
       "icon": "☁️"
     },
     {
-      "city": "定西市安定区",
-      "current": 2,
-      "min": 1,
-      "max": 9,
-      "condition": "多云",
-      "icon": "⛅"
-    },
-    {
       "city": "孝感市应城市",
-      "current": 21,
-      "min": 17,
-      "max": 24,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 18,
+      "min": 16,
+      "max": 21,
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

@@ -1,105 +1,105 @@
 {
-  "date": "2026-10-27",
-  "updated_at": "2026-10-27 09:47",
+  "date": "2026-10-28",
+  "updated_at": "2026-10-28 09:59",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Que votre matin soit paisible et votre journée couronnée de succès.",
-    "language": "Français",
-    "words": 11
+    "text": "天亮了，愿你带着希望迎接新一天。",
+    "language": "中文",
+    "words": 16
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721450.shtml",
-        "published": "2026-10-27 08:27",
-        "summary": "中新网10月27日电 据中央气象台网站消息，昨日，海南岛出现较强降雨，内蒙古、华北、东北出现大风天气。预计未来三天，黑龙江、内蒙古等地有雨雪天气；今明两天北方地区大风降温天气持续；关注对交通、农牧业等的影响。东海、台湾海峡等海域关注海上大风",
+        "title": "向新向优向好 多维度数据看前三季度中国经济活力",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/28/ARTIoSFFXp0Ir7OwAiwotmwJ261028.shtml",
+        "published": "2026-10-28 06:32",
+        "summary": "近期 多部门陆续发布 前三季度经济运行相关数据 中部地区外贸发展持续增强 国内出游消费释放活力 新能源装机规模持续壮大 …… 一组数据彰显高质量发展的澎湃韧性 流动不息的烟火与货流 汇聚中国经济 稳中有进的强劲力量 制片人丨武慧锋 策划丨闫",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "机构：运营力正成为衡量住房租赁资产长期价值新尺度",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-27/10721454.shtml",
-        "published": "2026-10-27 09:31",
-        "summary": "中新网北京10月27日电(记者 谢艺观)“当规模红利逐渐退去，运营力正在成为衡量住房租赁资产长期价值的新尺度。”ICCRA住房租赁产业研究院院长赵然在第八届领航·住房租赁产业国际论坛上如是表示。",
+        "title": "中国青少年发展基金会拨付资金支持西藏那曲救灾",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TmkLNMQjYW",
+        "published": "2026-10-27 21:05",
+        "summary": "新华社北京10月27日电（记者王明玉）记者10月27日从中国青少年发展基金会获悉，西藏那曲市巴青县发生7.0级地震后，中国青少年发展基金会在共青团中央指导下，紧急启动“希望同行 紧急救灾——2026希望工程驰援那曲抗震救灾特别行动”，为灾区",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "China marks anniversary of Taiwan's recovery",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-10-26/China-marks-anniversary-of-Taiwan-s-recovery-1RxYyQoNtII/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-10-26 10:11",
-        "summary": "China on Sunday marked the 81st anniversary of its recovery of Taiwan and observed Taiwan Recovery Day, with commemorati",
+        "title": "坚守初心使命，始终保持党同人民群众的血肉联系——习近平党建思想引领新时代全面从严治党系列述评之二",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-28/10722014.shtml",
+        "published": "2026-10-28 09:48",
+        "summary": "10月26日，党的二十届五中全会在北京开始举行。习近平总书记就《中共中央关于持之以恒推进全面从严治党若干重大问题的决定(讨论稿)》向全会作了说明。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "量质齐升，中国外贸何以表现强劲？",
+        "title": "东北华北内蒙古中东部等地气温起伏 29日起西藏南部有强雨雪",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-27/10721461.shtml",
-        "published": "2026-10-27 08:59",
-        "summary": "量质齐升，中国外贸何以表现强劲？(开放谈)",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-28/10721992.shtml",
+        "published": "2026-10-28 09:19",
+        "summary": "中新网10月28日电 据中央气象台网站消息，随着冷空气不断东移南下，10月27日，内蒙古中东部、黑龙江南部和东部、吉林、辽宁、河北北部等地部分地区出现7～9级阵风，局地10～12级。今晨，东北地区、华北等地气温下降4～10℃。今天，冷空气影",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "中央纪委国家监委通报2026年1至9月全国纪检监察机关监督检查审查调查情况",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-27/10721440.shtml",
-        "published": "2026-10-27 07:16",
-        "summary": "图1：全国纪检监察机关处分人员按职级划分图 图2：全国纪检监察机关运用“四种形态”占比图 本报讯 2026年1至9月，全国纪检监察机关共接收信访举报350.6万件次，其中检举控告类信访举报84.7万件次。处置问题线索214.9万件。立案80",
+        "title": "财经老王丨证监会给私募投资母基金立规矩了",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4Tn9MPGJgz0",
+        "published": "2026-10-28 08:45",
+        "summary": "由证监会起草的《私募投资母基金管理规定（征求意见稿）》目前正在向公众征求意见。私募投资母基金，听起来离我们很远，但是，你知道这个新规可能会间接影响到我们的理财、保险、资管等产品吗？ 私募投资母基金是指符合中国证监会规定条件，把主要基金财产按",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Taiwan looks to autonomous swarms to counter Beijing’s grey-zone pressure",
+        "title": "‘Don’t have the illusion’: graduate job ads down 22% as AI rewrites the rules",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/military/article/3372189/taiwan-looks-autonomous-swarms-counter-beijings-grey-zone-pressure",
-        "published": "2026-10-27 09:00",
-        "summary": "Taiwan is developing an AI-powered system to coordinate drone fleets for maritime surveillance and countering “grey-zone",
+        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372346/dont-have-illusion-graduate-job-ads-down-22-ai-rewrites-rules",
+        "published": "2026-10-28 08:30",
+        "summary": "Fresh-graduate job postings in Hong Kong fell 22 per cent in the first nine months of this year from the same period in ",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Russia ready for further cooperation with Slovakia on nuclear energy — minister",
-        "source": "TASS",
-        "link": "https://tass.com/economy/2207999",
-        "published": "2026-10-26 22:38",
-        "summary": "Valery Falkov recalled that Russian enterprises had been supplying nuclear fuel to Slovakia’s nuclear power plants for m",
-        "ai": false
+        "title": "UK government met 137 businesses over AI datacentres – but no environmental groups",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+        "published": "2026-10-27 15:00",
+        "summary": "Investigation finds dozens of ministers and civil servants moved into AI roles as government developed datacentre expans",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Leaders across Americas react to Brazil President Lula's re-election",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election",
-        "published": "2026-10-27 01:05",
-        "summary": "​President Luiz Inacio Lula da Silva won Brazil's presidential election on Sunday (October 25), defeating right-wing ​Se",
+        "title": "No clear mandate projected in Israel election: What’s next?",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
+        "published": "2026-10-28 07:06",
+        "summary": "President Isaac Herzog will task the candidate he deems best placed to form a government once results are in.",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "EU country turns to AI to slash government workforce",
-        "source": "RT",
-        "link": "https://rt-english.com/news/647761-netherlands-ai-government-job-cuts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-10-27 00:53",
-        "summary": "The Netherlands plans to cut 25,000 government jobs by 2035, using AI and administrative reforms to save billions annual",
-        "ai": true
+        "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
+        "published": "2026-10-28 05:12",
+        "summary": "Israel's military operation in West Bank's Hebron has disrupted Palestinian life, including a postponed wedding.",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
-        "published": "2026-10-27 08:01",
-        "summary": "Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been em",
-        "ai": true
+        "title": "Sports, art, energy ties should unite, not divide peoples, says Putin",
+        "source": "TASS",
+        "link": "https://tass.com/society/2209045",
+        "published": "2026-10-28 01:43",
+        "summary": "The Russian leader also thanked El Hadji Abdourahmane Diouf, Senegal’s Minister of Energy and Petroleum, for the invitat",
+        "ai": false
       }
     ]
   },
@@ -107,40 +107,40 @@
     {
       "city": "南京",
       "current": 17,
-      "min": 13,
+      "min": 12,
       "max": 20,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
       "current": 18,
       "min": 16,
       "max": 21,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 28,
-      "min": 24,
-      "max": 31,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 27,
+      "min": 23,
+      "max": 30,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": 5,
-      "min": -1,
-      "max": 12,
+      "current": 6,
+      "min": 0,
+      "max": 11,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
       "current": 18,
-      "min": 16,
-      "max": 21,
+      "min": 15,
+      "max": 20,
       "condition": "阴",
       "icon": "☁️"
     }

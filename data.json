@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-28",
-  "updated_at": "2026-10-28 09:59",
+  "date": "2026-10-29",
+  "updated_at": "2026-10-29 10:04",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "天亮了，愿你带着希望迎接新一天。",
-    "language": "中文",
-    "words": 16
+    "text": "Step into the day with confidence, kindness, and quiet joy.",
+    "language": "English",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "向新向优向好 多维度数据看前三季度中国经济活力",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/28/ARTIoSFFXp0Ir7OwAiwotmwJ261028.shtml",
-        "published": "2026-10-28 06:32",
-        "summary": "近期 多部门陆续发布 前三季度经济运行相关数据 中部地区外贸发展持续增强 国内出游消费释放活力 新能源装机规模持续壮大 …… 一组数据彰显高质量发展的澎湃韧性 流动不息的烟火与货流 汇聚中国经济 稳中有进的强劲力量 制片人丨武慧锋 策划丨闫",
+        "title": "外资企业坚定投资深圳、深耕中国（见证·中国机遇）",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-29/10722557.shtml",
+        "published": "2026-10-29 09:48",
+        "summary": "深圳前海，德国西门子医疗器械保税维修中心支持磁共振设备全球售后；芬兰通力电梯的数字化新设备快速发往大湾区市场；来自英国、新加坡等地的外资银行、金融机构纷纷入驻深港国际金融城……开放程度高、经济活力强，深圳作为全球投资热土的吸引力与竞争力不断",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "中国青少年发展基金会拨付资金支持西藏那曲救灾",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TmkLNMQjYW",
-        "published": "2026-10-27 21:05",
-        "summary": "新华社北京10月27日电（记者王明玉）记者10月27日从中国青少年发展基金会获悉，西藏那曲市巴青县发生7.0级地震后，中国青少年发展基金会在共青团中央指导下，紧急启动“希望同行 紧急救灾——2026希望工程驰援那曲抗震救灾特别行动”，为灾区",
+        "title": "西藏南部将有强雨雪天气 北方将有大风降温过程",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-29/10722533.shtml",
+        "published": "2026-10-29 09:47",
+        "summary": "中新网10月29日电 据中央气象台网站消息，昨日，云南和海南的部分地区出现明显降雨，北方地区出现大风。预计未来三天，青藏高原中东部将有明显雨雪天气，其中西藏南部有强雨雪，注意防范次生灾害；受冷空气影响，东北、华北、内蒙古等地又将有大风降温，",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "坚守初心使命，始终保持党同人民群众的血肉联系——习近平党建思想引领新时代全面从严治党系列述评之二",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-28/10722014.shtml",
-        "published": "2026-10-28 09:48",
-        "summary": "10月26日，党的二十届五中全会在北京开始举行。习近平总书记就《中共中央关于持之以恒推进全面从严治党若干重大问题的决定(讨论稿)》向全会作了说明。",
+        "title": "2.5亿人次已受益 多地以旧换新上新 最高补贴2000元",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/29/ARTIfjeA6Ehhz6dGddM8LUAB261029.shtml",
+        "published": "2026-10-29 07:12",
+        "summary": "10月28日，商务部召开全国消费品以旧换新工作推进电视电话会议。数据显示，2026年以来，消费品以旧换新带动相关品类销售额超2万亿元，惠及超2.5亿人次。近日，河南、山西、天津、黑龙江、四川等地出台以旧换新自主品类补贴政策，将智能门锁、智能",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "东北华北内蒙古中东部等地气温起伏 29日起西藏南部有强雨雪",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-28/10721992.shtml",
-        "published": "2026-10-28 09:19",
-        "summary": "中新网10月28日电 据中央气象台网站消息，随着冷空气不断东移南下，10月27日，内蒙古中东部、黑龙江南部和东部、吉林、辽宁、河北北部等地部分地区出现7～9级阵风，局地10～12级。今晨，东北地区、华北等地气温下降4～10℃。今天，冷空气影",
+        "title": "接驳车、地铁、网约车配齐！进博会交通攻略请收好",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/10/29/ARTIMwvKVRSDIO27fonC7iC6261028.shtml",
+        "published": "2026-10-29 02:35",
+        "summary": "第九届中国国际进口博览会将于11月5日至10日在上海国家会展中心举办。目前，周边各项交通服务保障工作进入最后冲刺阶段。本届进博会除展客商外，还面向社会观众开放，怎样才能高效便捷抵达场馆？ [!--begin:htmlVideoCode--]",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "财经老王丨证监会给私募投资母基金立规矩了",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4Tn9MPGJgz0",
-        "published": "2026-10-28 08:45",
-        "summary": "由证监会起草的《私募投资母基金管理规定（征求意见稿）》目前正在向公众征求意见。私募投资母基金，听起来离我们很远，但是，你知道这个新规可能会间接影响到我们的理财、保险、资管等产品吗？ 私募投资母基金是指符合中国证监会规定条件，把主要基金财产按",
+        "title": "HKSAR suspends import of poultry products from areas in Denmark, US",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-10-28/HKSAR-suspends-import-of-poultry-products-from-areas-in-Denmark-US-1RBmBkW4yuQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-10-28 10:22",
+        "summary": "Hong Kong's food safety authority decided on Tuesday to suspend the import of poultry meat and products from Lolland Mun",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "‘Don’t have the illusion’: graduate job ads down 22% as AI rewrites the rules",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372346/dont-have-illusion-graduate-job-ads-down-22-ai-rewrites-rules",
-        "published": "2026-10-28 08:30",
-        "summary": "Fresh-graduate job postings in Hong Kong fell 22 per cent in the first nine months of this year from the same period in ",
+        "title": "Social media is full of weird video game mashups. Where are they all coming from?",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
+        "published": "2026-10-28 23:00",
+        "summary": "AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the te",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "UK government met 137 businesses over AI datacentres – but no environmental groups",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
-        "published": "2026-10-27 15:00",
-        "summary": "Investigation finds dozens of ministers and civil servants moved into AI roles as government developed datacentre expans",
-        "ai": true
+        "title": "Russia aims to assist Africa with energy planning, hydrocarbon hubs — Energy Minister",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2209613",
+        "published": "2026-10-28 22:27",
+        "summary": "The master plans will outline and balance electricity demand and meet it using both local and transit-based energy sourc",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "No clear mandate projected in Israel election: What’s next?",
+        "title": "Israelis rally for Jewish-Arab government after election gains",
         "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
-        "published": "2026-10-28 07:06",
-        "summary": "President Isaac Herzog will task the candidate he deems best placed to form a government once results are in.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+        "published": "2026-10-29 08:34",
+        "summary": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
-        "published": "2026-10-28 05:12",
-        "summary": "Israel's military operation in West Bank's Hebron has disrupted Palestinian life, including a postponed wedding.",
+        "title": "Israel's election deadlock is a sign of the country's deep divisions",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-29 04:53",
+        "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Sports, art, energy ties should unite, not divide peoples, says Putin",
-        "source": "TASS",
-        "link": "https://tass.com/society/2209045",
-        "published": "2026-10-28 01:43",
-        "summary": "The Russian leader also thanked El Hadji Abdourahmane Diouf, Senegal’s Minister of Energy and Petroleum, for the invitat",
+        "title": "‘We are a country divided’: Who will feel betrayed by Israel’s next government?",
+        "source": "RT",
+        "link": "https://rt-english.com/news/647952-we-are-country-divided-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-10-29 02:56",
+        "summary": "Israel’s election leaves Netanyahu and Eisenkot short of a majority, raising the prospect of a unity government and new ",
         "ai": false
       }
     ]
@@ -107,7 +107,7 @@
     {
       "city": "南京",
       "current": 17,
-      "min": 12,
+      "min": 14,
       "max": 20,
       "condition": "阴",
       "icon": "☁️"
@@ -116,33 +116,33 @@
       "city": "武汉",
       "current": 18,
       "min": 16,
-      "max": 21,
+      "max": 19,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 27,
+      "current": 28,
       "min": 23,
-      "max": 30,
+      "max": 32,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": 6,
-      "min": 0,
-      "max": 11,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 7,
+      "min": -1,
+      "max": 13,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "孝感市应城市",
-      "current": 18,
-      "min": 15,
+      "current": 17,
+      "min": 13,
       "max": 20,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     }
   ]
 }

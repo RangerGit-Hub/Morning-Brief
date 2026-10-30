@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-29",
-  "updated_at": "2026-10-29 10:04",
+  "date": "2026-10-30",
+  "updated_at": "2026-10-30 10:23",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Step into the day with confidence, kindness, and quiet joy.",
-    "language": "English",
-    "words": 10
+    "text": "Bonjour ! Aujourd’hui est une belle occasion de progresser.",
+    "language": "Français",
+    "words": 9
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "外资企业坚定投资深圳、深耕中国（见证·中国机遇）",
+        "title": "青海省陆上单体单期规模最大的风电项目有序推进",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-29/10722557.shtml",
-        "published": "2026-10-29 09:48",
-        "summary": "深圳前海，德国西门子医疗器械保税维修中心支持磁共振设备全球售后；芬兰通力电梯的数字化新设备快速发往大湾区市场；来自英国、新加坡等地的外资银行、金融机构纷纷入驻深港国际金融城……开放程度高、经济活力强，深圳作为全球投资热土的吸引力与竞争力不断",
+        "link": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209240.shtml",
+        "published": "2026-10-30 09:36",
+        "summary": "10月29日，航拍位于青海省茫崖市的中国石油青海油田海西200万千瓦风电项目建设现场。该项目地处柴达木盆地戈壁，是青海省陆上单体单期规模最大的风电项目，也是中国石油当前单体单期规模最大的风电项目。项目总装机容量200万千瓦，规划安装320台",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "西藏南部将有强雨雪天气 北方将有大风降温过程",
+        "title": "再访尼泊尔“8·26”泥石流努瓦果德县灾区",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/10-29/10722533.shtml",
-        "published": "2026-10-29 09:47",
-        "summary": "中新网10月29日电 据中央气象台网站消息，昨日，云南和海南的部分地区出现明显降雨，北方地区出现大风。预计未来三天，青藏高原中东部将有明显雨雪天气，其中西藏南部有强雨雪，注意防范次生灾害；受冷空气影响，东北、华北、内蒙古等地又将有大风降温，",
+        "link": "https://www.chinanews.com.cn/tp/2026/10-30/10723133.shtml",
+        "published": "2026-10-30 09:49",
+        "summary": "当地时间10月29日，中尼跨境灾害风险考察科考队吉隆分队的中尼两国学者在尼泊尔努瓦果德县崔树里镇以焦点小组方式对当地受灾民众进行访谈。该科考队由中国科学院、水利部成都山地灾害与环境研究所所长康世昌担任队长，设樟木、陈塘、吉隆三个跨境考察分队",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "2.5亿人次已受益 多地以旧换新上新 最高补贴2000元",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/29/ARTIfjeA6Ehhz6dGddM8LUAB261029.shtml",
-        "published": "2026-10-29 07:12",
-        "summary": "10月28日，商务部召开全国消费品以旧换新工作推进电视电话会议。数据显示，2026年以来，消费品以旧换新带动相关品类销售额超2万亿元，惠及超2.5亿人次。近日，河南、山西、天津、黑龙江、四川等地出台以旧换新自主品类补贴政策，将智能门锁、智能",
+        "title": "直播海报：中共中央举行新闻发布会 介绍和解读党的二十届五中全会精神",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-30/10723159.shtml",
+        "published": "2026-10-30 10:14",
+        "summary": "",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "接驳车、地铁、网约车配齐！进博会交通攻略请收好",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/10/29/ARTIMwvKVRSDIO27fonC7iC6261028.shtml",
-        "published": "2026-10-29 02:35",
-        "summary": "第九届中国国际进口博览会将于11月5日至10日在上海国家会展中心举办。目前，周边各项交通服务保障工作进入最后冲刺阶段。本届进博会除展客商外，还面向社会观众开放，怎样才能高效便捷抵达场馆？ [!--begin:htmlVideoCode--]",
+        "title": "四川：2026年上半年通信及量子科技产业总产值同比增长近三成",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-30/10723146.shtml",
+        "published": "2026-10-30 10:07",
+        "summary": "中新网成都10月30日电 (单鹏)四川省通信及量子科技产业链供需对接活动暨新一代通信网建设应用专题会新闻通气会29日在成都举行。四川省经济和信息化厅信息安全与网络发展处处长郭浩表示，今年上半年，四川通信及量子科技产业总产值688.3亿元，同",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "HKSAR suspends import of poultry products from areas in Denmark, US",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-10-28/HKSAR-suspends-import-of-poultry-products-from-areas-in-Denmark-US-1RBmBkW4yuQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-10-28 10:22",
-        "summary": "Hong Kong's food safety authority decided on Tuesday to suspend the import of poultry meat and products from Lolland Mun",
+        "title": "中共中央就党的二十届五中全会精神举行新闻发布会",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-30/10723151.shtml",
+        "published": "2026-10-30 10:03",
+        "summary": "新华社快讯：10月30日上午10时，中共中央举行新闻发布会，中央纪委副书记、国家监委副主任张福海，中央组织部分管日常工作的副部长黄建发，中央宣传部分管日常工作的副部长胡和平，中央政策研究室主任唐方裕，中央党校(国家行政学院)分管日常工作的副",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Social media is full of weird video game mashups. Where are they all coming from?",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
-        "published": "2026-10-28 23:00",
-        "summary": "AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the te",
+        "title": "As AI transforms global markets, Cyberport Venture & Capital Forum 2026 brings together the investors and innovators shaping what's next",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/presented/news/hong-kong/topics/cvcf-2026-shapes-agentic-economy/article/3372499/ai-transforms-global-markets-cyberport-venture-capital-forum-2026-brings-together-investors-and",
+        "published": "2026-10-30 09:20",
+        "summary": "[The content of this article has been produced by our advertising partner.] Global venture capital is surging in 2026, f",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Russia aims to assist Africa with energy planning, hydrocarbon hubs — Energy Minister",
-        "source": "TASS",
-        "link": "https://tass.com/economy/2209613",
-        "published": "2026-10-28 22:27",
-        "summary": "The master plans will outline and balance electricity demand and meet it using both local and transit-based energy sourc",
-        "ai": false
+        "title": "China tests powerful AI that could one day be used on submarines",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/science/article/3372528/china-tests-powerful-ai-could-one-day-be-used-submarines",
+        "published": "2026-10-29 22:43",
+        "summary": "China has showcased artificial intelligence (AI) technology alongside 7,000-metre (23,000-feet) deep-sea trials of its u",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Israelis rally for Jewish-Arab government after election gains",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
-        "published": "2026-10-29 08:34",
-        "summary": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
-        "ai": false
+        "title": "US economy grows faster than expected 3.4%, driven by consumers, AI investment",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3372628/us-economy-grows-faster-expected-34-3q-driven-consumers-ai-investment",
+        "published": "2026-10-29 22:26",
+        "summary": "The US economy grew faster than expected in the third quarter as resilient consumer spending and AI-driven business inve",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "Israel's election deadlock is a sign of the country's deep divisions",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-10-29 04:53",
-        "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government",
+        "title": "Can Lula’s re-election unlock Mercosur markets for Southeast Asia?",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/week-asia/economics/article/3372589/can-lulas-re-election-unlock-mercosur-markets-southeast-asia",
+        "published": "2026-10-29 20:00",
+        "summary": "Brazilian President Luiz Inacio Lula da Silva’s re-election should provide continuity for the country’s trade push into ",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "‘We are a country divided’: Who will feel betrayed by Israel’s next government?",
-        "source": "RT",
-        "link": "https://rt-english.com/news/647952-we-are-country-divided-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-10-29 02:56",
-        "summary": "Israel’s election leaves Netanyahu and Eisenkot short of a majority, raising the prospect of a unity government and new ",
+        "title": "ECB President Lagarde steps down in order to speak out",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/tv-shows/business/20261029-ecb-president-lagarde-steps-down-in-order-to-speak-out",
+        "published": "2026-10-30 05:01",
+        "summary": "European Central Bank President Christine Lagarde will step down from her post several months early, in order to have mo",
         "ai": false
       }
     ]
@@ -106,43 +106,43 @@
   "weather": [
     {
       "city": "南京",
-      "current": 17,
-      "min": 14,
-      "max": 20,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 19,
+      "min": 12,
+      "max": 22,
+      "condition": "雾",
+      "icon": "🌫️"
     },
     {
       "city": "武汉",
       "current": 18,
-      "min": 16,
-      "max": 19,
+      "min": 15,
+      "max": 22,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 28,
-      "min": 23,
-      "max": 32,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 29,
+      "min": 24,
+      "max": 31,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "定西市安定区",
-      "current": 7,
-      "min": -1,
-      "max": 13,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 9,
+      "min": -2,
+      "max": 16,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "孝感市应城市",
-      "current": 17,
-      "min": 13,
-      "max": 20,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 20,
+      "min": 12,
+      "max": 24,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     }
   ]
 }

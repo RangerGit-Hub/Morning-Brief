@@ -1,148 +1,148 @@
 {
-  "date": "2026-10-30",
-  "updated_at": "2026-10-30 10:23",
+  "date": "2026-10-31",
+  "updated_at": "2026-10-31 09:58",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Aujourd’hui est une belle occasion de progresser.",
-    "language": "Français",
-    "words": 9
+    "text": "早安！愿你心有暖阳，脚步坚定。",
+    "language": "中文",
+    "words": 15
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "青海省陆上单体单期规模最大的风电项目有序推进",
+        "title": "报告称长三角形成从底层算力、核心算法到终端应用的完整产业生态",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/10-30/1209240.shtml",
-        "published": "2026-10-30 09:36",
-        "summary": "10月29日，航拍位于青海省茫崖市的中国石油青海油田海西200万千瓦风电项目建设现场。该项目地处柴达木盆地戈壁，是青海省陆上单体单期规模最大的风电项目，也是中国石油当前单体单期规模最大的风电项目。项目总装机容量200万千瓦，规划安装320台",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-31/10723757.shtml",
+        "published": "2026-10-31 09:12",
+        "summary": "中新网北京10月31日电 (记者 张素)30日发布的一份报告认为，数据、算力、算法是智能经济的三个核心驱动要素，而长三角地区已经形成从底层算力、核心算法到终端应用、高端装备的完整产业生态。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "再访尼泊尔“8·26”泥石流努瓦果德县灾区",
+        "title": "今年前三季度广西金融运行平稳 总量稳健增长",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/tp/2026/10-30/10723133.shtml",
-        "published": "2026-10-30 09:49",
-        "summary": "当地时间10月29日，中尼跨境灾害风险考察科考队吉隆分队的中尼两国学者在尼泊尔努瓦果德县崔树里镇以焦点小组方式对当地受灾民众进行访谈。该科考队由中国科学院、水利部成都山地灾害与环境研究所所长康世昌担任队长，设樟木、陈塘、吉隆三个跨境考察分队",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-31/10723753.shtml",
+        "published": "2026-10-31 09:06",
+        "summary": "中新网南宁10月31日电(黄艳梅 何甜甜 刘维杰)中国人民银行广西壮族自治区分行30日举行新闻发布会介绍，今年前三季度，广西金融运行平稳，总量稳健增长，信贷结构优化，为“十五五”广西经济稳开局营造了适宜的货币金融环境。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "直播海报：中共中央举行新闻发布会 介绍和解读党的二十届五中全会精神",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-30/10723159.shtml",
-        "published": "2026-10-30 10:14",
-        "summary": "",
+        "title": "UN names China's Blue Bay initiative world restoration flagship",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-10-30/UN-names-China-s-Blue-Bay-initiative-world-restoration-flagship-1REKczVaEDe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-10-30 10:28",
+        "summary": "China's Blue Bay Restoration Initiative was named a World Restoration Flagship by the United Nations (UN) on Thursday du",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "四川：2026年上半年通信及量子科技产业总产值同比增长近三成",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-30/10723146.shtml",
-        "published": "2026-10-30 10:07",
-        "summary": "中新网成都10月30日电 (单鹏)四川省通信及量子科技产业链供需对接活动暨新一代通信网建设应用专题会新闻通气会29日在成都举行。四川省经济和信息化厅信息安全与网络发展处处长郭浩表示，今年上半年，四川通信及量子科技产业总产值688.3亿元，同",
+        "title": "CPC Central Committee holds press conference on plenary session",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-10-30/CPC-Central-Committee-holds-press-conference-on-plenary-session-1REKgaMyyjK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-10-30 10:00",
+        "summary": "CPC Central Committee holds press conference on plenary session",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "中共中央就党的二十届五中全会精神举行新闻发布会",
+        "title": "个碧石铁路全线通车90周年影像展开幕 讲述“赤子家国情”",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/10-30/10723151.shtml",
-        "published": "2026-10-30 10:03",
-        "summary": "新华社快讯：10月30日上午10时，中共中央举行新闻发布会，中央纪委副书记、国家监委副主任张福海，中央组织部分管日常工作的副部长黄建发，中央宣传部分管日常工作的副部长胡和平，中央政策研究室主任唐方裕，中央党校(国家行政学院)分管日常工作的副",
+        "link": "https://www.chinanews.com.cn/cul/2026/10-31/10723775.shtml",
+        "published": "2026-10-31 09:33",
+        "summary": "中新网昆明10月31日电(白玲)30日，“民筑之路·国之寸轨”个碧石铁路全线通车90周年纪念影像展在昆明开幕。177公里的寸轨铁路，串起云南近代工业史上的特殊一页——这是中国第一条主权最为完整的民营铁路，由滇南乡贤自筹自建，改善了滇南地区闭",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "As AI transforms global markets, Cyberport Venture & Capital Forum 2026 brings together the investors and innovators shaping what's next",
+        "title": "‘I’m terrified’: AI comes for Southeast Asia’s graduate jobs",
         "source": "SCMP",
-        "link": "https://www.scmp.com/presented/news/hong-kong/topics/cvcf-2026-shapes-agentic-economy/article/3372499/ai-transforms-global-markets-cyberport-venture-capital-forum-2026-brings-together-investors-and",
-        "published": "2026-10-30 09:20",
-        "summary": "[The content of this article has been produced by our advertising partner.] Global venture capital is surging in 2026, f",
+        "link": "https://www.scmp.com/week-asia/economics/article/3372752/im-terrified-ai-comes-southeast-asias-graduate-jobs",
+        "published": "2026-10-31 08:00",
+        "summary": "Nafeesa Azman has applied for hundreds of jobs over the past two months, yet the 24-year-old Malaysian marketing graduat",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "China tests powerful AI that could one day be used on submarines",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/science/article/3372528/china-tests-powerful-ai-could-one-day-be-used-submarines",
-        "published": "2026-10-29 22:43",
-        "summary": "China has showcased artificial intelligence (AI) technology alongside 7,000-metre (23,000-feet) deep-sea trials of its u",
-        "ai": true
+        "title": "Putin shares secret behind his remarkable energy",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2211189",
+        "published": "2026-10-31 04:37",
+        "summary": "The Russian president told Togo’s Prime Minister Faure Gnassingbe that \"time spent with friends does not count toward on",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "US economy grows faster than expected 3.4%, driven by consumers, AI investment",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3372628/us-economy-grows-faster-expected-34-3q-driven-consumers-ai-investment",
-        "published": "2026-10-29 22:26",
-        "summary": "The US economy grew faster than expected in the third quarter as resilient consumer spending and AI-driven business inve",
-        "ai": true
+        "title": "Putin describes Russia-Africa Summit as quite successful",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2211177",
+        "published": "2026-10-31 04:05",
+        "summary": "The Russian president made this statement at a meeting with Togo’s Prime Minister Faure Gnassingbe",
+        "ai": false
       },
       {
         "rank": 4,
-        "title": "Can Lula’s re-election unlock Mercosur markets for Southeast Asia?",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/week-asia/economics/article/3372589/can-lulas-re-election-unlock-mercosur-markets-southeast-asia",
-        "published": "2026-10-29 20:00",
-        "summary": "Brazilian President Luiz Inacio Lula da Silva’s re-election should provide continuity for the country’s trade push into ",
+        "title": "61 out of 65 invited delegations attend Russia-Africa summit — Russian diplomat",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2211167",
+        "published": "2026-10-31 02:42",
+        "summary": "According to Tatiana Dovgalenko, African partner thank the Russian side and note that the summit was held successfully",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "ECB President Lagarde steps down in order to speak out",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/tv-shows/business/20261029-ecb-president-lagarde-steps-down-in-order-to-speak-out",
-        "published": "2026-10-30 05:01",
-        "summary": "European Central Bank President Christine Lagarde will step down from her post several months early, in order to have mo",
-        "ai": false
+        "title": "Hong Kong primary pupils to study AI under new technology subject",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/hong-kong/education/article/3372790/hong-kong-primary-pupils-study-ai-under-new-technology-subject",
+        "published": "2026-10-30 23:37",
+        "summary": "A new subject called information and innovation technology (IIT) will be introduced gradually in Hong Kong primary schoo",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 19,
+      "current": 20,
       "min": 12,
-      "max": 22,
-      "condition": "雾",
-      "icon": "🌫️"
-    },
-    {
-      "city": "武汉",
-      "current": 18,
-      "min": 15,
-      "max": 22,
+      "max": 23,
       "condition": "阴",
       "icon": "☁️"
     },
     {
-      "city": "南宁",
-      "current": 29,
-      "min": 24,
-      "max": 31,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "city": "武汉",
+      "current": 21,
+      "min": 17,
+      "max": 25,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
-      "city": "定西市安定区",
-      "current": 9,
-      "min": -2,
-      "max": 16,
+      "city": "南宁",
+      "current": 28,
+      "min": 25,
+      "max": 32,
       "condition": "多云",
       "icon": "⛅"
     },
     {
+      "city": "定西市安定区",
+      "current": 6,
+      "min": 2,
+      "max": 9,
+      "condition": "阴",
+      "icon": "☁️"
+    },
+    {
       "city": "孝感市应城市",
       "current": 20,
-      "min": 12,
-      "max": 24,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "min": 15,
+      "max": 26,
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

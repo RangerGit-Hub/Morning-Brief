@@ -1,146 +1,146 @@
 {
-  "date": "2026-10-31",
-  "updated_at": "2026-10-31 09:58",
+  "date": "2026-11-01",
+  "updated_at": "2026-11-01 09:48",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！愿你心有暖阳，脚步坚定。",
-    "language": "中文",
-    "words": 15
+    "text": "Good morning! May today bring you calm, courage, and a reason to smile.",
+    "language": "English",
+    "words": 13
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "报告称长三角形成从底层算力、核心算法到终端应用的完整产业生态",
+        "title": "促科技与产业创新深度融合 中国科学院广东实践“粤来粤有”经验",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-31/10723757.shtml",
-        "published": "2026-10-31 09:12",
-        "summary": "中新网北京10月31日电 (记者 张素)30日发布的一份报告认为，数据、算力、算法是智能经济的三个核心驱动要素，而长三角地区已经形成从底层算力、核心算法到终端应用、高端装备的完整产业生态。",
+        "link": "https://www.chinanews.com.cn/dwq/2026/11-01/10724164.shtml",
+        "published": "2026-11-01 09:35",
+        "summary": "中新网广州11月1日电 (记者 孙自法)中国官方最近正式发布的《关于推动科技创新和产业创新深度融合的意见》广受关注，但以具体行动贯彻落实才最为关键。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "今年前三季度广西金融运行平稳 总量稳健增长",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/10-31/10723753.shtml",
-        "published": "2026-10-31 09:06",
-        "summary": "中新网南宁10月31日电(黄艳梅 何甜甜 刘维杰)中国人民银行广西壮族自治区分行30日举行新闻发布会介绍，今年前三季度，广西金融运行平稳，总量稳健增长，信贷结构优化，为“十五五”广西经济稳开局营造了适宜的货币金融环境。",
+        "title": "海水养殖产量超2000万吨！深海好鱼如何“游”上百姓餐桌",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4Tq5Pvhhs5s",
+        "published": "2026-10-31 21:40",
+        "summary": "农业农村部最新发布， 今年前三季度，全国水产品总产量5389.7万吨，其中海水养殖产量2029.7万吨，继续保持高速增长 。产量稳增的背后，蓝色粮仓的“新引擎”正在加速启动：生态种养，让大海在产鱼的同时还能固碳；装备迭代，让深海好鱼游上百姓",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "UN names China's Blue Bay initiative world restoration flagship",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-10-30/UN-names-China-s-Blue-Bay-initiative-world-restoration-flagship-1REKczVaEDe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-10-30 10:28",
-        "summary": "China's Blue Bay Restoration Initiative was named a World Restoration Flagship by the United Nations (UN) on Thursday du",
+        "title": "2026视觉健康创新发展国际秋季会议在温州举行",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/jk/2026/11-01/10724140.shtml",
+        "published": "2026-11-01 09:09",
+        "summary": "中新网温州11月1日电(张益聪)“科技变革、产业革命、医学发展的深入交流，共同推动智慧眼科迈入高质量发展快车道。”10月30日，2026视觉健康创新发展国际会议(Vision China秋季·温州)在浙江省温州市龙湾区开幕，中国工程院院士、",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "CPC Central Committee holds press conference on plenary session",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-10-30/CPC-Central-Committee-holds-press-conference-on-plenary-session-1REKgaMyyjK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-10-30 10:00",
-        "summary": "CPC Central Committee holds press conference on plenary session",
+        "title": "数字孪生工程技术人员：为机器人搭建虚拟“训练场”",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TqUfqpROI8",
+        "published": "2026-11-01 09:27",
+        "summary": "新华社重庆10月31日电（记者杨仕彦）在虚拟空间还原一座真实工厂，让机器人提前“彩排”巡检任务，这是数字孪生工程技术人员江磊的日常工作。 今年9月，人力资源社会保障部等部门发布11个新职业，其中包括数字孪生工程技术人员。这一职业是指从事数字",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "个碧石铁路全线通车90周年影像展开幕 讲述“赤子家国情”",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cul/2026/10-31/10723775.shtml",
-        "published": "2026-10-31 09:33",
-        "summary": "中新网昆明10月31日电(白玲)30日，“民筑之路·国之寸轨”个碧石铁路全线通车90周年纪念影像展在昆明开幕。177公里的寸轨铁路，串起云南近代工业史上的特殊一页——这是中国第一条主权最为完整的民营铁路，由滇南乡贤自筹自建，改善了滇南地区闭",
+        "title": "大风蓝色预警：内蒙古山西等7省区市有5至7级风 阵风8至9级",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/01/ARTIq0RVhmDnVglQw24NwdHL261101.shtml",
+        "published": "2026-11-01 07:50",
+        "summary": "央视网消息： 中央气象台11月1日06时继续发布大风蓝色预警，预计，11月1日08时至2日08时，内蒙古中西部、山西北部、河北北部、北京西部、辽宁西部、西藏北部、青海南部等地部分地区有5～7级风，阵风8～9级；渤海北部海域、渤海海峡、黄海大",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "‘I’m terrified’: AI comes for Southeast Asia’s graduate jobs",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/week-asia/economics/article/3372752/im-terrified-ai-comes-southeast-asias-graduate-jobs",
-        "published": "2026-10-31 08:00",
-        "summary": "Nafeesa Azman has applied for hundreds of jobs over the past two months, yet the 24-year-old Malaysian marketing graduat",
+        "title": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+        "published": "2026-11-01 03:00",
+        "summary": "Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its la",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Putin shares secret behind his remarkable energy",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2211189",
-        "published": "2026-10-31 04:37",
-        "summary": "The Russian president told Togo’s Prime Minister Faure Gnassingbe that \"time spent with friends does not count toward on",
+        "title": "Ethiopian PM puts ministers through military training",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-10-31 22:28",
+        "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Putin describes Russia-Africa Summit as quite successful",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2211177",
-        "published": "2026-10-31 04:05",
-        "summary": "The Russian president made this statement at a meeting with Togo’s Prime Minister Faure Gnassingbe",
-        "ai": false
+        "title": "As AI cyber risks grow, Chinese chip expert urges shared ethics standards with US rivals",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/article/3372807/ai-cyber-risks-grow-chinese-chip-expert-urges-shared-ethics-standards-us-rivals",
+        "published": "2026-10-31 13:00",
+        "summary": "The co-founder of Chinese chip giant Cambricon Technologies urged the introduction of universal ethical requirements for",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "61 out of 65 invited delegations attend Russia-Africa summit — Russian diplomat",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2211167",
-        "published": "2026-10-31 02:42",
-        "summary": "According to Tatiana Dovgalenko, African partner thank the Russian side and note that the summit was held successfully",
+        "title": "Can battery swapping and energy storage power CATL’s next phase of growth?",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/business/climate-and-energy/article/3372711/can-battery-swapping-and-energy-storage-power-catls-next-phase-growth",
+        "published": "2026-10-31 16:00",
+        "summary": "Contemporary Amperex Technology Ltd (CATL) has doubled down on new businesses including battery swapping and energy stor",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Hong Kong primary pupils to study AI under new technology subject",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/hong-kong/education/article/3372790/hong-kong-primary-pupils-study-ai-under-new-technology-subject",
-        "published": "2026-10-30 23:37",
-        "summary": "A new subject called information and innovation technology (IIT) will be introduced gradually in Hong Kong primary schoo",
-        "ai": true
+        "title": "Denmark openly says its cyberattacks target Russia, China — diplomat",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2211455",
+        "published": "2026-11-01 09:27",
+        "summary": "Vladimir Barbin noted that the senior executives of the Danish Military Intelligence Service publicly boast about operat",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 20,
-      "min": 12,
-      "max": 23,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 18,
+      "min": 14,
+      "max": 20,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "武汉",
-      "current": 21,
-      "min": 17,
-      "max": 25,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 15,
+      "min": 14,
+      "max": 21,
+      "condition": "阵雨",
+      "icon": "🌦️"
     },
     {
       "city": "南宁",
-      "current": 28,
-      "min": 25,
-      "max": 32,
+      "current": 27,
+      "min": 24,
+      "max": 30,
       "condition": "多云",
       "icon": "⛅"
     },
     {
       "city": "定西市安定区",
-      "current": 6,
-      "min": 2,
-      "max": 9,
+      "current": 5,
+      "min": 0,
+      "max": 10,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 20,
-      "min": 15,
-      "max": 26,
+      "current": 16,
+      "min": 14,
+      "max": 20,
       "condition": "阴",
       "icon": "☁️"
     }

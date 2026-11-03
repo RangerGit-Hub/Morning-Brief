@@ -1,146 +1,146 @@
 {
-  "date": "2026-11-02",
-  "updated_at": "2026-11-02 10:03",
+  "date": "2026-11-03",
+  "updated_at": "2026-11-03 11:49",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Que cette journée vous apporte calme, énergie et sourires.",
-    "language": "Français",
-    "words": 11
+    "text": "早安！新的一天，愿好事如约而至。",
+    "language": "中文",
+    "words": 16
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "最新报告显示我国人工智能推理数据量首超训练数据量",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/01/ARTIHkeO9UQ4kuSs6cePZUb1261101.shtml",
-        "published": "2026-11-01 21:50",
-        "summary": "31日，中国电子信息产业发展研究院发布的《新域新质创新发展十大趋势》显示，我国人工智能推理数据量首次超过训练数据量，标志着我国人工智能从模型训练研发阶段迈入规模化产业应用阶段。 最新报告显示 我国人工智能推理数据量首超训练数据量 [!--b",
+        "title": "国务院免去何永贤香港特别行政区政府房屋局局长职务",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-03/10725235.shtml",
+        "published": "2026-11-03 11:41",
+        "summary": "新华社北京11月3日电 依照《中华人民共和国香港特别行政区基本法》的有关规定，根据香港特别行政区行政长官李家超的建议，国务院2026年11月3日决定：免去何永贤的房屋局局长职务。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "中国地震应急搜救中心启动“重载无人机应急救援协作机制” 调派航空力量赴西藏地震灾区开展工作",
+        "title": "以赛促研，以研促产：拼多多“千亿扶持”助力青年科学家在夏秋“断档期”种出国产草莓",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-02/10724589.shtml",
-        "published": "2026-11-02 10:02",
-        "summary": "中新网11月2日电 据应急管理部微信公众号消息，西藏那曲市巴青县发生7.0级地震后，根据现场指挥部安排，应急管理部中国地震应急搜救中心第一时间启动“重载无人机应急救援协作机制”，紧急调派FWH-1500重载无人直升机(最大飞行重量1吨，有效",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-03/10725158.shtml",
+        "published": "2026-11-03 10:51",
+        "summary": "草莓挂满枝头，科创结出硕果。10月30日，第五届“多多农研科技大赛”在上海农业科创谷顺利收官。综合植物工厂设计与建造、种植成果、成本与能耗等表现，中国农业大学组建的赛博农人团队蝉联赛事一等奖，浙江企业塔金麦牵头的拟生态团队斩获二等奖，上海交",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "粤港澳大湾区时尚联盟在穗成立 三地时尚产业迈向“价值共生”",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/dwq/2026/11-02/10724594.shtml",
-        "published": "2026-11-02 10:02",
-        "summary": "中新网广州11月2日电 (记者 蔡敏婕)2026粤港澳大湾区时尚周·中国流花国际服装节暨红棉国际时装周11月1日在广州启幕。粤港澳大湾区时尚联盟亦同步成立，标志着香港、澳门、广州三地时尚产业从“地理集聚”迈向“价值共生”。",
+        "title": "注意防寒！11月将有4轮冷空气影响我国",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/03/ARTIaaAEaWxGVDrXeUyyN28V261103.shtml",
+        "published": "2026-11-03 11:17",
+        "summary": "今天上午，中国气象局举办新闻发布会，预测11月气候趋势。中央气象台预计，11月将有4次冷空气过程影响我国，发生频次接近常年同期（4.47次）；冷空气强度呈“前强后弱”特点，未来两周有两次冷空气过程。其中： 5日—7日冷空气过程强度较强，内蒙",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "教育部教师工作司原副司长韩劲红接受纪律审查和监察调查",
+        "title": "最强厄尔尼诺将明显影响我国！预计今冬气温总体偏高",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/02/ARTIOFMszu6AVfXLdxwaKoqX261102.shtml",
-        "published": "2026-11-02 09:21",
-        "summary": "央视网消息 ：中央纪委国家监委网站通报，据中央纪委国家监委驻教育部纪检监察组、浙江省纪委监委消息：教育部教师工作司原副司长韩劲红涉嫌严重违纪违法，主动投案，目前正接受中央纪委国家监委驻教育部纪检监察组纪律审查和浙江省衢州市监委监察调查。",
+        "link": "https://news.cctv.com/2026/11/03/ARTIkn7jp23XbE1XxBUyhv9Q261103.shtml",
+        "published": "2026-11-03 11:16",
+        "summary": "记者在今天的中国气象局新闻发布会上了解到，2026年9月，赤道中东太平洋形成一次超强厄尔尼诺事件，10月已发展为有监测记录以来最强的厄尔尼诺事件，预计秋末冬初达到峰值，将对我国今冬明春气候产生明显影响。 预计2026/2027年冬季，全国气",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "新闻联播 2026/11/01",
-        "source": "央视网-新闻联播",
-        "link": "https://tv.cctv.com/lm/xwlb/day/20261101.shtml",
-        "published": "2026-11-01 19:00",
-        "summary": "《新闻联播》 20261101 19:00 ⏱00:45:01 [视频]习近平关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明 ⏱00:11:07 [视频]中共中央关于持之以恒推进全面从严治党若干重大问题的决定 ⏱00:",
+        "title": "230余家企业一起练“氢”功（经济聚焦）",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4Ts94oBT3OI",
+        "published": "2026-11-03 09:13",
+        "summary": "北京大兴国际氢能示范区搭建“制储运加用”全场景 230余家企业一起练“氢”功（经济聚焦） 氢能是未来国家能源体系的重要组成部分，“十五五”规划纲要将氢能列为我国重点布局的未来产业之一，行业前景向好。同时，当前氢能应用也面临场景少、绿氢缺、用",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Humans vs AI art: why game studios hire Southeast Asian talent",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/week-asia/economics/article/3372761/humans-vs-ai-art-why-game-studios-hire-southeast-asian-talent",
-        "published": "2026-11-02 08:00",
-        "summary": "Video game companies have long been at the vanguard of artificial intelligence, using it in its more nascent form to dic",
+        "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-03 08:09",
+        "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "CAR president thanks Russian specialists for helping rebuild army",
-        "source": "TASS",
-        "link": "https://tass.com/world/2211573",
-        "published": "2026-11-02 02:54",
-        "summary": "President Faustin-Archange Touadera said that Russian military specialists have helped train military personnel",
+        "title": "Israel's president begins process of coalition government negotiations",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/video/20261102-israel-s-president-begins-process-of-coalition-government-negotiations",
+        "published": "2026-11-02 23:57",
+        "summary": "Israel's President Isaac Herzog begins the process of coalition government negotiations this week. One possibility is fo",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Iliana Iotova wins Bulgaria’s presidential run-off election",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/europe/article/3372909/bulgarian-acting-president-iliana-iotova-wins-run-election-exit-polls-show",
-        "published": "2026-11-02 03:14",
-        "summary": "Bulgaria’s President Iliana Iotova, who favours dialogue with Moscow and opposes military aid to Ukraine, won a presiden",
-        "ai": false
+        "title": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
+        "published": "2026-11-03 08:01",
+        "summary": "National Cyber Security Centre expects attacks on critical facilities such as power stations, airports and hospitals AI-",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "Self-improving AI the key step towards AGI but safety is key: Z.ai founder",
+        "title": "As AI solves maths puzzles faster than humans, mathematicians face uncertain future",
         "source": "SCMP",
-        "link": "https://www.scmp.com/tech/tech-trends/article/3372834/self-improving-ai-key-step-towards-agi-safety-key-zai-founder",
-        "published": "2026-11-01 20:00",
-        "summary": "Using artificial intelligence to build even smarter systems will make artificial general intelligence (AGI) more achieva",
+        "link": "https://www.scmp.com/news/us/science-technology/article/3373045/ai-solves-maths-puzzles-faster-humans-mathematicians-face-uncertain-future",
+        "published": "2026-11-03 04:31",
+        "summary": "Artificial intelligence (AI) is now solving maths puzzles that have long stumped humans, prompting mathematicians around",
         "ai": true
       },
       {
         "rank": 5,
-        "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
+        "title": "Finland and Norway’s call to Putin tests European unity over Russia",
         "source": "SCMP",
-        "link": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
-        "published": "2026-11-01 18:00",
-        "summary": "Chinese artificial intelligence start-up DeepSeek has previewed a plan for a more autonomous AI agent that can handle mu",
-        "ai": true
+        "link": "https://www.scmp.com/opinion/world-opinion/article/3372876/finland-and-norways-call-putin-tests-european-unity-over-russia",
+        "published": "2026-11-02 20:30",
+        "summary": "When Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Store called Russian President Vladimir P",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 16,
-      "min": 12,
-      "max": 19,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 17,
+      "min": 13,
+      "max": 17,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 16,
-      "min": 12,
-      "max": 21,
+      "current": 17,
+      "min": 14,
+      "max": 18,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 23,
-      "min": 21,
-      "max": 25,
+      "current": 24,
+      "min": 20,
+      "max": 28,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
+    },
+    {
+      "city": "定西市安定区",
+      "current": 9,
+      "min": -1,
+      "max": 10,
       "condition": "毛毛雨",
       "icon": "🌦️"
     },
     {
-      "city": "定西市安定区",
-      "current": 7,
-      "min": -1,
-      "max": 12,
-      "condition": "阴",
-      "icon": "☁️"
-    },
-    {
       "city": "孝感市应城市",
       "current": 16,
-      "min": 10,
-      "max": 21,
+      "min": 13,
+      "max": 16,
       "condition": "阴",
       "icon": "☁️"
     }

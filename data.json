@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-03",
-  "updated_at": "2026-11-03 11:49",
+  "date": "2026-11-04",
+  "updated_at": "2026-11-04 10:52",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！新的一天，愿好事如约而至。",
-    "language": "中文",
-    "words": 16
+    "text": "Rise and shine! A fresh day is ready for your best ideas.",
+    "language": "English",
+    "words": 12
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "国务院免去何永贤香港特别行政区政府房屋局局长职务",
+        "title": "国台办评“吉林一号”公布多张台湾高清卫星影像",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-03/10725235.shtml",
-        "published": "2026-11-03 11:41",
-        "summary": "新华社北京11月3日电 依照《中华人民共和国香港特别行政区基本法》的有关规定，根据香港特别行政区行政长官李家超的建议，国务院2026年11月3日决定：免去何永贤的房屋局局长职务。",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-04/10725823.shtml",
+        "published": "2026-11-04 10:35",
+        "summary": "11月4日，国务院台办举行例行新闻发布会。有记者问，近期，大陆商用卫星“吉林一号”公布多张台湾高清卫星影像，引发两岸网友关注和热议。请问对此有何评论？",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "以赛促研，以研促产：拼多多“千亿扶持”助力青年科学家在夏秋“断档期”种出国产草莓",
+        "title": "湖南常德精准开展就业援藏 助力31名西藏山南青年跨省逐梦",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-03/10725158.shtml",
-        "published": "2026-11-03 10:51",
-        "summary": "草莓挂满枝头，科创结出硕果。10月30日，第五届“多多农研科技大赛”在上海农业科创谷顺利收官。综合植物工厂设计与建造、种植成果、成本与能耗等表现，中国农业大学组建的赛博农人团队蝉联赛事一等奖，浙江企业塔金麦牵头的拟生态团队斩获二等奖，上海交",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-04/10725809.shtml",
+        "published": "2026-11-04 10:24",
+        "summary": "中新网拉萨11月4日电 (王颖 邢宇晴)近日，在湖南省第十一批援藏工作队常德组的统筹推进下，来自西藏山南市隆子县、浪卡子县的31名高原青年顺利抵达湖南常德，完成企业考察与劳动合同签订，正式开启跨省就业新生活，为就业援藏工作注入鲜活动能。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "注意防寒！11月将有4轮冷空气影响我国",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/03/ARTIaaAEaWxGVDrXeUyyN28V261103.shtml",
-        "published": "2026-11-03 11:17",
-        "summary": "今天上午，中国气象局举办新闻发布会，预测11月气候趋势。中央气象台预计，11月将有4次冷空气过程影响我国，发生频次接近常年同期（4.47次）；冷空气强度呈“前强后弱”特点，未来两周有两次冷空气过程。其中： 5日—7日冷空气过程强度较强，内蒙",
+        "title": "2026 WIC Wuzhen Summit opens with focus on open-source AI",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-11-03/2026-WIC-Wuzhen-Summit-opens-with-focus-on-open-source-AI-1RLpbtAJn0I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-11-03 10:55",
+        "summary": "2026 WIC Wuzhen Summit opens with focus on open-source AI",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "最强厄尔尼诺将明显影响我国！预计今冬气温总体偏高",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/03/ARTIkn7jp23XbE1XxBUyhv9Q261103.shtml",
-        "published": "2026-11-03 11:16",
-        "summary": "记者在今天的中国气象局新闻发布会上了解到，2026年9月，赤道中东太平洋形成一次超强厄尔尼诺事件，10月已发展为有监测记录以来最强的厄尔尼诺事件，预计秋末冬初达到峰值，将对我国今冬明春气候产生明显影响。 预计2026/2027年冬季，全国气",
+        "title": "西藏自治区首个万兆光网社区AI治理实践入选中国优秀案例",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-04/10725812.shtml",
+        "published": "2026-11-04 10:29",
+        "summary": "中新网拉萨11月4日电 (记者 贡桑拉姆)拉萨市城关区娘热街道慈松塘智慧社区是西藏自治区首个万兆光网智慧社区。该社区智慧治理实践11月3日在上海获评中国“人工智能+城市治理”优秀实践案例。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "230余家企业一起练“氢”功（经济聚焦）",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4Ts94oBT3OI",
-        "published": "2026-11-03 09:13",
-        "summary": "北京大兴国际氢能示范区搭建“制储运加用”全场景 230余家企业一起练“氢”功（经济聚焦） 氢能是未来国家能源体系的重要组成部分，“十五五”规划纲要将氢能列为我国重点布局的未来产业之一，行业前景向好。同时，当前氢能应用也面临场景少、绿氢缺、用",
+        "title": "国台办：欢迎更多台商台企积极融入大陆新发展格局",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-04/10725803.shtml",
+        "published": "2026-11-04 10:18",
+        "summary": "11月4日，国务院台办举行例行新闻发布会。有记者问：11月5日，第九届中国国际进口博览会将在上海开幕，请介绍台商台企参加进博会情况。本届进博会将给台商台企带来哪些机遇？",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-03 08:09",
-        "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+        "title": "US tech stocks recover after selloff spooks investors over AI spending",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
+        "published": "2026-11-04 06:18",
+        "summary": "Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulation US tech stock",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Israel's president begins process of coalition government negotiations",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/video/20261102-israel-s-president-begins-process-of-coalition-government-negotiations",
-        "published": "2026-11-02 23:57",
-        "summary": "Israel's President Isaac Herzog begins the process of coalition government negotiations this week. One possibility is fo",
+        "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+        "published": "2026-11-04 09:13",
+        "summary": "US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
-        "published": "2026-11-03 08:01",
-        "summary": "National Cyber Security Centre expects attacks on critical facilities such as power stations, airports and hospitals AI-",
-        "ai": true
+        "title": "Trump says US close to trade deal with Canada, Carney says work remains",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3373190/trump-says-us-close-trade-deal-canada-carney-says-work-remains",
+        "published": "2026-11-04 07:42",
+        "summary": "US ⁠President Donald Trump said on ⁠Tuesday the United States was close to making a trade deal with Canada, but Canadian",
+        "ai": false
       },
       {
         "rank": 4,
-        "title": "As AI solves maths puzzles faster than humans, mathematicians face uncertain future",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/us/science-technology/article/3373045/ai-solves-maths-puzzles-faster-humans-mathematicians-face-uncertain-future",
-        "published": "2026-11-03 04:31",
-        "summary": "Artificial intelligence (AI) is now solving maths puzzles that have long stumped humans, prompting mathematicians around",
-        "ai": true
+        "title": "Trump announces halt to $4 bn in aid to Israel on midterm election day",
+        "source": "RT",
+        "link": "https://rt-english.com/news/648344-trump-israel-aid-midterm-election/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-11-04 05:47",
+        "summary": "US President Donald Trump has announced ending $4 billion worth of military aid to Israel by the end of the year on midt",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "Finland and Norway’s call to Putin tests European unity over Russia",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/opinion/world-opinion/article/3372876/finland-and-norways-call-putin-tests-european-unity-over-russia",
-        "published": "2026-11-02 20:30",
-        "summary": "When Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Store called Russian President Vladimir P",
+        "title": "Trump claims US will end military aid to Israel by end of this year",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
+        "published": "2026-11-04 01:17",
+        "summary": "US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment Donald Trump h",
         "ai": false
       }
     ]
@@ -107,8 +107,8 @@
     {
       "city": "南京",
       "current": 17,
-      "min": 13,
-      "max": 17,
+      "min": 14,
+      "max": 19,
       "condition": "阴",
       "icon": "☁️"
     },
@@ -122,25 +122,25 @@
     },
     {
       "city": "南宁",
-      "current": 24,
-      "min": 20,
-      "max": 28,
+      "current": 27,
+      "min": 23,
+      "max": 29,
       "condition": "大部晴朗",
       "icon": "🌤️"
     },
     {
       "city": "定西市安定区",
-      "current": 9,
-      "min": -1,
-      "max": 10,
+      "current": 8,
+      "min": 0,
+      "max": 11,
       "condition": "毛毛雨",
       "icon": "🌦️"
     },
     {
       "city": "孝感市应城市",
-      "current": 16,
-      "min": 13,
-      "max": 16,
+      "current": 17,
+      "min": 12,
+      "max": 19,
       "condition": "阴",
       "icon": "☁️"
     }

@@ -1,105 +1,105 @@
 {
-  "date": "2026-11-04",
-  "updated_at": "2026-11-04 10:52",
+  "date": "2026-11-05",
+  "updated_at": "2026-11-05 11:05",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Rise and shine! A fresh day is ready for your best ideas.",
-    "language": "English",
-    "words": 12
+    "text": "Bonjour ! Avancez avec confiance, une belle journée vous attend.",
+    "language": "Français",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "国台办评“吉林一号”公布多张台湾高清卫星影像",
+        "title": "交银国际信托有限公司原董事长张文被“双开”",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-04/10725823.shtml",
-        "published": "2026-11-04 10:35",
-        "summary": "11月4日，国务院台办举行例行新闻发布会。有记者问，近期，大陆商用卫星“吉林一号”公布多张台湾高清卫星影像，引发两岸网友关注和热议。请问对此有何评论？",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-05/10726428.shtml",
+        "published": "2026-11-05 10:12",
+        "summary": "中新网11月5日电 据中央纪委国家监委驻交通银行纪检监察组、上海市纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻交通银行纪检监察组、上海市监委对交银国际信托有限公司原党委书记、董事长张文严重违纪违法问题进行了立案审查调查。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "湖南常德精准开展就业援藏 助力31名西藏山南青年跨省逐梦",
+        "title": "第一批新车次列车本月开行 车票将陆续发售、兑现",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-04/10725809.shtml",
-        "published": "2026-11-04 10:24",
-        "summary": "中新网拉萨11月4日电 (王颖 邢宇晴)近日，在湖南省第十一批援藏工作队常德组的统筹推进下，来自西藏山南市隆子县、浪卡子县的31名高原青年顺利抵达湖南常德，完成企业考察与劳动合同签订，正式开启跨省就业新生活，为就业援藏工作注入鲜活动能。",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-05/10726447.shtml",
+        "published": "2026-11-05 10:34",
+        "summary": "中新网11月5日电 据“中国铁路”微信公众号消息，全国铁路列车车次编排改革顺利推进，第一批车次变更即将实施，11月25日0时起始发开行的普速旅客列车、11月24日18时起始发开行的货物列车将正式启用新车次，按照2026版《列车车次编排规定》",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "2026 WIC Wuzhen Summit opens with focus on open-source AI",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-11-03/2026-WIC-Wuzhen-Summit-opens-with-focus-on-open-source-AI-1RLpbtAJn0I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-11-03 10:55",
-        "summary": "2026 WIC Wuzhen Summit opens with focus on open-source AI",
+        "title": "中国与东盟共探AI赋能防震减灾区域合作",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-05/10726437.shtml",
+        "published": "2026-11-05 10:21",
+        "summary": "中新网南宁11月5日电(韦佳秀)2026中国(广西)—东盟应急管理(防震减灾)合作与发展大会4日在南宁举办。来自中国及柬埔寨、印度尼西亚、老挝、马来西亚等东盟国家的防震减灾主管部门代表、科研机构专家学者齐聚一堂，围绕地震监测预警、人工智能(",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "西藏自治区首个万兆光网社区AI治理实践入选中国优秀案例",
+        "title": "报告：中国和美海岛建设取得阶段性成效",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-04/10725812.shtml",
-        "published": "2026-11-04 10:29",
-        "summary": "中新网拉萨11月4日电 (记者 贡桑拉姆)拉萨市城关区娘热街道慈松塘智慧社区是西藏自治区首个万兆光网智慧社区。该社区智慧治理实践11月3日在上海获评中国“人工智能+城市治理”优秀实践案例。",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-05/10726439.shtml",
+        "published": "2026-11-05 10:21",
+        "summary": "中新网北京11月5日电 (记者 阮煜琳)记者从自然资源部获悉，11月3日至4日，以“建设和美海岛共享蓝色繁荣”为主题的中国—岛屿国家海洋合作论坛在福建平潭举行。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "国台办：欢迎更多台商台企积极融入大陆新发展格局",
+        "title": "近日多地接连发生路口交通事故 公安部交管局发布提示",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-04/10725803.shtml",
-        "published": "2026-11-04 10:18",
-        "summary": "11月4日，国务院台办举行例行新闻发布会。有记者问：11月5日，第九届中国国际进口博览会将在上海开幕，请介绍台商台企参加进博会情况。本届进博会将给台商台企带来哪些机遇？",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726433.shtml",
+        "published": "2026-11-05 10:17",
+        "summary": "中新网11月5日电 据“公安部交通管理局”微信公众号消息，近日，安徽、河南、辽宁、河北等地接连发生路口多人死伤交通事故，需引起警醒警示。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "US tech stocks recover after selloff spooks investors over AI spending",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
-        "published": "2026-11-04 06:18",
-        "summary": "Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulation US tech stock",
+        "title": "Star mathematician Ma Xiao leaves the US for China – and a career pivot to AI",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/science/article/3373211/star-mathematician-ma-xiao-leaves-us-china-and-career-pivot-ai",
+        "published": "2026-11-05 09:00",
+        "summary": "Two years ago, Chinese mathematician Ma Xiao helped crack a century-old puzzle known as Hilbert’s sixth problem. The pro",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
-        "published": "2026-11-04 09:13",
-        "summary": "US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.",
+        "title": "Japanese defense chief challenges nuclear taboo",
+        "source": "RT",
+        "link": "https://rt-english.com/news/648430-japan-defense-challenge-nuclear-taboo/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-11-05 02:36",
+        "summary": "Japan must review its policy on nuclear weapons as Tokyo prepares to revise its security strategy, Defense Minister Shin",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Trump says US close to trade deal with Canada, Carney says work remains",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3373190/trump-says-us-close-trade-deal-canada-carney-says-work-remains",
-        "published": "2026-11-04 07:42",
-        "summary": "US ⁠President Donald Trump said on ⁠Tuesday the United States was close to making a trade deal with Canada, but Canadian",
+        "title": "Bavarian economy minister found dead",
+        "source": "RT",
+        "link": "https://rt-english.com/news/648437-bavarian-economy-minister-dead/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-11-05 06:08",
+        "summary": "Bavarian Deputy PM and Economy Minister Hubert Aiwanger has been found dead in a Berlin hotel at the age of 55, German m",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Trump announces halt to $4 bn in aid to Israel on midterm election day",
-        "source": "RT",
-        "link": "https://rt-english.com/news/648344-trump-israel-aid-midterm-election/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-11-04 05:47",
-        "summary": "US President Donald Trump has announced ending $4 billion worth of military aid to Israel by the end of the year on midt",
+        "title": "Nasa’s 22-year-old Swift satellite telescope falls from orbit in fiery finale",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3373323/nasas-22-year-old-swift-satellite-telescope-falls-orbit-fiery-finale",
+        "published": "2026-11-05 07:46",
+        "summary": "Nasa’s Swift satellite ⁠telescope, which spent two decades studying the most powerful known blasts of energy in the cosm",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Trump claims US will end military aid to Israel by end of this year",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
-        "published": "2026-11-04 01:17",
-        "summary": "US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment Donald Trump h",
-        "ai": false
+        "title": "Scare campaigns: Victoria’s major parties trade blows over AI-generated videos of leaders in election ads",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/05/victoria-election-2026-ai-generated-video-ads-ntwnfb",
+        "published": "2026-11-05 07:00",
+        "summary": "Transparency and advertising experts say trust in politics could be further eroded as a result of ‘lies, deepfakes and A",
+        "ai": true
       }
     ]
   },
@@ -108,39 +108,39 @@
       "city": "南京",
       "current": 17,
       "min": 14,
-      "max": 19,
+      "max": 20,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 17,
-      "min": 14,
-      "max": 18,
+      "current": 18,
+      "min": 11,
+      "max": 21,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 27,
-      "min": 23,
-      "max": 29,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 26,
+      "min": 22,
+      "max": 28,
+      "condition": "毛毛雨",
+      "icon": "🌧️"
     },
     {
       "city": "定西市安定区",
-      "current": 8,
-      "min": 0,
-      "max": 11,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": 7,
+      "min": -1,
+      "max": 12,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 17,
-      "min": 12,
-      "max": 19,
+      "current": 19,
+      "min": 9,
+      "max": 22,
       "condition": "阴",
       "icon": "☁️"
     }

@@ -1,146 +1,146 @@
 {
-  "date": "2026-11-05",
-  "updated_at": "2026-11-05 11:05",
+  "date": "2026-11-06",
+  "updated_at": "2026-11-06 11:05",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Avancez avec confiance, une belle journée vous attend.",
-    "language": "Français",
-    "words": 10
+    "text": "清晨好！愿今天平安顺遂，收获满满。",
+    "language": "中文",
+    "words": 17
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "交银国际信托有限公司原董事长张文被“双开”",
+        "title": "中国国家医保局：推动中国数智医保经验“走出去”",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-05/10726428.shtml",
-        "published": "2026-11-05 10:12",
-        "summary": "中新网11月5日电 据中央纪委国家监委驻交通银行纪检监察组、上海市纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻交通银行纪检监察组、上海市监委对交银国际信托有限公司原党委书记、董事长张文严重违纪违法问题进行了立案审查调查。",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727078.shtml",
+        "published": "2026-11-06 10:27",
+        "summary": "中新网南宁11月6日电(黄艳梅 黄越 俞靖)中国国家医疗保障局局长章轲5日在广西南宁表示，国家医保局将坚持开放共赢，推动中国数智医保经验“走出去”，促进更多医疗AI(人工智能)创新成果惠及各国民众。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "第一批新车次列车本月开行 车票将陆续发售、兑现",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-05/10726447.shtml",
-        "published": "2026-11-05 10:34",
-        "summary": "中新网11月5日电 据“中国铁路”微信公众号消息，全国铁路列车车次编排改革顺利推进，第一批车次变更即将实施，11月25日0时起始发开行的普速旅客列车、11月24日18时起始发开行的货物列车将正式启用新车次，按照2026版《列车车次编排规定》",
+        "title": "多地景区密集释放优惠政策 秋假激发秋冬文旅消费新活力",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4Tue3fyVvFJ",
+        "published": "2026-11-06 09:31",
+        "summary": "央视网消息： 11月起，全国百余城市中小学陆续开启秋假，带火了秋冬文旅市场，不少家庭已提前规划好出游行程，火车票、机票的预订也同步升温。 除了铁路，航空出行同样受到市民青睐，不少家庭把目光投向华南地区。铁路和民航方面提醒，秋假出行客流比较集",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "中国与东盟共探AI赋能防震减灾区域合作",
+        "title": "学习新语｜中国开放的大门只会越开越大",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-05/10726437.shtml",
-        "published": "2026-11-05 10:21",
-        "summary": "中新网南宁11月5日电(韦佳秀)2026中国(广西)—东盟应急管理(防震减灾)合作与发展大会4日在南宁举办。来自中国及柬埔寨、印度尼西亚、老挝、马来西亚等东盟国家的防震减灾主管部门代表、科研机构专家学者齐聚一堂，围绕地震监测预警、人工智能(",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727051.shtml",
+        "published": "2026-11-06 10:14",
+        "summary": "第九届中国国际进口博览会11月5日至10日在上海举办。在习近平主席引领推动下，进博会越办越好，已经成为中国构建新发展格局的窗口、推动高水平开放的平台、全球共享的国际公共产品。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "报告：中国和美海岛建设取得阶段性成效",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-05/10726439.shtml",
-        "published": "2026-11-05 10:21",
-        "summary": "中新网北京11月5日电 (记者 阮煜琳)记者从自然资源部获悉，11月3日至4日，以“建设和美海岛共享蓝色繁荣”为主题的中国—岛屿国家海洋合作论坛在福建平潭举行。",
+        "title": "世界互联网大会乌镇峰会闭幕 绘就智能发展新图景",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TueLyMRcqd",
+        "published": "2026-11-06 09:39",
+        "summary": "中新社浙江乌镇11月5日电 (奚金燕 刘亮)2026年世界互联网大会乌镇峰会5日在浙江乌镇闭幕。本次峰会吸引来自138个国家和地区约1800位嘉宾，共商开放合作之道，共谋数智发展未来。 本届峰会汇聚联合国经济和社会事务部、全球移动通信系统协",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "近日多地接连发生路口交通事故 公安部交管局发布提示",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726433.shtml",
-        "published": "2026-11-05 10:17",
-        "summary": "中新网11月5日电 据“公安部交通管理局”微信公众号消息，近日，安徽、河南、辽宁、河北等地接连发生路口多人死伤交通事故，需引起警醒警示。",
+        "title": "新闻联播 2026/11/05",
+        "source": "央视网-新闻联播",
+        "link": "https://tv.cctv.com/lm/xwlb/day/20261105.shtml",
+        "published": "2026-11-05 19:00",
+        "summary": "《新闻联播》 20261105 19:00 ⏱00:30:01 [视频]【学习贯彻党的二十届五中全会精神】严字当头 实干为要 把学习成效转化为干事创业的强大动力 ⏱00:05:34 [视频]李强会见全国应急管理系统先进模范和中国消防忠诚卫士",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Star mathematician Ma Xiao leaves the US for China – and a career pivot to AI",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/science/article/3373211/star-mathematician-ma-xiao-leaves-us-china-and-career-pivot-ai",
-        "published": "2026-11-05 09:00",
-        "summary": "Two years ago, Chinese mathematician Ma Xiao helped crack a century-old puzzle known as Hilbert’s sixth problem. The pro",
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-06 10:57",
+        "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Japanese defense chief challenges nuclear taboo",
+        "title": "Latin American president resigns after bank collapse",
         "source": "RT",
-        "link": "https://rt-english.com/news/648430-japan-defense-challenge-nuclear-taboo/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-11-05 02:36",
-        "summary": "Japan must review its policy on nuclear weapons as Tokyo prepares to revise its security strategy, Defense Minister Shin",
+        "link": "https://rt-english.com/news/648488-pena-resigns-paraguay-protests/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-11-06 03:21",
+        "summary": "Paraguayan President Santiago Pena, an ally of US President Donald Trump, has resigned after the fall of Ueno Bank trigg",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Bavarian economy minister found dead",
-        "source": "RT",
-        "link": "https://rt-english.com/news/648437-bavarian-economy-minister-dead/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-11-05 06:08",
-        "summary": "Bavarian Deputy PM and Economy Minister Hubert Aiwanger has been found dead in a Berlin hotel at the age of 55, German m",
-        "ai": false
+        "title": "AI stocks plunge after US election, driving down markets",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+        "published": "2026-11-06 01:56",
+        "summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "Nasa’s 22-year-old Swift satellite telescope falls from orbit in fiery finale",
+        "title": "The US-China tech contest has moved – to the gatekeeping product testers",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3373323/nasas-22-year-old-swift-satellite-telescope-falls-orbit-fiery-finale",
-        "published": "2026-11-05 07:46",
-        "summary": "Nasa’s Swift satellite ⁠telescope, which spent two decades studying the most powerful known blasts of energy in the cosm",
-        "ai": false
+        "link": "https://www.scmp.com/opinion/china-opinion/article/3373171/us-china-tech-contest-has-moved-gatekeeping-product-testers",
+        "published": "2026-11-05 20:30",
+        "summary": "The latest front in the US-China technology contest is not advanced chips, artificial intelligence (AI) or telecommunica",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Scare campaigns: Victoria’s major parties trade blows over AI-generated videos of leaders in election ads",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/australia-news/2026/nov/05/victoria-election-2026-ai-generated-video-ads-ntwnfb",
-        "published": "2026-11-05 07:00",
-        "summary": "Transparency and advertising experts say trust in politics could be further eroded as a result of ‘lies, deepfakes and A",
-        "ai": true
+        "title": "Netanyahu rival Eisenkot tipped to seek Israeli government with backing of Arab lists",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3373476/netanyahu-rival-eisenkot-tipped-seek-israeli-government-backing-arab-lists",
+        "published": "2026-11-06 10:10",
+        "summary": "Israeli President Isaac Herzog said he will announce on Sunday whom he will task with trying to form a new government, a",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 17,
-      "min": 14,
+      "current": 18,
+      "min": 13,
       "max": 20,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 18,
-      "min": 11,
-      "max": 21,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 21,
+      "min": 15,
+      "max": 22,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "南宁",
-      "current": 26,
-      "min": 22,
-      "max": 28,
+      "current": 25,
+      "min": 21,
+      "max": 27,
       "condition": "毛毛雨",
-      "icon": "🌧️"
+      "icon": "🌦️"
     },
     {
       "city": "定西市安定区",
-      "current": 7,
-      "min": -1,
-      "max": 12,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 11,
+      "min": -2,
+      "max": 15,
+      "condition": "晴",
+      "icon": "☀️"
     },
     {
       "city": "孝感市应城市",
-      "current": 19,
-      "min": 9,
-      "max": 22,
+      "current": 22,
+      "min": 14,
+      "max": 23,
       "condition": "阴",
       "icon": "☁️"
     }

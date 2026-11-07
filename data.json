@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-06",
-  "updated_at": "2026-11-06 11:05",
+  "date": "2026-11-07",
+  "updated_at": "2026-11-07 10:30",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "清晨好！愿今天平安顺遂，收获满满。",
-    "language": "中文",
-    "words": 17
+    "text": "Good morning! Take one hopeful step, then let the day unfold.",
+    "language": "English",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "中国国家医保局：推动中国数智医保经验“走出去”",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727078.shtml",
-        "published": "2026-11-06 10:27",
-        "summary": "中新网南宁11月6日电(黄艳梅 黄越 俞靖)中国国家医疗保障局局长章轲5日在广西南宁表示，国家医保局将坚持开放共赢，推动中国数智医保经验“走出去”，促进更多医疗AI(人工智能)创新成果惠及各国民众。",
+        "title": "时政微观察丨从两场展会看开放的中国",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/06/ARTI5wQMRB4qnNDgvW0UDlJk261106.shtml",
+        "published": "2026-11-06 22:41",
+        "summary": "在“十五五”开局起步的关键节点，两场国家级展会接力登场——11月4日，第140届中国进出口商品交易会在广州落下帷幕；11月5日，第九届中国国际进口博览会在上海拉开帷幕。 今年以来，习近平主席在多个国际场合强调，“十五五”规划既是中国自身的发",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "多地景区密集释放优惠政策 秋假激发秋冬文旅消费新活力",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4Tue3fyVvFJ",
-        "published": "2026-11-06 09:31",
-        "summary": "央视网消息： 11月起，全国百余城市中小学陆续开启秋假，带火了秋冬文旅市场，不少家庭已提前规划好出游行程，火车票、机票的预订也同步升温。 除了铁路，航空出行同样受到市民青睐，不少家庭把目光投向华南地区。铁路和民航方面提醒，秋假出行客流比较集",
+        "title": "绿色传奇（深度观察）",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/06/ARTIjKWpBJdPwE8MDA8WP9uI261106.shtml",
+        "published": "2026-11-06 20:36",
+        "summary": "习近平总书记在内蒙古自治区乌兰察布市考察时强调，绿色发展是高质量发展的应有之义，要统筹高质量发展和高水平保护，坚持山水林田湖草沙一体化保护和系统治理，协同推进降碳、减污、扩绿、增长，坚定不移走生态优先、绿色发展之路。 乌兰察布曾经风沙肆虐，",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "学习新语｜中国开放的大门只会越开越大",
+        "title": "中共中央发出通知 部署党的二十一大代表选举工作",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727051.shtml",
-        "published": "2026-11-06 10:14",
-        "summary": "第九届中国国际进口博览会11月5日至10日在上海举办。在习近平主席引领推动下，进博会越办越好，已经成为中国构建新发展格局的窗口、推动高水平开放的平台、全球共享的国际公共产品。",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727781.shtml",
+        "published": "2026-11-07 10:07",
+        "summary": "新华社北京11月7日电#8195;党的二十届五中全会决定，党的二十一大于2027年下半年在北京召开。最近，中共中央印发了《关于党的二十一大代表选举工作的通知》，对二十一大代表选举工作作出全面部署。中央组织部近日召开会议，对这项工作作出具体安",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "世界互联网大会乌镇峰会闭幕 绘就智能发展新图景",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TueLyMRcqd",
-        "published": "2026-11-06 09:39",
-        "summary": "中新社浙江乌镇11月5日电 (奚金燕 刘亮)2026年世界互联网大会乌镇峰会5日在浙江乌镇闭幕。本次峰会吸引来自138个国家和地区约1800位嘉宾，共商开放合作之道，共谋数智发展未来。 本届峰会汇聚联合国经济和社会事务部、全球移动通信系统协",
+        "title": "学习贯彻党的二十届五中全会精神｜学习贯彻党的二十届五中全会精神中央宣讲团在重庆宣讲",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727761.shtml",
+        "published": "2026-11-07 09:21",
+        "summary": "新华社重庆11月6日电(记者周文冲)学习贯彻党的二十届五中全会精神中央宣讲团11月6日在重庆宣讲。中央宣讲团成员、中共中央政治局委员、重庆市委书记袁家军作宣讲报告。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "新闻联播 2026/11/05",
-        "source": "央视网-新闻联播",
-        "link": "https://tv.cctv.com/lm/xwlb/day/20261105.shtml",
-        "published": "2026-11-05 19:00",
-        "summary": "《新闻联播》 20261105 19:00 ⏱00:30:01 [视频]【学习贯彻党的二十届五中全会精神】严字当头 实干为要 把学习成效转化为干事创业的强大动力 ⏱00:05:34 [视频]李强会见全国应急管理系统先进模范和中国消防忠诚卫士",
+        "title": "前三季度科技、涉农贷款数据出炉 金融支持实体力度持续显现",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TvSGHkNyj3",
+        "published": "2026-11-07 08:56",
+        "summary": "中国人民银行数据显示，前三季度，金融支持科技创新、普惠小微和绿色发展力度持续显现，科技领域信贷保持较快增长。 资金加速流向科技领域 在天津一家光电通信技术企业，研发团队正调试新设备。记者在现场发现，正在运转的中试设备不下十余种。 针对科技型",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-06 10:57",
-        "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+        "title": "AI-generated cats showcasing rural life, Chinese cuisine land major brand sponsorships",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/people-culture/china-personalities/article/3373622/ai-generated-cats-showcasing-rural-life-chinese-cuisine-land-major-brand-sponsorships",
+        "published": "2026-11-07 10:00",
+        "summary": "China’s pet scene has found its digital answer to cottagecore icon Li Ziqi – “Meow Ziqi,” a social media account featuri",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Latin American president resigns after bank collapse",
+        "title": "EU parliament president faces ‘TUSK=DICTATOR’ MPs in Poland (VIDEOS)",
         "source": "RT",
-        "link": "https://rt-english.com/news/648488-pena-resigns-paraguay-protests/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-11-06 03:21",
-        "summary": "Paraguayan President Santiago Pena, an ally of US President Donald Trump, has resigned after the fall of Ueno Bank trigg",
+        "link": "https://rt-english.com/news/648537-tusk-dictator-poland-protest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-11-07 07:05",
+        "summary": "Opposition MPs unfurled a massive ‘TUSK=DICTATOR’ banner during EU Parliament President Roberta Metsola’s speech in Pola",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "AI stocks plunge after US election, driving down markets",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
-        "published": "2026-11-06 01:56",
-        "summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
-        "ai": true
+        "title": "Paraguay parliament impeaches president after collapse of Ueno Bank",
+        "source": "TASS",
+        "link": "https://tass.com/world/2214105",
+        "published": "2026-11-07 06:28",
+        "summary": "44 votes were cast in favor of issuing a guilty verdict",
+        "ai": false
       },
       {
         "rank": 4,
-        "title": "The US-China tech contest has moved – to the gatekeeping product testers",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/opinion/china-opinion/article/3373171/us-china-tech-contest-has-moved-gatekeeping-product-testers",
-        "published": "2026-11-05 20:30",
-        "summary": "The latest front in the US-China technology contest is not advanced chips, artificial intelligence (AI) or telecommunica",
+        "title": "AI stocks climb after trillions wiped from market values",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-07 05:06",
+        "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI de",
         "ai": true
       },
       {
         "rank": 5,
-        "title": "Netanyahu rival Eisenkot tipped to seek Israeli government with backing of Arab lists",
+        "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3373476/netanyahu-rival-eisenkot-tipped-seek-israeli-government-backing-arab-lists",
-        "published": "2026-11-06 10:10",
-        "summary": "Israeli President Isaac Herzog said he will announce on Sunday whom he will task with trying to form a new government, a",
+        "link": "https://www.scmp.com/news/us/economy-trade-business/article/3373616/us-china-trade-chiefs-hold-call-ahead-trump-xi-summit-shenzhen",
+        "published": "2026-11-07 02:34",
+        "summary": "US Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer held a video call with Chinese Vice-Premier ",
         "ai": false
       }
     ]
@@ -109,38 +109,38 @@
       "current": 18,
       "min": 13,
       "max": 20,
+      "condition": "多云",
+      "icon": "⛅"
+    },
+    {
+      "city": "武汉",
+      "current": 18,
+      "min": 14,
+      "max": 18,
       "condition": "阴",
       "icon": "☁️"
     },
     {
-      "city": "武汉",
-      "current": 21,
-      "min": 15,
-      "max": 22,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
-    },
-    {
       "city": "南宁",
-      "current": 25,
-      "min": 21,
+      "current": 23,
+      "min": 19,
       "max": 27,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": 11,
+      "current": 4,
       "min": -2,
-      "max": 15,
-      "condition": "晴",
-      "icon": "☀️"
+      "max": 5,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 22,
-      "min": 14,
-      "max": 23,
+      "current": 19,
+      "min": 11,
+      "max": 19,
       "condition": "阴",
       "icon": "☁️"
     }

@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-07",
-  "updated_at": "2026-11-07 10:30",
+  "date": "2026-11-08",
+  "updated_at": "2026-11-08 10:01",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! Take one hopeful step, then let the day unfold.",
-    "language": "English",
-    "words": 11
+    "text": "Que ce matin soit doux et votre journée pleine de belles surprises.",
+    "language": "Français",
+    "words": 12
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "时政微观察丨从两场展会看开放的中国",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/06/ARTI5wQMRB4qnNDgvW0UDlJk261106.shtml",
-        "published": "2026-11-06 22:41",
-        "summary": "在“十五五”开局起步的关键节点，两场国家级展会接力登场——11月4日，第140届中国进出口商品交易会在广州落下帷幕；11月5日，第九届中国国际进口博览会在上海拉开帷幕。 今年以来，习近平主席在多个国际场合强调，“十五五”规划既是中国自身的发",
+        "title": "寒潮继续影响中东部地区 局地降温可达14℃以上",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728234.shtml",
+        "published": "2026-11-08 08:59",
+        "summary": "中新网11月8日电 据中央气象台网站消息，昨日，华北北部及辽宁等地出现强降雪，内蒙古中部、河北北部、北京北部、辽宁西南部等地部分地区出现大雪或暴雪、局地大暴雪；江南北部及云南等地出现大雨或暴雨，局地大暴雨；受冷空气影响，西北地区出现大风降温",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "绿色传奇（深度观察）",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/06/ARTIjKWpBJdPwE8MDA8WP9uI261106.shtml",
-        "published": "2026-11-06 20:36",
-        "summary": "习近平总书记在内蒙古自治区乌兰察布市考察时强调，绿色发展是高质量发展的应有之义，要统筹高质量发展和高水平保护，坚持山水林田湖草沙一体化保护和系统治理，协同推进降碳、减污、扩绿、增长，坚定不移走生态优先、绿色发展之路。 乌兰察布曾经风沙肆虐，",
+        "title": "近百名专家聚海南研讨海洋地震科技 赋能自贸港安全发展",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728214.shtml",
+        "published": "2026-11-08 08:36",
+        "summary": "中新网三亚11月8日电 (记者 王子谦)第三届海南海洋地震科技交流研讨会7日在三亚举办。来自中国高校、科研院所、沿海省份地震部门和海洋相关单位的近百名专家学者，围绕海洋地震监测探查、灾害风险防控与数据应用等展开深入研讨交流。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "中共中央发出通知 部署党的二十一大代表选举工作",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727781.shtml",
-        "published": "2026-11-07 10:07",
-        "summary": "新华社北京11月7日电#8195;党的二十届五中全会决定，党的二十一大于2027年下半年在北京召开。最近，中共中央印发了《关于党的二十一大代表选举工作的通知》，对二十一大代表选举工作作出全面部署。中央组织部近日召开会议，对这项工作作出具体安",
+        "title": "Chinese insights power this Canadian new launch",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-11-07/Chinese-insights-power-this-Canadian-new-launch-1RR9Ubg7Jf2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-11-07 10:30",
+        "summary": "Chinese insights power this Canadian new launch",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "学习贯彻党的二十届五中全会精神｜学习贯彻党的二十届五中全会精神中央宣讲团在重庆宣讲",
+        "title": "“航母五件套”未来还可能升级！专家解读“5+X”新模式",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727761.shtml",
-        "published": "2026-11-07 09:21",
-        "summary": "新华社重庆11月6日电(记者周文冲)学习贯彻党的二十届五中全会精神中央宣讲团11月6日在重庆宣讲。中央宣讲团成员、中共中央政治局委员、重庆市委书记袁家军作宣讲报告。",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-08/10728237.shtml",
+        "published": "2026-11-08 09:33",
+        "summary": "10月下旬，我军首型舰载察打一体隐身无人机“攻击-21”首次在076型两栖攻击舰四川舰上成功起降。这是我国两栖攻击舰发展历程上取得的又一次突破，标志着人民海军具备固定翼隐身无人机在大型海上作战平台起降能力。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "前三季度科技、涉农贷款数据出炉 金融支持实体力度持续显现",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TvSGHkNyj3",
-        "published": "2026-11-07 08:56",
-        "summary": "中国人民银行数据显示，前三季度，金融支持科技创新、普惠小微和绿色发展力度持续显现，科技领域信贷保持较快增长。 资金加速流向科技领域 在天津一家光电通信技术企业，研发团队正调试新设备。记者在现场发现，正在运转的中试设备不下十余种。 针对科技型",
+        "title": "2026中欧非·绿色能源发展论坛在浙江温州举行",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-08/10728210.shtml",
+        "published": "2026-11-08 08:35",
+        "summary": "中新网温州11月8日电(胡丰盛)11月7日，2026中欧非·绿色能源发展论坛在浙江温州举行。来自中国、欧盟及非洲国家的政界人士、驻华使节、行业机构和企业代表等齐聚共商中欧非绿色能源合作与发展，共议零碳新生态建设之道。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "AI-generated cats showcasing rural life, Chinese cuisine land major brand sponsorships",
+        "title": "Top China university stops using AI to spot absent-minded students after backlash",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/people-culture/china-personalities/article/3373622/ai-generated-cats-showcasing-rural-life-chinese-cuisine-land-major-brand-sponsorships",
-        "published": "2026-11-07 10:00",
-        "summary": "China’s pet scene has found its digital answer to cottagecore icon Li Ziqi – “Meow Ziqi,” a social media account featuri",
+        "link": "https://www.scmp.com/news/china/science/article/3373599/top-china-university-stops-using-ai-spot-absent-minded-students-after-backlash",
+        "published": "2026-11-07 20:00",
+        "summary": "A top university in China’s eastern Jiangsu province has rolled back a controversial feature of its AI-powered classroom",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "EU parliament president faces ‘TUSK=DICTATOR’ MPs in Poland (VIDEOS)",
-        "source": "RT",
-        "link": "https://rt-english.com/news/648537-tusk-dictator-poland-protest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-11-07 07:05",
-        "summary": "Opposition MPs unfurled a massive ‘TUSK=DICTATOR’ banner during EU Parliament President Roberta Metsola’s speech in Pola",
+        "title": "UK has 'new pair of eyes' in space as new military satellite enters orbit",
+        "source": "Sky News",
+        "link": "https://news.sky.com/story/uk-has-new-pair-of-eyes-in-space-after-military-satellite-titania-enters-orbit-13609133",
+        "published": "2026-11-07 11:30",
+        "summary": "The UK has a \"new pair of eyes\" in space after it launched a new military satellite into orbit, the Ministry of Defence ",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Paraguay parliament impeaches president after collapse of Ueno Bank",
-        "source": "TASS",
-        "link": "https://tass.com/world/2214105",
-        "published": "2026-11-07 06:28",
-        "summary": "44 votes were cast in favor of issuing a guilty verdict",
+        "title": "Germany can’t spare more Patriots for Ukraine – defense minister",
+        "source": "RT",
+        "link": "https://rt-english.com/news/648549-germany-cant-spare-more-patriots-for-ukraine-defense-minister/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-11-08 04:59",
+        "summary": "Germany can no longer donate US-made Patriot air defense systems to Ukraine out of its own stocks, Defense Minister Bori",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "AI stocks climb after trillions wiped from market values",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-07 05:06",
-        "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI de",
-        "ai": true
+        "title": "Blow for Netanyahu as opposition rival asked to form government by Israel's president",
+        "source": "Sky News",
+        "link": "https://news.sky.com/story/blow-for-netanyahu-as-opposition-rival-asked-to-form-government-by-israels-president-13609540",
+        "published": "2026-11-08 04:10",
+        "summary": "Israel's president has asked Benjamin Netanyahu's strongest rival, Gadi Eisenkot, to try and form a government following",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen",
+        "title": "Israel’s president taps Eisenkot to form government, in setback for Netanyahu",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/us/economy-trade-business/article/3373616/us-china-trade-chiefs-hold-call-ahead-trump-xi-summit-shenzhen",
-        "published": "2026-11-07 02:34",
-        "summary": "US Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer held a video call with Chinese Vice-Premier ",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3373671/israels-president-taps-eisenkot-form-government-setback-netanyahu",
+        "published": "2026-11-08 04:05",
+        "summary": "Israel’s president announced on Saturday he would task Gadi Eisenkot with forming the next government following last wee",
         "ai": false
       }
     ]
@@ -106,43 +106,43 @@
   "weather": [
     {
       "city": "南京",
-      "current": 18,
-      "min": 13,
-      "max": 20,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 16,
+      "min": 12,
+      "max": 16,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
     },
     {
       "city": "武汉",
-      "current": 18,
-      "min": 14,
+      "current": 15,
+      "min": 11,
       "max": 18,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 23,
+      "current": 22,
       "min": 19,
-      "max": 27,
-      "condition": "阴",
-      "icon": "☁️"
+      "max": 28,
+      "condition": "强阵雨",
+      "icon": "🌦️"
     },
     {
       "city": "定西市安定区",
-      "current": 4,
-      "min": -2,
-      "max": 5,
+      "current": 2,
+      "min": -6,
+      "max": 2,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 19,
-      "min": 11,
-      "max": 19,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 16,
+      "min": 10,
+      "max": 18,
+      "condition": "多云",
+      "icon": "⛅"
     }
   ]
 }

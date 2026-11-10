@@ -1,148 +1,148 @@
 {
-  "date": "2026-11-09",
-  "updated_at": "2026-11-09 10:20",
+  "date": "2026-11-10",
+  "updated_at": "2026-11-10 12:28",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！把握当下，向喜欢的生活出发。",
-    "language": "中文",
-    "words": 17
+    "text": "May your morning feel light and your whole day go smoothly.",
+    "language": "English",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "绿色低碳、医疗健康 外国参展商眼中的“十五五”新机遇",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-09/10728636.shtml",
-        "published": "2026-11-09 09:59",
-        "summary": "第九届中国国际进口博览会正在上海举行。今天是展会的第四天，也是首个公众开放日。今年是“十五五”开局之年，绿色低碳、医疗健康成为各国参展商的关注重点。不少跨国企业抢抓机遇，加大投资、落地新项目。",
+        "title": "八部门联合印发通知支持实体书店服务全民阅读",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/10/ARTIgMSKj28tB8T0bQAxX94X261110.shtml",
+        "published": "2026-11-10 08:49",
+        "summary": "新华社北京11月10日电（记者杨湛菲）为贯彻《全民阅读促进条例》，落实2026年政府工作报告任务，近日，中央宣传部、中央社会工作部、教育部、财政部、住房城乡建设部、商务部、文化和旅游部、国家文物局联合印发《中共中央宣传部等关于支持实体书店服",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "波士顿科学Rezūm EVO国产设备亮相进博会 加速创新疗法本土化落地",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-09/10728624.shtml",
-        "published": "2026-11-09 10:13",
-        "summary": "第九届中国国际进口博览会期间，波士顿科学举办“汽势向新，梦起东方——Rezūm EVO国产设备预上市活动”。波士顿科学中国外科事业部高级总监潘晓抒、波士顿科学中国研发部总监徐峰及上海交通大学医学院附属新华医院泌尿外科主任崔心刚等嘉宾共同参与",
+        "title": "国家发展改革委：140亿元中央预算内投资投向养老托育设施",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/10/ARTImjjpnTHSXuL3fr8hemcY261110.shtml",
+        "published": "2026-11-10 10:39",
+        "summary": "央视网消息 ：11月10日，国家发展改革委召开奋进“十五五”系列新闻发布会，介绍增进民生福祉有关情况。‌国家发展改革委社会发展司副司长黄玮茹表示，2026年发改委已下达中央预算内投资140亿元，支持各地新建、改扩建的一批养老托育服务设施，并",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "New policy unlocks New Zealand beauty's China offline market",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-11-08/New-policy-unlocks-New-Zealand-beauty-s-China-offline-market-1RSKpNEmy3e/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-11-08 10:48",
-        "summary": "New policy unlocks New Zealand beauty's China offline market",
+        "title": "中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729337.shtml",
+        "published": "2026-11-10 12:07",
+        "summary": "中新社北京11月10日电 据中国国防部网站消息，11月10日，中美两军在四川成都举行美军遗骸移交仪式，中方向美方移交一批在“驼峰航线”沿线区域发掘的美军援华抗日飞行员遗骸。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Foreign military attachés impressed by PLA helicopter flight show",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-11-08/Foreign-military-attach-s-impressed-by-PLA-helicopter-flight-show-1RSYNs1jkA0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-11-08 10:44",
-        "summary": "Foreign military attachés impressed by PLA helicopter flight show",
+        "title": "今年前十月两岸进出口贸易额同比增长32%",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729335.shtml",
+        "published": "2026-11-10 12:05",
+        "summary": "中新社北京11月10日电 海关总署10日公布的最新统计数据显示，今年前10个月，大陆与台湾进出口贸易额同比增长32%，内地与香港进出口贸易额同比增长55.3%。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "全球媒体聚焦 |“进博会展现中国开放合作的强劲吸引力”",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-09/10728633.shtml",
-        "published": "2026-11-09 09:57",
-        "summary": "11月5日至10日，第九届中国国际进口博览会(进博会)在上海举行。步入第九个年头的进博会在展览规模、展品质量、展商参与度等多项指标中创出历史新高。",
+        "title": "China hands over remains of US pilots killed in anti-Japanese war",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-11-10/China-hands-over-remains-of-US-pilots-killed-in-anti-Japanese-war-1RX50NyfWJG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-11-10 10:50",
+        "summary": "China hands over remains of US pilots killed in anti-Japanese war",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "AI pulls up the civil service ladder to Southeast Asia’s middle class",
+        "title": "Why is Vietnam’s To Lam in Japan? AI, chips and nuclear power",
         "source": "SCMP",
-        "link": "https://www.scmp.com/week-asia/economics/article/3373652/ai-pulls-civil-service-ladder-southeast-asias-middle-class",
-        "published": "2026-11-09 10:00",
-        "summary": "Artificial intelligence promises to make government bureaucracies leaner across Asia, but its biggest effect on public-s",
+        "link": "https://www.scmp.com/week-asia/politics/article/3373880/why-vietnams-lam-japan-ai-chips-and-nuclear-power",
+        "published": "2026-11-10 12:12",
+        "summary": "Vietnam’s To Lam is expected to use his visit to Japan this week to expand trade and investment options with Tokyo, espe",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government",
-        "published": "2026-11-09 05:10",
-        "summary": "Israel's ex-military chief Gadi Eisenkot was tapped by President Isaac Herzog to try to form a government Sunday evening",
+        "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+        "source": "NPR",
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
+        "published": "2026-11-09 14:20",
+        "summary": "A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of politi",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Israeli president officially tasks Eisenkot with forming government",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
-        "published": "2026-11-08 17:47",
-        "summary": "Israeli President Isaac Herzog on Sunday officially tasked ex-military chief Gadi Eisenkot with trying to form a governm",
+        "title": "Russia, CAR outline plans for oil and gas cooperation over next three years — minister",
+        "source": "TASS",
+        "link": "https://tass.com/world/2215147",
+        "published": "2026-11-10 10:05",
+        "summary": "CAR Minister of Energy Development and Water Resources Opportune Edwige Pouninguinza also said that Russia and the CAR h",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Israel’s President Herzog gives Gadi Eisenkot the first chance to form the next government",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3373722/israels-president-herzog-gives-gadi-eisenkot-first-chance-form-next-government",
-        "published": "2026-11-09 06:47",
-        "summary": "Israeli President Isaac Herzog formally gave opposition politician Gadi Eisenkot the first chance to form the next gover",
-        "ai": false
+        "title": "The Guardian view on Jensen Huang’s affair: why did Trump ignore the warnings? | Editorial",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings",
+        "published": "2026-11-10 02:51",
+        "summary": "The AI chip boss’s actions raise urgent questions about corporate influence, national security and the US president’s wi",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Israeli president awards mandate to form government to opposition party leader",
-        "source": "TASS",
-        "link": "https://tass.com/world/2214527",
-        "published": "2026-11-09 03:36",
-        "summary": "Gadi Eisenkot, for his part, stated that he \"hopes to complete the process of forming a government as soon as possible",
-        "ai": false
+        "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+        "published": "2026-11-09 22:00",
+        "summary": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 9,
-      "min": 6,
-      "max": 11,
-      "condition": "阴",
-      "icon": "☁️"
-    },
-    {
-      "city": "武汉",
-      "current": 9,
-      "min": 7,
+      "current": 11,
+      "min": 4,
       "max": 12,
       "condition": "阴",
       "icon": "☁️"
     },
     {
+      "city": "武汉",
+      "current": 12,
+      "min": 6,
+      "max": 14,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
+    },
+    {
       "city": "南宁",
-      "current": 17,
-      "min": 14,
-      "max": 21,
+      "current": 18,
+      "min": 13,
+      "max": 20,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": 2,
-      "min": -6,
-      "max": 8,
+      "current": 9,
+      "min": -5,
+      "max": 11,
       "condition": "晴",
       "icon": "☀️"
     },
     {
       "city": "孝感市应城市",
-      "current": 10,
-      "min": 6,
-      "max": 13,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 14,
+      "min": 4,
+      "max": 15,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     }
   ]
 }

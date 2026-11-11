@@ -1,148 +1,148 @@
 {
-  "date": "2026-11-10",
-  "updated_at": "2026-11-10 12:28",
+  "date": "2026-11-11",
+  "updated_at": "2026-11-11 10:29",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "May your morning feel light and your whole day go smoothly.",
-    "language": "English",
-    "words": 11
+    "text": "Bonjour ! Un nouveau jour commence, profitez de chaque instant.",
+    "language": "Français",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "八部门联合印发通知支持实体书店服务全民阅读",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/10/ARTIgMSKj28tB8T0bQAxX94X261110.shtml",
-        "published": "2026-11-10 08:49",
-        "summary": "新华社北京11月10日电（记者杨湛菲）为贯彻《全民阅读促进条例》，落实2026年政府工作报告任务，近日，中央宣传部、中央社会工作部、教育部、财政部、住房城乡建设部、商务部、文化和旅游部、国家文物局联合印发《中共中央宣传部等关于支持实体书店服",
+        "title": "市场监管总局部署多项举措 共建放心消费生态圈",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-11/10729954.shtml",
+        "published": "2026-11-11 10:25",
+        "summary": "围绕2026年全国优化消费环境月“放心消费、你我共享”主题，市场监管总局昨天(10日)召开平台企业放心消费承诺座谈会，引导平台企业作出放心消费承诺、改善消费体验。市场监管总局提出，平台要建立完善首问负责和先行赔付制度，在提高AI客服水平的同",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "国家发展改革委：140亿元中央预算内投资投向养老托育设施",
+        "title": "中国交通建设集团有限公司原党委书记刘起涛被开除党籍",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/10/ARTImjjpnTHSXuL3fr8hemcY261110.shtml",
-        "published": "2026-11-10 10:39",
-        "summary": "央视网消息 ：11月10日，国家发展改革委召开奋进“十五五”系列新闻发布会，介绍增进民生福祉有关情况。‌国家发展改革委社会发展司副司长黄玮茹表示，2026年发改委已下达中央预算内投资140亿元，支持各地新建、改扩建的一批养老托育服务设施，并",
+        "link": "https://news.cctv.com/2026/11/10/ARTIdTyblXXSkGuWZpy3wZFs261110.shtml",
+        "published": "2026-11-10 17:02",
+        "summary": "央视网消息 ：中央纪委国家监委网站11月10日通报，据中央纪委国家监委驻国务院国资委纪检监察组、天津市纪委监委消息：日前，中央纪委国家监委驻国务院国资委纪检监察组、天津市监委对中国交通建设集团有限公司原党委书记、董事长刘起涛严重违纪违法问题",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729337.shtml",
-        "published": "2026-11-10 12:07",
-        "summary": "中新社北京11月10日电 据中国国防部网站消息，11月10日，中美两军在四川成都举行美军遗骸移交仪式，中方向美方移交一批在“驼峰航线”沿线区域发掘的美军援华抗日飞行员遗骸。",
+        "title": "一组数据 见证高水平对外开放的中国力量",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4Tyj8mz8TFm",
+        "published": "2026-11-11 07:34",
+        "summary": "44.81万亿元、20%！ 今年前10个月 我国外贸强劲增长 一组数据 见证高水平对外开放的中国力量 （图片由AI辅助完成）",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "今年前十月两岸进出口贸易额同比增长32%",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729335.shtml",
-        "published": "2026-11-10 12:05",
-        "summary": "中新社北京11月10日电 海关总署10日公布的最新统计数据显示，今年前10个月，大陆与台湾进出口贸易额同比增长32%，内地与香港进出口贸易额同比增长55.3%。",
+        "title": "红星照耀中国｜一颗松子串起产业链 一片草场拓展新空间",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4TyopQElwRO",
+        "published": "2026-11-11 10:13",
+        "summary": "央广网昆明11月10日消息（记者 魏文青）机器轰鸣的加工车间里，一颗颗松子经过筛选、分拣、加工，成为走向市场的特色产品；辽阔的高山草甸上，骆驼骑行、马术体验等项目吸引游客前来体验。90多年前，中央红军长征途经寻甸，在七星镇鲁口哨村发出“万万",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "China hands over remains of US pilots killed in anti-Japanese war",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-11-10/China-hands-over-remains-of-US-pilots-killed-in-anti-Japanese-war-1RX50NyfWJG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-11-10 10:50",
-        "summary": "China hands over remains of US pilots killed in anti-Japanese war",
+        "title": "海南省人大常委会原副主任肖杰被提起公诉",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/11/ARTIUYeHIl5ud7GzUG5X4xjf261111.shtml",
+        "published": "2026-11-11 10:08",
+        "summary": "央视网消息 ：据最高检消息，海南省人大常委会原党组成员、副主任肖杰涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。最高人民检察院依法以涉嫌受贿罪对肖杰作出逮捕决定，并指定由广东省惠州市人民检察院审查起诉。近日，惠州市人民检察院",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Why is Vietnam’s To Lam in Japan? AI, chips and nuclear power",
+        "title": "China dad modifies TV to quiz son on school subjects every 10 minutes to curb screen addiction",
         "source": "SCMP",
-        "link": "https://www.scmp.com/week-asia/politics/article/3373880/why-vietnams-lam-japan-ai-chips-and-nuclear-power",
-        "published": "2026-11-10 12:12",
-        "summary": "Vietnam’s To Lam is expected to use his visit to Japan this week to expand trade and investment options with Tokyo, espe",
+        "link": "https://www.scmp.com/news/people-culture/trending-china/article/3374007/china-dad-modifies-tv-quiz-son-school-subjects-every-10-minutes-curb-screen-addiction",
+        "published": "2026-11-11 10:11",
+        "summary": "A father in southern China used artificial intelligence (AI) to modify his home TV system and tackle his son’s TV addict",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
-        "source": "NPR",
-        "link": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
-        "published": "2026-11-09 14:20",
-        "summary": "A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of politi",
-        "ai": false
+        "title": "China, Russia and US try to nail down AI nuclear agenda in time for Apec talks",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3374003/china-russia-and-us-try-nail-down-ai-nuclear-agenda-time-apec-talks",
+        "published": "2026-11-11 09:05",
+        "summary": "Talks between China, the US and Russia could yield a commitment to control AI in nuclear arsenals as part of a broader a",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "Russia, CAR outline plans for oil and gas cooperation over next three years — minister",
-        "source": "TASS",
-        "link": "https://tass.com/world/2215147",
-        "published": "2026-11-10 10:05",
-        "summary": "CAR Minister of Energy Development and Water Resources Opportune Edwige Pouninguinza also said that Russia and the CAR h",
+        "title": "Netanyahu and Eisenkot push for new government after election deadlock",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
+        "published": "2026-11-11 04:39",
+        "summary": "Netanyahu and Eisenkot push for new government after election deadlock",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "The Guardian view on Jensen Huang’s affair: why did Trump ignore the warnings? | Editorial",
+        "title": "Mandatory AI safety and security protections announced after OpenAI breach of Medicare – video",
         "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings",
-        "published": "2026-11-10 02:51",
-        "summary": "The AI chip boss’s actions raise urgent questions about corporate influence, national security and the US president’s wi",
+        "link": "https://www.theguardian.com/australia-news/video/2026/nov/10/mandatory-ai-safety-and-security-protections-announced-after-openai-breach-of-medicare-video",
+        "published": "2026-11-10 13:29",
+        "summary": "Australia's prime minister said its government would set up a new AI safety regulator and Labor would consider six key o",
         "ai": true
       },
       {
         "rank": 5,
-        "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
-        "published": "2026-11-09 22:00",
-        "summary": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine",
-        "ai": true
+        "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
+        "published": "2026-11-11 08:01",
+        "summary": "Thinktank Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economy The Bank o",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 11,
-      "min": 4,
-      "max": 12,
+      "current": 12,
+      "min": 5,
+      "max": 16,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "武汉",
       "current": 12,
-      "min": 6,
+      "min": 9,
       "max": 14,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
-    },
-    {
-      "city": "南宁",
-      "current": 18,
-      "min": 13,
-      "max": 20,
       "condition": "阴",
       "icon": "☁️"
     },
     {
+      "city": "南宁",
+      "current": 18,
+      "min": 12,
+      "max": 22,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
+    },
+    {
       "city": "定西市安定区",
-      "current": 9,
-      "min": -5,
-      "max": 11,
-      "condition": "晴",
-      "icon": "☀️"
+      "current": 2,
+      "min": -3,
+      "max": 12,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "孝感市应城市",
-      "current": 14,
-      "min": 4,
+      "current": 11,
+      "min": 7,
       "max": 15,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

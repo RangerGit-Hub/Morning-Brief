@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-11",
-  "updated_at": "2026-11-11 10:29",
+  "date": "2026-11-12",
+  "updated_at": "2026-11-12 11:34",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Un nouveau jour commence, profitez de chaque instant.",
-    "language": "Français",
-    "words": 10
+    "text": "早安！愿晨光带来勇气与好心情。",
+    "language": "中文",
+    "words": 15
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "市场监管总局部署多项举措 共建放心消费生态圈",
+        "title": "中国-墨西哥亚克斯科波伊尔联合考古项目发掘开工",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-11/10729954.shtml",
-        "published": "2026-11-11 10:25",
-        "summary": "围绕2026年全国优化消费环境月“放心消费、你我共享”主题，市场监管总局昨天(10日)召开平台企业放心消费承诺座谈会，引导平台企业作出放心消费承诺、改善消费体验。市场监管总局提出，平台要建立完善首问负责和先行赔付制度，在提高AI客服水平的同",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730712.shtml",
+        "published": "2026-11-12 11:24",
+        "summary": "新华社墨西哥城11月9日电(记者吴昊)中国-墨西哥亚克斯科波伊尔联合考古项目发布会暨开工仪式近日在墨西哥尤卡坦州亚克斯科波伊尔举行。该项目旨在深化中墨文物考古合作，促进文明交流互鉴。中国驻墨西哥大使馆、山东大学、墨西哥国家文物局、中国-墨西",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "中国交通建设集团有限公司原党委书记刘起涛被开除党籍",
+        "title": "时政微观察丨从总书记引用的典故，感悟如何涵养党性",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/10/ARTIdTyblXXSkGuWZpy3wZFs261110.shtml",
-        "published": "2026-11-10 17:02",
-        "summary": "央视网消息 ：中央纪委国家监委网站11月10日通报，据中央纪委国家监委驻国务院国资委纪检监察组、天津市纪委监委消息：日前，中央纪委国家监委驻国务院国资委纪检监察组、天津市监委对中国交通建设集团有限公司原党委书记、董事长刘起涛严重违纪违法问题",
+        "link": "https://news.cctv.com/2026/11/12/ARTIlrk0b9LntKzBq2D4YUV0261112.shtml",
+        "published": "2026-11-12 07:35",
+        "summary": "“种树者必培其根，种德者必养其心。”党性教育是共产党人修身养性的必修课。 党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，将“增强共产党人的党性”摆在持之以恒推进全面从严治党7项战略任务和重大举措的第一",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "一组数据 见证高水平对外开放的中国力量",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4Tyj8mz8TFm",
-        "published": "2026-11-11 07:34",
-        "summary": "44.81万亿元、20%！ 今年前10个月 我国外贸强劲增长 一组数据 见证高水平对外开放的中国力量 （图片由AI辅助完成）",
+        "title": "新华图讯丨纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730688.shtml",
+        "published": "2026-11-12 11:06",
+        "summary": "纪念孙中山先生诞辰160周年大会12日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希出席大会。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "红星照耀中国｜一颗松子串起产业链 一片草场拓展新空间",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4TyopQElwRO",
-        "published": "2026-11-11 10:13",
-        "summary": "央广网昆明11月10日消息（记者 魏文青）机器轰鸣的加工车间里，一颗颗松子经过筛选、分拣、加工，成为走向市场的特色产品；辽阔的高山草甸上，骆驼骑行、马术体验等项目吸引游客前来体验。90多年前，中央红军长征途经寻甸，在七星镇鲁口哨村发出“万万",
+        "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/12/ARTIsCVfzCStYCdhIqu49WQi261112.shtml",
+        "published": "2026-11-12 11:06",
+        "summary": "纪念孙中山先生诞辰160周年大会12日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希出席大会。 摄影：谢环驰 岳月伟 编辑：侯俊 虞东升 郝昭",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "海南省人大常委会原副主任肖杰被提起公诉",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/11/ARTIUYeHIl5ud7GzUG5X4xjf261111.shtml",
-        "published": "2026-11-11 10:08",
-        "summary": "央视网消息 ：据最高检消息，海南省人大常委会原党组成员、副主任肖杰涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。最高人民检察院依法以涉嫌受贿罪对肖杰作出逮捕决定，并指定由广东省惠州市人民检察院审查起诉。近日，惠州市人民检察院",
+        "title": "Flying cars, AI and ocean voyages: China-US youth exchanges flourish",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-11-11/Flying-cars-AI-and-ocean-voyages-China-US-youth-exchanges-flourish-1RYPJP6YjcI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-11-11 16:00",
+        "summary": "In November 2023, China launched a five-year initiative to invite 50,000 young Americans to China for exchange and study",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "China dad modifies TV to quiz son on school subjects every 10 minutes to curb screen addiction",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/people-culture/trending-china/article/3374007/china-dad-modifies-tv-quiz-son-school-subjects-every-10-minutes-curb-screen-addiction",
-        "published": "2026-11-11 10:11",
-        "summary": "A father in southern China used artificial intelligence (AI) to modify his home TV system and tackle his son’s TV addict",
+        "title": "Humanity faces catastrophic AI threat – OpenAI board member",
+        "source": "RT",
+        "link": "https://rt-english.com/news/648719-ai-takeover-humanity-deaths/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-11-12 09:46",
+        "summary": "AI could escape human control within years with deadly consequences, OpenAI board member Paul Christiano has warned Read",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "China, Russia and US try to nail down AI nuclear agenda in time for Apec talks",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3374003/china-russia-and-us-try-nail-down-ai-nuclear-agenda-time-apec-talks",
-        "published": "2026-11-11 09:05",
-        "summary": "Talks between China, the US and Russia could yield a commitment to control AI in nuclear arsenals as part of a broader a",
-        "ai": true
+        "title": "Moscow, Chengdu Technology Zone to form partnership — minister",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2216181",
+        "published": "2026-11-11 19:56",
+        "summary": "The Moscow government is ready to provide required support to this initiative, Minister of the Moscow Government Sergey ",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "Netanyahu and Eisenkot push for new government after election deadlock",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
-        "published": "2026-11-11 04:39",
-        "summary": "Netanyahu and Eisenkot push for new government after election deadlock",
+        "title": "NATO 2027 summit in Albania unlikely to be held as planned — defense minister",
+        "source": "TASS",
+        "link": "https://tass.com/world/2216605",
+        "published": "2026-11-12 03:30",
+        "summary": "Instead, NATO could hold \"a flexible meeting,\" with leaders free to decide whether to attend, or \"even a virtual summit,",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Mandatory AI safety and security protections announced after OpenAI breach of Medicare – video",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/australia-news/video/2026/nov/10/mandatory-ai-safety-and-security-protections-announced-after-openai-breach-of-medicare-video",
-        "published": "2026-11-10 13:29",
-        "summary": "Australia's prime minister said its government would set up a new AI safety regulator and Labor would consider six key o",
-        "ai": true
+        "title": "Paraguay partially refunds Ueno Bank depositors after collapse",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/americas/20261112-paraguay-partially-refunds-ueno-bank-depositors-after-collapse",
+        "published": "2026-11-12 11:11",
+        "summary": "Paraguay's Central Bank said Wednesday it had partially returned savings to all eligible Ueno Bank depositors, following",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
-        "published": "2026-11-11 08:01",
-        "summary": "Thinktank Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economy The Bank o",
+        "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
+        "published": "2026-11-12 07:05",
+        "summary": "The historic victory flips an eighth US Senate seat for Democrats after last week's pivotal midterm election.",
         "ai": false
       }
     ]
@@ -106,40 +106,40 @@
   "weather": [
     {
       "city": "南京",
-      "current": 12,
-      "min": 5,
+      "current": 15,
+      "min": 10,
       "max": 16,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 12,
-      "min": 9,
+      "current": 14,
+      "min": 11,
       "max": 14,
+      "condition": "毛毛雨",
+      "icon": "🌦️"
+    },
+    {
+      "city": "南宁",
+      "current": 21,
+      "min": 16,
+      "max": 22,
       "condition": "阴",
       "icon": "☁️"
     },
     {
-      "city": "南宁",
-      "current": 18,
-      "min": 12,
-      "max": 22,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
-    },
-    {
       "city": "定西市安定区",
-      "current": 2,
-      "min": -3,
-      "max": 12,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 6,
+      "min": -2,
+      "max": 11,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 11,
-      "min": 7,
+      "current": 15,
+      "min": 11,
       "max": 15,
       "condition": "阴",
       "icon": "☁️"

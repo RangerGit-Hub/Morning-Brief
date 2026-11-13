@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-12",
-  "updated_at": "2026-11-12 11:34",
+  "date": "2026-11-13",
+  "updated_at": "2026-11-13 11:06",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！愿晨光带来勇气与好心情。",
-    "language": "中文",
-    "words": 15
+    "text": "Good morning! New light, new energy, new possibilities.",
+    "language": "English",
+    "words": 8
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "中国-墨西哥亚克斯科波伊尔联合考古项目发掘开工",
+        "title": "国务院安委会办公室对11个市级政府开展安全生产约谈",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730712.shtml",
-        "published": "2026-11-12 11:24",
-        "summary": "新华社墨西哥城11月9日电(记者吴昊)中国-墨西哥亚克斯科波伊尔联合考古项目发布会暨开工仪式近日在墨西哥尤卡坦州亚克斯科波伊尔举行。该项目旨在深化中墨文物考古合作，促进文明交流互鉴。中国驻墨西哥大使馆、山东大学、墨西哥国家文物局、中国-墨西",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731345.shtml",
+        "published": "2026-11-13 10:34",
+        "summary": "近日，根据《国务院安委会安全生产约谈实施办法(试行)》相关规定，国务院安委会办公室对今年以来发生有关重大事故的地区：内蒙古自治区包头市、河南省南阳市、湖北省襄阳市，以及6个月内发生3起以上较大事故的山西省吕梁市、朔州市、忻州市，黑龙江省牡丹",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "时政微观察丨从总书记引用的典故，感悟如何涵养党性",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/12/ARTIlrk0b9LntKzBq2D4YUV0261112.shtml",
-        "published": "2026-11-12 07:35",
-        "summary": "“种树者必培其根，种德者必养其心。”党性教育是共产党人修身养性的必修课。 党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，将“增强共产党人的党性”摆在持之以恒推进全面从严治党7项战略任务和重大举措的第一",
+        "title": "重庆荣昌营商环境体系观察：数字背后的温度",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731346.shtml",
+        "published": "2026-11-13 10:47",
+        "summary": "中新网重庆11月13日电 题：重庆荣昌营商环境体系观察：数字背后的温度",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "新华图讯丨纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730688.shtml",
-        "published": "2026-11-12 11:06",
-        "summary": "纪念孙中山先生诞辰160周年大会12日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希出席大会。",
+        "title": "China's 'cool tech' through the eyes of BRICS young people",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-11-12/China-s-cool-tech-through-the-eyes-of-BRICS-young-people-1S11C4qe2pW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-11-12 20:59",
+        "summary": "From smart marine equipment and AI-powered sports systems to robotics, drones and big data, the participants visited Chi",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/12/ARTIsCVfzCStYCdhIqu49WQi261112.shtml",
-        "published": "2026-11-12 11:06",
-        "summary": "纪念孙中山先生诞辰160周年大会12日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希出席大会。 摄影：谢环驰 岳月伟 编辑：侯俊 虞东升 郝昭",
+        "title": "President Xi to attend APEC Economic Leaders' Meeting in Shenzhen",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-11-13/President-Xi-to-attend-APEC-Economic-Leaders-Meeting-in-Shenzhen-1S1VV8klmPS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-11-13 09:39",
+        "summary": "President Xi to attend APEC Economic Leaders' Meeting in Shenzhen",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Flying cars, AI and ocean voyages: China-US youth exchanges flourish",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-11-11/Flying-cars-AI-and-ocean-voyages-China-US-youth-exchanges-flourish-1RYPJP6YjcI/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-11-11 16:00",
-        "summary": "In November 2023, China launched a five-year initiative to invite 50,000 young Americans to China for exchange and study",
+        "title": "人民银行三季度货政报告拆解“钱去哪了”",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-13/10731349.shtml",
+        "published": "2026-11-13 10:34",
+        "summary": "北京商报讯(记者 廖蒙)关于存款结构的变化，人民银行最新说明。11月11日，人民银行发布《2026年第三季度中国货币政策执行报告》(以下简称《报告》)。《报告》首个专栏聚焦“我国银行存款结构的变化特征”，以近十年数据说明，在利率下行与融资结",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Humanity faces catastrophic AI threat – OpenAI board member",
-        "source": "RT",
-        "link": "https://rt-english.com/news/648719-ai-takeover-humanity-deaths/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-        "published": "2026-11-12 09:46",
-        "summary": "AI could escape human control within years with deadly consequences, OpenAI board member Paul Christiano has warned Read",
+        "title": "Why Hong Kong is losing ground in AI data centre race as Malaysia, Singapore advance",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374262/why-hong-kong-losing-ground-ai-data-centre-race-malaysia-singapore-advance",
+        "published": "2026-11-13 08:30",
+        "summary": "From large factory premises in Tseung Kwan O to compact, multilayered industrial buildings in Kwai Chung, data centres a",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Moscow, Chengdu Technology Zone to form partnership — minister",
-        "source": "TASS",
-        "link": "https://tass.com/economy/2216181",
-        "published": "2026-11-11 19:56",
-        "summary": "The Moscow government is ready to provide required support to this initiative, Minister of the Moscow Government Sergey ",
-        "ai": false
+        "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
+        "published": "2026-11-12 21:08",
+        "summary": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter AI helps UK ",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "NATO 2027 summit in Albania unlikely to be held as planned — defense minister",
-        "source": "TASS",
-        "link": "https://tass.com/world/2216605",
-        "published": "2026-11-12 03:30",
-        "summary": "Instead, NATO could hold \"a flexible meeting,\" with leaders free to decide whether to attend, or \"even a virtual summit,",
-        "ai": false
+        "title": "Cold War lessons for the AI age: how a US-China hotline could help stop a nuclear attack",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3374246/cold-war-lessons-ai-age-how-us-china-hotline-could-help-stop-nuclear-attack",
+        "published": "2026-11-12 23:00",
+        "summary": "The United States and China should set up a dedicated hotline to help reduce the risk of AI-induced nuclear attacks, ana",
+        "ai": true
       },
       {
         "rank": 4,
-        "title": "Paraguay partially refunds Ueno Bank depositors after collapse",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/americas/20261112-paraguay-partially-refunds-ueno-bank-depositors-after-collapse",
-        "published": "2026-11-12 11:11",
-        "summary": "Paraguay's Central Bank said Wednesday it had partially returned savings to all eligible Ueno Bank depositors, following",
+        "title": "Belarus capable of giving immediate crushing response to enemy — defense minister",
+        "source": "TASS",
+        "link": "https://tass.com/world/2217257",
+        "published": "2026-11-12 22:52",
+        "summary": "According to Viktor Khrenin, a training exercise involving territorial defense troops is currently underway in the Mogil",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
-        "published": "2026-11-12 07:05",
-        "summary": "The historic victory flips an eighth US Senate seat for Democrats after last week's pivotal midterm election.",
+        "title": "Belarus reinforcing civil defense with anti-UAV capabilities — Defense Ministry",
+        "source": "TASS",
+        "link": "https://tass.com/world/2217167",
+        "published": "2026-11-12 21:35",
+        "summary": "Viktor Khrenin arrived in Krichev on Thursday to oversee a training exercise with the region’s territorial defense force",
         "ai": false
       }
     ]
@@ -106,43 +106,43 @@
   "weather": [
     {
       "city": "南京",
-      "current": 15,
-      "min": 10,
-      "max": 16,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": null,
+      "min": null,
+      "max": null,
+      "condition": "暂不可用",
+      "icon": "🌡️"
     },
     {
       "city": "武汉",
-      "current": 14,
-      "min": 11,
-      "max": 14,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "current": null,
+      "min": null,
+      "max": null,
+      "condition": "暂不可用",
+      "icon": "🌡️"
     },
     {
       "city": "南宁",
-      "current": 21,
-      "min": 16,
-      "max": 22,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": null,
+      "min": null,
+      "max": null,
+      "condition": "暂不可用",
+      "icon": "🌡️"
     },
     {
       "city": "定西市安定区",
-      "current": 6,
-      "min": -2,
-      "max": 11,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": null,
+      "min": null,
+      "max": null,
+      "condition": "暂不可用",
+      "icon": "🌡️"
     },
     {
       "city": "孝感市应城市",
-      "current": 15,
-      "min": 11,
-      "max": 15,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": null,
+      "min": null,
+      "max": null,
+      "condition": "暂不可用",
+      "icon": "🌡️"
     }
   ]
 }

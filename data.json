@@ -1,148 +1,148 @@
 {
-  "date": "2026-11-13",
-  "updated_at": "2026-11-13 11:06",
+  "date": "2026-11-14",
+  "updated_at": "2026-11-14 10:53",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! New light, new energy, new possibilities.",
-    "language": "English",
-    "words": 8
+    "text": "Que la lumière du matin éclaire vos projets et votre humeur.",
+    "language": "Français",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "国务院安委会办公室对11个市级政府开展安全生产约谈",
+        "title": "预计到2030年 我国新增清洁能源电量将覆盖新增用电量",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731345.shtml",
-        "published": "2026-11-13 10:34",
-        "summary": "近日，根据《国务院安委会安全生产约谈实施办法(试行)》相关规定，国务院安委会办公室对今年以来发生有关重大事故的地区：内蒙古自治区包头市、河南省南阳市、湖北省襄阳市，以及6个月内发生3起以上较大事故的山西省吕梁市、朔州市、忻州市，黑龙江省牡丹",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-14/10731902.shtml",
+        "published": "2026-11-14 09:41",
+        "summary": "中国宏观经济研究院昨天(13日)发布《中国能源转型展望2026》。报告显示，目前，我国风电、光伏等清洁能源发电已成为新增装机的主体，并正在逐步成为发电主力。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "重庆荣昌营商环境体系观察：数字背后的温度",
+        "title": "广西6位应急先进模范代表分享一线履职故事",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-13/10731346.shtml",
-        "published": "2026-11-13 10:47",
-        "summary": "中新网重庆11月13日电 题：重庆荣昌营商环境体系观察：数字背后的温度",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-14/10731888.shtml",
+        "published": "2026-11-14 09:51",
+        "summary": "中新网南宁11月14日电(鄢雨彤)11月13日，广西举办全国应急管理系统先进模范代表记者见面会，6位先进模范代表现场分享在广西开展防灾减灾、抢险救援的一线经历。11月5日召开的全国应急管理系统先进模范和中国消防忠诚卫士表彰大会上，广西共有4",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "China's 'cool tech' through the eyes of BRICS young people",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-11-12/China-s-cool-tech-through-the-eyes-of-BRICS-young-people-1S11C4qe2pW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-11-12 20:59",
-        "summary": "From smart marine equipment and AI-powered sports systems to robotics, drones and big data, the participants visited Chi",
+        "title": "新闻联播 2026/11/13",
+        "source": "央视网-新闻联播",
+        "link": "https://tv.cctv.com/lm/xwlb/day/20261113.shtml",
+        "published": "2026-11-13 19:00",
+        "summary": "《新闻联播》 20261113 19:00 ⏱00:30:01 [视频]习近平对国有企业党的建设工作作出重要指示强调 持之以恒推进全面从严治党 为做强做优做大国有企业和国有资本提供坚强保障 蔡奇出席国有企业党的建设工作座谈会并讲话 ⏱00:",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "President Xi to attend APEC Economic Leaders' Meeting in Shenzhen",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-11-13/President-Xi-to-attend-APEC-Economic-Leaders-Meeting-in-Shenzhen-1S1VV8klmPS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-11-13 09:39",
-        "summary": "President Xi to attend APEC Economic Leaders' Meeting in Shenzhen",
+        "title": "李强同泰国总理阿努廷会谈",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-14/10731877.shtml",
+        "published": "2026-11-14 09:21",
+        "summary": "中新社曼谷11月13日电 11月13日下午，中国国务院总理李强在曼谷同泰国总理阿努廷举行会谈。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "人民银行三季度货政报告拆解“钱去哪了”",
+        "title": "今年1至10月全国铁路发送旅客41.3亿人次 创历史同期新高",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-13/10731349.shtml",
-        "published": "2026-11-13 10:34",
-        "summary": "北京商报讯(记者 廖蒙)关于存款结构的变化，人民银行最新说明。11月11日，人民银行发布《2026年第三季度中国货币政策执行报告》(以下简称《报告》)。《报告》首个专栏聚焦“我国银行存款结构的变化特征”，以近十年数据说明，在利率下行与融资结",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-14/10731881.shtml",
+        "published": "2026-11-14 08:53",
+        "summary": "中新网11月14日电 据“中国铁路”微信公众号消息，今年以来，中国国家铁路集团有限公司坚持以人民为中心的发展思想，精心组织旅客运输，统筹安排运力资源，优化客运产品供给，提升旅客服务品质，1至10月全国铁路累计发送旅客41.3亿人次，同比增长",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Why Hong Kong is losing ground in AI data centre race as Malaysia, Singapore advance",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374262/why-hong-kong-losing-ground-ai-data-centre-race-malaysia-singapore-advance",
-        "published": "2026-11-13 08:30",
-        "summary": "From large factory premises in Tseung Kwan O to compact, multilayered industrial buildings in Kwai Chung, data centres a",
+        "title": "Trump admits that suspension of flights in US may be linked to outdated equipment",
+        "source": "TASS",
+        "link": "https://tass.com/world/2218071",
+        "published": "2026-11-14 09:10",
+        "summary": "The problem was not caused by a cyberattack or AI, the US leader said",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
-        "published": "2026-11-12 21:08",
-        "summary": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter AI helps UK ",
+        "title": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1",
+        "published": "2026-11-14 01:28",
+        "summary": "As EU leaders meet for an AI summit in Dublin, largely overshadowed by Russia's war on Ukraine, William Hilderbrandt is ",
         "ai": true
       },
       {
         "rank": 3,
-        "title": "Cold War lessons for the AI age: how a US-China hotline could help stop a nuclear attack",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3374246/cold-war-lessons-ai-age-how-us-china-hotline-could-help-stop-nuclear-attack",
-        "published": "2026-11-12 23:00",
-        "summary": "The United States and China should set up a dedicated hotline to help reduce the risk of AI-induced nuclear attacks, ana",
-        "ai": true
+        "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
+        "published": "2026-11-14 04:18",
+        "summary": "The criminal association charge over his alleged role in the collapse of the bank comes a week after his removal.",
+        "ai": false
       },
       {
         "rank": 4,
-        "title": "Belarus capable of giving immediate crushing response to enemy — defense minister",
-        "source": "TASS",
-        "link": "https://tass.com/world/2217257",
-        "published": "2026-11-12 22:52",
-        "summary": "According to Viktor Khrenin, a training exercise involving territorial defense troops is currently underway in the Mogil",
+        "title": "US-China Board of Trade holds first meeting days before Trump-Xi summit",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3374407/us-china-board-trade-holds-first-meeting-days-trump-xi-summit",
+        "published": "2026-11-14 02:39",
+        "summary": "The United States and China held the inaugural meeting of their bilateral Board of Trade on Friday, just days before US ",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Belarus reinforcing civil defense with anti-UAV capabilities — Defense Ministry",
-        "source": "TASS",
-        "link": "https://tass.com/world/2217167",
-        "published": "2026-11-12 21:35",
-        "summary": "Viktor Khrenin arrived in Krichev on Thursday to oversee a training exercise with the region’s territorial defense force",
-        "ai": false
+        "title": "EU leaders told to ‘act now’ to stay in AI race with US and China",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/europe/article/3374405/eu-leaders-told-act-now-stay-ai-race-us-and-china",
+        "published": "2026-11-14 01:20",
+        "summary": "The EU must “act now” to ensure Europe stays in the AI race with the US and China, French AI firm Mistral’s Chief Execut",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": null,
-      "min": null,
-      "max": null,
-      "condition": "暂不可用",
-      "icon": "🌡️"
+      "current": 16,
+      "min": 13,
+      "max": 18,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": null,
-      "min": null,
-      "max": null,
-      "condition": "暂不可用",
-      "icon": "🌡️"
+      "current": 16,
+      "min": 13,
+      "max": 17,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": null,
-      "min": null,
-      "max": null,
-      "condition": "暂不可用",
-      "icon": "🌡️"
+      "current": 22,
+      "min": 17,
+      "max": 24,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": null,
-      "min": null,
-      "max": null,
-      "condition": "暂不可用",
-      "icon": "🌡️"
+      "current": 5,
+      "min": -1,
+      "max": 11,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "孝感市应城市",
-      "current": null,
-      "min": null,
-      "max": null,
-      "condition": "暂不可用",
-      "icon": "🌡️"
+      "current": 16,
+      "min": 11,
+      "max": 18,
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

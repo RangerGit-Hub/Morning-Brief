@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-14",
-  "updated_at": "2026-11-14 10:53",
+  "date": "2026-11-15",
+  "updated_at": "2026-11-15 10:21",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Que la lumière du matin éclaire vos projets et votre humeur.",
-    "language": "Français",
-    "words": 11
+    "text": "新的一天，愿你从容前行，事事顺心。",
+    "language": "中文",
+    "words": 17
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "预计到2030年 我国新增清洁能源电量将覆盖新增用电量",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-14/10731902.shtml",
-        "published": "2026-11-14 09:41",
-        "summary": "中国宏观经济研究院昨天(13日)发布《中国能源转型展望2026》。报告显示，目前，我国风电、光伏等清洁能源发电已成为新增装机的主体，并正在逐步成为发电主力。",
+        "title": "21个经济体的“朋友圈” 2026年约在深圳",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4U1i9LaypP2",
+        "published": "2026-11-14 21:52",
+        "summary": "中国日报网11月14日电 太平洋两岸的21个经济体，覆盖约30亿人口，GDP占全球六成以上，把它们串在一起的，就是APEC！ 2026年11月18日至19日，第三十三次领导人非正式会议将在深圳举行，中国第三次担任东道主。今年主题是“建设亚太",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "广西6位应急先进模范代表分享一线履职故事",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-14/10731888.shtml",
-        "published": "2026-11-14 09:51",
-        "summary": "中新网南宁11月14日电(鄢雨彤)11月13日，广西举办全国应急管理系统先进模范代表记者见面会，6位先进模范代表现场分享在广西开展防灾减灾、抢险救援的一线经历。11月5日召开的全国应急管理系统先进模范和中国消防忠诚卫士表彰大会上，广西共有4",
+        "title": "“一张票”化身“一条消费链” 交通流量转化为文旅消费与区域经济增量‌",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4U1hN1Jpq6V",
+        "published": "2026-11-14 21:30",
+        "summary": "央视网消息： 记者11月14日从国铁集团获悉，2026年1至10月，全国铁路累计发送旅客41.3亿人次，同比增长4.7%。日均安排开行旅客列车11670列，同比增长5.0%，其中，10月1日发送旅客2520.4万人次、开行旅客列车14885",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "新闻联播 2026/11/13",
-        "source": "央视网-新闻联播",
-        "link": "https://tv.cctv.com/lm/xwlb/day/20261113.shtml",
-        "published": "2026-11-13 19:00",
-        "summary": "《新闻联播》 20261113 19:00 ⏱00:30:01 [视频]习近平对国有企业党的建设工作作出重要指示强调 持之以恒推进全面从严治党 为做强做优做大国有企业和国有资本提供坚强保障 蔡奇出席国有企业党的建设工作座谈会并讲话 ⏱00:",
+        "title": "第2届中国高校校友网球公开赛在郑州开赛",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/ty/2026/11-15/10732237.shtml",
+        "published": "2026-11-15 09:46",
+        "summary": "中新网郑州11月15日电 (陈贵洋)11月14日，为期两天的第2届中国高校校友网球公开赛在河南郑州航空港经济综合实验区(简称郑州航空港区)开赛，来自全国70所高校的280余名校友选手参赛。",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "李强同泰国总理阿努廷会谈",
+        "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-14/10731877.shtml",
-        "published": "2026-11-14 09:21",
-        "summary": "中新社曼谷11月13日电 11月13日下午，中国国务院总理李强在曼谷同泰国总理阿努廷举行会谈。",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-15/10732253.shtml",
+        "published": "2026-11-15 10:13",
+        "summary": "新华社深圳11月15日电(记者潘洁、杨深深)在15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，115家世界500强企业代表将参加APEC工商领导人峰会。美国参会企业数量居外方经济体之首，占比近20%。此",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "今年1至10月全国铁路发送旅客41.3亿人次 创历史同期新高",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-14/10731881.shtml",
-        "published": "2026-11-14 08:53",
-        "summary": "中新网11月14日电 据“中国铁路”微信公众号消息，今年以来，中国国家铁路集团有限公司坚持以人民为中心的发展思想，精心组织旅客运输，统筹安排运力资源，优化客运产品供给，提升旅客服务品质，1至10月全国铁路累计发送旅客41.3亿人次，同比增长",
+        "title": "校馆弦歌 | “开放”的高校图书馆，书香飘更远",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4U1hkWBbpMt",
+        "published": "2026-11-14 21:40",
+        "summary": "中青报·中青网记者 王豪 前不久，中国海洋大学图书馆馆长谷强和几位同事登上海军某舰艇。在这里，他们和官兵一起学习“长征精神”，又围绕双方共建的“深蓝书吧”探讨合作思路。 不同于宽敞规整的高校图书馆，设在舰艇上的“深蓝书吧”多由舱室改造而成，",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Trump admits that suspension of flights in US may be linked to outdated equipment",
-        "source": "TASS",
-        "link": "https://tass.com/world/2218071",
-        "published": "2026-11-14 09:10",
-        "summary": "The problem was not caused by a cyberattack or AI, the US leader said",
+        "title": "AI ‘blue aliens’ rising as health experts on China social media spark pseudoscience backlash",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/people-culture/trending-china/article/3374466/ai-blue-aliens-rising-health-experts-china-social-media-spark-pseudoscience-backlash",
+        "published": "2026-11-15 10:00",
+        "summary": "In China, some influential online voices offering health advice are neither doctors nor academics, but AI-generated blue",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1",
-        "published": "2026-11-14 01:28",
-        "summary": "As EU leaders meet for an AI summit in Dublin, largely overshadowed by Russia's war on Ukraine, William Hilderbrandt is ",
+        "title": "Can Chinese AI companies curb cyber risks from open-weight models without losing their edge?",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/tech-trends/article/3374332/can-chinese-ai-companies-curb-cyber-risks-open-weight-models-without-losing-their-edge",
+        "published": "2026-11-15 10:00",
+        "summary": "China’s leading artificial intelligence model companies are beginning to curb the cybersecurity capabilities of their mo",
         "ai": true
       },
       {
         "rank": 3,
-        "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
-        "published": "2026-11-14 04:18",
-        "summary": "The criminal association charge over his alleged role in the collapse of the bank comes a week after his removal.",
+        "title": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
+        "published": "2026-11-15 04:35",
+        "summary": "Israeli caretaker Prime Minister Benjamin Netanyahu on Saturday renewed his call for a national unity government with Ga",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "US-China Board of Trade holds first meeting days before Trump-Xi summit",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3374407/us-china-board-trade-holds-first-meeting-days-trump-xi-summit",
-        "published": "2026-11-14 02:39",
-        "summary": "The United States and China held the inaugural meeting of their bilateral Board of Trade on Friday, just days before US ",
-        "ai": false
+        "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+        "published": "2026-11-15 03:00",
+        "summary": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact o",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "EU leaders told to ‘act now’ to stay in AI race with US and China",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/europe/article/3374405/eu-leaders-told-act-now-stay-ai-race-us-and-china",
-        "published": "2026-11-14 01:20",
-        "summary": "The EU must “act now” to ensure Europe stays in the AI race with the US and China, French AI firm Mistral’s Chief Execut",
+        "title": "Washington divided over how to deal with fallout from the Nvidia case",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/washington-divided-over-how-to-deal-with-fallout-from-the-nvidia-case",
+        "published": "2026-11-15 01:21",
+        "summary": "After the fall, the fallout. US government agencies are squabbling after AI leader Jensen Huang stepped down from chips ",
         "ai": true
       }
     ]
@@ -107,7 +107,7 @@
     {
       "city": "南京",
       "current": 16,
-      "min": 13,
+      "min": 11,
       "max": 18,
       "condition": "阴",
       "icon": "☁️"
@@ -116,30 +116,30 @@
       "city": "武汉",
       "current": 16,
       "min": 13,
-      "max": 17,
+      "max": 18,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "南宁",
       "current": 22,
-      "min": 17,
-      "max": 24,
-      "condition": "阴",
-      "icon": "☁️"
+      "min": 16,
+      "max": 25,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "定西市安定区",
-      "current": 5,
-      "min": -1,
-      "max": 11,
+      "current": 0,
+      "min": -3,
+      "max": 5,
       "condition": "多云",
       "icon": "⛅"
     },
     {
       "city": "孝感市应城市",
-      "current": 16,
-      "min": 11,
+      "current": 15,
+      "min": 9,
       "max": 18,
       "condition": "阴",
       "icon": "☁️"

@@ -1,148 +1,148 @@
 {
-  "date": "2026-11-17",
-  "updated_at": "2026-11-17 12:56",
+  "date": "2026-11-18",
+  "updated_at": "2026-11-18 12:00",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Gardez le sourire et faites confiance à votre rythme.",
-    "language": "Français",
-    "words": 11
+    "text": "早安！愿微风拂去疲惫，阳光照亮心情。",
+    "language": "中文",
+    "words": 18
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "习近平会见越共中央总书记、国家主席苏林",
+        "title": "“投资中国 对话山西”中法产业合作圆桌会议在太原举办",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733316.shtml",
-        "published": "2026-11-17 11:48",
-        "summary": "新华社快讯：11月17日，中共中央总书记、国家主席习近平在深圳会见越共中央总书记、国家主席苏林。",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733927.shtml",
+        "published": "2026-11-18 11:45",
+        "summary": "中新网太原11月18日电 (记者 李庭耀)“投资中国 对话山西”中法产业合作圆桌会议17日在太原举办。中法政企研代表聚焦绿色能源转型国际合作，探讨能源绿色低碳发展路径和前景，推动中法生态低碳城项目合作落地山西。",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "联合国前副秘书长索尔海姆：别只听传言，亲眼看看中国的绿色蜕变 | 新闻会客厅",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733325.shtml",
-        "published": "2026-11-17 12:25",
-        "summary": "中新网11月17日电 (记者 林卓玮)第31届联合国气候变化大会(COP31)正在土耳其安塔利亚召开，联合国前副秘书长、联合国环境规划署前执行主任，现任欧盟亚洲中心联合主席的埃里克·索尔海姆(Erik Solheim)日前接受中新社“新闻会",
+        "title": "生态环境部：将进一步加强废电器处理的监督管理",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/18/ARTIJvt5sSZY1iifqA7kzrCV261118.shtml",
+        "published": "2026-11-18 06:25",
+        "summary": "随着废弃家电等电器电子产品更新迭代加速，废电器的产生量也在持续增长。在11月17日国务院新闻办举行的新闻发布会上，生态环境部有关负责人表示， 将强化废弃电器电子产品环境监管，在实现资源化利用的同时防止二次污染。 据介绍，国家有关部门持续推动",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "习近平致信祝贺暨南大学建校120周年",
-        "source": "参考消息",
-        "link": "https://china.cankaoxiaoxi.com/#/detailsPage/diyi/7834518cb6e24e5f920b038cbc3f0ae7/1/2026-11-16",
-        "published": "2026-11-16 20:39",
-        "summary": "新华社北京11月16日电 中共中央总书记、国家主席、中央军委主席习近平16日致信祝贺暨南大学建校120周年，向全体师生员工和广大校友致以祝贺。 习近平在贺信中强调，新起点上，希望暨南大学以新时代中国特色社会主义思想为指导，继承爱国传统，坚持",
+        "title": "两部门联合发布十大计量重点攻关项目",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/18/ARTIFbfBoXrvKfEEAxagphpX261118.shtml",
+        "published": "2026-11-18 11:25",
+        "summary": "记者今日了解到，市场监管总局、工业和信息化部联合发布十大计量重点攻关项目，覆盖新一代信息技术、人工智能、航空航天、新能源、新材料、高端装备、生物医药、量子科技、集成电路、仪器仪表十大领域。集中国内优势计量资源协同攻关，着力打破产业“测不了、",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "习近平在广东中山考察",
-        "source": "参考消息",
-        "link": "https://china.cankaoxiaoxi.com/#/detailsPage/diyi/c7e87a0efc6143c8ab8ef67793a504a0/1/2026-11-16",
-        "published": "2026-11-16 20:34",
-        "summary": "习近平在广东中山考察时强调 深入学习贯彻党的二十届五中全会精神 奋力开创粤港澳大湾区高质量发展新局面 蔡奇陪同考察 新华社广东中山11月16日电 中共中央总书记、国家主席、中央军委主席习近平16日在广东省中山市考察时强调，深入学习贯彻党的二",
+        "title": "福建三明“以侨为桥”聚侨力促发展",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/hr/2026/11-18/10733967.shtml",
+        "published": "2026-11-18 11:57",
+        "summary": "中新网三明11月18日电 (雷朝良 金鹏)三明被誉为福建“新侨乡”，全市现有归侨侨眷8.4万人。三明籍海外侨胞约12万人，足迹遍布欧美、非洲、东南亚等地。广大侨胞情系桑梓、反哺家乡，已成为推动全市经济社会高质量发展的一支重要力量。",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Green Electrostate: Powering the AI age",
+        "title": "China tests wireless tech for 6G, satellite internet development",
         "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-11-17/Green-Electrostate-Powering-the-AI-age-1S7IY6PEz9m/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-11-17 08:47",
-        "summary": "Green Electrostate: Powering the AI age",
+        "link": "https://news.cgtn.com/news/2026-11-17/China-tests-wireless-tech-for-6G-satellite-internet-development-1S9hlhOCFkQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-11-17 20:50",
+        "summary": "China tests wireless tech for 6G, satellite internet development",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Singapore seeks US talks on AI chip export rules amid Nvidia fallout, Megaspeed probe",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/week-asia/economics/article/3374665/singapore-seeks-us-talks-ai-chip-export-rules-amid-nvidia-fallout-megaspeed-probe",
-        "published": "2026-11-17 10:39",
-        "summary": "Singapore has been engaging with the United States to explore ways to facilitate “trusted access” for local firms after ",
+        "title": "Xi Jinping calls for global cooperation on AI and free trade at APEC summit",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-on-ai-and-free-trade-at-apec-summit",
+        "published": "2026-11-18 11:24",
+        "summary": "Chinese President Xi Jinping called on Wednesday for stronger global cooperation on artificial intelligence and free tra",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "US agency’s rare AI chip disclaimer exposes rift in Trump administration: experts",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/us/article/3374656/us-agencys-rare-ai-chip-disclaimer-exposes-rift-trump-administration-experts",
-        "published": "2026-11-17 07:16",
-        "summary": "A US agency’s unusual decision to distance itself from new restrictions on advanced artificial intelligence chips sugges",
-        "ai": true
-      },
-      {
-        "rank": 3,
-        "title": "APEC CEO Summit opens in Shenzhen",
+        "title": "Russia meets 89.3% of 2026 military contract recruitment target — deputy defense minister",
         "source": "TASS",
-        "link": "https://tass.com/politics/2219253",
-        "published": "2026-11-17 06:15",
-        "summary": "Kremlin Spokesman Dmitry Peskov said Russian President Vladimir Putin, Chinese President Xi Jinping and US President Don",
+        "link": "https://tass.com/defense/2219949",
+        "published": "2026-11-18 05:30",
+        "summary": "Contract recruitment centers are the main channel for staffing the Russian Armed Forces, Russian Deputy Defense Minister",
         "ai": false
       },
       {
-        "rank": 4,
-        "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-        "published": "2026-11-17 05:00",
-        "summary": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face",
+        "rank": 3,
+        "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-17 19:17",
+        "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating",
         "ai": true
       },
       {
+        "rank": 4,
+        "title": "EU foreign policy chief, Commission president reflect institutional decline — ex-minister",
+        "source": "TASS",
+        "link": "https://tass.com/world/2219967",
+        "published": "2026-11-18 09:30",
+        "summary": "Former Austrian Foreign Minister Karin Kneissl opined that emotions and personalities now take precedence over the rule ",
+        "ai": false
+      },
+      {
         "rank": 5,
-        "title": "US to further curb China's access to Nvidia chips",
-        "source": "Sky News",
-        "link": "https://news.sky.com/story/us-to-further-curb-chinas-access-to-ai-chips-from-companies-like-nvidia-13612884",
-        "published": "2026-11-16 22:59",
-        "summary": "The US government is set to further restrict China's access to the most powerful AI chips, such as the ones provided by ",
-        "ai": true
+        "title": "Japan’s Takaichi faces icy Apec summit as support for China policy slides",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/week-asia/people/article/3374747/japans-takaichi-faces-icy-apec-summit-support-china-policy-slides",
+        "published": "2026-11-18 08:00",
+        "summary": "Japanese Prime Minister Sanae Takaichi arrives at the Apec summit in Shenzhen on Wednesday with public backing for her C",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 15,
-      "min": 10,
-      "max": 16,
-      "condition": "阴",
-      "icon": "☁️"
-    },
-    {
-      "city": "武汉",
       "current": 13,
-      "min": 12,
+      "min": 5,
       "max": 14,
       "condition": "毛毛雨",
       "icon": "🌦️"
     },
     {
+      "city": "武汉",
+      "current": 14,
+      "min": 7,
+      "max": 14,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
+    },
+    {
       "city": "南宁",
-      "current": 27,
-      "min": 22,
-      "max": 28,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 20,
+      "min": 17,
+      "max": 23,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": -1,
-      "min": -7,
-      "max": 0,
+      "current": 2,
+      "min": -8,
+      "max": 5,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 12,
-      "min": 11,
+      "current": 14,
+      "min": 4,
       "max": 14,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     }
   ]
 }

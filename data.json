@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-18",
-  "updated_at": "2026-11-18 12:00",
+  "date": "2026-11-19",
+  "updated_at": "2026-11-19 11:57",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "早安！愿微风拂去疲惫，阳光照亮心情。",
-    "language": "中文",
-    "words": 18
+    "text": "Good morning! May kind moments find you wherever you go.",
+    "language": "English",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "“投资中国 对话山西”中法产业合作圆桌会议在太原举办",
+        "title": "辽宁省算力券政策正式落地实施",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733927.shtml",
-        "published": "2026-11-18 11:45",
-        "summary": "中新网太原11月18日电 (记者 李庭耀)“投资中国 对话山西”中法产业合作圆桌会议17日在太原举办。中法政企研代表聚焦绿色能源转型国际合作，探讨能源绿色低碳发展路径和前景，推动中法生态低碳城项目合作落地山西。",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-19/10734549.shtml",
+        "published": "2026-11-19 11:29",
+        "summary": "中新网沈阳11月19日电 (记者 李晛)记者19日自辽宁省财政厅获悉，为深入落实省委、省政府“人工智能+”行动部署，降低市场主体算力使用成本，激活省内算力市场，助力人工智能赋能实体经济，辽宁省财政厅会同辽宁省数据和政务服务局联合印发了《辽宁",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "生态环境部：将进一步加强废电器处理的监督管理",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/18/ARTIJvt5sSZY1iifqA7kzrCV261118.shtml",
-        "published": "2026-11-18 06:25",
-        "summary": "随着废弃家电等电器电子产品更新迭代加速，废电器的产生量也在持续增长。在11月17日国务院新闻办举行的新闻发布会上，生态环境部有关负责人表示， 将强化废弃电器电子产品环境监管，在实现资源化利用的同时防止二次污染。 据介绍，国家有关部门持续推动",
+        "title": "江苏扬州发布涉企网络服务清单 五类16项举措护航企业“网事”",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-19/10734550.shtml",
+        "published": "2026-11-19 11:28",
+        "summary": "中新网扬州11月19日电 (徐珊珊 崔佳明)11月19日，扬州市举行“扬州市优化营商网络环境涉企服务清单”新闻发布会。扬州市委网信办副主任沈娟娟解读《扬州市优化营商网络环境涉企服务清单》核心内容，并宣布配套H5页面同步上线。",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "两部门联合发布十大计量重点攻关项目",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/18/ARTIFbfBoXrvKfEEAxagphpX261118.shtml",
-        "published": "2026-11-18 11:25",
-        "summary": "记者今日了解到，市场监管总局、工业和信息化部联合发布十大计量重点攻关项目，覆盖新一代信息技术、人工智能、航空航天、新能源、新材料、高端装备、生物医药、量子科技、集成电路、仪器仪表十大领域。集中国内优势计量资源协同攻关，着力打破产业“测不了、",
+        "title": "PwC Global Chairman: Why Global Collaboration the Key to AI Ecosystem",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-11-18/PwC-Global-Chairman-Why-Global-Collaboration-the-Key-to-AI-Ecosystem-1Sb1TlxKUg0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-11-18 20:40",
+        "summary": "PwC Global Chairman: Why Global Collaboration the Key to AI Ecosystem",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "福建三明“以侨为桥”聚侨力促发展",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/hr/2026/11-18/10733967.shtml",
-        "published": "2026-11-18 11:57",
-        "summary": "中新网三明11月18日电 (雷朝良 金鹏)三明被誉为福建“新侨乡”，全市现有归侨侨眷8.4万人。三明籍海外侨胞约12万人，足迹遍布欧美、非洲、东南亚等地。广大侨胞情系桑梓、反哺家乡，已成为推动全市经济社会高质量发展的一支重要力量。",
+        "title": "AI takes center stage on first day of APEC CEO Summit",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-11-18/AI-takes-center-stage-on-first-day-of-APEC-CEO-Summit-1SaObU8tqXS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-11-18 20:19",
+        "summary": "AI takes center stage on first day of APEC CEO Summit",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "China tests wireless tech for 6G, satellite internet development",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-11-17/China-tests-wireless-tech-for-6G-satellite-internet-development-1S9hlhOCFkQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-11-17 20:50",
-        "summary": "China tests wireless tech for 6G, satellite internet development",
+        "title": "深耕中国、看好深圳：美国工商界人士期待借APEC深化中美经贸合作",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734557.shtml",
+        "published": "2026-11-19 11:49",
+        "summary": "中新网深圳11月19日电（张东方 戴悦 宫宏宇）2026年APEC领导人会议周期间，多位美国工商界人士接受记者采访时表示，APEC是推动区域贸易便利化、加强政策沟通协调的重要平台，期待依托这一机制，在数字支付、无纸化贸易等多领域深化合作。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Xi Jinping calls for global cooperation on AI and free trade at APEC summit",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-on-ai-and-free-trade-at-apec-summit",
-        "published": "2026-11-18 11:24",
-        "summary": "Chinese President Xi Jinping called on Wednesday for stronger global cooperation on artificial intelligence and free tra",
+        "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+        "published": "2026-11-19 11:11",
+        "summary": "This live blog is now closed. Follow our live coverage of the Asia-Pacific economic cooperation summit Sign up for US br",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Russia meets 89.3% of 2026 military contract recruitment target — deputy defense minister",
-        "source": "TASS",
-        "link": "https://tass.com/defense/2219949",
-        "published": "2026-11-18 05:30",
-        "summary": "Contract recruitment centers are the main channel for staffing the Russian Armed Forces, Russian Deputy Defense Minister",
-        "ai": false
-      },
-      {
-        "rank": 3,
-        "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-17 19:17",
-        "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating",
+        "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+        "published": "2026-11-19 01:25",
+        "summary": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen US politics live ",
         "ai": true
       },
       {
-        "rank": 4,
-        "title": "EU foreign policy chief, Commission president reflect institutional decline — ex-minister",
+        "rank": 3,
+        "title": "French military operates in Ukraine as part of embassy mission — minister",
         "source": "TASS",
-        "link": "https://tass.com/world/2219967",
-        "published": "2026-11-18 09:30",
-        "summary": "Former Austrian Foreign Minister Karin Kneissl opined that emotions and personalities now take precedence over the rule ",
+        "link": "https://tass.com/world/2220593",
+        "published": "2026-11-18 22:52",
+        "summary": "According to Minister Delegate to the Minister of the Armed Forces Alice Rufo, the mission includes several service memb",
+        "ai": false
+      },
+      {
+        "rank": 4,
+        "title": "Russia’s trade with Asia Pacific countries grew by third in 8 months of 2026 — Putin",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2220891",
+        "published": "2026-11-19 11:20",
+        "summary": "According to the Russian president, the country's total trade with ASEAN nations has increased by nearly 60% over the pa",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Japan’s Takaichi faces icy Apec summit as support for China policy slides",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/week-asia/people/article/3374747/japans-takaichi-faces-icy-apec-summit-support-china-policy-slides",
-        "published": "2026-11-18 08:00",
-        "summary": "Japanese Prime Minister Sanae Takaichi arrives at the Apec summit in Shenzhen on Wednesday with public backing for her C",
+        "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+        "published": "2026-11-19 11:01",
+        "summary": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
         "ai": false
       }
     ]
@@ -106,43 +106,43 @@
   "weather": [
     {
       "city": "南京",
-      "current": 13,
-      "min": 5,
-      "max": 14,
-      "condition": "毛毛雨",
-      "icon": "🌦️"
-    },
-    {
-      "city": "武汉",
-      "current": 14,
-      "min": 7,
-      "max": 14,
+      "current": 11,
+      "min": 4,
+      "max": 12,
       "condition": "大部晴朗",
       "icon": "🌤️"
     },
     {
+      "city": "武汉",
+      "current": 13,
+      "min": 7,
+      "max": 15,
+      "condition": "阴",
+      "icon": "☁️"
+    },
+    {
       "city": "南宁",
-      "current": 20,
-      "min": 17,
-      "max": 23,
+      "current": 18,
+      "min": 15,
+      "max": 19,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "定西市安定区",
       "current": 2,
-      "min": -8,
-      "max": 5,
-      "condition": "阴",
-      "icon": "☁️"
+      "min": -5,
+      "max": 4,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "孝感市应城市",
       "current": 14,
       "min": 4,
-      "max": 14,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "max": 16,
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

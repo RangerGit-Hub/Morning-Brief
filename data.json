@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-20",
-  "updated_at": "2026-11-20 11:50",
+  "date": "2026-11-21",
+  "updated_at": "2026-11-21 11:43",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Je vous souhaite une journée sereine, utile et pleine d’élan.",
-    "language": "Français",
-    "words": 10
+    "text": "清晨好！愿你眼里有光，心中有梦。",
+    "language": "中文",
+    "words": 16
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "五部门印发2026版海洋产业投融资指导目录",
+        "title": "我在APEC记者会现场！321场活动、75项成果，一起回顾APEC的成绩单",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-20/10735127.shtml",
-        "published": "2026-11-20 11:30",
-        "summary": "今天(11月20日)，自然资源部联合国家发展改革委、中国人民银行等五部门，印发《海洋产业投融资指导目录(2026版)》(以下简称《目录》)，精准引导社会资本赋能海洋产业升级，助力我国海洋经济高质量发展。",
+        "link": "http://www.chinanews.com.cn/gn/shipin/2026/11-21/news1075630.shtml",
+        "published": "2026-11-21 11:31",
+        "summary": "321场会议和活动，75项主要成果！APEC“中国年”交出怎样一份成绩单？贸易数字化、人工智能、互联互通、亚太共同体建设……中新网记者走进深圳APEC记者会现场，带你梳理会议成果，一起看亚太合作有哪些新进展！",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "侨联四海·贸通全球——袁州区组织海外江西侨团代表来袁考察交流",
+        "title": "“三医”协同持续发力 天津北辰探索公立医院改革新路径",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/txy/2026/11-20/10735108.shtml",
-        "published": "2026-11-20 10:46",
-        "summary": "为进一步搭建袁州与海外江西侨团常态化联络对接平台，充分发挥海外侨团资源纽带作用，推介我区跨境电商、数字经济产业优势和优质营商环境，畅通“宜品出海”通道，促进海内外供需对接、资源互通与项目合作，助力本土企业开拓国际市场，吸引侨商回乡投资兴业，",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-21/10735666.shtml",
+        "published": "2026-11-21 11:19",
+        "summary": "中新网天津11月21日电 (记者 江莹)20日，天津市北辰区举办“卫健护航见行见效”专题新闻发布会，介绍该区深化医疗、医保、医药“三医”协同发展治理、优化高水平诊疗供给、提升医院精细化管理相关进展。作为国家第二批公立医院综合改革示范区，北辰",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "刷新纪录！我国实现6G频段最高码速率无线通信验证",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/20/ARTIVuwERQQtsJ74f3r0d9UD261120.shtml",
-        "published": "2026-11-20 11:34",
-        "summary": "6G是继5G之后的下一代移动通信技术，不光速度比5G更快，它还能把天上的卫星、空中的飞机、地面的基站连成一张网，让信号真正覆盖地球的每一个角落。 中国科学院空天信息创新研究院近日发布，该院联合国内多家单位，在中国遥感卫星地面站丽江站成功实现",
+        "title": "Experts: China-Russia-US summit paves way for global stability",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-11-21/Experts-China-Russia-US-summit-paves-way-for-global-stability-1Sf5kcXbdD2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-11-21 10:42",
+        "summary": "In the southern Chinese city of Shenzhen, cameras captured a historic moment as the leaders of China, Russia and the Uni",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "利好来了！自然资源部、国家发展改革委、央行、金融监管总局、证监会联合发文→",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4U6JUN42Abl",
-        "published": "2026-11-20 10:57",
-        "summary": "近日，自然资源部会同国家发展改革委、中国人民银行、金融监管总局和中国证监会联合印发 《海洋产业投融资指导目录（2026版）》 。 《目录》共有11个大类、42个小类，总计185条，明确了今后一个时期我国海洋产业转型升级的重点 ，旨在提升投融",
+        "title": "UNSC holds ninth straw poll to select next secretary-general",
+        "source": "CGTN",
+        "link": "https://news.cgtn.com/news/2026-11-21/UNSC-holds-ninth-straw-poll-to-select-next-secretary-general-1Sfd1fiXSGk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+        "published": "2026-11-21 09:33",
+        "summary": "Members of the United Nations Security Council (UNSC) began the ninth round of straw polling on Friday to assess candida",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "我国科学家揭开斯氏按蚊更能传播疟疾的秘密",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/20/ARTI6NQZ2ErrFWwOv9i8gN4K261120.shtml",
-        "published": "2026-11-20 10:22",
-        "summary": "随着全球变暖，一种擅长在城市生存、耐高温的传疟蚊子——斯氏按蚊，正在不断扩张分布范围，给全球疟疾防控带来新难题。中国科学院分子植物科学卓越创新中心和上海师范大学组成的联合团队，研究发现了这种蚊子耐热、更容易传播疟疾的关键基因线索，相关成果于",
+        "title": "新闻联播 2026/11/20",
+        "source": "央视网-新闻联播",
+        "link": "https://tv.cctv.com/lm/xwlb/day/20261120.shtml",
+        "published": "2026-11-20 19:00",
+        "summary": "《新闻联播》 20261120 19:00 ⏱00:30:01 [视频]习近平会见印度尼西亚总统 ⏱00:03:43 [视频]习近平会见澳大利亚总理 ⏱00:03:11 [视频]习近平会见新加坡总理 ⏱00:03:08 [视频]习近平会见泰",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
-        "published": "2026-11-20 11:33",
-        "summary": "A record breaking IPO has raised billions for the AI frontier lab – but experts say the coming months could prove bumpy,",
+        "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+        "published": "2026-11-21 09:49",
+        "summary": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "China-Russia-US trilateral summit declaration towards peace",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/plus/news/china/article/3375154/china-russia-us-trilateral-summit-declaration-towards-peace",
-        "published": "2026-11-20 11:16",
-        "summary": "Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin held a trilateral summit in",
-        "ai": false
+        "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+        "published": "2026-11-21 06:15",
+        "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
+        "ai": true
       },
       {
         "rank": 3,
-        "title": "What impact will the Shenzhen summit have on the US-China trade war?",
-        "source": "France 24",
-        "link": "https://www.france24.com/en/asia-pacific/20261119-what-impact-will-shenzhen-summit-us-china-trade-war",
-        "published": "2026-11-20 01:34",
-        "summary": "Despite warm words between US President Donald Trump and Chinese President Xi Jinping at three-way talks with Russian Pr",
+        "title": "Eni, YPF, XRG to invest $25 bln in LNG project in Argentina by 2030 — minister",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2222785",
+        "published": "2026-11-21 08:55",
+        "summary": "Economy Minister of the South American country Luis Caput added that the project will enable the annual export of 12 mln",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Nuclear arms, energy supplies - but no Kim: the main takeaways from a historic Apec summit",
+        "title": "Trump threatens ‘tremendous tax’ on US firms building AI data centres overseas",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3375124/nuclear-arms-energy-supplies-no-kim-main-takeaways-historic-apec-summit",
-        "published": "2026-11-19 23:47",
-        "summary": "Thursday’s Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen saw unprecedented three-way talks between Xi Jinp",
-        "ai": false
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3375303/trump-threatens-tremendous-tax-us-firms-building-ai-data-centres-overseas",
+        "published": "2026-11-21 08:48",
+        "summary": "President Donald Trump on Friday threatened “a tremendous tax” on US companies that build artificial intelligence data c",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "EU reveals it suffered 'AI-powered' cyber attack",
-        "source": "Sky News",
-        "link": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
-        "published": "2026-11-19 23:38",
-        "summary": "The EU has revealed it suffered a cyber attack powered by AI last month and some of its digital tools are still offline ",
+        "title": "Can China’s top-down military adapt to the speed of AI and drone warfare?",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/military/article/3375250/can-chinas-top-down-military-adapt-speed-ai-and-drone-warfare",
+        "published": "2026-11-21 06:00",
+        "summary": "Drawing on lessons from the Ukraine war, Chinese military commentators are calling for frontline commanders to have grea",
         "ai": true
       }
     ]
@@ -106,43 +106,43 @@
   "weather": [
     {
       "city": "南京",
-      "current": 11,
+      "current": 13,
       "min": 4,
-      "max": 13,
+      "max": 15,
       "condition": "晴",
       "icon": "☀️"
     },
     {
       "city": "武汉",
-      "current": 13,
-      "min": 5,
-      "max": 15,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 15,
+      "min": 7,
+      "max": 17,
+      "condition": "晴",
+      "icon": "☀️"
     },
     {
       "city": "南宁",
-      "current": 14,
+      "current": 18,
       "min": 13,
-      "max": 15,
-      "condition": "阴",
-      "icon": "☁️"
+      "max": 21,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "定西市安定区",
       "current": 4,
-      "min": -6,
-      "max": 7,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "min": -4,
+      "max": 8,
+      "condition": "晴",
+      "icon": "☀️"
     },
     {
       "city": "孝感市应城市",
-      "current": 14,
-      "min": 3,
-      "max": 16,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 15,
+      "min": 5,
+      "max": 18,
+      "condition": "晴",
+      "icon": "☀️"
     }
   ]
 }

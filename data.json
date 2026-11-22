@@ -1,105 +1,105 @@
 {
-  "date": "2026-11-21",
-  "updated_at": "2026-11-21 11:43",
+  "date": "2026-11-22",
+  "updated_at": "2026-11-22 10:47",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "清晨好！愿你眼里有光，心中有梦。",
-    "language": "中文",
-    "words": 16
+    "text": "A bright morning to you—make today meaningful in your own way.",
+    "language": "English",
+    "words": 11
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "我在APEC记者会现场！321场活动、75项成果，一起回顾APEC的成绩单",
+        "title": "院士专家为春城昆明“把脉” 云南省城市高质量发展高端智库揭牌",
         "source": "中国新闻网",
-        "link": "http://www.chinanews.com.cn/gn/shipin/2026/11-21/news1075630.shtml",
-        "published": "2026-11-21 11:31",
-        "summary": "321场会议和活动，75项主要成果！APEC“中国年”交出怎样一份成绩单？贸易数字化、人工智能、互联互通、亚太共同体建设……中新网记者走进深圳APEC记者会现场，带你梳理会议成果，一起看亚太合作有哪些新进展！",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735971.shtml",
+        "published": "2026-11-22 10:32",
+        "summary": "中新网昆明11月22日电 (时文枝)2026腾冲科学家论坛·城市高质量发展专题活动21日在昆明启幕。围绕“绿智赋能共探城市高质量发展路径”主题，全国各地院士专家、企业代表与城市管理者齐聚此间，为城市高质量发展建言献策，搭建“政产学研金”协同",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "“三医”协同持续发力 天津北辰探索公立医院改革新路径",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-21/10735666.shtml",
-        "published": "2026-11-21 11:19",
-        "summary": "中新网天津11月21日电 (记者 江莹)20日，天津市北辰区举办“卫健护航见行见效”专题新闻发布会，介绍该区深化医疗、医保、医药“三医”协同发展治理、优化高水平诊疗供给、提升医院精细化管理相关进展。作为国家第二批公立医院综合改革示范区，北辰",
+        "title": "中国驻沙特使馆再次提醒在沙特中资机构和中国公民注意安全",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/21/ARTI4SW8BwYZdavvK5SlWH4y261121.shtml",
+        "published": "2026-11-21 16:08",
+        "summary": "央视网消息： 11月21日，中国驻沙特大使馆发文表示，近来，沙特首都利雅得等多地频繁遭导弹和无人机袭击。据媒体报道，部分袭击造成人员伤亡，有机场、建筑物、能源电力设施等受损，局部地区出现短时停水电断网等情况。多地学校继续线上授课，部分当地机",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Experts: China-Russia-US summit paves way for global stability",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-11-21/Experts-China-Russia-US-summit-paves-way-for-global-stability-1Sf5kcXbdD2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-11-21 10:42",
-        "summary": "In the southern Chinese city of Shenzhen, cameras captured a historic moment as the leaders of China, Russia and the Uni",
+        "title": "十载传脉新质启新 北京国际城市设计大会召开",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735959.shtml",
+        "published": "2026-11-22 10:19",
+        "summary": "中新网北京11月22日电 为期两天的2026(第十届)北京国际城市设计大会21日在北京建筑大学开幕。来自政府部门、国内外高校、科研院所、行业企业等机构的300余名院士大师、专家学者，围绕城市更新与治理、文脉传承与建筑遗产保护、数字与智慧赋能",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "UNSC holds ninth straw poll to select next secretary-general",
-        "source": "CGTN",
-        "link": "https://news.cgtn.com/news/2026-11-21/UNSC-holds-ninth-straw-poll-to-select-next-secretary-general-1Sfd1fiXSGk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-        "published": "2026-11-21 09:33",
-        "summary": "Members of the United Nations Security Council (UNSC) began the ninth round of straw polling on Friday to assess candida",
+        "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/22/ARTIRykXubtyedh6iZTQJ51F261122.shtml",
+        "published": "2026-11-22 09:11",
+        "summary": "新华社塔什干11月21日电（记者黄思路）习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛21日在乌兹别克斯坦首都塔什干举行。 该专题论坛由中国社会科学院俄罗斯东欧中亚研究所和乌兹别克斯坦世界经济与外交大学联合",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "新闻联播 2026/11/20",
-        "source": "央视网-新闻联播",
-        "link": "https://tv.cctv.com/lm/xwlb/day/20261120.shtml",
-        "published": "2026-11-20 19:00",
-        "summary": "《新闻联播》 20261120 19:00 ⏱00:30:01 [视频]习近平会见印度尼西亚总统 ⏱00:03:43 [视频]习近平会见澳大利亚总理 ⏱00:03:11 [视频]习近平会见新加坡总理 ⏱00:03:08 [视频]习近平会见泰",
+        "title": "冷空气将影响我国中东部地区！大风蓝色预警生效中",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4U7xa6mIxvG",
+        "published": "2026-11-22 10:35",
+        "summary": "预计 11月22日至24日 冷空气将影响我国 中东部地区出现大风降温天气 内蒙古东部、东北地区等地有降雪 江南、华南、西南地区等地有降雨 23日至24日 青藏高原有雨雪天气 需关注对交通运输、人体健康 能源保供及工程建设等的影响 来看具体天",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
-        "published": "2026-11-21 09:49",
-        "summary": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
+        "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+        "published": "2026-11-22 04:15",
+        "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A ma",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-        "published": "2026-11-21 06:15",
-        "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
-        "ai": true
+        "title": "Newly appointed IAEA deputy director general from Russia to be in charge of nuclear energy",
+        "source": "TASS",
+        "link": "https://tass.com/economy/2222943",
+        "published": "2026-11-22 04:40",
+        "summary": "Alexey Ferapontov said he will focus on the global development and technological support of peaceful nuclear energy in a",
+        "ai": false
       },
       {
         "rank": 3,
-        "title": "Eni, YPF, XRG to invest $25 bln in LNG project in Argentina by 2030 — minister",
-        "source": "TASS",
-        "link": "https://tass.com/economy/2222785",
-        "published": "2026-11-21 08:55",
-        "summary": "Economy Minister of the South American country Luis Caput added that the project will enable the annual export of 12 mln",
+        "title": "Xi’s Apec summit speech is a call to cooperation suited to the times",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/opinion/china-opinion/article/3375061/xis-apec-summit-speech-call-cooperation-suited-times",
+        "published": "2026-11-22 09:30",
+        "summary": "In his keynote speech at the Apec CEO Summit in Shenzhen on November 18, President Xi Jinping quoted the ancient Chinese",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Trump threatens ‘tremendous tax’ on US firms building AI data centres overseas",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3375303/trump-threatens-tremendous-tax-us-firms-building-ai-data-centres-overseas",
-        "published": "2026-11-21 08:48",
-        "summary": "President Donald Trump on Friday threatened “a tremendous tax” on US companies that build artificial intelligence data c",
-        "ai": true
+        "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+        "published": "2026-11-22 02:05",
+        "summary": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "Can China’s top-down military adapt to the speed of AI and drone warfare?",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/military/article/3375250/can-chinas-top-down-military-adapt-speed-ai-and-drone-warfare",
-        "published": "2026-11-21 06:00",
-        "summary": "Drawing on lessons from the Ukraine war, Chinese military commentators are calling for frontline commanders to have grea",
-        "ai": true
+        "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
+        "published": "2026-11-22 01:24",
+        "summary": "US vice-president says it’s not his place to second-guess the president, but refrains from endorsing Trump’s claim At a ",
+        "ai": false
       }
     ]
   },
@@ -108,41 +108,41 @@
       "city": "南京",
       "current": 13,
       "min": 4,
-      "max": 15,
-      "condition": "晴",
-      "icon": "☀️"
+      "max": 17,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 15,
-      "min": 7,
-      "max": 17,
-      "condition": "晴",
-      "icon": "☀️"
+      "current": 14,
+      "min": 9,
+      "max": 16,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "南宁",
-      "current": 18,
-      "min": 13,
-      "max": 21,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 20,
+      "min": 14,
+      "max": 20,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": 4,
+      "current": 3,
       "min": -4,
-      "max": 8,
-      "condition": "晴",
-      "icon": "☀️"
+      "max": 7,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
-      "current": 15,
-      "min": 5,
-      "max": 18,
-      "condition": "晴",
-      "icon": "☀️"
+      "current": 13,
+      "min": 6,
+      "max": 16,
+      "condition": "阴",
+      "icon": "☁️"
     }
   ]
 }

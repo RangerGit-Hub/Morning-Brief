@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-22",
-  "updated_at": "2026-11-22 10:47",
+  "date": "2026-11-23",
+  "updated_at": "2026-11-23 11:28",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "A bright morning to you—make today meaningful in your own way.",
-    "language": "English",
-    "words": 11
+    "text": "Bonjour ! Que vos efforts d’aujourd’hui portent de beaux fruits.",
+    "language": "Français",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "院士专家为春城昆明“把脉” 云南省城市高质量发展高端智库揭牌",
+        "title": "吉林省工商联全力推动民营企业治理现代化",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735971.shtml",
-        "published": "2026-11-22 10:32",
-        "summary": "中新网昆明11月22日电 (时文枝)2026腾冲科学家论坛·城市高质量发展专题活动21日在昆明启幕。围绕“绿智赋能共探城市高质量发展路径”主题，全国各地院士专家、企业代表与城市管理者齐聚此间，为城市高质量发展建言献策，搭建“政产学研金”协同",
+        "link": "https://www.chinanews.com.cn/txy/2026/11-23/10736335.shtml",
+        "published": "2026-11-23 11:01",
+        "summary": "近日，全国工商联2026民营企业现代治理提升周活动以江苏主场与上海、浙江、安徽、江西四个专场形式圆满举行。吉林省修正药业集团股份有限公司现代治理实践案例入选全国工商联民营企业现代治理典型实践案例，吉林奥来德光电材料股份有限公司副总经理马晓宇",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "中国驻沙特使馆再次提醒在沙特中资机构和中国公民注意安全",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/21/ARTI4SW8BwYZdavvK5SlWH4y261121.shtml",
-        "published": "2026-11-21 16:08",
-        "summary": "央视网消息： 11月21日，中国驻沙特大使馆发文表示，近来，沙特首都利雅得等多地频繁遭导弹和无人机袭击。据媒体报道，部分袭击造成人员伤亡，有机场、建筑物、能源电力设施等受损，局部地区出现短时停水电断网等情况。多地学校继续线上授课，部分当地机",
+        "title": "注意，冷空气东移南下！内蒙古华北东北局地阵风8至9级！",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4U8mzBBSVwQ",
+        "published": "2026-11-23 10:33",
+        "summary": "中央气象台预计 11月23日至24日 冷空气继续影响我国 东北地区东部和北部有降雪 江南、华南、西南地区有降雨 青藏高原有雨雪天气 关注对交通运输、农牧业、人体健康 能源保供及工程建设等影响 东部和南部海域 需防范大风对海上航行的影响 来看",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "十载传脉新质启新 北京国际城市设计大会召开",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735959.shtml",
-        "published": "2026-11-22 10:19",
-        "summary": "中新网北京11月22日电 为期两天的2026(第十届)北京国际城市设计大会21日在北京建筑大学开幕。来自政府部门、国内外高校、科研院所、行业企业等机构的300余名院士大师、专家学者，围绕城市更新与治理、文脉传承与建筑遗产保护、数字与智慧赋能",
+        "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/22/ARTIWnYGEeW9NmkjESiQ1AO5261122.shtml",
+        "published": "2026-11-22 21:45",
+        "summary": "新华社北京11月22日电 题：从“尝鲜”到“潮流”，智能穿戴打开消费新空间 新华社记者王雨萧、胡林果 清晨，家住上海宝山区的陈敏轻轻抬起手，智能手表自动采集好心率、血氧、脉搏数据，并生成一份简明的健康报告推送到她的手机。每天一次的“微体检”",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛在塔什干举行",
+        "title": "中国结算：暂免收取部分债券登记结算费用",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/22/ARTIRykXubtyedh6iZTQJ51F261122.shtml",
-        "published": "2026-11-22 09:11",
-        "summary": "新华社塔什干11月21日电（记者黄思路）习近平新时代中国特色社会主义思想海外研究国际论坛（2026）乌兹别克斯坦专题论坛21日在乌兹别克斯坦首都塔什干举行。 该专题论坛由中国社会科学院俄罗斯东欧中亚研究所和乌兹别克斯坦世界经济与外交大学联合",
+        "link": "https://jingji.cctv.com/2026/11/22/ARTILno66UgWRhm1x1h32VPk261122.shtml",
+        "published": "2026-11-22 18:48",
+        "summary": "央视网消息： 11月22日，中国证券登记结算有限责任公司通知：为落实国务院和证监会有关部署，加大对绿色公司债券、科技创新公司债券、民营企业公司债券发行人支持力度，切实助力降低融资费用，降低交易所债券市场交易成本，中国证券登记结算有限责任公司",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "冷空气将影响我国中东部地区！大风蓝色预警生效中",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4U7xa6mIxvG",
-        "published": "2026-11-22 10:35",
-        "summary": "预计 11月22日至24日 冷空气将影响我国 中东部地区出现大风降温天气 内蒙古东部、东北地区等地有降雪 江南、华南、西南地区等地有降雨 23日至24日 青藏高原有雨雪天气 需关注对交通运输、人体健康 能源保供及工程建设等的影响 来看具体天",
+        "title": "未来十天北方大部降水偏少 全国大部气温偏高",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736320.shtml",
+        "published": "2026-11-23 10:32",
+        "summary": "中新网11月23日电 据中央气象台网站消息，未来10天(11月23日-12月2日)，江南中南部、华南及西南部分地区累计降水量有10～30毫米，海南岛、四川南部、云南南部等地局地有50～80毫米，海南岛东部局地超过100毫米，上述部分地区累计",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-        "published": "2026-11-22 04:15",
-        "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A ma",
+        "title": "Victorian Liberal party uses AI to write Jess Wilson’s tribute to Molly Meldrum",
+        "source": "The Guardian AI",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/23/victorian-liberal-party-uses-ai-to-write-jess-wilsons-tribute-to-molly-meldrum",
+        "published": "2026-11-23 11:23",
+        "summary": "Exclusive: Statement on death of Australian music industry legend drafted using search and AI but ‘fact checked and edit",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Newly appointed IAEA deputy director general from Russia to be in charge of nuclear energy",
+        "title": "Ex-German defense minister admits that Europe still depends on US in field of air defense",
         "source": "TASS",
-        "link": "https://tass.com/economy/2222943",
-        "published": "2026-11-22 04:40",
-        "summary": "Alexey Ferapontov said he will focus on the global development and technological support of peaceful nuclear energy in a",
+        "link": "https://tass.com/world/2223033",
+        "published": "2026-11-22 21:45",
+        "summary": "Europe should be more self-reliant in what concerns its own security, said Annegret Kramp-Karrenbauer",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Xi’s Apec summit speech is a call to cooperation suited to the times",
+        "title": "No grand bargain at Xi-Trump-Putin meeting? That was never the point",
         "source": "SCMP",
-        "link": "https://www.scmp.com/opinion/china-opinion/article/3375061/xis-apec-summit-speech-call-cooperation-suited-times",
-        "published": "2026-11-22 09:30",
-        "summary": "In his keynote speech at the Apec CEO Summit in Shenzhen on November 18, President Xi Jinping quoted the ancient Chinese",
+        "link": "https://www.scmp.com/opinion/china-opinion/article/3375166/no-grand-bargain-xi-trump-putin-meeting-was-never-point",
+        "published": "2026-11-22 20:30",
+        "summary": "When Chinese President Xi Jinping hosted US President Donald Trump and Russian President Vladimir Putin in Shenzhen on N",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
-        "published": "2026-11-22 02:05",
-        "summary": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+        "title": "Beijing hails Election Committee poll for affirming ‘patriots-only’ system in Hong Kong",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/hong-kong/politics/article/3375417/beijing-hails-election-committee-poll-affirming-patriots-only-system-hong-kong",
+        "published": "2026-11-23 11:13",
+        "summary": "Beijing has lauded Hong Kong’s Election Committee poll for demonstrating what it called the broad representation, politi",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
-        "published": "2026-11-22 01:24",
-        "summary": "US vice-president says it’s not his place to second-guess the president, but refrains from endorsing Trump’s claim At a ",
+        "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
+        "published": "2026-11-23 09:51",
+        "summary": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
         "ai": false
       }
     ]
@@ -106,16 +106,16 @@
   "weather": [
     {
       "city": "南京",
-      "current": 13,
-      "min": 4,
-      "max": 17,
+      "current": 14,
+      "min": 10,
+      "max": 18,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "武汉",
-      "current": 14,
-      "min": 9,
+      "current": 16,
+      "min": 11,
       "max": 16,
       "condition": "阴",
       "icon": "☁️"
@@ -123,23 +123,23 @@
     {
       "city": "南宁",
       "current": 20,
-      "min": 14,
-      "max": 20,
+      "min": 16,
+      "max": 22,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": 3,
-      "min": -4,
-      "max": 7,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 5,
+      "min": -3,
+      "max": 6,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "孝感市应城市",
-      "current": 13,
-      "min": 6,
+      "current": 15,
+      "min": 9,
       "max": 16,
       "condition": "阴",
       "icon": "☁️"

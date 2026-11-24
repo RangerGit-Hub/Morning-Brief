@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-23",
-  "updated_at": "2026-11-23 11:28",
+  "date": "2026-11-24",
+  "updated_at": "2026-11-24 14:42",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Bonjour ! Que vos efforts d’aujourd’hui portent de beaux fruits.",
-    "language": "Français",
-    "words": 10
+    "text": "早安！愿今日所行皆坦途，所遇皆美好。",
+    "language": "中文",
+    "words": 18
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "吉林省工商联全力推动民营企业治理现代化",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/txy/2026/11-23/10736335.shtml",
-        "published": "2026-11-23 11:01",
-        "summary": "近日，全国工商联2026民营企业现代治理提升周活动以江苏主场与上海、浙江、安徽、江西四个专场形式圆满举行。吉林省修正药业集团股份有限公司现代治理实践案例入选全国工商联民营企业现代治理典型实践案例，吉林奥来德光电材料股份有限公司副总经理马晓宇",
+        "title": "“投资于人”促进就业高质量发展",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/23/ARTIKDfI0asqizcSIVmt36mM261123.shtml",
+        "published": "2026-11-23 21:02",
+        "summary": "当前，我国就业形势总体稳定，但“就业难”和“招工难”并存的结构性矛盾日益凸显。国务院办公厅不久前印发的《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》强调，坚持投资于物和投资于人紧密结合；积极增强人工智能创造就业机会、赋能传统岗",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "注意，冷空气东移南下！内蒙古华北东北局地阵风8至9级！",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4U8mzBBSVwQ",
-        "published": "2026-11-23 10:33",
-        "summary": "中央气象台预计 11月23日至24日 冷空气继续影响我国 东北地区东部和北部有降雪 江南、华南、西南地区有降雨 青藏高原有雨雪天气 关注对交通运输、农牧业、人体健康 能源保供及工程建设等影响 东部和南部海域 需防范大风对海上航行的影响 来看",
+        "title": "迈向“万物智联” 6G发展大会在沪举办",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-24/10736910.shtml",
+        "published": "2026-11-24 14:07",
+        "summary": "中新网上海11月24日电 (记者 郑莹莹 许婧)由中国信息通信研究院、IMT-2030(6G)推进组主办的6G发展大会24日在上海开幕，大会以“智启星程，携手全球协同创新”为主题，聚焦6G全球统一标准制定与产业生态建设。会上集中研讨数十Gb",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/22/ARTIWnYGEeW9NmkjESiQ1AO5261122.shtml",
-        "published": "2026-11-22 21:45",
-        "summary": "新华社北京11月22日电 题：从“尝鲜”到“潮流”，智能穿戴打开消费新空间 新华社记者王雨萧、胡林果 清晨，家住上海宝山区的陈敏轻轻抬起手，智能手表自动采集好心率、血氧、脉搏数据，并生成一份简明的健康报告推送到她的手机。每天一次的“微体检”",
+        "title": "中国空间站首迎外籍航天员 将开展4个中巴合作科学项目",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-24/10736915.shtml",
+        "published": "2026-11-24 14:14",
+        "summary": "中新社甘肃酒泉11月24日电 (记者 马帅莎)11月24日，神舟二十四号载人飞行任务新闻发布会在酒泉卫星发射中心举行。记者从会上获悉，神舟二十四号飞行乘组由汤洪波、武毅和巴基斯坦航天员穆罕默德·齐尚·阿里组成，中国空间站首次迎来外籍航天员到",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "中国结算：暂免收取部分债券登记结算费用",
-        "source": "央视网-新闻",
-        "link": "https://jingji.cctv.com/2026/11/22/ARTILno66UgWRhm1x1h32VPk261122.shtml",
-        "published": "2026-11-22 18:48",
-        "summary": "央视网消息： 11月22日，中国证券登记结算有限责任公司通知：为落实国务院和证监会有关部署，加大对绿色公司债券、科技创新公司债券、民营企业公司债券发行人支持力度，切实助力降低融资费用，降低交易所债券市场交易成本，中国证券登记结算有限责任公司",
+        "title": "我国400米大气环境气象梯度观测塔封顶",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4U9dWTqUiW9",
+        "published": "2026-11-24 11:04",
+        "summary": "今天（24日），坐落于合肥未来大科学城的 400米大气环境气象梯度观测塔（庐州塔）项目主塔钢结构完成第42节吊装作业，主塔结构顺利封顶 。 庐州塔是一座集大气污染梯度、温室气体通量、气象全要素精细化连续观测为一体的大型科研设施，总高410米",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "未来十天北方大部降水偏少 全国大部气温偏高",
-        "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736320.shtml",
-        "published": "2026-11-23 10:32",
-        "summary": "中新网11月23日电 据中央气象台网站消息，未来10天(11月23日-12月2日)，江南中南部、华南及西南部分地区累计降水量有10～30毫米，海南岛、四川南部、云南南部等地局地有50～80毫米，海南岛东部局地超过100毫米，上述部分地区累计",
+        "title": "中消协提示：口腔、生殖健康医疗消费纠纷多发 警惕诱导消费和过度医疗",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/24/ARTI5PHLE0zX4iFWa4mM0XZs261124.shtml",
+        "published": "2026-11-24 11:04",
+        "summary": "央视网消息： 据中国消费者协会消息，有媒体报道，陕西宝鸡一名63岁心梗老人因牙疼到当地一家民营口腔医院就医，被拔除全口12颗牙、种植10颗牙，不仅刷光手机内18800元，还欠费6200元，引发社会关注。从全国消协智慧315平台接收的医疗服务",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Victorian Liberal party uses AI to write Jess Wilson’s tribute to Molly Meldrum",
-        "source": "The Guardian AI",
-        "link": "https://www.theguardian.com/australia-news/2026/nov/23/victorian-liberal-party-uses-ai-to-write-jess-wilsons-tribute-to-molly-meldrum",
-        "published": "2026-11-23 11:23",
-        "summary": "Exclusive: Statement on death of Australian music industry legend drafted using search and AI but ‘fact checked and edit",
+        "title": "North Korea unveils first AI chatbot, but it won’t answer ‘uncultured questions’",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions",
+        "published": "2026-11-24 14:00",
+        "summary": "North Korea appears to have unveiled its first domestic artificial intelligence chatbot, according to state television f",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Ex-German defense minister admits that Europe still depends on US in field of air defense",
-        "source": "TASS",
-        "link": "https://tass.com/world/2223033",
-        "published": "2026-11-22 21:45",
-        "summary": "Europe should be more self-reliant in what concerns its own security, said Annegret Kramp-Karrenbauer",
+        "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+        "source": "BBC News",
+        "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-24 10:15",
+        "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "No grand bargain at Xi-Trump-Putin meeting? That was never the point",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/opinion/china-opinion/article/3375166/no-grand-bargain-xi-trump-putin-meeting-was-never-point",
-        "published": "2026-11-22 20:30",
-        "summary": "When Chinese President Xi Jinping hosted US President Donald Trump and Russian President Vladimir Putin in Shenzhen on N",
+        "title": "NATO vows space defence after Russia nuclear satellite report",
+        "source": "France 24",
+        "link": "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report",
+        "published": "2026-11-24 06:33",
+        "summary": "NATO chief Mark Rutte said Monday the alliance would defend against threats in space when asked about German media repor",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Beijing hails Election Committee poll for affirming ‘patriots-only’ system in Hong Kong",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/hong-kong/politics/article/3375417/beijing-hails-election-committee-poll-affirming-patriots-only-system-hong-kong",
-        "published": "2026-11-23 11:13",
-        "summary": "Beijing has lauded Hong Kong’s Election Committee poll for demonstrating what it called the broad representation, politi",
-        "ai": false
+        "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
+        "published": "2026-11-24 13:58",
+        "summary": "Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companies Ge",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
-        "published": "2026-11-23 09:51",
-        "summary": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
+        "title": "Nato responds to reports of a possible nuclear-armed satellite launch",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3375522/nato-vows-space-defence-after-russia-nuclear-satellite-report",
+        "published": "2026-11-24 00:49",
+        "summary": "Nato chief Mark Rutte said Monday the alliance would defend against threats in space when asked about German media repor",
         "ai": false
       }
     ]
@@ -106,43 +106,43 @@
   "weather": [
     {
       "city": "南京",
-      "current": 14,
-      "min": 10,
-      "max": 18,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 12,
+      "min": 4,
+      "max": 12,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "武汉",
       "current": 16,
-      "min": 11,
+      "min": 8,
       "max": 16,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "南宁",
       "current": 20,
       "min": 16,
-      "max": 22,
+      "max": 21,
       "condition": "阴",
       "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": 5,
-      "min": -3,
-      "max": 6,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "current": 8,
+      "min": -6,
+      "max": 8,
+      "condition": "多云",
+      "icon": "⛅"
     },
     {
       "city": "孝感市应城市",
-      "current": 15,
-      "min": 9,
+      "current": 16,
+      "min": 5,
       "max": 16,
-      "condition": "阴",
-      "icon": "☁️"
+      "condition": "多云",
+      "icon": "⛅"
     }
   ]
 }

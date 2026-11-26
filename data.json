@@ -1,148 +1,148 @@
 {
-  "date": "2026-11-25",
-  "updated_at": "2026-11-25 13:12",
+  "date": "2026-11-26",
+  "updated_at": "2026-11-26 12:40",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Good morning! Trust your pace and enjoy the journey ahead.",
-    "language": "English",
-    "words": 10
+    "text": "Commencez la journée avec gratitude, courage et bonne humeur.",
+    "language": "Français",
+    "words": 9
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "国台办：任何图谋“脱钩断链”的政治操弄都徒劳无功",
+        "title": "云南瑞丽：沿边产业园加速发展",
         "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/25/ARTIQcMQjDTrF9K1eYJZndm4261125.shtml",
-        "published": "2026-11-25 11:09",
-        "summary": "11月25日，国务院台办举行例行新闻发布会，有记者问：近日，国务院台办与中国进出口银行签署《“十五五”时期促进两岸融合发展金融合作协议》，台陆委会称，台商已逐步调整全球布局，赴陆投资占台湾整体对外投资比重等今年已显著下滑。发言人对此有何评论",
+        "link": "https://photo.cctv.com/2026/11/26/PHOAw5UoQihKg11li3Ls6elw261126.shtml",
+        "published": "2026-11-26 11:47",
+        "summary": "云南瑞丽：沿边产业园加速发展 11月25日拍摄的云南省瑞丽沿边产业园区（无人机照片）。 位于中缅边境的云南省瑞丽沿边产业园区立足沿边开放定位，重点培育纺织服装、通信电子、进口商品落地加工和装备制造四大主导产业，配套发展保税、跨境业务和现代物",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "上海嘉定：今后五年，将构建以先进制造业为骨干的现代化产业体系",
-        "source": "澎湃新闻-精选",
-        "link": "https://m.thepaper.cn/newsDetail_forward_34554671",
-        "published": "2026-11-25 11:44",
-        "summary": "今后五年，“产业”仍是上海嘉定发展的重心之一。上海嘉定将加快壮大“3+3+1”重点产业集群，构建以先进制造业为骨干的现代化产业体系，着力打造更具产业链控制力和生态主导力的上海智能网联新能源汽车产业集聚区。 2026年11月24日，中国共产党",
+        "title": "山东省人大法制委员会原副主任委员唐福泉等4人被提起公诉",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/25/ARTI1K8nziOJrahya0WZZPA7261125.shtml",
+        "published": "2026-11-25 18:46",
+        "summary": "央视网消息： 据最高检消息，检察机关依法分别对山东省人大法制委员会原副主任委员唐福泉（正厅级），贵州省人大教育科学文化卫生委员会原副主任委员孔德明（正厅级），宁夏贺兰山东麓葡萄酒产业园区党工委原书记黄思明（正厅级），内蒙古自治区察哈尔右翼后",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "中央宣传部、中央军委国防动员部负责人就《全民国防教育“十五五”规划》答记者问",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/25/ARTIDkVpZtleKaPDhIhbDtlM261125.shtml",
-        "published": "2026-11-25 09:45",
-        "summary": "新华社北京11月25日电 题：中央宣传部、中央军委国防动员部负责人就《全民国防教育“十五五”规划》答记者 问 新华社记者 近日，中央宣传部、中央军委国防动员部联合印发《全民国防教育“十五五”规划》（以下简称《规划》）。中央宣传部、中央军委国",
+        "title": "18家重点平台企业完成算法协商 覆盖新就业形态劳动者逾2500万人",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4UBI4Dscsjf",
+        "published": "2026-11-26 10:54",
+        "summary": "记者从全国总工会2026年第四季度新闻发布会上了解到，截至11月10日，网络货运、网约车、网约配送、快递4个行业18家重点平台企业已全部完成劳动规则和算法协商并签订协议，覆盖新就业形态劳动者超过2500万人。 今年以来，全国总工会把维护新就",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "全国铁路第一批车次变更正式实施",
-        "source": "中国新闻网",
-        "link": "http://www.chinanews.com.cn/gn/shipin/cns-d/2026/11-25/news1075929.shtml",
-        "published": "2026-11-25 11:33",
-        "summary": "11月25日，记者从中国国家铁路集团有限公司(以下简称“国铁集团”)获悉，全国铁路列车车次编排改革顺利推进，第一批车次变更今日实施，11月25日0时起始发开行的普速旅客列车、11月24日18时起始发开行的货物列车正式启用新车次，按照2026",
+        "title": "加强新一代通信网规划建设 三部门印发实施方案",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4UBH3rtEsQZ",
+        "published": "2026-11-26 10:26",
+        "summary": "新华社北京11月26日电 记者26日获悉，经国务院同意，工业和信息化部、国家网信办、国家发展改革委日前印发《新一代通信网建设实施方案》，提出到2030年，建成覆盖完善、性能领先的新一代通信网，适时开展6G网络建设，低轨卫星互联网系统基本建成",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "湖南长沙县探索基层治理新路径  新就业群体变身社区治理“合伙人”",
+        "title": "中国提出到2030年建成覆盖完善、性能领先的新一代通信网",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737433.shtml",
-        "published": "2026-11-25 11:29",
-        "summary": "中新网长沙11月25日电 (记者 唐小晴)从“办公桌”到“茶话桌”，党群中心成了“第二个家”；从业主大会表决电动车棚方案，到骑手跑单“吹哨”报线索；邻长不是“填表的人”，而是政策宣传员、民情联络员……今年以来，湖南长沙县纵深推进“基层治理优",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-26/10738003.shtml",
+        "published": "2026-11-26 11:52",
+        "summary": "中新社北京11月26日电 (记者 刘亮)中国工信部26日公布，经国务院同意，工信部联合国家网信办、国家发改委近日印发《新一代通信网建设实施方案》，提出到2030年，建成覆盖完善、性能领先的新一代通信网。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Pillars of international security remain relevant despite technological changes — Nebenzya",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2224327",
-        "published": "2026-11-25 12:10",
-        "summary": "Permanent Representative of Russia to the United Nations opined that no form of artificial intelligence can replace peop",
+        "title": "Chinese AI chips to capture 88% of home market by 2028, UBS says, as Nvidia woes mount",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount",
+        "published": "2026-11-26 12:00",
+        "summary": "China’s annual domestic artificial intelligence accelerator shipments are set to jump nearly sixfold between 2025 and 20",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-24 18:58",
-        "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+        "title": "EU sets energy truce, Black Sea deal as terms for Russia talks — EC",
+        "source": "TASS",
+        "link": "https://tass.com/world/2224897",
+        "published": "2026-11-26 02:53",
+        "summary": "Ursula von der Leyen told a European Parliament session that the EU's demands include a \"winter ceasefire on energy infr",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Huawei guilty of plotting to steal trade secrets and bank fraud",
-        "source": "Sky News",
-        "link": "https://news.sky.com/story/chinese-tech-giant-guilty-of-plotting-to-steal-trade-secrets-and-bank-fraud-13616130",
-        "published": "2026-11-25 05:05",
-        "summary": "Chinese tech giant Huawei, has been found guilty of conspiracy to steal trade secrets and bank fraud after a landmark tr",
+        "title": "NATO activity near Russia’s borders raises risk of clash between nuclear powers — diplomat",
+        "source": "TASS",
+        "link": "https://tass.com/politics/2224843",
+        "published": "2026-11-26 00:34",
+        "summary": "Yulia Zhdanova underscored that Russia is ready to use \"all means of self-defense at its disposal\" to protect its sovere",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Ukrainian military tried to create negative background for talks on summit days — diplomat",
+        "title": "Putin, Brunei Sultan discuss trade, defense, education cooperation",
         "source": "TASS",
-        "link": "https://tass.com/politics/2224061",
-        "published": "2026-11-24 22:03",
-        "summary": "As the APEC summit was taking place, Ukrainian armed groups committed a series of missile and drone attacks on the Crime",
+        "link": "https://tass.com/politics/2224735",
+        "published": "2026-11-25 22:48",
+        "summary": "The leaders welcomed opportunities to further strengthen economic cooperation by expanding trade and investment ties",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
-        "source": "BBC News",
-        "link": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
-        "published": "2026-11-25 11:28",
-        "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
-        "ai": false
+        "title": "Britain moves military aircraft into hangars due to risk of drone attacks — TV",
+        "source": "TASS",
+        "link": "https://tass.com/world/2224733",
+        "published": "2026-11-25 22:17",
+        "summary": "According to the report, the British military command is developing plans to install anti-drone netting around combat ai",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 13,
-      "min": 3,
-      "max": 14,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": null,
+      "min": null,
+      "max": null,
+      "condition": "暂不可用",
+      "icon": "🌡️"
     },
     {
       "city": "武汉",
-      "current": 16,
-      "min": 7,
-      "max": 16,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": null,
+      "min": null,
+      "max": null,
+      "condition": "暂不可用",
+      "icon": "🌡️"
     },
     {
       "city": "南宁",
-      "current": 15,
-      "min": 12,
-      "max": 16,
-      "condition": "阴",
-      "icon": "☁️"
+      "current": 17,
+      "min": 10,
+      "max": 19,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     },
     {
       "city": "定西市安定区",
-      "current": 11,
-      "min": -5,
-      "max": 11,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 5,
+      "min": -4,
+      "max": 5,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "孝感市应城市",
       "current": 17,
-      "min": 5,
-      "max": 17,
-      "condition": "阴",
-      "icon": "☁️"
+      "min": 8,
+      "max": 18,
+      "condition": "多云",
+      "icon": "⛅"
     }
   ]
 }

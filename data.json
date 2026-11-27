@@ -1,148 +1,148 @@
 {
-  "date": "2026-11-26",
-  "updated_at": "2026-11-26 12:40",
+  "date": "2026-11-27",
+  "updated_at": "2026-11-27 12:44",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "Commencez la journée avec gratitude, courage et bonne humeur.",
-    "language": "Français",
-    "words": 9
+    "text": "新日初醒，愿你带着微笑开启一天。",
+    "language": "中文",
+    "words": 16
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "云南瑞丽：沿边产业园加速发展",
-        "source": "央视网-新闻",
-        "link": "https://photo.cctv.com/2026/11/26/PHOAw5UoQihKg11li3Ls6elw261126.shtml",
-        "published": "2026-11-26 11:47",
-        "summary": "云南瑞丽：沿边产业园加速发展 11月25日拍摄的云南省瑞丽沿边产业园区（无人机照片）。 位于中缅边境的云南省瑞丽沿边产业园区立足沿边开放定位，重点培育纺织服装、通信电子、进口商品落地加工和装备制造四大主导产业，配套发展保税、跨境业务和现代物",
+        "title": "长江经济带11省市发明专利有效量占全国四成以上 创新活力持续释放",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4UC7yWeBTmI",
+        "published": "2026-11-27 11:07",
+        "summary": "国家知识产权局今天（27日）在重庆举行“知识产权助力长江经济带高质量发展”专题发布会。 国家知识产权局新闻发言人衡付广介绍， 截至今年9月底，长江经济带覆盖的11个省市发明专利有效量达266.0万件，商标有效注册量达2168.3万件 ，共有",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "山东省人大法制委员会原副主任委员唐福泉等4人被提起公诉",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/25/ARTI1K8nziOJrahya0WZZPA7261125.shtml",
-        "published": "2026-11-25 18:46",
-        "summary": "央视网消息： 据最高检消息，检察机关依法分别对山东省人大法制委员会原副主任委员唐福泉（正厅级），贵州省人大教育科学文化卫生委员会原副主任委员孔德明（正厅级），宁夏贺兰山东麓葡萄酒产业园区党工委原书记黄思明（正厅级），内蒙古自治区察哈尔右翼后",
+        "title": "未来五年，技工教育将有大变化！",
+        "source": "环球网-国内",
+        "link": "https://china.huanqiu.com/article/4UC3XXkyKrA",
+        "published": "2026-11-27 09:02",
+        "summary": "人力资源和社会保障部、国家发展改革委、教育部、财政部、国务院国资委等五部门日前联合印发《关于推进技工教育高质量特色发展的意见》，对“十五五”时期技工教育改革发展作出部署。 《意见》明确，“十五五”时期，全国技工院校在校生规模和职业培训规模力",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "18家重点平台企业完成算法协商 覆盖新就业形态劳动者逾2500万人",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4UBI4Dscsjf",
-        "published": "2026-11-26 10:54",
-        "summary": "记者从全国总工会2026年第四季度新闻发布会上了解到，截至11月10日，网络货运、网约车、网约配送、快递4个行业18家重点平台企业已全部完成劳动规则和算法协商并签订协议，覆盖新就业形态劳动者超过2500万人。 今年以来，全国总工会把维护新就",
+        "title": "市场监管总局开展网络交易平台信用共治活动",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/26/ARTIFCsIMU8iQXMWohGFTjEg261126.shtml",
+        "published": "2026-11-26 20:19",
+        "summary": "央视网消息 ：据“市说新语”微信公众号消息，近日，市场监管总局开展网络交易平台信用共治活动。活动深入贯彻落实党中央、国务院关于平台经济领域信用体系建设要求，推动平台企业守信践诺、规范经营，积极营造规范有序、诚信放心的网络消费环境。 活动发布",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "加强新一代通信网规划建设 三部门印发实施方案",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4UBH3rtEsQZ",
-        "published": "2026-11-26 10:26",
-        "summary": "新华社北京11月26日电 记者26日获悉，经国务院同意，工业和信息化部、国家网信办、国家发展改革委日前印发《新一代通信网建设实施方案》，提出到2030年，建成覆盖完善、性能领先的新一代通信网，适时开展6G网络建设，低轨卫星互联网系统基本建成",
+        "title": "新闻联播 2026/11/26",
+        "source": "央视网-新闻联播",
+        "link": "https://tv.cctv.com/lm/xwlb/day/20261126.shtml",
+        "published": "2026-11-26 19:00",
+        "summary": "《新闻联播》 20261126 19:00 ⏱00:30:01 [视频]【新思想引领新征程】开放合作推动航天事业造福全人类 ⏱00:05:44 [视频]李强会见亚洲开发银行行长 ⏱00:00:59 [视频]【学习贯彻五中全会精神在基层】安徽",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "中国提出到2030年建成覆盖完善、性能领先的新一代通信网",
+        "title": "专访前联合国官员：中国能源转型经验可为发展中国家提供借鉴，南南合作潜力巨大｜新闻会客厅",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/cj/2026/11-26/10738003.shtml",
-        "published": "2026-11-26 11:52",
-        "summary": "中新社北京11月26日电 (记者 刘亮)中国工信部26日公布，经国务院同意，工信部联合国家网信办、国家发改委近日印发《新一代通信网建设实施方案》，提出到2030年，建成覆盖完善、性能领先的新一代通信网。",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-27/10738608.shtml",
+        "published": "2026-11-27 12:27",
+        "summary": "中新网北京11月27日电(记者 王高飞 魏园)“南南合作在推动全球气候治理和可持续能源利用方面潜力巨大，中国能源转型经验可为发展中国家提供借鉴。”在《联合国气候变化框架公约》第三十一届缔约方大会(COP31)期间，全球人居环境论坛可持续发展",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Chinese AI chips to capture 88% of home market by 2028, UBS says, as Nvidia woes mount",
+        "title": "Will Taiwan’s referendum bring back nuclear power as chips and AI strain the grid?",
         "source": "SCMP",
-        "link": "https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount",
-        "published": "2026-11-26 12:00",
-        "summary": "China’s annual domestic artificial intelligence accelerator shipments are set to jump nearly sixfold between 2025 and 20",
+        "link": "https://www.scmp.com/news/china/politics/article/3375975/will-taiwans-referendum-bring-back-nuclear-power-chips-and-ai-strain-grid",
+        "published": "2026-11-27 10:59",
+        "summary": "Taiwan’s growing demand for electricity to sustain its semiconductor and AI industries has thrust a nuclear power refere",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "EU sets energy truce, Black Sea deal as terms for Russia talks — EC",
-        "source": "TASS",
-        "link": "https://tass.com/world/2224897",
-        "published": "2026-11-26 02:53",
-        "summary": "Ursula von der Leyen told a European Parliament session that the EU's demands include a \"winter ceasefire on energy infr",
+        "title": "What would happen if Russia detonated a nuclear weapon in space?",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
+        "published": "2026-11-27 02:13",
+        "summary": "⁠Sputnik-S, a nuclear-enabled satellite, has been assembled by Russia and could be launched in 60 days, reports say Russ",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "NATO activity near Russia’s borders raises risk of clash between nuclear powers — diplomat",
+        "title": "Moscow counts on better Russia-Japan relations after leaders’ meeting in China — diplomat",
         "source": "TASS",
-        "link": "https://tass.com/politics/2224843",
-        "published": "2026-11-26 00:34",
-        "summary": "Yulia Zhdanova underscored that Russia is ready to use \"all means of self-defense at its disposal\" to protect its sovere",
+        "link": "https://tass.com/politics/2225511",
+        "published": "2026-11-27 01:26",
+        "summary": "Russian President Putin met Japanese Prime Minister Sanae Takaichi on the sidelines of the 2026 APEC Summit in China on ",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "Putin, Brunei Sultan discuss trade, defense, education cooperation",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2224735",
-        "published": "2026-11-25 22:48",
-        "summary": "The leaders welcomed opportunities to further strengthen economic cooperation by expanding trade and investment ties",
-        "ai": false
+        "title": "China and Netherlands send ‘positive signal’ over global controls on military AI",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3375936/china-and-netherlands-send-positive-signal-over-global-controls-military-ai",
+        "published": "2026-11-26 19:16",
+        "summary": "China and the Netherlands have agreed on the need for international regulations on the military use of AI, a move hailed",
+        "ai": true
       },
       {
         "rank": 5,
-        "title": "Britain moves military aircraft into hangars due to risk of drone attacks — TV",
-        "source": "TASS",
-        "link": "https://tass.com/world/2224733",
-        "published": "2026-11-25 22:17",
-        "summary": "According to the report, the British military command is developing plans to install anti-drone netting around combat ai",
-        "ai": true
+        "title": "Trump says he urged Putin to pull back ‘all military aggression’ in Europe",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/europe/article/3375978/trump-says-he-urged-putin-pull-back-all-military-aggression-europe",
+        "published": "2026-11-27 11:12",
+        "summary": "US President Donald Trump said Thursday he had asked Vladimir Putin to “pull back all military aggression” against Europ",
+        "ai": false
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": null,
-      "min": null,
-      "max": null,
-      "condition": "暂不可用",
-      "icon": "🌡️"
-    },
-    {
-      "city": "武汉",
-      "current": null,
-      "min": null,
-      "max": null,
-      "condition": "暂不可用",
-      "icon": "🌡️"
-    },
-    {
-      "city": "南宁",
-      "current": 17,
-      "min": 10,
-      "max": 19,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
-    },
-    {
-      "city": "定西市安定区",
-      "current": 5,
-      "min": -4,
-      "max": 5,
-      "condition": "阴",
-      "icon": "☁️"
-    },
-    {
-      "city": "孝感市应城市",
       "current": 17,
       "min": 8,
       "max": 18,
       "condition": "多云",
       "icon": "⛅"
+    },
+    {
+      "city": "武汉",
+      "current": 17,
+      "min": 8,
+      "max": 19,
+      "condition": "阴",
+      "icon": "☁️"
+    },
+    {
+      "city": "南宁",
+      "current": 21,
+      "min": 12,
+      "max": 23,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
+    },
+    {
+      "city": "定西市安定区",
+      "current": 6,
+      "min": -4,
+      "max": 8,
+      "condition": "阴",
+      "icon": "☁️"
+    },
+    {
+      "city": "孝感市应城市",
+      "current": 18,
+      "min": 7,
+      "max": 19,
+      "condition": "大部晴朗",
+      "icon": "🌤️"
     }
   ]
 }

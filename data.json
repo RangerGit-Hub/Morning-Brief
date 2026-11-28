@@ -1,148 +1,148 @@
 {
-  "date": "2026-11-27",
-  "updated_at": "2026-11-27 12:44",
+  "date": "2026-11-28",
+  "updated_at": "2026-11-28 12:28",
   "timezone": "Asia/Shanghai（北京时间）",
   "greeting": {
-    "text": "新日初醒，愿你带着微笑开启一天。",
-    "language": "中文",
-    "words": 16
+    "text": "May this new day bring clear thoughts and warm surprises.",
+    "language": "English",
+    "words": 10
   },
   "news": {
     "domestic": [
       {
         "rank": 1,
-        "title": "长江经济带11省市发明专利有效量占全国四成以上 创新活力持续释放",
+        "title": "“创新是深圳的活力所在”",
         "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4UC7yWeBTmI",
-        "published": "2026-11-27 11:07",
-        "summary": "国家知识产权局今天（27日）在重庆举行“知识产权助力长江经济带高质量发展”专题发布会。 国家知识产权局新闻发言人衡付广介绍， 截至今年9月底，长江经济带覆盖的11个省市发明专利有效量达266.0万件，商标有效注册量达2168.3万件 ，共有",
+        "link": "https://china.huanqiu.com/article/4UCwPeFruzY",
+        "published": "2026-11-28 10:38",
+        "summary": "“促进亚太共同繁荣，要激发创新增长动力”“创新是引领发展的第一动力”“以创新聚增长之势”……深圳APEC会议期间，习近平总书记始终关注创新。 “创新是深圳的活力所在。”从出口加工到自主研发，从“世界工厂”到创新之城，今天的深圳，每年国际专利",
         "ai": false
       },
       {
         "rank": 2,
-        "title": "未来五年，技工教育将有大变化！",
-        "source": "环球网-国内",
-        "link": "https://china.huanqiu.com/article/4UC3XXkyKrA",
-        "published": "2026-11-27 09:02",
-        "summary": "人力资源和社会保障部、国家发展改革委、教育部、财政部、国务院国资委等五部门日前联合印发《关于推进技工教育高质量特色发展的意见》，对“十五五”时期技工教育改革发展作出部署。 《意见》明确，“十五五”时期，全国技工院校在校生规模和职业培训规模力",
+        "title": "国家网信办等十一部门联合公布《分布式数字身份互通互认应用规定》",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/27/ARTIzqr8He7EccKCLPpvu1n8261127.shtml",
+        "published": "2026-11-27 19:12",
+        "summary": "央视网消息 ：据“网信中国”微信公众号消息，近日，国家网信办、中央编办、工业和信息化部、公安部、交通运输部、中国人民银行、海关总署、税务总局、市场监管总局、国家外汇局、国家密码管理局联合公布《分布式数字身份互通互认应用规定》（以下简称《规定",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "市场监管总局开展网络交易平台信用共治活动",
-        "source": "央视网-新闻",
-        "link": "https://news.cctv.com/2026/11/26/ARTIFCsIMU8iQXMWohGFTjEg261126.shtml",
-        "published": "2026-11-26 20:19",
-        "summary": "央视网消息 ：据“市说新语”微信公众号消息，近日，市场监管总局开展网络交易平台信用共治活动。活动深入贯彻落实党中央、国务院关于平台经济领域信用体系建设要求，推动平台企业守信践诺、规范经营，积极营造规范有序、诚信放心的网络消费环境。 活动发布",
+        "title": "中国水协科技委2026年度年会暨技术交流会在深圳举行",
+        "source": "中国新闻网",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739163.shtml",
+        "published": "2026-11-28 11:44",
+        "summary": "中新网深圳11月28日电 (记者 王坚)为期两天的中国城镇供水排水协会科学技术委员会2026年度年会暨技术交流会27日在深圳落幕。来自全国水务行业的企业、高校、科研院所和技术单位的300余位委员和代表参会，围绕水务科技前沿与协同创新展开交流",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "新闻联播 2026/11/26",
-        "source": "央视网-新闻联播",
-        "link": "https://tv.cctv.com/lm/xwlb/day/20261126.shtml",
-        "published": "2026-11-26 19:00",
-        "summary": "《新闻联播》 20261126 19:00 ⏱00:30:01 [视频]【新思想引领新征程】开放合作推动航天事业造福全人类 ⏱00:05:44 [视频]李强会见亚洲开发银行行长 ⏱00:00:59 [视频]【学习贯彻五中全会精神在基层】安徽",
+        "title": "大道通雪域 初心照征程——从三条“通途”读懂雪域高原巨变密码",
+        "source": "央视网-新闻",
+        "link": "https://news.cctv.com/2026/11/28/ARTIqAH9rhwmSoiTrwjyrvyq261128.shtml",
+        "published": "2026-11-28 10:48",
+        "summary": "1951年3月27日，以阿沛·阿旺晋美为首席代表的西藏地方政府赴京和谈代表团从昌都启程北上，历时27天，依靠骡马、汽车、火车、飞机分段接力，跋涉3200公里抵达北京。同年5月23日，《中央人民政府和西藏地方政府关于和平解放西藏办法的协议》正",
         "ai": false
       },
       {
         "rank": 5,
-        "title": "专访前联合国官员：中国能源转型经验可为发展中国家提供借鉴，南南合作潜力巨大｜新闻会客厅",
+        "title": "从琼崖烽火到开放自贸港丨三个关键词勾勒新海南",
         "source": "中国新闻网",
-        "link": "https://www.chinanews.com.cn/gn/2026/11-27/10738608.shtml",
-        "published": "2026-11-27 12:27",
-        "summary": "中新网北京11月27日电(记者 王高飞 魏园)“南南合作在推动全球气候治理和可持续能源利用方面潜力巨大，中国能源转型经验可为发展中国家提供借鉴。”在《联合国气候变化框架公约》第三十一届缔约方大会(COP31)期间，全球人居环境论坛可持续发展",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739145.shtml",
+        "published": "2026-11-28 10:24",
+        "summary": "11月20日活动启动以来，记者跟随“红星照耀中国·从琼崖烽火到开放自贸港”网络主题宣传活动采访团走进海南，从琼崖革命旧址、纪念场馆，到产业园区、重点企业，在烽火记忆与开放实践之间，触摸一座岛屿的精神脉动。",
         "ai": false
       }
     ],
     "international": [
       {
         "rank": 1,
-        "title": "Will Taiwan’s referendum bring back nuclear power as chips and AI strain the grid?",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/politics/article/3375975/will-taiwans-referendum-bring-back-nuclear-power-chips-and-ai-strain-grid",
-        "published": "2026-11-27 10:59",
-        "summary": "Taiwan’s growing demand for electricity to sustain its semiconductor and AI industries has thrust a nuclear power refere",
+        "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+        "published": "2026-11-28 07:28",
+        "summary": "Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employees Open",
         "ai": true
       },
       {
         "rank": 2,
-        "title": "What would happen if Russia detonated a nuclear weapon in space?",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
-        "published": "2026-11-27 02:13",
-        "summary": "⁠Sputnik-S, a nuclear-enabled satellite, has been assembled by Russia and could be launched in 60 days, reports say Russ",
+        "title": "Why Trump’s new tariff threats may spur Southeast Asia to rethink US trade deals",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/week-asia/economics/article/3376040/why-trumps-new-tariff-threats-may-spur-southeast-asia-rethink-us-trade-deals",
+        "published": "2026-11-27 18:00",
+        "summary": "US President Donald Trump’s latest tariff threats have led analysts to question whether the trade deals Southeast Asian ",
         "ai": false
       },
       {
         "rank": 3,
-        "title": "Moscow counts on better Russia-Japan relations after leaders’ meeting in China — diplomat",
-        "source": "TASS",
-        "link": "https://tass.com/politics/2225511",
-        "published": "2026-11-27 01:26",
-        "summary": "Russian President Putin met Japanese Prime Minister Sanae Takaichi on the sidelines of the 2026 APEC Summit in China on ",
+        "title": "A Russian nuclear ghost in orbit or an American smokescreen?",
+        "source": "RT",
+        "link": "https://rt-english.com/news/649436-russia-nuclear-satellite-ghost/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published": "2026-11-28 02:06",
+        "summary": "Berlin kicks up a scare over Moscow’s phantom military satellite as Washington builds up its own space weaponry Read Ful",
         "ai": false
       },
       {
         "rank": 4,
-        "title": "China and Netherlands send ‘positive signal’ over global controls on military AI",
+        "title": "Netherlands ‘will not be dictated to’, trade chief says in fight against US Match Act",
         "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3375936/china-and-netherlands-send-positive-signal-over-global-controls-military-ai",
-        "published": "2026-11-26 19:16",
-        "summary": "China and the Netherlands have agreed on the need for international regulations on the military use of AI, a move hailed",
-        "ai": true
+        "link": "https://www.scmp.com/economy/global-economy/article/3376024/netherlands-will-not-be-dictated-trade-chief-says-fight-against-us-match-act",
+        "published": "2026-11-27 17:00",
+        "summary": "Days after the Dutch foreign minister sent similar messages during his visit to China, the country’s trade minister has ",
+        "ai": false
       },
       {
         "rank": 5,
-        "title": "Trump says he urged Putin to pull back ‘all military aggression’ in Europe",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/europe/article/3375978/trump-says-he-urged-putin-pull-back-all-military-aggression-europe",
-        "published": "2026-11-27 11:12",
-        "summary": "US President Donald Trump said Thursday he had asked Vladimir Putin to “pull back all military aggression” against Europ",
-        "ai": false
+        "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+        "published": "2026-11-28 07:09",
+        "summary": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy.",
+        "ai": true
       }
     ]
   },
   "weather": [
     {
       "city": "南京",
-      "current": 17,
-      "min": 8,
-      "max": 18,
-      "condition": "多云",
-      "icon": "⛅"
+      "current": 14,
+      "min": 6,
+      "max": 15,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "武汉",
       "current": 17,
-      "min": 8,
-      "max": 19,
-      "condition": "阴",
-      "icon": "☁️"
+      "min": 9,
+      "max": 18,
+      "condition": "晴",
+      "icon": "☀️"
     },
     {
       "city": "南宁",
-      "current": 21,
+      "current": 22,
       "min": 12,
-      "max": 23,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "max": 24,
+      "condition": "阴",
+      "icon": "☁️"
     },
     {
       "city": "定西市安定区",
-      "current": 6,
+      "current": 8,
       "min": -4,
-      "max": 8,
-      "condition": "阴",
-      "icon": "☁️"
+      "max": 10,
+      "condition": "晴",
+      "icon": "☀️"
     },
     {
       "city": "孝感市应城市",
       "current": 18,
-      "min": 7,
-      "max": 19,
-      "condition": "大部晴朗",
-      "icon": "🌤️"
+      "min": 6,
+      "max": 18,
+      "condition": "晴",
+      "icon": "☀️"
     }
   ]
 }
